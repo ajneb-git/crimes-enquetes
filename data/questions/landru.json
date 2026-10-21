@@ -10,7 +10,12 @@
         "J'ai brûlé les corps de mes victimes dans ma villa à Gambais.",
         "J'ai été guillotiné en 1922 pour 11 meurtres."
       ],
-      "propositions": ["Henri Désiré Landru", "Marcel Petiot", "Albert Fish", "Fritz Haarmann"],
+      "propositions": [
+        "Henri Désiré Landru",
+        "Marcel Petiot",
+        "Albert Fish",
+        "Fritz Haarmann"
+      ],
       "bonne_reponse": "Henri Désiré Landru",
       "explication": "Henri Désiré Landru, surnommé le Barbe-Bleue de Gambais, séduisait des veuves de la Première Guerre mondiale et les assassinait pour s'emparer de leurs biens. Guillotiné le 25 février 1922.",
       "difficulte": 2,
@@ -28,7 +33,12 @@
       "affaire_id": "landru",
       "module": "qcm",
       "question": "Quel est le surnom de Henri Désiré Landru ?",
-      "propositions": ["Le Barbe-Bleue de Gambais", "L'Ogre de Paris", "Le Fantôme de la Marne", "Le Veuf joyeux"],
+      "propositions": [
+        "Le Barbe-Bleue de Gambais",
+        "L'Ogre de Paris",
+        "Le Fantôme de la Marne",
+        "Le Veuf joyeux"
+      ],
       "bonne_reponse": "Le Barbe-Bleue de Gambais",
       "explication": "Son surnom fait référence au conte Barbe-Bleue de Perrault, dont le personnage tue successivement ses épouses. Sa villa de Gambais, en Seine-et-Oise, servait de lieu de crime.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
       "affaire_id": "landru",
       "module": "qcm",
       "question": "Comment Landru choisissait-il ses victimes ?",
-      "propositions": ["Via des petites annonces matrimoniales", "Dans les bars de Montmartre", "Par le biais d'une agence matrimoniale officielle", "En ciblant des femmes seules dans les gares"],
+      "propositions": [
+        "Via des petites annonces matrimoniales",
+        "Dans les bars de Montmartre",
+        "Par le biais d'une agence matrimoniale officielle",
+        "En ciblant des femmes seules dans les gares"
+      ],
       "bonne_reponse": "Via des petites annonces matrimoniales",
       "explication": "Landru publiait des petites annonces dans les journaux pour rencontrer des veuves et femmes seules, se faisant passer pour un veuf cherchant à se remarier.",
       "difficulte": 1,
@@ -115,7 +130,12 @@
       "affaire_id": "landru",
       "module": "qcm",
       "question": "Dans quelle ville se trouvait la villa de Landru où il brûlait les corps ?",
-      "propositions": ["Gambais", "Versailles", "Chartres", "Rambouillet"],
+      "propositions": [
+        "Gambais",
+        "Versailles",
+        "Chartres",
+        "Rambouillet"
+      ],
       "bonne_reponse": "Gambais",
       "explication": "La villa de Gambais, en Seine-et-Oise, était le principal lieu de crime de Landru. C'est là qu'il brûlait les restes de ses victimes dans le four de la cuisine.",
       "difficulte": 2,
@@ -151,15 +171,27 @@
       "id": "landru_chron_001",
       "affaire_id": "landru",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre ces étapes clés de l'affaire Landru.",
+      "question": "Remettez dans l'ordre chronologique ces étapes clés de l'affaire Landru.",
       "evenements": [
-        { "label": "Publication des premières petites annonces matrimoniales", "date_iso": "1914-01-01" },
-        { "label": "Arrestation de Landru à Paris", "date_iso": "1919-04-12" },
-        { "label": "Procès devant la cour d'assises de Versailles", "date_iso": "1921-11-07" },
-        { "label": "Exécution par la guillotine", "date_iso": "1922-02-25" }
+        {
+          "label": "Disparition de Jeanne Cuchet et son fils Henri, premières victimes identifiées",
+          "date_iso": "1915-01-04"
+        },
+        {
+          "label": "Disparition de Célestine Buisson, dont la plainte de sa sœur déclenchera l'enquête",
+          "date_iso": "1917-08-01"
+        },
+        {
+          "label": "Arrestation de Landru dans son appartement à Paris",
+          "date_iso": "1919-04-12"
+        },
+        {
+          "label": "Exécution par la guillotine à la prison de Versailles",
+          "date_iso": "1922-02-25"
+        }
       ],
       "bonne_reponse": null,
-      "explication": "L'affaire couvre une décennie : petites annonces dès 1914, arrestation en 1919, procès en 1921, exécution en février 1922.",
+      "explication": "Jeanne Cuchet et son fils disparaissent en janvier 1915, premières victimes identifiées. Célestine Buisson disparaît en 1917 ; c'est la plainte de sa sœur qui mène à la filature et à l'arrestation de Landru le 12 avril 1919. Il est guillotiné le 25 février 1922.",
       "difficulte": 3,
       "pays": "FR",
       "epoque": "1914-1922",
@@ -175,7 +207,12 @@
       "affaire_id": "landru",
       "module": "qcm",
       "question": "Combien de victimes Landru fut-il officiellement condamné pour avoir assassinées ?",
-      "propositions": ["7", "11", "15", "18"],
+      "propositions": [
+        "7",
+        "11",
+        "15",
+        "18"
+      ],
       "bonne_reponse": "11",
       "explication": "Landru fut reconnu coupable de 11 assassinats, dont 10 femmes et le fils de l'une d'elles. Il est soupçonné d'avoir fait davantage de victimes.",
       "difficulte": 2,

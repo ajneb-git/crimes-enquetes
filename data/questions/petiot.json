@@ -10,7 +10,12 @@
         "Je prétendais faire fuir des personnes persécutées vers l'Argentine.",
         "J'ai été guillotiné en 1946 pour 27 meurtres reconnus."
       ],
-      "propositions": ["Marcel Petiot", "Henri Désiré Landru", "Robert le Diable", "René Hardy"],
+      "propositions": [
+        "Marcel Petiot",
+        "Henri Désiré Landru",
+        "Robert le Diable",
+        "René Hardy"
+      ],
       "bonne_reponse": "Marcel Petiot",
       "explication": "Marcel Petiot, surnommé Dr Satan, était un médecin parisien qui attirait des Juifs et résistants cherchant à fuir l'Occupation, les assassinait et brûlait leurs corps dans sa cave. Guillotiné le 25 mai 1946.",
       "difficulte": 2,
@@ -28,7 +33,12 @@
       "affaire_id": "petiot",
       "module": "qcm",
       "question": "Pendant quelle période Marcel Petiot commit-il principalement ses crimes ?",
-      "propositions": ["Pendant la Première Guerre mondiale", "Pendant l'Occupation allemande (1941-1944)", "Pendant la Résistance française", "Après la Libération de Paris"],
+      "propositions": [
+        "Pendant la Première Guerre mondiale",
+        "Pendant l'Occupation allemande (1941-1944)",
+        "Pendant la Résistance française",
+        "Après la Libération de Paris"
+      ],
       "bonne_reponse": "Pendant l'Occupation allemande (1941-1944)",
       "explication": "Petiot profita de l'Occupation pour attirer des victimes cherchant à fuir la France, leur promettant un passage vers l'Argentine via un réseau fictif.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
       "affaire_id": "petiot",
       "module": "qcm",
       "question": "Combien de meurtres Petiot fut-il officiellement condamné ?",
-      "propositions": ["12", "19", "27", "63"],
+      "propositions": [
+        "12",
+        "19",
+        "27",
+        "63"
+      ],
       "bonne_reponse": "27",
       "explication": "Petiot fut condamné pour 27 meurtres, bien que le nombre réel de ses victimes soit estimé bien supérieur, certaines sources évoquant jusqu'à 60 personnes.",
       "difficulte": 2,
@@ -98,7 +113,12 @@
       "affaire_id": "petiot",
       "module": "qcm",
       "question": "Quelle rue parisienne abritait la maison de Petiot où furent retrouvés les corps ?",
-      "propositions": ["Rue Le Sueur", "Rue de la Paix", "Rue des Martyrs", "Avenue Foch"],
+      "propositions": [
+        "Rue Le Sueur",
+        "Rue de la Paix",
+        "Rue des Martyrs",
+        "Avenue Foch"
+      ],
       "bonne_reponse": "Rue Le Sueur",
       "explication": "Le 21 rue Le Sueur, dans le 16e arrondissement de Paris, était la maison de Petiot. C'est là que la police découvrit en mars 1944 des restes humains dans la cheminée et une fosse remplie de chaux.",
       "difficulte": 3,
@@ -132,15 +152,27 @@
       "id": "petiot_chron_001",
       "affaire_id": "petiot",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre ces étapes de l'affaire Petiot.",
+      "question": "Remettez dans l'ordre chronologique ces étapes clés de l'affaire Petiot.",
       "evenements": [
-        { "label": "Début des meurtres à Paris", "date_iso": "1941-01-01" },
-        { "label": "Découverte des corps rue Le Sueur", "date_iso": "1944-03-11" },
-        { "label": "Arrestation de Petiot", "date_iso": "1944-10-31" },
-        { "label": "Exécution par la guillotine", "date_iso": "1946-05-25" }
+        {
+          "label": "Arrestation par la Gestapo, Petiot emprisonné puis relâché",
+          "date_iso": "1943-05-21"
+        },
+        {
+          "label": "Découverte des corps calcinés par les pompiers rue Le Sueur",
+          "date_iso": "1944-03-11"
+        },
+        {
+          "label": "Arrestation définitive sous sa vraie identité à Paris",
+          "date_iso": "1944-10-31"
+        },
+        {
+          "label": "Exécution par la guillotine rue de la Roquette",
+          "date_iso": "1946-05-25"
+        }
       ],
       "bonne_reponse": null,
-      "explication": "Les meurtres débutèrent en 1941, la maison de la rue Le Sueur fut découverte en mars 1944, Petiot fut arrêté en octobre 1944 et exécuté en mai 1946.",
+      "explication": "La Gestapo arrête Petiot en mai 1943 puis le relâche. En mars 1944, les pompiers découvrent des ossements calcinés rue Le Sueur — Petiot est alors en fuite. Il se cache sous un faux nom dans la Résistance jusqu'à son identification et son arrestation en octobre 1944. Il est guillotiné le 25 mai 1946.",
       "difficulte": 2,
       "pays": "FR",
       "epoque": "1941-1946",
@@ -175,7 +207,12 @@
       "affaire_id": "petiot",
       "module": "qcm",
       "question": "Comment Petiot s'était-il enfui après la découverte de la rue Le Sueur ?",
-      "propositions": ["Il s'était caché dans les égouts de Paris", "Il avait fui en Allemagne", "Il s'était fait passer pour un résistant sous fausse identité", "Il avait soudoyé des policiers"],
+      "propositions": [
+        "Il s'était caché dans les égouts de Paris",
+        "Il avait fui en Allemagne",
+        "Il s'était fait passer pour un résistant sous fausse identité",
+        "Il avait soudoyé des policiers"
+      ],
       "bonne_reponse": "Il s'était fait passer pour un résistant sous fausse identité",
       "explication": "Après la découverte de la rue Le Sueur, Petiot prit la fuite et se cacha pendant plusieurs mois en se faisant passer pour un résistant sous le nom de Dr Wetterwald avant d'être identifié et arrêté.",
       "difficulte": 3,

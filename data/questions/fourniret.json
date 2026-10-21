@@ -10,7 +10,12 @@
         "Mon surnom évoque un personnage de conte pour enfants.",
         "J'ai été arrêté en 2003 après qu'une victime m'ait échappé."
       ],
-      "propositions": ["Michel Fourniret", "Francis Heaulme", "Émile Louis", "Guy Georges"],
+      "propositions": [
+        "Michel Fourniret",
+        "Francis Heaulme",
+        "Émile Louis",
+        "Guy Georges"
+      ],
       "bonne_reponse": "Michel Fourniret",
       "explication": "Michel Fourniret, dit l'Ogre des Ardennes, a été condamné le 28 mai 2008 à la réclusion criminelle à perpétuité pour 7 meurtres (8e condamnation en 2018). Il est décédé le 10 mai 2021 à la Pitié-Salpêtrière.",
       "difficulte": 2,
@@ -28,7 +33,12 @@
       "affaire_id": "fourniret",
       "module": "qcm",
       "question": "Quel est le surnom de Michel Fourniret ?",
-      "propositions": ["L'Ogre des Ardennes", "Le Monstre du Marais", "L'Ange Noir", "Le Chasseur des forêts"],
+      "propositions": [
+        "L'Ogre des Ardennes",
+        "Le Monstre du Marais",
+        "L'Ange Noir",
+        "Le Chasseur des forêts"
+      ],
       "bonne_reponse": "L'Ogre des Ardennes",
       "explication": "Son surnom, L'Ogre des Ardennes, vient de la région où il opérait et de la nature prédatrice de ses crimes.",
       "difficulte": 1,
@@ -63,7 +73,12 @@
       "affaire_id": "fourniret",
       "module": "qcm",
       "question": "En quelle année Michel Fourniret a-t-il été arrêté ?",
-      "propositions": ["1999", "2001", "2003", "2006"],
+      "propositions": [
+        "1999",
+        "2001",
+        "2003",
+        "2006"
+      ],
       "bonne_reponse": "2003",
       "explication": "Fourniret a été arrêté en 2003 après qu'une adolescente de 13 ans, Natacha Marin, lui ait échappé et ait alerté les secours.",
       "difficulte": 1,
@@ -99,13 +114,25 @@
       "module": "chronologie",
       "question": "Remettez dans l'ordre chronologique ces étapes clés de l'affaire Fourniret.",
       "evenements": [
-        { "label": "Premier crime établi par la justice", "date_iso": "1987-01-01" },
-        { "label": "Arrestation après la fuite d'une victime", "date_iso": "2003-06-01" },
-        { "label": "Condamnation à la réclusion perpétuelle", "date_iso": "2008-05-28" },
-        { "label": "Décès en détention", "date_iso": "2021-05-28" }
+        {
+          "label": "Mariage de Fourniret avec Monique Olivier, sa future complice, en prison",
+          "date_iso": "1987-04-05"
+        },
+        {
+          "label": "Meurtre d'Isabelle Laville, 17 ans, en Côte-d'Or",
+          "date_iso": "1988-12-17"
+        },
+        {
+          "label": "Meurtre d'Élisabeth Brichet, 12 ans, dans les Ardennes belges",
+          "date_iso": "1989-11-20"
+        },
+        {
+          "label": "Arrestation après la fuite d'une adolescente à Ciney (Belgique)",
+          "date_iso": "2003-06-26"
+        }
       ],
       "bonne_reponse": null,
-      "explication": "L'affaire s'est étalée sur plus de 30 ans : premiers crimes en 1987, arrestation en 2003, condamnation en 2008, décès en 2021.",
+      "explication": "Fourniret épouse Monique Olivier en 1987 alors qu'il purge une peine de prison — elle sera sa complice active. Il tue Isabelle Laville en décembre 1988, puis Élisabeth Brichet en novembre 1989. Il ne sera arrêté qu'en juin 2003, après qu'une adolescente lui échappe à Ciney.",
       "difficulte": 2,
       "pays": "FR",
       "epoque": "1987-2021",
@@ -168,7 +195,12 @@
         "Mes aveux ont contribué à élucider certains crimes de mon mari.",
         "Ma coopération partielle avec la justice m'a valu une peine inférieure à celle de mon époux."
       ],
-      "propositions": ["Monique Olivier", "Véronique Courjault", "Florence Rey", "Christine Villemin"],
+      "propositions": [
+        "Monique Olivier",
+        "Véronique Courjault",
+        "Florence Rey",
+        "Christine Villemin"
+      ],
       "bonne_reponse": "Monique Olivier",
       "explication": "Monique Olivier, épouse de Fourniret, a été condamnée pour complicité de meurtre. Ses témoignages ont permis d'identifier certaines victimes et d'élucider de nouveaux crimes.",
       "difficulte": 3,
@@ -186,7 +218,12 @@
       "affaire_id": "fourniret",
       "module": "qcm",
       "question": "En quelle année Michel Fourniret est-il décédé en prison ?",
-      "propositions": ["2017", "2019", "2021", "2023"],
+      "propositions": [
+        "2017",
+        "2019",
+        "2021",
+        "2023"
+      ],
       "bonne_reponse": "2021",
       "explication": "Michel Fourniret est décédé le 10 mai 2021 à l'UHSI de la Pitié-Salpêtrière à Paris. Il souffrait d'Alzheimer et de problèmes cardiaques. Il avait 79 ans.",
       "difficulte": 2,

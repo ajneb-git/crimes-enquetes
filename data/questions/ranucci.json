@@ -5,7 +5,12 @@
       "affaire_id": "ranucci",
       "module": "qcm",
       "question": "Quel livre de Gilles Perrault a rendu l'affaire Ranucci célèbre ?",
-      "propositions": ["Le Pull-over rouge", "L'Affaire de Marseille", "La Nuit de l'innocent", "Le Dernier guillotiné"],
+      "propositions": [
+        "Le Pull-over rouge",
+        "L'Affaire de Marseille",
+        "La Nuit de l'innocent",
+        "Le Dernier guillotiné"
+      ],
       "bonne_reponse": "Le Pull-over rouge",
       "explication": "Le livre de Gilles Perrault, publié en 1978, remet en question la culpabilité de Christian Ranucci et contribua au débat sur l'abolition de la peine de mort en France.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "ranucci",
       "module": "qcm",
       "question": "Quel élément vestimentaire est devenu le symbole de l'affaire Ranucci ?",
-      "propositions": ["Un pull-over rouge", "Un imperméable beige", "Une veste de cuir", "Un chapeau noir"],
+      "propositions": [
+        "Un pull-over rouge",
+        "Un imperméable beige",
+        "Une veste de cuir",
+        "Un chapeau noir"
+      ],
       "bonne_reponse": "Un pull-over rouge",
       "explication": "Un pull-over rouge appartenant à Ranucci fut retrouvé sur les lieux du crime et devint la principale pièce à conviction, donnant son titre au livre de Gilles Perrault.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
         "Ma culpabilité est encore débattue par certains juristes.",
         "Mon exécution précéda de cinq ans l'abolition de la peine de mort en France."
       ],
-      "propositions": ["Christian Ranucci", "Patrick Henry", "Hamida Djandoubi", "Roger Bontems"],
+      "propositions": [
+        "Christian Ranucci",
+        "Patrick Henry",
+        "Hamida Djandoubi",
+        "Roger Bontems"
+      ],
       "bonne_reponse": "Christian Ranucci",
       "explication": "Christian Ranucci fut guillotiné le 28 juillet 1976 à la prison des Baumettes à Marseille. Le livre de Gilles Perrault «Le Pull-over rouge» (1978) lança le débat sur sa culpabilité.",
       "difficulte": 2,
@@ -97,15 +112,27 @@
       "id": "ranucci_chron_001",
       "affaire_id": "ranucci",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre ces étapes de l'affaire Ranucci.",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Ranucci.",
       "evenements": [
-        { "label": "Enlèvement et meurtre de Marie-Dolores Rambla", "date_iso": "1974-06-03" },
-        { "label": "Arrestation de Ranucci", "date_iso": "1974-06-05" },
-        { "label": "Condamnation à mort par la cour d'assises", "date_iso": "1976-03-10" },
-        { "label": "Exécution par la guillotine", "date_iso": "1976-07-28" }
+        {
+          "label": "Enlèvement et meurtre de Marie-Dolores Rambla, 8 ans, à Marseille",
+          "date_iso": "1974-06-03"
+        },
+        {
+          "label": "Exécution de Christian Ranucci à la prison des Baumettes",
+          "date_iso": "1976-07-28"
+        },
+        {
+          "label": "Publication du 'Pull-over rouge' de Gilles Perrault contestant la culpabilité de Ranucci",
+          "date_iso": "1978-01-01"
+        },
+        {
+          "label": "Abolition de la peine de mort en France par Robert Badinter",
+          "date_iso": "1981-10-09"
+        }
       ],
       "bonne_reponse": null,
-      "explication": "L'affaire se déroule en deux ans : crime en juin 1974, arrestation deux jours plus tard, condamnation à mort en mars 1976, exécution en juillet 1976.",
+      "explication": "Marie-Dolores est enlevée et tuée le 3 juin 1974. Ranucci est exécuté le 28 juillet 1976. Deux ans plus tard, Gilles Perrault publie 'Le Pull-over rouge' (1978), remettant en cause la culpabilité de Ranucci. La peine de mort est abolie en France le 9 octobre 1981.",
       "difficulte": 2,
       "pays": "FR",
       "epoque": "1974-1976",
@@ -140,7 +167,12 @@
       "affaire_id": "ranucci",
       "module": "qcm",
       "question": "Dans quelle ville Ranucci fut-il guillotiné ?",
-      "propositions": ["Marseille", "Paris", "Lyon", "Aix-en-Provence"],
+      "propositions": [
+        "Marseille",
+        "Paris",
+        "Lyon",
+        "Aix-en-Provence"
+      ],
       "bonne_reponse": "Marseille",
       "explication": "Christian Ranucci fut guillotiné le 28 juillet 1976 à la prison des Baumettes, à Marseille, ville où il avait également été jugé.",
       "difficulte": 2,

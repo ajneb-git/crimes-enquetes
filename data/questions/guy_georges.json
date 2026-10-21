@@ -5,7 +5,12 @@
       "affaire_id": "guy_georges",
       "module": "qcm",
       "question": "Dans quel arrondissement de Paris Guy Georges commettait-il principalement ses crimes ?",
-      "propositions": ["11e arrondissement", "18e arrondissement", "5e arrondissement", "20e arrondissement"],
+      "propositions": [
+        "11e arrondissement",
+        "18e arrondissement",
+        "5e arrondissement",
+        "20e arrondissement"
+      ],
       "bonne_reponse": "11e arrondissement",
       "explication": "Guy Georges sévissait principalement dans le 11e arrondissement de Paris. Ses victimes étaient des jeunes femmes qu'il attaquait chez elles ou à proximité de leur domicile dans ce quartier.",
       "difficulte": 2,
@@ -40,7 +45,12 @@
       "affaire_id": "guy_georges",
       "module": "qcm",
       "question": "Combien de victimes Guy Georges est-il reconnu coupable d'avoir tuées ?",
-      "propositions": ["7", "4", "11", "9"],
+      "propositions": [
+        "7",
+        "4",
+        "11",
+        "9"
+      ],
       "bonne_reponse": "7",
       "explication": "Guy Georges fut condamné pour le meurtre de 7 jeunes femmes entre 1991 et 1997. Il fut identifié grâce à une analyse ADN après son arrestation pour un autre délit.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
         "L'ADN fut décisif pour mon identification.",
         "Je fus condamné en 2001 à la perpétuité pour 7 meurtres."
       ],
-      "propositions": ["Guy Georges", "Francis Heaulme", "Michel Fourniret", "Nordahl Lelandais"],
+      "propositions": [
+        "Guy Georges",
+        "Francis Heaulme",
+        "Michel Fourniret",
+        "Nordahl Lelandais"
+      ],
       "bonne_reponse": "Guy Georges",
       "explication": "Guy Georges, surnommé «la Bête du 11e», terrorisa Paris entre 1991 et 1997. L'ADN joua un rôle clé dans son identification après son arrestation pour cambriolage en 1998.",
       "difficulte": 1,
@@ -97,15 +112,27 @@
       "id": "guy_georges_chron_001",
       "affaire_id": "guy_georges",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre ces étapes de l'affaire Guy Georges.",
+      "question": "Remettez dans l'ordre chronologique ces étapes clés de l'affaire Guy Georges.",
       "evenements": [
-        { "label": "Premier meurtre attribué à Guy Georges", "date_iso": "1991-01-01" },
-        { "label": "Arrestation pour cambriolage, prélèvement ADN", "date_iso": "1998-01-01" },
-        { "label": "Mise en examen pour les 7 meurtres", "date_iso": "1999-01-01" },
-        { "label": "Condamnation à la réclusion criminelle à perpétuité", "date_iso": "2001-01-01" }
+        {
+          "label": "Meurtre de Pascale Escarfail dans le 11e arrondissement, première victime identifiée",
+          "date_iso": "1991-01-25"
+        },
+        {
+          "label": "Meurtre d'Estelle Magd dans le 3e arrondissement, septième et dernière victime connue",
+          "date_iso": "1997-01-23"
+        },
+        {
+          "label": "Arrestation de Guy Georges après correspondance ADN lors d'un contrôle",
+          "date_iso": "1998-03-26"
+        },
+        {
+          "label": "Condamnation à la réclusion criminelle à perpétuité",
+          "date_iso": "2001-04-05"
+        }
       ],
       "bonne_reponse": null,
-      "explication": "Les meurtres débutèrent en 1991, l'arrestation eut lieu en 1998 grâce à l'ADN, la mise en examen en 1999 et la condamnation en 2001.",
+      "explication": "Pascale Escarfail est la première victime connue (janvier 1991). Guy Georges tue pendant 6 ans avant que l'ADN prélevé lors d'une arrestation pour agression en mars 1998 ne corresponde aux traces relevées sur les scènes de crime. Estelle Magd est sa dernière victime connue (janvier 1997). Il est condamné à perpétuité en avril 2001.",
       "difficulte": 1,
       "pays": "FR",
       "epoque": "1991-2001",
@@ -140,7 +167,12 @@
       "affaire_id": "guy_georges",
       "module": "qcm",
       "question": "Quel élément biographique de Guy Georges devint central lors de son procès ?",
-      "propositions": ["Son abandon à la naissance et son enfance en famille d'accueil", "Son service militaire difficile", "Sa toxicomanie depuis l'adolescence", "Ses séjours répétés en hôpital psychiatrique"],
+      "propositions": [
+        "Son abandon à la naissance et son enfance en famille d'accueil",
+        "Son service militaire difficile",
+        "Sa toxicomanie depuis l'adolescence",
+        "Ses séjours répétés en hôpital psychiatrique"
+      ],
       "bonne_reponse": "Son abandon à la naissance et son enfance en famille d'accueil",
       "explication": "Le procès de Guy Georges fit la lumière sur une enfance marquée par l'abandon, les carences affectives et un passage dans de nombreuses familles d'accueil, soulevant des questions sur la responsabilité sociale.",
       "difficulte": 3,
