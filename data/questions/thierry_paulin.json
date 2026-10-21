@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "thierry_paulin_qcm_001",
+      "affaire_id": "thierry_paulin",
+      "module": "qcm",
+      "question": "Quel surnom les médias donnèrent-ils à Thierry Paulin ?",
+      "propositions": ["Le Monstre de Montmartre", "Le Tueur de Belleville", "L'Assassin des vieilles dames", "Le Vampire de Paris"],
+      "bonne_reponse": "Le Monstre de Montmartre",
+      "explication": "Thierry Paulin fut surnommé «le Monstre de Montmartre» car il sévissait principalement dans ce quartier de Paris, ciblant des personnes âgées vivant seules.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.lemonde.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_vf_001",
+      "affaire_id": "thierry_paulin",
+      "module": "vrai_faux",
+      "affirmation": "Thierry Paulin fut jugé et condamné avant de mourir en prison.",
+      "bonne_reponse": false,
+      "explication": "Thierry Paulin mourut du sida en prison le 16 avril 1989, avant d'être jugé. Son complice Jean-Thierry Mathurin fut condamné en 1991.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.lefigaro.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_qcm_002",
+      "affaire_id": "thierry_paulin",
+      "module": "qcm",
+      "question": "Quel type de victimes Thierry Paulin ciblait-il principalement ?",
+      "propositions": ["Des femmes âgées vivant seules", "Des jeunes femmes lors de promenades nocturnes", "Des homosexuels", "Des commerçants"],
+      "bonne_reponse": "Des femmes âgées vivant seules",
+      "explication": "Thierry Paulin s'attaquait quasi exclusivement à des femmes âgées vivant seules, qu'il torturait et tuait souvent pour leur voler leur argent et leurs bijoux.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.lemonde.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_vf_002",
+      "affaire_id": "thierry_paulin",
+      "module": "vrai_faux",
+      "affirmation": "Thierry Paulin agissait toujours seul lors de ses crimes.",
+      "bonne_reponse": false,
+      "explication": "Thierry Paulin avait un complice, Jean-Thierry Mathurin, qui participait à plusieurs de ses crimes. Mathurin fut arrêté et condamné, contrairement à Paulin qui mourut avant son jugement.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.liberation.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_qsj_001",
+      "affaire_id": "thierry_paulin",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série martiniquais installé à Paris dans les années 1980.",
+        "Mes victimes étaient principalement des personnes très âgées dans le nord de Paris.",
+        "Je suis mort du sida en prison en 1989 avant d'être jugé.",
+        "Mon surnom évoquait un célèbre quartier parisien."
+      ],
+      "propositions": ["Thierry Paulin", "Guy Georges", "Francis Heaulme", "Émile Louis"],
+      "bonne_reponse": "Thierry Paulin",
+      "explication": "Thierry Paulin, surnommé «le Monstre de Montmartre», tua une vingtaine de personnes âgées entre 1984 et 1987. Il mourut du sida en prison en 1989, avant son procès.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.lemonde.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_duel_001",
+      "affaire_id": "thierry_paulin",
+      "module": "duel",
+      "question": "Lequel de ces deux tueurs parisiens est mort avant d'avoir été jugé ?",
+      "item_a": "Thierry Paulin (mort en 1989)",
+      "item_b": "Guy Georges (condamné en 2001)",
+      "bonne_reponse": "a",
+      "explication": "Thierry Paulin mourut du sida en détention provisoire en 1989, sans jamais être jugé. Guy Georges, en revanche, fut condamné à la réclusion criminelle à perpétuité par un jury en 2001.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984-2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin_qcm_003",
+      "affaire_id": "thierry_paulin",
+      "module": "qcm",
+      "question": "Combien de meurtres Thierry Paulin est-il suspecté d'avoir commis ?",
+      "propositions": ["Une vingtaine", "5 à 6", "Plus de 40", "Exactement 11"],
+      "bonne_reponse": "Une vingtaine",
+      "explication": "Thierry Paulin est suspecté d'avoir commis une vingtaine de meurtres entre 1984 et 1987. Son décès avant le procès a rendu impossible l'établissement d'un bilan définitif.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin",
+        "https://www.lefigaro.fr/archives/thierry-paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

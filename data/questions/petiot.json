@@ -1,0 +1,192 @@
+{
+  "questions": [
+    {
+      "id": "petiot_qsj_001",
+      "affaire_id": "petiot",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'étais médecin à Paris pendant la Seconde Guerre mondiale.",
+        "Mon surnom évoquait Satan.",
+        "Je prétendais faire fuir des personnes persécutées vers l'Argentine.",
+        "J'ai été guillotiné en 1946 pour 27 meurtres reconnus."
+      ],
+      "propositions": ["Marcel Petiot", "Henri Désiré Landru", "Robert le Diable", "René Hardy"],
+      "bonne_reponse": "Marcel Petiot",
+      "explication": "Marcel Petiot, surnommé Dr Satan, était un médecin parisien qui attirait des Juifs et résistants cherchant à fuir l'Occupation, les assassinait et brûlait leurs corps dans sa cave. Guillotiné le 25 mai 1946.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1941-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lemonde.fr/archives/article/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_qcm_001",
+      "affaire_id": "petiot",
+      "module": "qcm",
+      "question": "Pendant quelle période Marcel Petiot commit-il principalement ses crimes ?",
+      "propositions": ["Pendant la Première Guerre mondiale", "Pendant l'Occupation allemande (1941-1944)", "Pendant la Résistance française", "Après la Libération de Paris"],
+      "bonne_reponse": "Pendant l'Occupation allemande (1941-1944)",
+      "explication": "Petiot profita de l'Occupation pour attirer des victimes cherchant à fuir la France, leur promettant un passage vers l'Argentine via un réseau fictif.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1941-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lefigaro.fr/histoire/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_vf_001",
+      "affaire_id": "petiot",
+      "module": "vrai_faux",
+      "affirmation": "Marcel Petiot avait fait des études de médecine et était un vrai médecin diplômé.",
+      "bonne_reponse": true,
+      "explication": "Marcel Petiot était bien un médecin diplômé, ayant exercé la médecine légalement pendant des années. Il utilisa sa profession comme couverture pour attirer ses victimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1920-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lemonde.fr/archives/article/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_vf_002",
+      "affaire_id": "petiot",
+      "module": "vrai_faux",
+      "affirmation": "Petiot fut découvert parce que des voisins sentirent une odeur suspecte provenant de sa maison de la rue Le Sueur.",
+      "bonne_reponse": true,
+      "explication": "En mars 1944, des voisins alertèrent la police à cause d'une épaisse fumée nauséabonde s'échappant de la cheminée du 21 rue Le Sueur. Les pompiers découvrirent des restes humains dans la cheminée.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.liberation.fr/histoire/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_qcm_002",
+      "affaire_id": "petiot",
+      "module": "qcm",
+      "question": "Combien de meurtres Petiot fut-il officiellement condamné ?",
+      "propositions": ["12", "19", "27", "63"],
+      "bonne_reponse": "27",
+      "explication": "Petiot fut condamné pour 27 meurtres, bien que le nombre réel de ses victimes soit estimé bien supérieur, certaines sources évoquant jusqu'à 60 personnes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lemonde.fr/archives/article/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_qcm_003",
+      "affaire_id": "petiot",
+      "module": "qcm",
+      "question": "Quelle rue parisienne abritait la maison de Petiot où furent retrouvés les corps ?",
+      "propositions": ["Rue Le Sueur", "Rue de la Paix", "Rue des Martyrs", "Avenue Foch"],
+      "bonne_reponse": "Rue Le Sueur",
+      "explication": "Le 21 rue Le Sueur, dans le 16e arrondissement de Paris, était la maison de Petiot. C'est là que la police découvrit en mars 1944 des restes humains dans la cheminée et une fosse remplie de chaux.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lefigaro.fr/histoire/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_vf_003",
+      "affaire_id": "petiot",
+      "module": "vrai_faux",
+      "affirmation": "Petiot se réclamait être un résistant et prétendait avoir tué des collaborateurs et des soldats allemands.",
+      "bonne_reponse": true,
+      "explication": "À son procès, Petiot tenta de se défendre en affirmant appartenir à la Résistance et que ses victimes étaient des collaborateurs ou des espions allemands. Cette défense ne convainquit pas le jury.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1944-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lemonde.fr/archives/article/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_chron_001",
+      "affaire_id": "petiot",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Petiot.",
+      "evenements": [
+        { "label": "Début des meurtres à Paris", "date_iso": "1941-01-01" },
+        { "label": "Découverte des corps rue Le Sueur", "date_iso": "1944-03-11" },
+        { "label": "Arrestation de Petiot", "date_iso": "1944-10-31" },
+        { "label": "Exécution par la guillotine", "date_iso": "1946-05-25" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Les meurtres débutèrent en 1941, la maison de la rue Le Sueur fut découverte en mars 1944, Petiot fut arrêté en octobre 1944 et exécuté en mai 1946.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1941-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.lemonde.fr/archives/article/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_duel_001",
+      "affaire_id": "petiot",
+      "module": "duel",
+      "question": "Lequel de ces deux tueurs en série français a fait le plus grand nombre de victimes officiellement reconnues ?",
+      "item_a": "Henri Désiré Landru (11 victimes)",
+      "item_b": "Marcel Petiot (27 victimes)",
+      "bonne_reponse": "b",
+      "explication": "Marcel Petiot fut condamné pour 27 meurtres, contre 11 pour Landru. Le nombre réel de victimes de Petiot est estimé encore plus élevé.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1922-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot_qcm_004",
+      "affaire_id": "petiot",
+      "module": "qcm",
+      "question": "Comment Petiot s'était-il enfui après la découverte de la rue Le Sueur ?",
+      "propositions": ["Il s'était caché dans les égouts de Paris", "Il avait fui en Allemagne", "Il s'était fait passer pour un résistant sous fausse identité", "Il avait soudoyé des policiers"],
+      "bonne_reponse": "Il s'était fait passer pour un résistant sous fausse identité",
+      "explication": "Après la découverte de la rue Le Sueur, Petiot prit la fuite et se cacha pendant plusieurs mois en se faisant passer pour un résistant sous le nom de Dr Wetterwald avant d'être identifié et arrêté.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot",
+        "https://www.liberation.fr/histoire/petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

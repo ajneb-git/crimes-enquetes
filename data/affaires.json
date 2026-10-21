@@ -1,0 +1,292 @@
+{
+  "affaires": [
+    {
+      "id": "fourniret",
+      "nom": "Michel Fourniret",
+      "alias": "L'Ogre des Ardennes",
+      "dates": "1987–2001",
+      "lieu": "France / Belgique",
+      "resume": "Serial killer condamné en 2008 à la réclusion criminelle à perpétuité pour 7 meurtres (8e condamnation en 2018) commis entre 1987 et 2001.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru",
+      "nom": "Henri Désiré Landru",
+      "alias": "Le Barbe-Bleue de Gambais",
+      "dates": "1915–1922",
+      "lieu": "France / Gambais",
+      "resume": "Séduisait des veuves de guerre via petites annonces, les tuait et brûlait les corps dans sa villa de Gambais. Guillotiné en 1922 pour 11 meurtres.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "petiot",
+      "nom": "Marcel Petiot",
+      "alias": "Dr Satan",
+      "dates": "1941–1944",
+      "lieu": "France / Paris",
+      "resume": "Médecin parisien qui prétendait faire fuir des Juifs vers l'Argentine pendant l'Occupation, les assassinait et brûlait leurs corps. Guillotiné en 1946 pour 24 meurtres reconnus.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dominici",
+      "nom": "Gaston Dominici",
+      "alias": "Affaire Dominici",
+      "dates": "1952–1954",
+      "lieu": "France / Lurs (Alpes-de-Haute-Provence)",
+      "resume": "La famille britannique Drummond fut assassinée près de la ferme Grand'Terre. Gaston Dominici, le fermier, fut condamné à mort en 1954 puis gracié.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ranucci",
+      "nom": "Christian Ranucci",
+      "alias": "L'Affaire du Pull-over rouge",
+      "dates": "1974–1976",
+      "lieu": "France / Marseille",
+      "resume": "Condamné pour le meurtre de Marie-Dolores Rambla, 8 ans, et guillotiné le 28 juillet 1976. Dernier guillotiné pour meurtre d'enfant en France, l'affaire reste controversée quant à sa culpabilité.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gregoire",
+      "nom": "Affaire Grégory",
+      "alias": "L'Affaire du siècle",
+      "dates": "1984–présent",
+      "lieu": "France / Vosges",
+      "resume": "Le petit Grégory Villemin, 4 ans, fut retrouvé ligoté et noyé dans la Vologne en octobre 1984. L'identité du meurtrier n'a jamais été établie définitivement.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "omar_raddad",
+      "nom": "Omar Raddad",
+      "alias": "Omar m'a tuer",
+      "dates": "1991–1994",
+      "lieu": "France / Mougins",
+      "resume": "Ghislaine Marchal fut retrouvée morte avec l'inscription «Omar m'a tuer» écrite sur la porte. Son jardinier Omar Raddad fut condamné, puis gracié par Chirac en 1996 sans être réhabilité.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges",
+      "nom": "Guy Georges",
+      "alias": "La Bête de Bastille",
+      "dates": "1991–1997",
+      "lieu": "France / Paris",
+      "resume": "Responsable de 7 meurtres de femmes dans le quartier de la Bastille à Paris. Condamné à la réclusion criminelle à perpétuité en avril 2001.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme",
+      "nom": "Francis Heaulme",
+      "alias": "Le Routard du crime",
+      "dates": "1982–présent",
+      "lieu": "France",
+      "resume": "Criminel itinérant condamné pour plusieurs meurtres, dont le double meurtre de Montigny-lès-Metz (1986) pour lequel il fut condamné en 2017 en appel.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "outreau",
+      "nom": "Affaire d'Outreau",
+      "alias": "Le naufrage judiciaire",
+      "dates": "2001–2005",
+      "lieu": "France / Outreau (Pas-de-Calais)",
+      "resume": "Accusation de pédophilie en réseau à Outreau. Sur 17 accusés, 13 furent acquittés en appel en 2005, révélant une erreur judiciaire majeure.",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "lelandais",
+      "nom": "Nordahl Lelandais",
+      "alias": "Le militaire tueur",
+      "dates": "2017–2021",
+      "lieu": "France / Savoie",
+      "resume": "Ancien militaire condamné pour le meurtre de la petite Maëlys de Araujo (8 ans, 2017) et du caporal Arthur Noyer. Condamné à la réclusion criminelle à perpétuité.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval",
+      "nom": "Jonathann Daval",
+      "alias": "L'Affaire Alexia Daval",
+      "dates": "2017–2020",
+      "lieu": "France / Gray (Haute-Saône)",
+      "resume": "Jonathann Daval a tué sa femme Alexia en octobre 2017, puis a participé aux recherches en se faisant passer pour l'époux éplorée avant d'avouer. Condamné à 25 ans de réclusion.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine",
+      "nom": "Jacques Mesrine",
+      "alias": "L'Ennemi public n°1",
+      "dates": "1960–1979",
+      "lieu": "France / international",
+      "resume": "Gangster français auteur de nombreux crimes, braquages et prises d'otages. Après plusieurs évasions spectaculaires, il fut abattu par la police à Paris en novembre 1979.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "thierry_paulin",
+      "nom": "Thierry Paulin",
+      "alias": "Le Monstre de Montmartre",
+      "dates": "1984–1987",
+      "lieu": "France / Paris",
+      "resume": "Responsable de l'assassinat de 21 personnes âgées à Paris entre 1984 et 1987. Décédé du sida en prison en 1989 avant la clôture de son procès.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis",
+      "nom": "Émile Louis",
+      "alias": "Le Tueur de l'Yonne",
+      "dates": "1975–1979",
+      "lieu": "France / Auxerre (Yonne)",
+      "resume": "Chauffeur de bus scolaire condamné pour le meurtre de 7 jeunes femmes handicapées dans l'Yonne entre 1975 et 1979. Condamné à la réclusion criminelle à perpétuité en 2004.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere",
+      "nom": "Violette Nozière",
+      "alias": "L'Empoisonneuse",
+      "dates": "1933–1934",
+      "lieu": "France / Paris",
+      "resume": "Jeune femme de 18 ans qui empoisonna ses parents avec du véronal. Son père mourut, sa mère survécut. Condamnée à mort puis graciée, elle fut libérée en 1945.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "marie_besnard",
+      "nom": "Marie Besnard",
+      "alias": "La Bonne Dame de Loudun",
+      "dates": "1949–1961",
+      "lieu": "France / Loudun (Vienne)",
+      "resume": "Accusée d'avoir empoisonné 12 membres de son entourage à l'arsenic. Après trois procès et 12 ans de procédure, elle fut finalement acquittée en 1961.",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "seznec",
+      "nom": "Guillaume Seznec",
+      "alias": "L'Affaire Seznec",
+      "dates": "1923–1927",
+      "lieu": "France / Bretagne",
+      "resume": "Condamné aux travaux forcés à perpétuité pour le meurtre présumé du conseiller général Pierre Quéméneur en 1923, malgré l'absence de corps. Affaire toujours controversée.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari",
+      "nom": "Albert Spaggiari",
+      "alias": "Le Casse du siècle",
+      "dates": "1976–1977",
+      "lieu": "France / Nice",
+      "resume": "Organisa le braquage de la Société Générale de Nice via les égouts en juillet 1976, dérobant l'équivalent de 30 millions d'euros. S'évada du tribunal en 1977 et mourut en fuite.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre",
+      "nom": "Patrice Alègre",
+      "alias": "Le Tueur de Toulouse",
+      "dates": "1986–1997",
+      "lieu": "France / Toulouse",
+      "resume": "Condamné pour 5 meurtres et plusieurs viols commis à Toulouse entre 1986 et 1997. Condamné à la réclusion criminelle à perpétuité en 2002.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dupont_ligonnes",
+      "nom": "Xavier Dupont de Ligonnès",
+      "alias": "L'Affaire Dupont de Ligonnès",
+      "dates": "2011–présent",
+      "lieu": "France / Nantes",
+      "resume": "Xavier Dupont de Ligonnès est soupçonné d'avoir tué sa femme et ses quatre enfants à Nantes en avril 2011 avant de disparaître. Il n'a jamais été retrouvé ni jugé.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "troadec",
+      "nom": "Hubert Caouissin",
+      "alias": "L'Affaire Troadec",
+      "dates": "2017–2019",
+      "lieu": "France / Orvault (Loire-Atlantique)",
+      "resume": "Hubert Caouissin a massacré les quatre membres de la famille Troadec, sa belle-famille, en février 2017. Condamné à 25 ans de réclusion criminelle en 2019.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos",
+      "nom": "Carlos",
+      "alias": "Le Chacal",
+      "dates": "1973–1994",
+      "lieu": "International / France",
+      "resume": "Ilich Ramírez Sánchez, dit Carlos le Chacal, terroriste vénézuélien responsable d'attentats et de meurtres en Europe. Arrêté au Soudan en 1994, condamné à perpétuité en France.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "jacqueline_sauvage",
+      "nom": "Jacqueline Sauvage",
+      "alias": "L'Affaire Jacqueline Sauvage",
+      "dates": "2012–2016",
+      "lieu": "France / Vendôme (Loir-et-Cher)",
+      "resume": "Jacqueline Sauvage a tué son mari violent en 2012 après des décennies de violences. Condamnée à 10 ans de réclusion, elle bénéficia d'une grâce partielle puis totale du président Hollande.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux",
+      "nom": "Marc Dutroux",
+      "alias": "Le Monstre de Marcinelle",
+      "dates": "1986–1996",
+      "lieu": "Belgique / Charleroi",
+      "resume": "A enlevé, séquestré et tué des fillettes en Belgique. Quatre enfants furent retrouvés morts. Condamné à la réclusion criminelle à perpétuité en 2004.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl",
+      "nom": "Josef Fritzl",
+      "alias": "L'Affaire Fritzl",
+      "dates": "1984–2008",
+      "lieu": "Autriche / Amstetten",
+      "resume": "A séquestré sa propre fille dans une cave pendant 24 ans à Amstetten. Sept enfants naquirent de cette séquestration. Condamné à perpétuité en 2009.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik",
+      "nom": "Anders Breivik",
+      "alias": "Le 22 juillet",
+      "dates": "2011",
+      "lieu": "Norvège / Oslo et Utøya",
+      "resume": "Le 22 juillet 2011, Anders Breivik perpétra un attentat à Oslo puis une fusillade sur l'île d'Utøya, faisant 77 victimes. Condamné à 21 ans de détention préventive en Norvège.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson",
+      "nom": "Charles Manson",
+      "alias": "La Famille Manson",
+      "dates": "1969–1971",
+      "lieu": "États-Unis / Los Angeles",
+      "resume": "Chef d'une secte californienne, il ordonna les meurtres Tate-LaBianca en août 1969. Condamné à mort, sa peine fut commuée en perpétuité. Il mourut en prison en 2017.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy",
+      "nom": "Ted Bundy",
+      "alias": "Le Séducteur tueur",
+      "dates": "1974–1978",
+      "lieu": "États-Unis",
+      "resume": "Tueur en série américain ayant avoué 30 meurtres de femmes dans plusieurs États. Après plusieurs évasions, il fut exécuté sur la chaise électrique en janvier 1989.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dahmer",
+      "nom": "Jeffrey Dahmer",
+      "alias": "Le Monstre de Milwaukee",
+      "dates": "1978–1991",
+      "lieu": "États-Unis / Milwaukee",
+      "resume": "Tueur en série américain responsable de 17 meurtres, pratiquant également le cannibalisme. Condamné à 15 réclusions à perpétuité, il fut tué en prison en 1994.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "oj_simpson",
+      "nom": "O.J. Simpson",
+      "alias": "Le Procès du siècle",
+      "dates": "1994–1995",
+      "lieu": "États-Unis / Los Angeles",
+      "resume": "L'ex-star du football américain fut accusé du meurtre de son ex-femme Nicole Brown Simpson et de Ron Goldman en 1994. Il fut acquitté au pénal en 1995 dans le procès le plus médiatisé de l'histoire américaine.",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "jack_eventreur",
+      "nom": "Jack l'Éventreur",
+      "alias": "The Ripper",
+      "dates": "1888",
+      "lieu": "Royaume-Uni / Londres",
+      "resume": "Tueur en série non identifié ayant commis au moins 5 meurtres de femmes dans le quartier de Whitechapel à Londres en 1888. Son identité n'a jamais été établie.",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

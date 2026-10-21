@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "patrice_alegre_qcm_001",
+      "affaire_id": "patrice_alegre",
+      "module": "qcm",
+      "question": "Dans quelle ville du sud de la France Patrice Alègre commit-il ses crimes entre 1989 et 1997 ?",
+      "propositions": ["Toulouse", "Montpellier", "Bordeaux", "Perpignan"],
+      "bonne_reponse": "Toulouse",
+      "explication": "Patrice Alègre commit ses crimes à Toulouse entre 1989 et 1997. Il fut condamné pour 5 meurtres et plusieurs viols, et fut reconnu comme l'un des tueurs en série les plus dangereux de France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1989-1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://www.lemonde.fr/archives/patrice-alegre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre_vf_001",
+      "affaire_id": "patrice_alegre",
+      "module": "vrai_faux",
+      "affirmation": "Patrice Alègre fut condamné à la réclusion criminelle à perpétuité.",
+      "bonne_reponse": true,
+      "explication": "En 2002, Patrice Alègre fut condamné à la réclusion criminelle à perpétuité pour 5 meurtres et plusieurs viols commis à Toulouse entre 1989 et 1997.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://www.lefigaro.fr/archives/patrice-alegre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre_qcm_002",
+      "affaire_id": "patrice_alegre",
+      "module": "qcm",
+      "question": "Quelle polémique majeure agita l'affaire Alègre après sa condamnation ?",
+      "propositions": ["Des allégations impliquant des personnalités politiques et judiciaires de Toulouse", "Des doutes sur son ADN retrouvé sur les scènes de crime", "Des accusations de torture lors de sa garde à vue", "L'innocence prétendue d'un co-accusé"],
+      "bonne_reponse": "Des allégations impliquant des personnalités politiques et judiciaires de Toulouse",
+      "explication": "Après sa condamnation, Alègre formula des allégations impliquant des notables toulousains dans des partouzes criminelles. Ces accusations, non prouvées, déclenchèrent une polémique nationale impliquant notamment la journaliste Patrice Noviello.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2002-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://www.lemonde.fr/archives/patrice-alegre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre_vf_002",
+      "affaire_id": "patrice_alegre",
+      "module": "vrai_faux",
+      "affirmation": "Les allégations d'Alègre visant des notables toulousains furent confirmées par la justice.",
+      "bonne_reponse": false,
+      "explication": "Les allégations d'Alègre visant des personnalités politiques et judiciaires de Toulouse ne furent jamais corroborées par des preuves et furent classées sans suite par la justice.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2002-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://www.liberation.fr/archives/patrice-alegre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre_qsj_001",
+      "affaire_id": "patrice_alegre",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série qui a sévi à Toulouse dans les années 1990.",
+        "J'ai été condamné à perpétuité pour 5 meurtres.",
+        "Mes accusations post-condamnation ont déclenché une crise politique locale.",
+        "Mon nom est associé au scandale «l'affaire dans l'affaire» de Toulouse."
+      ],
+      "propositions": ["Patrice Alègre", "Marc Dutroux", "Guy Georges", "Francis Heaulme"],
+      "bonne_reponse": "Patrice Alègre",
+      "explication": "Patrice Alègre, condamné à perpétuité en 2002 pour des crimes commis à Toulouse, déclencha une polémique nationale avec ses allégations visant des notables. Ces accusations furent classées sans suite.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://www.lemonde.fr/archives/patrice-alegre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrice_alegre_duel_001",
+      "affaire_id": "patrice_alegre",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels toulousains a semé le plus de victimes ?",
+      "item_a": "Patrice Alègre (5 meurtres, 1989-1997)",
+      "item_b": "Mohamed Merah (7 victimes, 2012)",
+      "bonne_reponse": "b",
+      "explication": "Mohamed Merah tua 7 personnes en mars 2012 à Toulouse et Montauban. Patrice Alègre fut condamné pour 5 meurtres sur une période de 8 ans entre 1989 et 1997.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrice_Al%C3%A8gre",
+        "https://fr.wikipedia.org/wiki/Mohamed_Merah"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "manson_qcm_001",
+      "affaire_id": "manson",
+      "module": "qcm",
+      "question": "Comment s'appelait la communauté fondée par Charles Manson ?",
+      "propositions": ["La Famille", "Les Enfants de Dieu", "La Fraternité", "Le Clan Manson"],
+      "bonne_reponse": "La Famille",
+      "explication": "Charles Manson dirigeait une communauté sectaire qu'il appelait «La Famille» (The Family), installée d'abord à San Francisco, puis à Spahn Ranch en Californie.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1967-1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://www.lemonde.fr/archives/manson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson_vf_001",
+      "affaire_id": "manson",
+      "module": "vrai_faux",
+      "affirmation": "Charles Manson tua lui-même les victimes lors des meurtres de 1969.",
+      "bonne_reponse": false,
+      "explication": "Manson n'assassina pas lui-même les victimes. Il ordonna à des membres de «La Famille» de commettre les meurtres. Il fut néanmoins reconnu coupable de complicité de meurtre pour son rôle de commanditaire.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://www.lefigaro.fr/archives/manson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson_qcm_002",
+      "affaire_id": "manson",
+      "module": "qcm",
+      "question": "Quelle célèbre actrice fut parmi les victimes des meurtres du clan Manson en 1969 ?",
+      "propositions": ["Sharon Tate", "Jane Fonda", "Marilyn Monroe", "Janis Joplin"],
+      "bonne_reponse": "Sharon Tate",
+      "explication": "Sharon Tate, actrice et femme enceinte de 8 mois, épouse du réalisateur Roman Polanski, fut assassinée le 9 août 1969 avec quatre autres personnes dans sa villa de Bel Air par des membres de la «Famille» Manson.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://www.lemonde.fr/archives/manson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson_vf_002",
+      "affaire_id": "manson",
+      "module": "vrai_faux",
+      "affirmation": "Charles Manson fut condamné à mort, puis cette peine fut commuée en réclusion à perpétuité.",
+      "bonne_reponse": true,
+      "explication": "Manson fut condamné à mort en 1971. En 1972, la Cour suprême de Californie suspendit la peine de mort, commutant automatiquement toutes les condamnations en réclusion à perpétuité. Manson mourut en prison en 2017.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1971-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://www.liberation.fr/archives/manson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson_qsj_001",
+      "affaire_id": "manson",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis le gourou d'une secte californienne dans les années 1960.",
+        "J'ai ordonné des meurtres mais n'ai pas tué de mes propres mains.",
+        "Une actrice célèbre et enceinte fut parmi mes victimes.",
+        "Je suis mort en prison en 2017 après avoir passé plus de 45 ans derrière les barreaux."
+      ],
+      "propositions": ["Charles Manson", "David Koresh", "Jim Jones", "Marshall Applewhite"],
+      "bonne_reponse": "Charles Manson",
+      "explication": "Charles Manson, leader de «La Famille», fut condamné pour avoir orchestré plusieurs meurtres en 1969, dont celui de Sharon Tate. Il mourut en prison en novembre 2017 à l'âge de 83 ans.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1967-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://www.lemonde.fr/archives/manson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "manson_duel_001",
+      "affaire_id": "manson",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels américains est décédé en prison ?",
+      "item_a": "Charles Manson (mort en 2017)",
+      "item_b": "Ted Bundy (exécuté en 1989)",
+      "bonne_reponse": "a",
+      "explication": "Charles Manson mourut de causes naturelles en prison en novembre 2017. Ted Bundy fut exécuté sur la chaise électrique le 24 janvier 1989 en Floride.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1989-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charles_Manson",
+        "https://fr.wikipedia.org/wiki/Ted_Bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

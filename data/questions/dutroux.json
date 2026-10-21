@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "dutroux_qcm_001",
+      "affaire_id": "dutroux",
+      "module": "qcm",
+      "question": "Dans quel pays Marc Dutroux commit-il ses crimes ?",
+      "propositions": ["Belgique", "France", "Pays-Bas", "Luxembourg"],
+      "bonne_reponse": "Belgique",
+      "explication": "Marc Dutroux commit ses crimes en Belgique, principalement dans la province du Hainaut. Son affaire provoqua une crise institutionnelle majeure en Belgique en 1996.",
+      "difficulte": 1,
+      "pays": "BE",
+      "epoque": "1986-1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.lemonde.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux_vf_001",
+      "affaire_id": "dutroux",
+      "module": "vrai_faux",
+      "affirmation": "L'affaire Dutroux provoqua une marche blanche de 300 000 personnes en Belgique.",
+      "bonne_reponse": true,
+      "explication": "En octobre 1996, environ 300 000 personnes défilèrent à Bruxelles lors de la «Marche blanche», la plus grande manifestation de l'histoire belge. Elle exprimait la colère face aux dysfonctionnements judiciaires et policiers révélés par l'affaire.",
+      "difficulte": 1,
+      "pays": "BE",
+      "epoque": "1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.lefigaro.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux_qcm_002",
+      "affaire_id": "dutroux",
+      "module": "qcm",
+      "question": "Combien de fillettes Marc Dutroux fut-il condamné pour avoir séquestrées et tuées ?",
+      "propositions": ["6 séquestrées dont 4 mortes", "3 mortes", "8 victimes connues", "2 mortes, 4 survivantes"],
+      "bonne_reponse": "6 séquestrées dont 4 mortes",
+      "explication": "Dutroux séquestra 6 fillettes dans ses maisons. Deux survécurent (Sabine Dardenne et Laetitia Delhez). Quatre périrent : Julie Lejeune, Mélissa Russo (de faim pendant son incarcération) et An Marchal, Eefje Lambrecks (assassinées).",
+      "difficulte": 2,
+      "pays": "BE",
+      "epoque": "1995-1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.lemonde.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux_vf_002",
+      "affaire_id": "dutroux",
+      "module": "vrai_faux",
+      "affirmation": "Dutroux était en prison pour un autre crime lorsque deux de ses victimes moururent de faim.",
+      "bonne_reponse": true,
+      "explication": "Dutroux était incarcéré pour vol de voitures lorsque Julie Lejeune et Mélissa Russo moururent de faim dans sa cave en 1996. Le fait que la police n'ait pas fouillé ses propriétés malgré des signalements créa un scandale.",
+      "difficulte": 2,
+      "pays": "BE",
+      "epoque": "1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.liberation.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux_qsj_001",
+      "affaire_id": "dutroux",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un criminel belge dont l'affaire provoqua une crise institutionnelle en 1996.",
+        "Deux de mes victimes survécurent à leur séquestration dans ma cave.",
+        "Mon arrestation fut précédée d'une gigantesque marche populaire.",
+        "Je fus condamné à la réclusion criminelle à perpétuité en 2004."
+      ],
+      "propositions": ["Marc Dutroux", "Josef Fritzl", "Robert Black", "Fred West"],
+      "bonne_reponse": "Marc Dutroux",
+      "explication": "Marc Dutroux, condamné en 2004 à la réclusion à perpétuité, séquestra et tua des fillettes en Belgique. L'affaire déclencha la plus grande manifestation de l'histoire belge en 1996.",
+      "difficulte": 1,
+      "pays": "BE",
+      "epoque": "1986-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.lemonde.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dutroux_chron_001",
+      "affaire_id": "dutroux",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Dutroux.",
+      "evenements": [
+        { "label": "Enlèvement de Julie et Mélissa", "date_iso": "1995-06-24" },
+        { "label": "Découverte des fillettes survivantes par la police", "date_iso": "1996-08-15" },
+        { "label": "Marche blanche de 300 000 personnes à Bruxelles", "date_iso": "1996-10-20" },
+        { "label": "Condamnation à la réclusion criminelle à perpétuité", "date_iso": "2004-06-22" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Enlèvement de Julie et Mélissa en juin 1995, découverte des survivantes en août 1996, marche blanche en octobre 1996 et condamnation en juin 2004.",
+      "difficulte": 2,
+      "pays": "BE",
+      "epoque": "1995-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marc_Dutroux",
+        "https://www.lemonde.fr/archives/dutroux"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

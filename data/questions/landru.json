@@ -1,0 +1,192 @@
+{
+  "questions": [
+    {
+      "id": "landru_qsj_001",
+      "affaire_id": "landru",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai séduit des femmes via des petites annonces dans les journaux.",
+        "Mon surnom évoque un personnage de conte qui tue ses épouses.",
+        "J'ai brûlé les corps de mes victimes dans ma villa à Gambais.",
+        "J'ai été guillotiné en 1922 pour 11 meurtres."
+      ],
+      "propositions": ["Henri Désiré Landru", "Marcel Petiot", "Albert Fish", "Fritz Haarmann"],
+      "bonne_reponse": "Henri Désiré Landru",
+      "explication": "Henri Désiré Landru, surnommé le Barbe-Bleue de Gambais, séduisait des veuves de la Première Guerre mondiale et les assassinait pour s'emparer de leurs biens. Guillotiné le 25 février 1922.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1915-1922",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lemonde.fr/archives/article/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_qcm_001",
+      "affaire_id": "landru",
+      "module": "qcm",
+      "question": "Quel est le surnom de Henri Désiré Landru ?",
+      "propositions": ["Le Barbe-Bleue de Gambais", "L'Ogre de Paris", "Le Fantôme de la Marne", "Le Veuf joyeux"],
+      "bonne_reponse": "Le Barbe-Bleue de Gambais",
+      "explication": "Son surnom fait référence au conte Barbe-Bleue de Perrault, dont le personnage tue successivement ses épouses. Sa villa de Gambais, en Seine-et-Oise, servait de lieu de crime.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1915-1922",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lefigaro.fr/histoire/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_vf_001",
+      "affaire_id": "landru",
+      "module": "vrai_faux",
+      "affirmation": "Landru a été arrêté grâce à une dénonciation de l'une de ses victimes qui avait survécu.",
+      "bonne_reponse": false,
+      "explication": "Landru fut arrêté en 1919 après que la sœur d'une disparue eut signalé l'avoir vu en compagnie de son frère de crime présumé. Aucune victime ne survécut.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1919",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lemonde.fr/archives/article/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_vf_002",
+      "affaire_id": "landru",
+      "module": "vrai_faux",
+      "affirmation": "Landru a été officiellement condamné pour 11 meurtres.",
+      "bonne_reponse": true,
+      "explication": "Landru fut reconnu coupable de 11 meurtres lors de son procès en 1921. Il nia jusqu'au bout avoir tué quiconque, malgré des preuves accablantes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1921",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lefigaro.fr/histoire/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_qcm_002",
+      "affaire_id": "landru",
+      "module": "qcm",
+      "question": "Comment Landru choisissait-il ses victimes ?",
+      "propositions": ["Via des petites annonces matrimoniales", "Dans les bars de Montmartre", "Par le biais d'une agence matrimoniale officielle", "En ciblant des femmes seules dans les gares"],
+      "bonne_reponse": "Via des petites annonces matrimoniales",
+      "explication": "Landru publiait des petites annonces dans les journaux pour rencontrer des veuves et femmes seules, se faisant passer pour un veuf cherchant à se remarier.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1915-1919",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.liberation.fr/histoire/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_vf_003",
+      "affaire_id": "landru",
+      "module": "vrai_faux",
+      "affirmation": "Landru a avoué ses crimes avant d'être guillotiné.",
+      "bonne_reponse": false,
+      "explication": "Landru nia ses crimes jusqu'au bout, maintenant son innocence même au pied de la guillotine. Il emporta ses secrets dans la tombe.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1922",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lemonde.fr/archives/article/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_qcm_003",
+      "affaire_id": "landru",
+      "module": "qcm",
+      "question": "Dans quelle ville se trouvait la villa de Landru où il brûlait les corps ?",
+      "propositions": ["Gambais", "Versailles", "Chartres", "Rambouillet"],
+      "bonne_reponse": "Gambais",
+      "explication": "La villa de Gambais, en Seine-et-Oise, était le principal lieu de crime de Landru. C'est là qu'il brûlait les restes de ses victimes dans le four de la cuisine.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1915-1919",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lefigaro.fr/histoire/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_duel_001",
+      "affaire_id": "landru",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels français a été guillotiné le premier ?",
+      "item_a": "Henri Désiré Landru (guillotiné en 1922)",
+      "item_b": "Marcel Petiot (guillotiné en 1946)",
+      "bonne_reponse": "a",
+      "explication": "Landru fut guillotiné le 25 février 1922, soit 24 ans avant Marcel Petiot, exécuté le 25 mai 1946.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1922-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://fr.wikipedia.org/wiki/Marcel_Petiot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_chron_001",
+      "affaire_id": "landru",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes clés de l'affaire Landru.",
+      "evenements": [
+        { "label": "Publication des premières petites annonces matrimoniales", "date_iso": "1914-01-01" },
+        { "label": "Arrestation de Landru à Paris", "date_iso": "1919-04-12" },
+        { "label": "Procès devant la cour d'assises de Versailles", "date_iso": "1921-11-07" },
+        { "label": "Exécution par la guillotine", "date_iso": "1922-02-25" }
+      ],
+      "bonne_reponse": null,
+      "explication": "L'affaire couvre une décennie : petites annonces dès 1914, arrestation en 1919, procès en 1921, exécution en février 1922.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1914-1922",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lemonde.fr/archives/article/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "landru_qcm_004",
+      "affaire_id": "landru",
+      "module": "qcm",
+      "question": "Combien de victimes Landru fut-il officiellement condamné pour avoir assassinées ?",
+      "propositions": ["7", "11", "15", "18"],
+      "bonne_reponse": "11",
+      "explication": "Landru fut reconnu coupable de 11 assassinats, dont 10 femmes et le fils de l'une d'elles. Il est soupçonné d'avoir fait davantage de victimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1915-1922",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
+        "https://www.lefigaro.fr/histoire/landru"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

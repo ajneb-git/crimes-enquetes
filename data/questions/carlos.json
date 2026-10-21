@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "carlos_qcm_001",
+      "affaire_id": "carlos",
+      "module": "qcm",
+      "question": "De quel pays Carlos «l'Illich» Ramírez Sánchez était-il originaire ?",
+      "propositions": ["Venezuela", "Cuba", "Colombie", "Argentine"],
+      "bonne_reponse": "Venezuela",
+      "explication": "Carlos, de son vrai nom Ilich Ramírez Sánchez, est né à Caracas au Venezuela en 1949. Il devint l'un des terroristes les plus recherchés au monde dans les années 1970 et 1980.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1970-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.lemonde.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos_vf_001",
+      "affaire_id": "carlos",
+      "module": "vrai_faux",
+      "affirmation": "Carlos fut arrêté au Soudan et extradé vers la France en 1994.",
+      "bonne_reponse": true,
+      "explication": "En août 1994, Carlos fut capturé à Khartoum au Soudan lors d'une opération menée par les services secrets français en collaboration avec les autorités soudanaises, et transféré en France.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.lefigaro.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos_qcm_002",
+      "affaire_id": "carlos",
+      "module": "qcm",
+      "question": "Quelle action terroriste retentissante Carlos mena-t-il en 1975 ?",
+      "propositions": ["La prise d'otages des ministres de l'OPEP à Vienne", "L'attentat de l'aéroport de Rome", "Le détournement d'Air France vers Entebbe", "L'attentat de la gare de Bologne"],
+      "bonne_reponse": "La prise d'otages des ministres de l'OPEP à Vienne",
+      "explication": "En décembre 1975, Carlos dirigea la prise d'otages des ministres de l'OPEP réunis à Vienne, prenant 60 personnes en otage dont onze ministres du pétrole. Cette action le rendit mondialement célèbre.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.lemonde.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos_vf_002",
+      "affaire_id": "carlos",
+      "module": "vrai_faux",
+      "affirmation": "Carlos fut condamné à plusieurs reprises à la réclusion criminelle à perpétuité en France.",
+      "bonne_reponse": true,
+      "explication": "Carlos fut condamné trois fois à la réclusion à perpétuité par la justice française : en 1997 pour les meurtres de deux agents de la DST en 1975, en 2011 et en 2017 pour des attentats commis en France dans les années 1980.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1997-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.liberation.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos_qsj_001",
+      "affaire_id": "carlos",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un terroriste vénézuélien qui a sévi dans les années 1970-1980.",
+        "Ma prise d'otages de l'OPEP à Vienne en 1975 m'a rendu célèbre dans le monde entier.",
+        "J'ai été capturé au Soudan en 1994 par les services secrets français.",
+        "J'ai été condamné trois fois à la perpétuité en France."
+      ],
+      "propositions": ["Carlos l'Illich", "Abu Nidal", "Abou Abbas", "Yasser Arafat"],
+      "bonne_reponse": "Carlos l'Illich",
+      "explication": "Carlos, né Ilich Ramírez Sánchez, fut l'un des terroristes les plus recherchés au monde pendant vingt ans. Capturé en 1994, il fut condamné trois fois à perpétuité par la justice française.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1970-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.lemonde.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "carlos_chron_001",
+      "affaire_id": "carlos",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes majeures de la carrière criminelle de Carlos.",
+      "evenements": [
+        { "label": "Prise d'otages des ministres de l'OPEP à Vienne", "date_iso": "1975-12-21" },
+        { "label": "Capture au Soudan et transfert en France", "date_iso": "1994-08-14" },
+        { "label": "Première condamnation à la perpétuité en France", "date_iso": "1997-12-23" },
+        { "label": "Troisième condamnation à perpétuité pour attentats en France", "date_iso": "2017-03-28" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Prise d'otages OPEP en 1975, capture en 1994, première perpétuité en 1997 et troisième condamnation en 2017.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Carlos_(terroriste)",
+        "https://www.lemonde.fr/archives/carlos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

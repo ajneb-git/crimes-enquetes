@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "seznec_qcm_001",
+      "affaire_id": "seznec",
+      "module": "qcm",
+      "question": "De quelle région française était originaire Guillaume Seznec, condamné pour meurtre en 1924 ?",
+      "propositions": ["Bretagne", "Normandie", "Vendée", "Pays basque"],
+      "bonne_reponse": "Bretagne",
+      "explication": "Guillaume Seznec était un marchand de bois breton, originaire du Finistère. Son affaire est l'une des plus controversées de la justice française du XXe siècle.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1923-1924",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://www.lemonde.fr/archives/affaire-seznec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "seznec_vf_001",
+      "affaire_id": "seznec",
+      "module": "vrai_faux",
+      "affirmation": "Guillaume Seznec fut condamné aux travaux forcés à perpétuité en Guyane.",
+      "bonne_reponse": true,
+      "explication": "Condamné aux travaux forcés à perpétuité en 1924 pour le meurtre de Pierre Quéméneur, Seznec fut envoyé au bagne de Guyane. Il rentra en France en 1946 et mourut en 1954 sans avoir été réhabilité.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1924-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://www.lefigaro.fr/archives/affaire-seznec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "seznec_qcm_002",
+      "affaire_id": "seznec",
+      "module": "qcm",
+      "question": "Qui disparut mystérieusement lors d'un voyage avec Seznec en 1923 ?",
+      "propositions": ["Pierre Quéméneur", "Jean Laval", "Hervé Morvan", "Paul Dupont"],
+      "bonne_reponse": "Pierre Quéméneur",
+      "explication": "Pierre Quéméneur, conseiller général du Finistère, disparut lors d'un voyage en voiture avec Seznec en mai 1923. Son corps ne fut jamais retrouvé. Cette disparition resta au cœur du mystère de l'affaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1923",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://www.lemonde.fr/archives/affaire-seznec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "seznec_vf_002",
+      "affaire_id": "seznec",
+      "module": "vrai_faux",
+      "affirmation": "La famille de Guillaume Seznec a obtenu sa réhabilitation posthume de la justice française.",
+      "bonne_reponse": false,
+      "explication": "Malgré de nombreuses demandes en révision portées par ses descendants, dont son petit-fils Denis Seznec, Guillaume Seznec n'a jamais été officiellement réhabilité. La justice a refusé chaque demande de révision.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1954-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://www.liberation.fr/archives/affaire-seznec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "seznec_qsj_001",
+      "affaire_id": "seznec",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un Breton condamné en 1924 pour un meurtre dont le corps ne fut jamais retrouvé.",
+        "J'ai passé des années au bagne de Guyane.",
+        "Mon petit-fils s'est battu toute sa vie pour obtenir ma réhabilitation.",
+        "Certains pensent que j'ai été victime d'un montage judiciaire."
+      ],
+      "propositions": ["Guillaume Seznec", "Gaston Dominici", "Marie Besnard", "Charles Guillet"],
+      "bonne_reponse": "Guillaume Seznec",
+      "explication": "Guillaume Seznec, marchand de bois breton, fut condamné en 1924 pour le meurtre de Pierre Quéméneur. Envoyé au bagne, il revint en 1946 et mourut sans réhabilitation. L'affaire est encore un sujet de controverse.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1923-1954",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://www.lemonde.fr/archives/affaire-seznec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "seznec_duel_001",
+      "affaire_id": "seznec",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires concerne une condamnation dont la victime du crime n'a jamais été retrouvée ?",
+      "item_a": "L'affaire Seznec (1923-1924)",
+      "item_b": "L'affaire Dominici (1952-1954)",
+      "bonne_reponse": "a",
+      "explication": "Dans l'affaire Seznec, le corps de Pierre Quéméneur ne fut jamais retrouvé. Seznec fut malgré tout condamné. Dans l'affaire Dominici, les corps de la famille Drummond avaient bien été découverts.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1923-1952",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Seznec",
+        "https://fr.wikipedia.org/wiki/Affaire_Dominici"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

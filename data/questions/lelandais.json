@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": "lelandais_qcm_001",
+      "affaire_id": "lelandais",
+      "module": "qcm",
+      "question": "Quelle petite fille de 8 ans fut la victime la plus connue de Nordahl Lelandais ?",
+      "propositions": ["Maëlys de Araujo", "Angélique Renard", "Nora Bédir", "Emma Glomot"],
+      "bonne_reponse": "Maëlys de Araujo",
+      "explication": "Maëlys de Araujo, 8 ans, disparut lors d'un mariage à Pont-de-Beauvoisin (Isère) en août 2017. Nordahl Lelandais fut identifié grâce à des images de vidéosurveillance et à l'ADN de la fillette retrouvé dans son véhicule.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2019",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.lemonde.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_vf_001",
+      "affaire_id": "lelandais",
+      "module": "vrai_faux",
+      "affirmation": "Nordahl Lelandais fut également condamné pour le meurtre d'un militaire du nom d'Arthur Noyer.",
+      "bonne_reponse": true,
+      "explication": "En plus de Maëlys, Lelandais fut condamné pour le meurtre du caporal Arthur Noyer, retrouvé mort en 2017. L'enchaînement de ces deux affaires révéla la dangerosité extrême de cet individu.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.lefigaro.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_qcm_002",
+      "affaire_id": "lelandais",
+      "module": "qcm",
+      "question": "Comment Lelandais fut-il identifié comme suspect dans l'affaire Maëlys ?",
+      "propositions": ["Par la vidéosurveillance et l'ADN de la fillette dans son véhicule", "Par un témoin qui l'avait vu partir avec l'enfant", "Par son propre aveu spontané à la police", "Par ses empreintes retrouvées sur la scène de crime"],
+      "bonne_reponse": "Par la vidéosurveillance et l'ADN de la fillette dans son véhicule",
+      "explication": "Des images de vidéosurveillance montraient Maëlys quittant la salle de mariage avec Lelandais. L'ADN de la fillette fut retrouvé dans son véhicule, le plaçant directement en lien avec sa disparition.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.lemonde.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_vf_002",
+      "affaire_id": "lelandais",
+      "module": "vrai_faux",
+      "affirmation": "Nordahl Lelandais était un ancien militaire au moment des faits.",
+      "bonne_reponse": true,
+      "explication": "Nordahl Lelandais était un ancien militaire reconverti en maître-chien. Cette précision eut son importance car sa victime Arthur Noyer était un militaire en activité.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.liberation.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_qsj_001",
+      "affaire_id": "lelandais",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un ancien militaire et maître-chien originaire de la région grenobloise.",
+        "J'ai été identifié grâce à la vidéosurveillance d'un mariage en Isère.",
+        "J'ai tué une fillette de 8 ans dont le prénom commence par «M».",
+        "J'ai été condamné à deux reprises à la réclusion criminelle à perpétuité."
+      ],
+      "propositions": ["Nordahl Lelandais", "Jonathann Daval", "Francis Heaulme", "Marc Dutroux"],
+      "bonne_reponse": "Nordahl Lelandais",
+      "explication": "Nordahl Lelandais fut condamné en 2021 à la perpétuité pour le meurtre de Maëlys de Araujo, puis de nouveau en 2022 pour le meurtre du caporal Arthur Noyer.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.lemonde.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_chron_001",
+      "affaire_id": "lelandais",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Lelandais.",
+      "evenements": [
+        { "label": "Meurtre du caporal Arthur Noyer", "date_iso": "2017-04-12" },
+        { "label": "Disparition de Maëlys lors d'un mariage à Pont-de-Beauvoisin", "date_iso": "2017-08-27" },
+        { "label": "Arrestation de Nordahl Lelandais", "date_iso": "2017-09-06" },
+        { "label": "Condamnation à perpétuité pour le meurtre de Maëlys", "date_iso": "2021-05-31" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Lelandais tua Arthur Noyer en avril 2017, puis Maëlys en août 2017. Il fut arrêté en septembre 2017 et condamné à la perpétuité pour Maëlys en mai 2021.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://www.lemonde.fr/archives/lelandais"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lelandais_duel_001",
+      "affaire_id": "lelandais",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels français a été condamné à deux reprises à la réclusion criminelle à perpétuité ?",
+      "item_a": "Nordahl Lelandais (meurtres de 2017)",
+      "item_b": "Jonathann Daval (meurtre de sa femme en 2017)",
+      "bonne_reponse": "a",
+      "explication": "Nordahl Lelandais fut condamné deux fois à perpétuité (pour Maëlys en 2021, pour Arthur Noyer en 2022). Jonathann Daval ne fut condamné qu'une fois à 25 ans de réclusion.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ma%C3%ABlys_de_Araujo",
+        "https://fr.wikipedia.org/wiki/Affaire_Daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

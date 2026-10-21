@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "oj_simpson_qcm_001",
+      "affaire_id": "oj_simpson",
+      "module": "qcm",
+      "question": "Quelle était la célébrité d'O.J. Simpson avant le procès qui le rendit mondialement connu ?",
+      "propositions": ["Joueur de football américain", "Acteur de cinéma", "Chanteur de jazz", "Boxeur professionnel"],
+      "bonne_reponse": "Joueur de football américain",
+      "explication": "O.J. Simpson était une star du football américain (NFL), l'un des meilleurs running backs de l'histoire. Il avait également joué dans des films hollywoodiens avant son arrestation en 1994.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1994-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.lemonde.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "oj_simpson_vf_001",
+      "affaire_id": "oj_simpson",
+      "module": "vrai_faux",
+      "affirmation": "O.J. Simpson fut acquitté lors de son procès pénal en 1995.",
+      "bonne_reponse": true,
+      "explication": "Le 3 octobre 1995, après neuf mois de procès et seulement quatre heures de délibération, le jury acquitta O.J. Simpson du meurtre de son ex-femme Nicole Brown Simpson et de son ami Ron Goldman.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.lefigaro.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "oj_simpson_qcm_002",
+      "affaire_id": "oj_simpson",
+      "module": "qcm",
+      "question": "Quelle procédure judiciaire condamna O.J. Simpson civilement après son acquittement pénal ?",
+      "propositions": ["Un procès civil au cours duquel il fut déclaré responsable des meurtres", "Une commission d'enquête fédérale", "Un retrial criminel sous une autre juridiction", "Un jugement par défaut"],
+      "bonne_reponse": "Un procès civil au cours duquel il fut déclaré responsable des meurtres",
+      "explication": "En 1997, un jury civil déclara O.J. Simpson civilement responsable des morts de Nicole Brown Simpson et Ron Goldman, et le condamna à verser 33,5 millions de dollars de dommages et intérêts aux familles.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.lemonde.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "oj_simpson_vf_002",
+      "affaire_id": "oj_simpson",
+      "module": "vrai_faux",
+      "affirmation": "La course-poursuite de la Ford Bronco blanche avec la police fut diffusée en direct à la télévision.",
+      "bonne_reponse": true,
+      "explication": "Le 17 juin 1994, une course-poursuite à très basse vitesse entre la police et O.J. Simpson à bord d'une Ford Bronco blanche sur l'autoroute californienne fut suivie en direct par 95 millions de téléspectateurs.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.liberation.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "oj_simpson_qsj_001",
+      "affaire_id": "oj_simpson",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une ancienne star du sport américain acquittée d'un double meurtre en 1995.",
+        "Ma fuite en Ford Bronco sur une autoroute californienne fut diffusée en direct.",
+        "Un jury civil m'a déclaré responsable des mêmes meurtres deux ans après mon acquittement.",
+        "Mon procès est considéré comme «le procès du siècle» aux États-Unis."
+      ],
+      "propositions": ["O.J. Simpson", "Michael Jackson", "Kobe Bryant", "Mike Tyson"],
+      "bonne_reponse": "O.J. Simpson",
+      "explication": "O.J. Simpson, ex-star de la NFL, fut acquitté du meurtre de son ex-femme Nicole Brown et de Ron Goldman en 1995, mais déclaré civilement responsable en 1997. Il mourut en 2024.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1994-1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.lemonde.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "oj_simpson_duel_001",
+      "affaire_id": "oj_simpson",
+      "module": "duel",
+      "question": "Laquelle de ces deux célébrités fut acquittée d'un meurtre au pénal mais condamnée au civil ?",
+      "item_a": "O.J. Simpson (acquitté en 1995, condamné au civil en 1997)",
+      "item_b": "Michael Jackson (acquitté d'abus en 2005, pas de procès civil pour meurtre)",
+      "bonne_reponse": "a",
+      "explication": "O.J. Simpson fut acquitté au pénal en 1995 mais condamné civilement en 1997 à 33,5 millions de dollars de dommages. Cette double procédure illustra la différence entre responsabilité pénale et civile.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1994-1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/O._J._Simpson",
+        "https://www.lemonde.fr/archives/oj-simpson"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    }
+  ]
+}

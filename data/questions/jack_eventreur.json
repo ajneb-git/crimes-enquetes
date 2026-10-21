@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "jack_eventreur_qcm_001",
+      "affaire_id": "jack_eventreur",
+      "module": "qcm",
+      "question": "Dans quel quartier de Londres Jack l'Éventreur commit-il ses crimes en 1888 ?",
+      "propositions": ["Whitechapel", "Westminster", "Soho", "Shoreditch"],
+      "bonne_reponse": "Whitechapel",
+      "explication": "Jack l'Éventreur sévit dans le quartier pauvre de Whitechapel, dans l'East End de Londres, à l'automne 1888. Ses victimes étaient des prostituées qui travaillaient dans ce secteur défavorisé.",
+      "difficulte": 1,
+      "pays": "GB",
+      "epoque": "1888",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.lemonde.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_vf_001",
+      "affaire_id": "jack_eventreur",
+      "module": "vrai_faux",
+      "affirmation": "L'identité de Jack l'Éventreur est aujourd'hui établie avec certitude par la science.",
+      "bonne_reponse": false,
+      "explication": "Malgré de nombreuses analyses ADN et des centaines de théories au fil des années, l'identité de Jack l'Éventreur n'est toujours pas établie avec certitude. L'affaire reste l'une des plus célèbres non résolues de l'histoire.",
+      "difficulte": 1,
+      "pays": "GB",
+      "epoque": "1888-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.lefigaro.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_qcm_002",
+      "affaire_id": "jack_eventreur",
+      "module": "qcm",
+      "question": "Combien de meurtres sont officiellement attribués à Jack l'Éventreur dans la liste des «victimes canoniques» ?",
+      "propositions": ["5", "7", "11", "3"],
+      "bonne_reponse": "5",
+      "explication": "Cinq victimes sont officiellement reconnues : Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes et Mary Jane Kelly. Elles sont dites «victimes canoniques» par les chercheurs.",
+      "difficulte": 2,
+      "pays": "GB",
+      "epoque": "1888",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.lemonde.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_vf_002",
+      "affaire_id": "jack_eventreur",
+      "module": "vrai_faux",
+      "affirmation": "Des lettres prétendument envoyées par le meurtrier furent adressées à la police en 1888.",
+      "bonne_reponse": true,
+      "explication": "La police et un journaliste reçurent plusieurs lettres signées «Jack the Ripper» en 1888. La plupart sont considérées comme des canulars, mais certaines font encore débat parmi les spécialistes.",
+      "difficulte": 2,
+      "pays": "GB",
+      "epoque": "1888",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.liberation.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_qsj_001",
+      "affaire_id": "jack_eventreur",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un meurtrier victorien dont l'identité reste inconnue plus de 130 ans après mes crimes.",
+        "J'ai sévi dans un quartier pauvre de l'East End de Londres.",
+        "Mes victimes étaient des femmes prostituées.",
+        "Mon nom ne correspond pas à ma véritable identité, mais à un surnom donné par la presse."
+      ],
+      "propositions": ["Jack l'Éventreur", "The Zodiac Killer", "Le Tueur du Périmètre", "The Alphabet Killer"],
+      "bonne_reponse": "Jack l'Éventreur",
+      "explication": "Jack l'Éventreur commit au moins 5 meurtres à Whitechapel en 1888. Malgré plus d'un siècle d'enquêtes et des dizaines de suspects, son identité n'a jamais été formellement établie.",
+      "difficulte": 1,
+      "pays": "GB",
+      "epoque": "1888",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.lemonde.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_duel_001",
+      "affaire_id": "jack_eventreur",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires criminelles est restée non résolue depuis plus d'un siècle ?",
+      "item_a": "L'affaire Jack l'Éventreur (1888)",
+      "item_b": "L'affaire Grégory Villemin (1984)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire Jack l'Éventreur reste non résolue depuis 1888, soit plus de 130 ans. L'affaire Grégory, bien que toujours sans condamnation définitive, est bien plus récente (1984) et une enquête active est toujours en cours.",
+      "difficulte": 1,
+      "pays": "GB",
+      "epoque": "1888-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jack_eventreur_qcm_003",
+      "affaire_id": "jack_eventreur",
+      "module": "qcm",
+      "question": "Quand les meurtres de Jack l'Éventreur ont-ils eu lieu ?",
+      "propositions": ["Entre août et novembre 1888", "Entre 1880 et 1890", "Uniquement en octobre 1888", "De 1887 à 1892"],
+      "bonne_reponse": "Entre août et novembre 1888",
+      "explication": "Les 5 meurtres canoniques se produisirent en un intervalle de 10 semaines, entre le 31 août 1888 (Mary Ann Nichols) et le 9 novembre 1888 (Mary Jane Kelly).",
+      "difficulte": 2,
+      "pays": "GB",
+      "epoque": "1888",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jack_l%27%C3%89ventreur",
+        "https://www.lefigaro.fr/archives/jack-eventreur"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

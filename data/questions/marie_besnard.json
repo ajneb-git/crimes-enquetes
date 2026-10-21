@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "marie_besnard_qcm_001",
+      "affaire_id": "marie_besnard",
+      "module": "qcm",
+      "question": "Quel poison Marie Besnard fut-elle accusée d'avoir utilisé pour tuer ses proches ?",
+      "propositions": ["L'arsenic", "La strychnine", "Le cyanure", "Le plomb"],
+      "bonne_reponse": "L'arsenic",
+      "explication": "Marie Besnard fut accusée d'avoir empoisonné plusieurs membres de sa famille et voisins à l'arsenic. Des autopsies révélèrent des taux élevés d'arsenic dans les corps exhumés de Loudun.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1927-1949",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://www.lemonde.fr/archives/marie-besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "marie_besnard_vf_001",
+      "affaire_id": "marie_besnard",
+      "module": "vrai_faux",
+      "affirmation": "Marie Besnard fut finalement condamnée après trois procès.",
+      "bonne_reponse": false,
+      "explication": "Marie Besnard fut acquittée à l'issue de son troisième procès en 1961. Les experts scientifiques n'avaient pas réussi à s'entendre sur les méthodes d'analyse de l'arsenic, rendant les preuves insuffisantes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1954-1961",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://www.lefigaro.fr/archives/marie-besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "marie_besnard_qcm_002",
+      "affaire_id": "marie_besnard",
+      "module": "qcm",
+      "question": "Combien de victimes Marie Besnard fut-elle accusée d'avoir empoisonnées ?",
+      "propositions": ["12", "7", "5", "20"],
+      "bonne_reponse": "12",
+      "explication": "Marie Besnard fut accusée d'avoir empoisonné 12 personnes, dont deux maris, sa belle-mère et plusieurs voisins à Loudun (Vienne) entre 1927 et 1949.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1927-1949",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://www.lemonde.fr/archives/marie-besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "marie_besnard_vf_002",
+      "affaire_id": "marie_besnard",
+      "module": "vrai_faux",
+      "affirmation": "L'affaire Marie Besnard mit en lumière les limites de la science criminalistique de l'époque.",
+      "bonne_reponse": true,
+      "explication": "L'un des aspects majeurs de cette affaire est la controverse scientifique autour des analyses toxicologiques. Les experts ne s'accordaient pas sur les résultats, illustrant les limites de la criminalistique de l'époque.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1954-1961",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://www.liberation.fr/archives/marie-besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "marie_besnard_qsj_001",
+      "affaire_id": "marie_besnard",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une femme de Loudun accusée d'avoir empoisonné de nombreux membres de ma famille.",
+        "Mon affaire dura plus de dix ans et donna lieu à trois procès.",
+        "La querelle d'experts sur les analyses toxicologiques fut décisive dans mon dossier.",
+        "Je fus finalement acquittée en 1961."
+      ],
+      "propositions": ["Marie Besnard", "Violette Nozière", "Hélène Jegado", "Jeanne Weber"],
+      "bonne_reponse": "Marie Besnard",
+      "explication": "Marie Besnard, surnommée «la Bonne Dame de Loudun», fut accusée de 12 empoisonnements. Après trois procès de 1952 à 1961, elle fut acquittée en raison des controverses expertales.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1949-1961",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://www.lemonde.fr/archives/marie-besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "marie_besnard_duel_001",
+      "affaire_id": "marie_besnard",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires d'empoisonnement s'est conclue par un acquittement ?",
+      "item_a": "L'affaire Marie Besnard (1949-1961)",
+      "item_b": "L'affaire Violette Nozière (1933-1934)",
+      "bonne_reponse": "a",
+      "explication": "Marie Besnard fut acquittée à l'issue de son troisième procès en 1961, les preuves toxicologiques étant jugées insuffisantes. Violette Nozière, elle, fut condamnée puis graciée, non acquittée.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1949-1961",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard",
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    }
+  ]
+}

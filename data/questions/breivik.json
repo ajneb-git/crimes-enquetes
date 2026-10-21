@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "breivik_qcm_001",
+      "affaire_id": "breivik",
+      "module": "qcm",
+      "question": "Dans quel pays Anders Breivik commit-il ses attentats en 2011 ?",
+      "propositions": ["Norvège", "Suède", "Danemark", "Finlande"],
+      "bonne_reponse": "Norvège",
+      "explication": "Le 22 juillet 2011, Anders Behring Breivik commit deux attentats en Norvège : un attentat à la bombe à Oslo et une fusillade dans le camp de jeunes de l'île d'Utøya.",
+      "difficulte": 1,
+      "pays": "NO",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.lemonde.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik_vf_001",
+      "affaire_id": "breivik",
+      "module": "vrai_faux",
+      "affirmation": "Breivik fut condamné à la peine de mort en Norvège.",
+      "bonne_reponse": false,
+      "explication": "La Norvège a aboli la peine de mort. Breivik fut condamné à 21 ans de «forvaring» (détention préventive) en 2012, peine qui peut être renouvelée indéfiniment si l'accusé est toujours jugé dangereux.",
+      "difficulte": 1,
+      "pays": "NO",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.lefigaro.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik_qcm_002",
+      "affaire_id": "breivik",
+      "module": "qcm",
+      "question": "Combien de personnes Breivik tua-t-il lors de la fusillade de l'île d'Utøya ?",
+      "propositions": ["69", "45", "92", "23"],
+      "bonne_reponse": "69",
+      "explication": "Sur l'île d'Utøya, Breivik tua 69 personnes lors d'une fusillade dans un camp de jeunesses du Parti travailliste. Il avait auparavant tué 8 personnes dans l'attentat à la bombe d'Oslo, pour un total de 77 victimes.",
+      "difficulte": 2,
+      "pays": "NO",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.lemonde.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik_vf_002",
+      "affaire_id": "breivik",
+      "module": "vrai_faux",
+      "affirmation": "Les motivations de Breivik étaient d'ordre islamiste.",
+      "bonne_reponse": false,
+      "explication": "Anders Breivik agissait au nom d'une idéologie d'extrême-droite nationaliste et islamophobe. Il voulait cibler le Parti travailliste norvégien qu'il accusait de faciliter «l'islamisation» de l'Europe.",
+      "difficulte": 1,
+      "pays": "NO",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.liberation.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik_qsj_001",
+      "affaire_id": "breivik",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai commis le pire attentat de l'histoire de la Norvège depuis la Seconde Guerre mondiale.",
+        "J'ai tué des jeunes militant dans une île lors d'un camp politique.",
+        "Je suis un extrémiste de droite qui a publié un «manifeste» avant mon passage à l'acte.",
+        "J'ai été condamné à 21 ans de détention renouvelable en 2012."
+      ],
+      "propositions": ["Anders Breivik", "Timothy McVeigh", "Dylan Roof", "Tarrant Brenton"],
+      "bonne_reponse": "Anders Breivik",
+      "explication": "Anders Behring Breivik commit le 22 juillet 2011 deux attentats en Norvège : bombe à Oslo (8 morts) et fusillade à Utøya (69 morts). Il fut condamné à 21 ans de forvaring en 2012.",
+      "difficulte": 1,
+      "pays": "NO",
+      "epoque": "2011-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.lemonde.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "breivik_chron_001",
+      "affaire_id": "breivik",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre les événements du 22 juillet 2011 et de l'affaire Breivik.",
+      "evenements": [
+        { "label": "Attentat à la bombe au quartier gouvernemental d'Oslo", "date_iso": "2011-07-22" },
+        { "label": "Fusillade dans le camp de jeunes d'Utøya", "date_iso": "2011-07-22" },
+        { "label": "Arrestation de Breivik sur l'île d'Utøya", "date_iso": "2011-07-22" },
+        { "label": "Condamnation à 21 ans de forvaring", "date_iso": "2012-08-24" }
+      ],
+      "bonne_reponse": null,
+      "explication": "La bombe à Oslo (15h26), puis la fusillade à Utøya (17h22), l'arrestation sur place et la condamnation le 24 août 2012 sont les étapes clés de l'affaire.",
+      "difficulte": 2,
+      "pays": "NO",
+      "epoque": "2011-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_22_juillet_2011_en_Norv%C3%A8ge",
+        "https://www.lemonde.fr/archives/breivik"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

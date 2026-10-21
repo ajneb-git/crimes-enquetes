@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": "violette_noziere_qcm_001",
+      "affaire_id": "violette_noziere",
+      "module": "qcm",
+      "question": "Qui Violette Nozière empoisonna-t-elle en 1933 ?",
+      "propositions": ["Ses parents", "Son mari", "Son amant", "Sa belle-mère"],
+      "bonne_reponse": "Ses parents",
+      "explication": "Violette Nozière empoisonna ses deux parents avec de la véronal mélangé à du vin en août 1933. Son père mourut, sa mère survécut. L'affaire devint un scandale retentissant dans la France de l'entre-deux-guerres.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1933",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.lemonde.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_vf_001",
+      "affaire_id": "violette_noziere",
+      "module": "vrai_faux",
+      "affirmation": "Violette Nozière fut condamnée à mort mais sa peine fut commuée.",
+      "bonne_reponse": true,
+      "explication": "Condamnée à mort en 1934, la peine de Violette Nozière fut commuée en travaux forcés à perpétuité. Elle fut graciée et libérée en 1945, puis réhabilitée en 1963.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1934-1945",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.lefigaro.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_qcm_002",
+      "affaire_id": "violette_noziere",
+      "module": "qcm",
+      "question": "Violette Nozière prétendait avoir empoisonné son père pour quelle raison ?",
+      "propositions": ["Pour mettre fin à des abus incestueux", "Pour hériter de sa fortune", "Pour vivre librement avec son amant", "Par jalousie envers sa mère"],
+      "bonne_reponse": "Pour mettre fin à des abus incestueux",
+      "explication": "Violette affirma avoir subi des abus sexuels de son père depuis l'enfance et présenta son geste comme une délivrance. Ces allégations furent débattues et contribuèrent à la fascination des surréalistes pour cette affaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1933",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.lemonde.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_vf_002",
+      "affaire_id": "violette_noziere",
+      "module": "vrai_faux",
+      "affirmation": "Les surréalistes français prirent la défense de Violette Nozière.",
+      "bonne_reponse": true,
+      "explication": "André Breton, Paul Éluard et d'autres surréalistes publièrent un recueil de poèmes «Violette Nozière» en 1933, la présentant comme une figure de la révolte contre l'ordre bourgeois et familial.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1933",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.liberation.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_qsj_001",
+      "affaire_id": "violette_noziere",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une jeune Parisienne des années 1930 condamnée pour parricide.",
+        "Les surréalistes m'ont célébrée comme figure de la révolte.",
+        "J'ai prétendu agir pour me libérer d'abus subis depuis l'enfance.",
+        "J'ai été réhabilitée en 1963, trente ans après mon crime."
+      ],
+      "propositions": ["Violette Nozière", "Marie Besnard", "Hélène Jegado", "Jeanne Weber"],
+      "bonne_reponse": "Violette Nozière",
+      "explication": "Violette Nozière empoisonna ses parents en 1933, fut condamnée à mort, graciée, libérée en 1945 et réhabilitée en 1963. Son affaire inspira les surréalistes et le cinéaste Claude Chabrol.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1933-1963",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.lemonde.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_duel_001",
+      "affaire_id": "violette_noziere",
+      "module": "duel",
+      "question": "Laquelle de ces deux empoisonneuses françaises fut finalement réhabilitée par la justice ?",
+      "item_a": "Violette Nozière (réhabilitée en 1963)",
+      "item_b": "Marie Besnard (acquittée, mais non réhabilitée pour les mêmes raisons)",
+      "bonne_reponse": "a",
+      "explication": "Violette Nozière fut formellement réhabilitée en 1963 par la Cour de cassation. Marie Besnard, elle, fut acquittée après trois procès mais sans réhabilitation de la même nature.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1933-1963",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://fr.wikipedia.org/wiki/Affaire_Marie_Besnard"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "violette_noziere_chron_001",
+      "affaire_id": "violette_noziere",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Violette Nozière.",
+      "evenements": [
+        { "label": "Empoisonnement des parents, mort du père", "date_iso": "1933-08-21" },
+        { "label": "Condamnation à mort", "date_iso": "1934-10-12" },
+        { "label": "Libération et grâce présidentielle", "date_iso": "1945-01-01" },
+        { "label": "Réhabilitation par la Cour de cassation", "date_iso": "1963-01-01" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Le crime eut lieu en août 1933, condamnation à mort en 1934, libération en 1945 et réhabilitation officielle en 1963.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1933-1963",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Violette_Nozi%C3%A8re",
+        "https://www.lemonde.fr/archives/violette-noziere"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

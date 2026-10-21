@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crimes & Enquêtes</title>
+
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#b91c1c" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Crimes" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ══════════════════ SCREEN: HOME ══════════════════ -->
+  <section id="screen-home" class="screen">
+    <div class="home-icon">🔍</div>
+    <h1 class="home-title">Crimes & Enquêtes</h1>
+    <p class="home-subtitle">Quiz sur les grandes affaires criminelles</p>
+    <div class="home-buttons">
+      <button id="btn-solo" class="btn-primary">Jouer en solo</button>
+      <button id="btn-multi" class="btn-secondary">Jouer à plusieurs</button>
+    </div>
+    <p class="home-stat" id="loading-status">Chargement…</p>
+  </section>
+
+  <!-- ══════════════════ SCREEN: SOLO SETUP ══════════════════ -->
+  <section id="screen-solo-setup" class="screen">
+    <button class="btn-back" id="btn-back-solo">← Retour</button>
+    <h2>Mode solo</h2>
+
+    <div class="setup-section">
+      <p class="setup-label">Modules</p>
+      <div class="module-checks" id="solo-module-checks"></div>
+    </div>
+
+    <div class="setup-section">
+      <p class="setup-label">Nombre de questions</p>
+      <div class="count-group" id="solo-count-btns">
+        <button class="count-btn" data-count="5">5</button>
+        <button class="count-btn" data-count="10">10</button>
+      </div>
+    </div>
+
+    <button id="btn-solo-start" class="btn-primary">Commencer →</button>
+  </section>
+
+  <!-- ══════════════════ SCREEN: MULTI SETUP ══════════════════ -->
+  <section id="screen-multi-setup" class="screen">
+    <button class="btn-back" id="btn-back-multi">← Retour</button>
+    <h2>Mode multijoueur</h2>
+
+    <div class="setup-section">
+      <p class="setup-label">Nombre de joueurs</p>
+      <div class="count-group" id="multi-player-count-btns">
+        <button class="count-btn" data-count="2">2</button>
+        <button class="count-btn" data-count="3">3</button>
+        <button class="count-btn" data-count="4">4</button>
+      </div>
+    </div>
+
+    <div class="setup-section" id="player-names-section"></div>
+
+    <div class="setup-section">
+      <p class="setup-label">Questions par joueur</p>
+      <div class="count-group" id="multi-rounds-btns">
+        <button class="count-btn" data-count="5">5</button>
+        <button class="count-btn" data-count="10">10</button>
+      </div>
+    </div>
+
+    <div class="setup-section">
+      <p class="setup-label">Modules</p>
+      <div class="module-checks" id="multi-module-checks"></div>
+    </div>
+
+    <button id="btn-multi-start" class="btn-primary">Commencer →</button>
+  </section>
+
+  <!-- ══════════════════ SCREEN: PRIVACY ══════════════════ -->
+  <section id="screen-privacy" class="screen">
+    <div class="privacy-icon">🔒</div>
+    <p class="privacy-label">Au tour de</p>
+    <h2 class="privacy-name" id="privacy-name">Joueur</h2>
+    <p class="privacy-hint">Passe l'appareil, puis appuie pour commencer</p>
+    <button id="btn-privacy-continue" class="btn-primary">C'est parti !</button>
+  </section>
+
+  <!-- ══════════════════ SCREEN: QUESTION ══════════════════ -->
+  <section id="screen-question" class="screen">
+    <div class="question-header">
+      <span class="module-label" id="q-module-label">QCM</span>
+      <span class="q-difficulty" id="q-difficulty">⬥⬥⬦</span>
+      <span class="q-points" id="q-points">2 pts</span>
+    </div>
+    <div class="player-info hidden" id="q-player-info">
+      <span id="q-player-name"></span>
+    </div>
+    <div id="question-content"></div>
+  </section>
+
+  <!-- ══════════════════ SCREEN: RESULT ══════════════════ -->
+  <section id="screen-result" class="screen">
+    <div class="result-icon" id="result-icon">✓</div>
+    <div class="result-pts" id="result-pts">+2 pts</div>
+    <p class="result-explication" id="result-explication"></p>
+    <p class="result-player-score hidden" id="result-player-score"></p>
+    <button id="btn-result-continue" class="btn-primary">Continuer →</button>
+  </section>
+
+  <!-- ══════════════════ SCREEN: END ══════════════════ -->
+  <section id="screen-end" class="screen">
+
+    <div id="end-solo" class="hidden">
+      <h2>Quiz terminé !</h2>
+      <div class="solo-score">
+        <span id="end-score-value">0</span>
+        <span class="score-sep">/</span>
+        <span id="end-score-max">0</span>
+      </div>
+      <p id="end-perf-label"></p>
+    </div>
+
+    <div id="end-multi" class="hidden">
+      <h2>Résultats</h2>
+      <div id="end-podium"></div>
+    </div>
+
+    <div class="end-buttons">
+      <button id="btn-end-replay" class="btn-primary">Rejouer</button>
+      <button id="btn-end-home" class="btn-secondary">Accueil</button>
+    </div>
+
+  </section>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "id": "gregoire_qcm_001",
+      "affaire_id": "gregoire",
+      "module": "qcm",
+      "question": "Dans quel département français le petit Grégory fut-il retrouvé ?",
+      "propositions": ["Vosges", "Moselle", "Meurthe-et-Moselle", "Haute-Marne"],
+      "bonne_reponse": "Vosges",
+      "explication": "Le corps du petit Grégory Villemin fut retrouvé dans la Vologne, une rivière des Vosges, le 16 octobre 1984. Le village de Lépanges-sur-Vologne est au cœur de cette affaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lemonde.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_vf_001",
+      "affaire_id": "gregoire",
+      "module": "vrai_faux",
+      "affirmation": "L'affaire Grégory a donné lieu à un procès qui s'est conclu par une condamnation définitive.",
+      "bonne_reponse": false,
+      "explication": "Aucune condamnation définitive n'est intervenue dans l'affaire Grégory. Plusieurs personnes ont été mises en examen au fil des décennies, mais aucune n'a été condamnée définitivement.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lemonde.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_qcm_002",
+      "affaire_id": "gregoire",
+      "module": "qcm",
+      "question": "Quel âge avait le petit Grégory au moment de sa disparition en 1984 ?",
+      "propositions": ["4 ans", "6 ans", "2 ans", "8 ans"],
+      "bonne_reponse": "4 ans",
+      "explication": "Grégory Villemin avait 4 ans lorsqu'il disparut le 16 octobre 1984. Son corps fut retrouvé ligoté dans la Vologne le soir même.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lefigaro.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_vf_002",
+      "affaire_id": "gregoire",
+      "module": "vrai_faux",
+      "affirmation": "Des lettres anonymes menaçantes avaient été envoyées à la famille Villemin avant le drame.",
+      "bonne_reponse": true,
+      "explication": "Pendant plusieurs années avant le meurtre, la famille Villemin avait reçu des lettres et appels téléphoniques anonymes et menaçants signés «Le Corbeau». Ces communications sont au cœur de l'affaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1981-1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lemonde.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_qcm_003",
+      "affaire_id": "gregoire",
+      "module": "qcm",
+      "question": "Comment l'expéditeur des lettres menaçantes à la famille Villemin signait-il ses messages ?",
+      "propositions": ["Le Corbeau", "L'Ombre", "Le Vengeur", "L'Inconnu"],
+      "bonne_reponse": "Le Corbeau",
+      "explication": "L'auteur des lettres et appels anonymes adressés à la famille Villemin depuis 1981 se désignait lui-même comme «Le Corbeau». Une lettre fut même reçue après le meurtre.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1981-1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lefigaro.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_vf_003",
+      "affaire_id": "gregoire",
+      "module": "vrai_faux",
+      "affirmation": "Le juge Lambert, chargé de l'instruction, fut lui-même assassiné durant l'enquête.",
+      "bonne_reponse": true,
+      "explication": "Le juge Jean-Michel Lambert, en charge de l'instruction, fut assassiné en 2017. Son implication dans cette affaire très médiatisée avait marqué sa carrière et sa vie personnelle.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lemonde.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_qcm_004",
+      "affaire_id": "gregoire",
+      "module": "qcm",
+      "question": "Quelle rivière des Vosges fut le lieu de découverte du corps de Grégory ?",
+      "propositions": ["La Vologne", "La Moselle", "La Meurthe", "La Moselotte"],
+      "bonne_reponse": "La Vologne",
+      "explication": "Le corps de Grégory Villemin fut retrouvé dans la Vologne, ligoté avec une ficelle et les pieds liés. La rivière a donné son nom au village de Lépanges-sur-Vologne.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lefigaro.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_duel_001",
+      "affaire_id": "gregoire",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires françaises est restée non résolue ?",
+      "item_a": "L'affaire Grégory (1984)",
+      "item_b": "L'affaire Guy Georges (1991-1997)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire Grégory est restée non résolue : aucune condamnation définitive n'a été prononcée. Guy Georges, en revanche, fut condamné à la réclusion criminelle à perpétuité en 2001.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984-2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "gregoire_qcm_005",
+      "affaire_id": "gregoire",
+      "module": "qcm",
+      "question": "Combien d'années environ se sont écoulées entre le meurtre de Grégory et aujourd'hui, sans condamnation définitive ?",
+      "propositions": ["Plus de 40 ans", "Environ 20 ans", "Environ 30 ans", "Plus de 50 ans"],
+      "bonne_reponse": "Plus de 40 ans",
+      "explication": "Le meurtre de Grégory Villemin remonte au 16 octobre 1984. Plus de 40 ans après, aucun coupable n'a été définitivement condamné, faisant de cette affaire l'une des plus longues non résolues de France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1984-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Gr%C3%A9gory",
+        "https://www.lemonde.fr/archives/affaire-gregory"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

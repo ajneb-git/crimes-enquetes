@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "spaggiari_qcm_001",
+      "affaire_id": "spaggiari",
+      "module": "qcm",
+      "question": "Dans quelle ville Albert Spaggiari commit-il le célèbre «casse du siècle» en 1976 ?",
+      "propositions": ["Nice", "Paris", "Marseille", "Lyon"],
+      "bonne_reponse": "Nice",
+      "explication": "Albert Spaggiari organisa le braquage de la Société Générale à Nice en juillet 1976. Son équipe creusa un tunnel sous les rues de Nice pour accéder aux coffres de la banque.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1976",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.lemonde.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari_vf_001",
+      "affaire_id": "spaggiari",
+      "module": "vrai_faux",
+      "affirmation": "Albert Spaggiari s'évada de la salle d'audience lors de son procès.",
+      "bonne_reponse": true,
+      "explication": "En mars 1977, lors de son audience, Spaggiari bondit par la fenêtre du cabinet du juge d'instruction et s'enfuit sur une moto préparée à l'avance. Cette évasion spectaculaire contribua à sa légende.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.lefigaro.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari_qcm_002",
+      "affaire_id": "spaggiari",
+      "module": "qcm",
+      "question": "Quelle phrase Spaggiari écrivit-il sur les murs des coffres de la Société Générale ?",
+      "propositions": ["«Sans armes, sans violence et sans haine»", "«À bientôt»", "«Vive la liberté»", "«Le crime ne paie pas... pour les autres»"],
+      "bonne_reponse": "«Sans armes, sans violence et sans haine»",
+      "explication": "Spaggiari laissa cette inscription sur les murs des coffres vidés, affirmant que son équipe n'avait usé d'aucune violence. Cette formule contribua à forger son image de «gentleman cambrioleur».",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1976",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.liberation.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari_vf_002",
+      "affaire_id": "spaggiari",
+      "module": "vrai_faux",
+      "affirmation": "Spaggiari fut repris après son évasion et exécuta sa peine de prison.",
+      "bonne_reponse": false,
+      "explication": "Après son évasion spectaculaire en 1977, Spaggiari ne fut jamais repris. Il mourut d'un cancer en 1989 à Turin, en Italie, où il vivait dans la clandestinité. Il fut condamné par contumace.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1977-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.lemonde.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari_qsj_001",
+      "affaire_id": "spaggiari",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai creusé un tunnel pour dévaliser une banque dans le sud de la France.",
+        "Ma devise lors de ce braquage était «sans armes, sans violence et sans haine».",
+        "Je me suis évadé en sautant par une fenêtre lors de mon audience.",
+        "Je suis mort en exil en Italie sans jamais être repris."
+      ],
+      "propositions": ["Albert Spaggiari", "Jacques Mesrine", "Michel Vaujour", "Norbert Kroll"],
+      "bonne_reponse": "Albert Spaggiari",
+      "explication": "Albert Spaggiari organisa en 1976 le «casse du siècle» à Nice. Il s'évada en 1977 et mourut en 1989 à Turin. Son histoire fut adaptée au cinéma et en livre.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1976-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.lemonde.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "spaggiari_chron_001",
+      "affaire_id": "spaggiari",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Spaggiari.",
+      "evenements": [
+        { "label": "Casse du siècle à la Société Générale de Nice", "date_iso": "1976-07-19" },
+        { "label": "Arrestation de Spaggiari", "date_iso": "1976-10-27" },
+        { "label": "Évasion par la fenêtre du bureau du juge", "date_iso": "1977-03-10" },
+        { "label": "Mort en exil à Turin", "date_iso": "1989-06-08" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Le braquage eut lieu en juillet 1976, l'arrestation en octobre 1976, l'évasion en mars 1977 et Spaggiari mourut en exil en juin 1989.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1976-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari",
+        "https://www.lemonde.fr/archives/spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

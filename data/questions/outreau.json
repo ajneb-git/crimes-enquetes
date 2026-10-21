@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "outreau_qcm_001",
+      "affaire_id": "outreau",
+      "module": "qcm",
+      "question": "Dans quelle ville du Pas-de-Calais le scandale judiciaire dit «d'Outreau» a-t-il eu lieu ?",
+      "propositions": ["Boulogne-sur-Mer", "Calais", "Lens", "Arras"],
+      "bonne_reponse": "Boulogne-sur-Mer",
+      "explication": "L'affaire d'Outreau concerne une tour HLM dite «la Staircase» à Outreau, un quartier de Boulogne-sur-Mer. Elle est devenue le symbole d'une dérive du système judiciaire français.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2000-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.lemonde.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_vf_001",
+      "affaire_id": "outreau",
+      "module": "vrai_faux",
+      "affirmation": "Dans l'affaire d'Outreau, tous les accusés furent finalement acquittés.",
+      "bonne_reponse": false,
+      "explication": "Dans l'affaire d'Outreau, 4 accusés furent condamnés (dont 2 qui avaient avoué) et 13 autres furent acquittés en appel. Ce n'est donc pas un acquittement total, mais une erreur judiciaire massive concernant une majorité des accusés.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2004-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.lemonde.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_qcm_002",
+      "affaire_id": "outreau",
+      "module": "qcm",
+      "question": "Combien d'accusés furent acquittés lors du second procès d'Outreau en appel à Paris ?",
+      "propositions": ["13", "7", "17", "4"],
+      "bonne_reponse": "13",
+      "explication": "En appel à Paris en 2005, 13 des 17 accusés furent acquittés. Ces personnes avaient passé plusieurs années en détention provisoire pour des faits dont elles étaient innocentes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.lefigaro.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_vf_002",
+      "affaire_id": "outreau",
+      "module": "vrai_faux",
+      "affirmation": "L'affaire d'Outreau a conduit à une commission parlementaire sur les dysfonctionnements de la justice.",
+      "bonne_reponse": true,
+      "explication": "À la suite du scandale, une commission d'enquête parlementaire fut créée en 2006. Elle aboutit à des réformes de la procédure pénale, notamment sur la détention provisoire et le rôle du juge d'instruction.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.lemonde.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_qsj_001",
+      "affaire_id": "outreau",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une affaire de pédophilie présumée dans une tour HLM du nord de la France.",
+        "Mon instruction fut confiée à un juge qui reconnut plus tard ses erreurs devant la caméra.",
+        "Ma mise en accusation désignait des dizaines de personnes, dont beaucoup d'innocentes.",
+        "Je suis devenue le symbole des dysfonctionnements de la justice française."
+      ],
+      "propositions": ["L'affaire d'Outreau", "L'affaire de Metz", "L'affaire Grégory", "L'affaire Marie-Besnard"],
+      "bonne_reponse": "L'affaire d'Outreau",
+      "explication": "L'affaire d'Outreau désigne un scandale judiciaire majeur né en 2000 à Boulogne-sur-Mer, où 13 innocents furent emprisonnés plusieurs années avant d'être acquittés en appel en 2005.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2000-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.lemonde.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_duel_001",
+      "affaire_id": "outreau",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires judiciaires françaises concerne principalement une erreur judiciaire massive ?",
+      "item_a": "L'affaire d'Outreau (2000-2005)",
+      "item_b": "L'affaire Fourniret (2003-2004)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire d'Outreau est le symbole d'une erreur judiciaire : 13 innocents furent acquittés après des années de détention. L'affaire Fourniret, en revanche, aboutit à la condamnation d'un vrai coupable.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2000-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://fr.wikipedia.org/wiki/Michel_Fourniret"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "outreau_qcm_003",
+      "affaire_id": "outreau",
+      "module": "qcm",
+      "question": "Quel juge d'instruction très médiatisé fut en charge de l'affaire d'Outreau ?",
+      "propositions": ["Fabrice Burgaud", "Philippe Courroye", "Patrick Ramaël", "Jean-Michel Lambert"],
+      "bonne_reponse": "Fabrice Burgaud",
+      "explication": "Fabrice Burgaud, jeune juge d'instruction, fut à la tête de cette enquête. Il reconnut devant la commission parlementaire avoir manqué d'expérience et commis des erreurs dans la conduite de cette instruction.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2000-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_d%27Outreau",
+        "https://www.liberation.fr/archives/outreau"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    }
+  ]
+}

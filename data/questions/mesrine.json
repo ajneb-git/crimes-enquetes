@@ -1,0 +1,157 @@
+{
+  "questions": [
+    {
+      "id": "mesrine_qcm_001",
+      "affaire_id": "mesrine",
+      "module": "qcm",
+      "question": "Quel surnom la presse donna-t-elle à Jacques Mesrine ?",
+      "propositions": ["L'Ennemi public n°1", "Le Robin des Bois français", "Le Grand Bandit", "Le Fantôme de la République"],
+      "bonne_reponse": "L'Ennemi public n°1",
+      "explication": "Jacques Mesrine fut désigné «L'Ennemi public n°1» par les médias et les autorités françaises en raison de ses nombreuses évasions spectaculaires, braquages et meurtres commis dans plusieurs pays.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1960-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lemonde.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_vf_001",
+      "affaire_id": "mesrine",
+      "module": "vrai_faux",
+      "affirmation": "Jacques Mesrine fut abattu par la police lors d'une fusillade à Paris.",
+      "bonne_reponse": true,
+      "explication": "Mesrine fut abattu le 2 novembre 1979 Porte de Clignancourt à Paris, dans une embuscade tendue par la Brigade anticommando. Sa voiture fut criblée de balles à l'arrêt à un feu rouge.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lefigaro.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_qcm_002",
+      "affaire_id": "mesrine",
+      "module": "qcm",
+      "question": "De quelle prison canadienne Mesrine s'évada-t-il de façon spectaculaire en 1972 ?",
+      "propositions": ["Saint-Vincent-de-Paul", "Donnacona", "Bordeaux", "Archambault"],
+      "bonne_reponse": "Saint-Vincent-de-Paul",
+      "explication": "En 1972, Mesrine s'évada de la prison de Saint-Vincent-de-Paul (Laval, Québec) avec un complice en passant par le toit. Cette évasion contribua à forger sa légende.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1972",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lemonde.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_vf_002",
+      "affaire_id": "mesrine",
+      "module": "vrai_faux",
+      "affirmation": "Mesrine a publié un livre autobiographique intitulé «L'Instinct de mort» avant sa mort.",
+      "bonne_reponse": true,
+      "explication": "«L'Instinct de mort», autobiographie de Mesrine rédigée pendant ses années de cavale, fut publiée clandestinement. Ce livre nourrit encore aujourd'hui la fascination pour ce personnage hors-normes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.liberation.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_qsj_001",
+      "affaire_id": "mesrine",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai commis des crimes en France, au Canada, aux États-Unis et en Espagne.",
+        "Je me suis évadé de prison à plusieurs reprises, dont de la Santé à Paris.",
+        "J'ai écrit mon autobiographie pendant ma cavale.",
+        "Je fus abattu en 1979 dans une embuscade policière à Paris."
+      ],
+      "propositions": ["Jacques Mesrine", "Albert Spaggiari", "Carlos l'Illich", "Jean-Paul Marat"],
+      "bonne_reponse": "Jacques Mesrine",
+      "explication": "Jacques Mesrine, «L'Ennemi public n°1», fut l'un des criminels les plus célèbres de France. Auteur de nombreux meurtres et braquages, il fut abattu lors d'une embuscade en novembre 1979.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1960-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lemonde.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_chron_001",
+      "affaire_id": "mesrine",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de la vie criminelle de Mesrine.",
+      "evenements": [
+        { "label": "Première condamnation pour braquage en France", "date_iso": "1962-01-01" },
+        { "label": "Évasion spectaculaire de la prison Saint-Vincent-de-Paul au Canada", "date_iso": "1972-08-21" },
+        { "label": "Évasion de la Santé à Paris", "date_iso": "1978-05-08" },
+        { "label": "Abattu Porte de Clignancourt", "date_iso": "1979-11-02" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Mesrine débuta sa carrière criminelle dans les années 1960, s'évada du Canada en 1972, de la Santé en 1978 et fut abattu en novembre 1979.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1962-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lemonde.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_duel_001",
+      "affaire_id": "mesrine",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels français fut abattu par la police plutôt que jugé ?",
+      "item_a": "Jacques Mesrine (1979)",
+      "item_b": "Albert Spaggiari (rattrapé et condamné)",
+      "bonne_reponse": "a",
+      "explication": "Mesrine fut abattu en novembre 1979 lors d'une embuscade. Spaggiari, l'auteur du casse du siècle à Nice en 1976, fut arrêté mais s'évada lors de son procès et mourut en exil en 1989.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1979-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://fr.wikipedia.org/wiki/Albert_Spaggiari"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mesrine_qcm_003",
+      "affaire_id": "mesrine",
+      "module": "qcm",
+      "question": "De quelle prison parisienne Mesrine parvint-il à s'évader en 1978 ?",
+      "propositions": ["La Santé", "Fresnes", "Fleury-Mérogis", "La Roquette"],
+      "bonne_reponse": "La Santé",
+      "explication": "En mai 1978, Mesrine réussit à s'évader de la prison de la Santé à Paris en escaladant les murs, exploit qui renforça encore sa réputation de criminel insaisissable.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+        "https://www.lefigaro.fr/archives/mesrine"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

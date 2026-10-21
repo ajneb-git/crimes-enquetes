@@ -1,0 +1,133 @@
+{
+  "questions": [
+    {
+      "id": "daval_qcm_001",
+      "affaire_id": "daval",
+      "module": "qcm",
+      "question": "Dans quel département français fut retrouvé le corps calciné d'Alexia Daval en 2017 ?",
+      "propositions": ["Haute-Saône", "Doubs", "Jura", "Côte-d'Or"],
+      "bonne_reponse": "Haute-Saône",
+      "explication": "Le corps partiellement calciné d'Alexia Daval fut retrouvé en forêt de Gray, en Haute-Saône, en octobre 2017. Son mari Jonathann Daval fut condamné pour ce meurtre.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.lemonde.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_vf_001",
+      "affaire_id": "daval",
+      "module": "vrai_faux",
+      "affirmation": "Jonathann Daval avait participé aux recherches de sa femme avant d'avouer son meurtre.",
+      "bonne_reponse": true,
+      "explication": "Jonathann Daval participa activement aux recherches organisées pour retrouver sa femme et se montra très présent dans les médias, avant d'avouer en janvier 2018 qu'il était l'auteur du meurtre.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.lefigaro.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_qcm_002",
+      "affaire_id": "daval",
+      "module": "qcm",
+      "question": "À combien d'années de réclusion Jonathann Daval fut-il condamné en 2020 ?",
+      "propositions": ["25 ans", "20 ans", "15 ans", "Perpétuité"],
+      "bonne_reponse": "25 ans",
+      "explication": "En novembre 2020, la cour d'assises de Haute-Saône condamna Jonathann Daval à 25 ans de réclusion criminelle pour le meurtre de son épouse Alexia.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.lemonde.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_vf_002",
+      "affaire_id": "daval",
+      "module": "vrai_faux",
+      "affirmation": "Alexia Daval était championne de course à pied et avait disparu lors d'un footing matinal.",
+      "bonne_reponse": true,
+      "explication": "Alexia Daval était une coureuse passionnée. Elle disparut le 28 octobre 2017 lors d'une sortie en footing matinale à Gray, avant que son corps calciné ne soit retrouvé deux jours plus tard.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.liberation.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_qsj_001",
+      "affaire_id": "daval",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un mari qui a tué son épouse après une dispute et a calciné le corps.",
+        "J'ai participé aux recherches et pleuré devant les caméras.",
+        "Mon aveu survint trois mois après la disparition de ma femme.",
+        "Je fus condamné à 25 ans de réclusion criminelle en 2020."
+      ],
+      "propositions": ["Jonathann Daval", "Nordahl Lelandais", "Xavier Dupont de Ligonnès", "Bertrand Cantat"],
+      "bonne_reponse": "Jonathann Daval",
+      "explication": "Jonathann Daval tua son épouse Alexia lors d'une dispute le 28 octobre 2017 et brûla son corps. Il se présenta en veuf éploré avant d'avouer le meurtre en janvier 2018 et fut condamné en 2020.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.lemonde.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_duel_001",
+      "affaire_id": "daval",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels français a avoué son crime plusieurs mois après avoir prétendu chercher sa victime ?",
+      "item_a": "Jonathann Daval (aveux en janvier 2018)",
+      "item_b": "Michel Fourniret (arrêté en 2003)",
+      "bonne_reponse": "a",
+      "explication": "Jonathann Daval joua le rôle du mari éperdu pendant trois mois, participant aux recherches et s'exprimant dans les médias, avant d'avouer en janvier 2018 être l'auteur du meurtre.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017-2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://fr.wikipedia.org/wiki/Michel_Fourniret"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "daval_vf_003",
+      "affaire_id": "daval",
+      "module": "vrai_faux",
+      "affirmation": "Jonathann Daval avait brûlé le corps de son épouse pour effacer les traces de strangulation.",
+      "bonne_reponse": true,
+      "explication": "Selon ses propres aveux, Jonathann Daval brûla le corps d'Alexia pour effacer les traces du meurtre, notamment la strangulation. Ce geste délibéré aggravait la préméditation dans l'appréciation des faits.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Daval",
+        "https://www.lefigaro.fr/archives/affaire-daval"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

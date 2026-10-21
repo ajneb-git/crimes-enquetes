@@ -1,0 +1,157 @@
+{
+  "questions": [
+    {
+      "id": "guy_georges_qcm_001",
+      "affaire_id": "guy_georges",
+      "module": "qcm",
+      "question": "Dans quel arrondissement de Paris Guy Georges commettait-il principalement ses crimes ?",
+      "propositions": ["11e arrondissement", "18e arrondissement", "5e arrondissement", "20e arrondissement"],
+      "bonne_reponse": "11e arrondissement",
+      "explication": "Guy Georges sévissait principalement dans le 11e arrondissement de Paris. Ses victimes étaient des jeunes femmes qu'il attaquait chez elles ou à proximité de leur domicile dans ce quartier.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1991-1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lemonde.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_vf_001",
+      "affaire_id": "guy_georges",
+      "module": "vrai_faux",
+      "affirmation": "Guy Georges fut condamné à la réclusion criminelle à perpétuité.",
+      "bonne_reponse": true,
+      "explication": "Guy Georges fut condamné en 2001 à la réclusion criminelle à perpétuité assortie d'une période de sûreté de 22 ans pour le viol et le meurtre de 7 jeunes femmes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lefigaro.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_qcm_002",
+      "affaire_id": "guy_georges",
+      "module": "qcm",
+      "question": "Combien de victimes Guy Georges est-il reconnu coupable d'avoir tuées ?",
+      "propositions": ["7", "4", "11", "9"],
+      "bonne_reponse": "7",
+      "explication": "Guy Georges fut condamné pour le meurtre de 7 jeunes femmes entre 1991 et 1997. Il fut identifié grâce à une analyse ADN après son arrestation pour un autre délit.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1991-1997",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lemonde.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_vf_002",
+      "affaire_id": "guy_georges",
+      "module": "vrai_faux",
+      "affirmation": "Guy Georges fut identifié grâce à une analyse ADN après avoir été arrêté pour vol.",
+      "bonne_reponse": true,
+      "explication": "Guy Georges fut arrêté en 1998 pour un cambriolage. Un prélèvement ADN réalisé lors de cette interpellation permit de le relier à plusieurs scènes de crime.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.liberation.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_qsj_001",
+      "affaire_id": "guy_georges",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis surnommé «la Bête du 11e» à Paris.",
+        "Mes victimes étaient toutes de jeunes femmes.",
+        "L'ADN fut décisif pour mon identification.",
+        "Je fus condamné en 2001 à la perpétuité pour 7 meurtres."
+      ],
+      "propositions": ["Guy Georges", "Francis Heaulme", "Michel Fourniret", "Nordahl Lelandais"],
+      "bonne_reponse": "Guy Georges",
+      "explication": "Guy Georges, surnommé «la Bête du 11e», terrorisa Paris entre 1991 et 1997. L'ADN joua un rôle clé dans son identification après son arrestation pour cambriolage en 1998.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1991-2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lemonde.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_chron_001",
+      "affaire_id": "guy_georges",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de l'affaire Guy Georges.",
+      "evenements": [
+        { "label": "Premier meurtre attribué à Guy Georges", "date_iso": "1991-01-01" },
+        { "label": "Arrestation pour cambriolage, prélèvement ADN", "date_iso": "1998-01-01" },
+        { "label": "Mise en examen pour les 7 meurtres", "date_iso": "1999-01-01" },
+        { "label": "Condamnation à la réclusion criminelle à perpétuité", "date_iso": "2001-01-01" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Les meurtres débutèrent en 1991, l'arrestation eut lieu en 1998 grâce à l'ADN, la mise en examen en 1999 et la condamnation en 2001.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1991-2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lemonde.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_duel_001",
+      "affaire_id": "guy_georges",
+      "module": "duel",
+      "question": "Lequel de ces deux tueurs en série parisiens a été jugé et condamné le premier ?",
+      "item_a": "Guy Georges (condamné en 2001)",
+      "item_b": "Thierry Paulin (mort avant son procès en 1989)",
+      "bonne_reponse": "b",
+      "explication": "Thierry Paulin, surnommé «le Monstre de Montmartre», mourut du sida en 1989 avant d'être jugé. Guy Georges, lui, fut condamné à la perpétuité par la justice en 2001.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://fr.wikipedia.org/wiki/Thierry_Paulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "guy_georges_qcm_003",
+      "affaire_id": "guy_georges",
+      "module": "qcm",
+      "question": "Quel élément biographique de Guy Georges devint central lors de son procès ?",
+      "propositions": ["Son abandon à la naissance et son enfance en famille d'accueil", "Son service militaire difficile", "Sa toxicomanie depuis l'adolescence", "Ses séjours répétés en hôpital psychiatrique"],
+      "bonne_reponse": "Son abandon à la naissance et son enfance en famille d'accueil",
+      "explication": "Le procès de Guy Georges fit la lumière sur une enfance marquée par l'abandon, les carences affectives et un passage dans de nombreuses familles d'accueil, soulevant des questions sur la responsabilité sociale.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://www.lemonde.fr/archives/guy-georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

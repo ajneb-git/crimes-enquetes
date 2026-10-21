@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "troadec_qcm_001",
+      "affaire_id": "troadec",
+      "module": "qcm",
+      "question": "Dans quelle ville bretonne fut découverte la disparition de la famille Troadec en 2017 ?",
+      "propositions": ["Orvault (près de Nantes)", "Brest", "Quimper", "Lorient"],
+      "bonne_reponse": "Orvault (près de Nantes)",
+      "explication": "La famille Troadec, composée de Pascal, Brigitte et leurs deux enfants Charlotte et Sébastien, disparut de leur domicile d'Orvault (Loire-Atlantique) en février 2017.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://www.lemonde.fr/archives/affaire-troadec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "troadec_vf_001",
+      "affaire_id": "troadec",
+      "module": "vrai_faux",
+      "affirmation": "Hubert Caouissin, beau-frère de Pascal Troadec, fut condamné pour ce quadruple meurtre.",
+      "bonne_reponse": true,
+      "explication": "Hubert Caouissin, beau-frère de Pascal Troadec, fut condamné en 2021 à 25 ans de réclusion criminelle pour le quadruple meurtre. Il avait agi seul, motivé par une obsession pour un héritage familial.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://www.lefigaro.fr/archives/affaire-troadec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "troadec_qcm_002",
+      "affaire_id": "troadec",
+      "module": "qcm",
+      "question": "Quel était le mobile d'Hubert Caouissin pour tuer les quatre membres de la famille Troadec ?",
+      "propositions": ["Une obsession pour un héritage familial", "Une dispute sur une dette d'argent", "Une vengeance liée à une infidélité", "Un différend professionnel"],
+      "bonne_reponse": "Une obsession pour un héritage familial",
+      "explication": "Caouissin était obsédé par la conviction que Pascal Troadec avait détourné de l'or appartenant à leur famille. Cette fixation irrationnelle sur un hypothétique héritage le conduisit à commettre ce quadruple meurtre.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://www.lemonde.fr/archives/affaire-troadec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "troadec_vf_002",
+      "affaire_id": "troadec",
+      "module": "vrai_faux",
+      "affirmation": "Les corps des victimes Troadec furent retrouvés intacts dans leur maison.",
+      "bonne_reponse": false,
+      "explication": "Les restes des quatre victimes furent retrouvés en état de décomposition avancée, dispersés dans plusieurs endroits dont le Finistère. Caouissin avait découpé les corps pour faciliter leur dissimulation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://www.liberation.fr/archives/affaire-troadec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "troadec_qsj_001",
+      "affaire_id": "troadec",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis l'auteur d'un quadruple meurtre commis dans une famille bretonne en 2017.",
+        "Je suis le beau-frère de ma principale victime.",
+        "Mon mobile était une obsession pour un héritage que je croyais m'avoir été volé.",
+        "J'ai été condamné à 25 ans de réclusion en 2021."
+      ],
+      "propositions": ["Hubert Caouissin", "Jonathann Daval", "Xavier Dupont de Ligonnès", "Nordahl Lelandais"],
+      "bonne_reponse": "Hubert Caouissin",
+      "explication": "Hubert Caouissin tua les quatre membres de la famille Troadec en février 2017 par obsession pour un hypothétique héritage. Il fut condamné à 25 ans de réclusion en 2021.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://www.lemonde.fr/archives/affaire-troadec"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "troadec_duel_001",
+      "affaire_id": "troadec",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires familiales françaises a été élucidée avec condamnation du coupable ?",
+      "item_a": "L'affaire Troadec (2017)",
+      "item_b": "L'affaire Dupont de Ligonnès (2011)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire Troadec fut résolue : Hubert Caouissin fut arrêté, jugé et condamné à 25 ans en 2021. Xavier Dupont de Ligonnès, lui, est en fuite depuis 2011 et n'a jamais été jugé.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2011-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Troadec",
+        "https://fr.wikipedia.org/wiki/Affaire_Xavier_Dupont_de_Lignon%C3%A8s"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

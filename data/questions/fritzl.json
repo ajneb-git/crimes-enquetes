@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "fritzl_qcm_001",
+      "affaire_id": "fritzl",
+      "module": "qcm",
+      "question": "Dans quelle ville autrichienne Josef Fritzl séquestra-t-il sa propre fille pendant 24 ans ?",
+      "propositions": ["Amstetten", "Graz", "Linz", "Salzbourg"],
+      "bonne_reponse": "Amstetten",
+      "explication": "Josef Fritzl séquestra sa fille Elisabeth dans une cave aménagée sous sa maison à Amstetten, en Haute-Autriche, pendant 24 ans (1984-2008).",
+      "difficulte": 2,
+      "pays": "AT",
+      "epoque": "1984-2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://www.lemonde.fr/archives/fritzl"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl_vf_001",
+      "affaire_id": "fritzl",
+      "module": "vrai_faux",
+      "affirmation": "Elisabeth Fritzl eut 7 enfants de son père durant sa séquestration.",
+      "bonne_reponse": true,
+      "explication": "Durant ses 24 ans de séquestration, Elisabeth Fritzl eut 7 enfants de son père Josef. L'un mourut à la naissance. Trois furent introduits dans la famille en surface comme «abandonnés» par leur mère.",
+      "difficulte": 2,
+      "pays": "AT",
+      "epoque": "1984-2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://www.lefigaro.fr/archives/fritzl"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl_qcm_002",
+      "affaire_id": "fritzl",
+      "module": "qcm",
+      "question": "Combien d'années Josef Fritzl maintint-il sa fille séquestrée dans une cave ?",
+      "propositions": ["24 ans", "18 ans", "10 ans", "30 ans"],
+      "bonne_reponse": "24 ans",
+      "explication": "Josef Fritzl séquestra sa fille Elisabeth de 1984 à 2008, soit 24 ans. La séquestration prit fin quand l'une des filles d'Elisabeth dut être hospitalisée et qu'Elisabeth put contacter les autorités.",
+      "difficulte": 1,
+      "pays": "AT",
+      "epoque": "1984-2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://www.lemonde.fr/archives/fritzl"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl_vf_002",
+      "affaire_id": "fritzl",
+      "module": "vrai_faux",
+      "affirmation": "La femme de Josef Fritzl était au courant de la séquestration de leur fille.",
+      "bonne_reponse": false,
+      "explication": "L'épouse de Josef Fritzl, Rosemarie, affirmait ignorer totalement la séquestration. Elle croyait que leur fille avait rejoint une secte. Sa culpabilité ou son ignorance est restée sujette à débat.",
+      "difficulte": 2,
+      "pays": "AT",
+      "epoque": "1984-2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://www.liberation.fr/archives/fritzl"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl_qsj_001",
+      "affaire_id": "fritzl",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai emprisonné un membre de ma propre famille dans une cave aménagée sous ma maison.",
+        "La captivité dura 24 ans dans une ville autrichienne.",
+        "Plusieurs enfants naquirent durant cette séquestration.",
+        "Je fus condamné à la réclusion à perpétuité en Autriche en 2009."
+      ],
+      "propositions": ["Josef Fritzl", "Marc Dutroux", "Fred West", "Wolfgang Priklopil"],
+      "bonne_reponse": "Josef Fritzl",
+      "explication": "Josef Fritzl séquestra sa fille Elisabeth à Amstetten (Autriche) pendant 24 ans (1984-2008). Il fut condamné à la réclusion à perpétuité en mars 2009 pour meurtre, viol aggravé et séquestration.",
+      "difficulte": 1,
+      "pays": "AT",
+      "epoque": "1984-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://www.lemonde.fr/archives/fritzl"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fritzl_duel_001",
+      "affaire_id": "fritzl",
+      "module": "duel",
+      "question": "Laquelle de ces deux séquestrations a duré le plus longtemps ?",
+      "item_a": "La séquestration d'Elisabeth Fritzl par son père (24 ans)",
+      "item_b": "La séquestration de Natascha Kampusch par Wolfgang Priklopil (8 ans)",
+      "bonne_reponse": "a",
+      "explication": "Elisabeth Fritzl fut séquestrée 24 ans (1984-2008) par son père Josef. Natascha Kampusch fut retenue 8 ans (1998-2006) par Wolfgang Priklopil. Ces deux affaires choquèrent le monde en Autriche.",
+      "difficulte": 2,
+      "pays": "AT",
+      "epoque": "1984-2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fritzl",
+        "https://fr.wikipedia.org/wiki/Affaire_Natascha_Kampusch"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

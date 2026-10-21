@@ -1,0 +1,151 @@
+{
+  "questions": [
+    {
+      "id": "heaulme_qcm_001",
+      "affaire_id": "heaulme",
+      "module": "qcm",
+      "question": "Quel surnom a été donné à Francis Heaulme en raison de son mode de vie ?",
+      "propositions": ["Le Grand Voyageur du crime", "Le Fantôme des routes", "L'Ange de la mort", "Le Nomade sanglant"],
+      "bonne_reponse": "Le Grand Voyageur du crime",
+      "explication": "Francis Heaulme fut surnommé «le Grand Voyageur du crime» car il se déplaçait sans cesse sur les routes de France, commettant des crimes dans de nombreuses régions différentes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1982-1992",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.lemonde.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_vf_001",
+      "affaire_id": "heaulme",
+      "module": "vrai_faux",
+      "affirmation": "Francis Heaulme a été condamné pour le meurtre de deux enfants à Montigny-lès-Metz.",
+      "bonne_reponse": true,
+      "explication": "En 2017, après plus de 25 ans d'enquête, Francis Heaulme fut condamné à la réclusion criminelle à perpétuité pour le double meurtre d'Alexandre Beckrich et Cyril Beining, tués à Montigny-lès-Metz en 1986.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.lefigaro.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_qcm_002",
+      "affaire_id": "heaulme",
+      "module": "qcm",
+      "question": "En quelle année un homme innocent fut-il libéré après avoir été condamné à tort pour un crime de Heaulme ?",
+      "propositions": ["2012", "2002", "1999", "2017"],
+      "bonne_reponse": "2012",
+      "explication": "Abdelkader Azzimani, condamné à tort en 1998 pour un crime à Mourenx que l'on attribua ensuite à Heaulme, fut libéré en 2012 après la révision de son procès — une tragique erreur judiciaire.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1998-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.liberation.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_vf_002",
+      "affaire_id": "heaulme",
+      "module": "vrai_faux",
+      "affirmation": "Francis Heaulme fut arrêté pour la première fois à la suite du meurtre de Montigny-lès-Metz.",
+      "bonne_reponse": false,
+      "explication": "Heaulme fut arrêté pour la première fois en 1992 en Allemagne pour d'autres meurtres. Il était suspecté pour Montigny-lès-Metz depuis des années, mais ne fut condamné pour ce crime qu'en 2017.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986-1992",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.lemonde.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_qsj_001",
+      "affaire_id": "heaulme",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je parcourais la France sans domicile fixe, laissant des victimes sur mon passage.",
+        "Mon surnom évoque mes nombreux déplacements.",
+        "Ma condamnation pour un double meurtre d'enfants intervint plus de 30 ans après les faits.",
+        "Mon arrestation mit fin à l'une des erreurs judiciaires les plus marquantes de France."
+      ],
+      "propositions": ["Francis Heaulme", "Guy Georges", "Patrick Dils", "Michel Fourniret"],
+      "bonne_reponse": "Francis Heaulme",
+      "explication": "Francis Heaulme, surnommé «le Grand Voyageur du crime», est l'un des tueurs en série les plus prolifiques de France. Son arrestation mit fin à l'incarcération d'un innocent condamné à tort.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1982-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.lemonde.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_duel_001",
+      "affaire_id": "heaulme",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires a impliqué une erreur judiciaire majeure avec un innocent emprisonné ?",
+      "item_a": "L'affaire Heaulme (Montigny-lès-Metz, 1986)",
+      "item_b": "L'affaire Guy Georges (Paris, 1991-1997)",
+      "bonne_reponse": "a",
+      "explication": "Dans l'affaire Heaulme, Patrick Dils puis Abdelkader Azzimani furent condamnés à tort. Patrick Dils, mineur au moment des faits, passa 15 ans en prison avant d'être innocenté.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_vf_003",
+      "affaire_id": "heaulme",
+      "module": "vrai_faux",
+      "affirmation": "Patrick Dils fut condamné à tort pour les meurtres de Montigny-lès-Metz alors qu'il était mineur.",
+      "bonne_reponse": true,
+      "explication": "Patrick Dils, âgé de 15 ans lors de son arrestation en 1989, fut condamné pour ces meurtres et passa 15 ans en prison. Il fut innocenté en 2002 lorsque Heaulme avoua ces crimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "heaulme_qcm_003",
+      "affaire_id": "heaulme",
+      "module": "qcm",
+      "question": "Dans quelle région se situe Montigny-lès-Metz, où Heaulme commit le meurtre de deux enfants en 1986 ?",
+      "propositions": ["Moselle (Lorraine)", "Alsace", "Champagne-Ardenne", "Bourgogne"],
+      "bonne_reponse": "Moselle (Lorraine)",
+      "explication": "Montigny-lès-Metz est une commune de Moselle, en Lorraine. C'est là qu'Alexandre Beckrich et Cyril Beining furent assassinés en septembre 1986.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme",
+        "https://www.lefigaro.fr/archives/heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

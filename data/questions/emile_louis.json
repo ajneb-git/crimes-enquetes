@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "id": "emile_louis_qcm_001",
+      "affaire_id": "emile_louis",
+      "module": "qcm",
+      "question": "Quelle profession Émile Louis exerçait-il lorsqu'il commit ses crimes dans l'Yonne ?",
+      "propositions": ["Chauffeur de taxi", "Garde forestier", "Boucher", "Infirmier"],
+      "bonne_reponse": "Chauffeur de taxi",
+      "explication": "Émile Louis était chauffeur de taxi dans l'Yonne. Il utilisait son activité pour approcher ses victimes : de jeunes femmes handicapées mentales qu'il prenait en charge pour les transporter.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1975-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://www.lemonde.fr/archives/emile-louis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis_vf_001",
+      "affaire_id": "emile_louis",
+      "module": "vrai_faux",
+      "affirmation": "Émile Louis s'attaquait à des jeunes femmes handicapées mentales qui lui étaient confiées.",
+      "bonne_reponse": true,
+      "explication": "Les victimes d'Émile Louis étaient des jeunes femmes déficientes mentales hébergées dans des foyers de l'Yonne. Il les transportait dans son taxi, les agressait et les tuait, profitant de leur vulnérabilité et de la confiance des institutions.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1975-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://www.lefigaro.fr/archives/emile-louis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis_qcm_002",
+      "affaire_id": "emile_louis",
+      "module": "qcm",
+      "question": "Combien de jeunes femmes Émile Louis fut-il condamné pour avoir assassinées ?",
+      "propositions": ["7", "4", "11", "3"],
+      "bonne_reponse": "7",
+      "explication": "Émile Louis fut condamné en 2004 et 2007 pour le meurtre de 7 jeunes femmes disparues entre 1975 et 1979 dans l'Yonne. Il fut condamné à la réclusion criminelle à perpétuité.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://www.lemonde.fr/archives/emile-louis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis_vf_002",
+      "affaire_id": "emile_louis",
+      "module": "vrai_faux",
+      "affirmation": "L'affaire Émile Louis éclata dès les premières disparitions dans les années 1970.",
+      "bonne_reponse": false,
+      "explication": "Malgré plusieurs disparitions entre 1975 et 1979, l'affaire ne fut réellement instruite que dans les années 2000. Des enquêteurs et familles dénoncèrent longtemps l'inertie des autorités face à ces disparitions.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://www.liberation.fr/archives/emile-louis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis_qsj_001",
+      "affaire_id": "emile_louis",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'étais un prestataire de transport dans l'Yonne dans les années 1970.",
+        "Mes victimes étaient des jeunes femmes vulnérables qui me faisaient confiance.",
+        "Mon affaire révéla des manquements graves dans la protection des personnes handicapées.",
+        "Je fus condamné à perpétuité pour 7 meurtres, jugé 30 ans après les faits."
+      ],
+      "propositions": ["Émile Louis", "Michel Fourniret", "Francis Heaulme", "Guy Georges"],
+      "bonne_reponse": "Émile Louis",
+      "explication": "Émile Louis, chauffeur de taxi dans l'Yonne, tua 7 jeunes femmes handicapées entre 1975 et 1979. Son affaire ne fut jugée qu'en 2004, mettant en lumière l'abandon institutionnel de ses victimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://www.lemonde.fr/archives/emile-louis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "emile_louis_duel_001",
+      "affaire_id": "emile_louis",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels ciblait spécifiquement des personnes vulnérables institutionnalisées ?",
+      "item_a": "Émile Louis (victimes handicapées mentales)",
+      "item_b": "Guy Georges (jeunes femmes dans la rue)",
+      "bonne_reponse": "a",
+      "explication": "Émile Louis ciblait délibérément des jeunes femmes handicapées mentales hébergées dans des foyers, exploitant leur vulnérabilité et la confiance des institutions à son égard.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/%C3%89mile_Louis",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

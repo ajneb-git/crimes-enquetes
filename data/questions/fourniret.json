@@ -1,0 +1,203 @@
+{
+  "questions": [
+    {
+      "id": "fourniret_qsj_001",
+      "affaire_id": "fourniret",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai principalement sévi dans les Ardennes françaises et belges.",
+        "Mon épouse était ma complice active dans mes crimes.",
+        "Mon surnom évoque un personnage de conte pour enfants.",
+        "J'ai été arrêté en 2003 après qu'une victime m'ait échappé."
+      ],
+      "propositions": ["Michel Fourniret", "Francis Heaulme", "Émile Louis", "Guy Georges"],
+      "bonne_reponse": "Michel Fourniret",
+      "explication": "Michel Fourniret, dit l'Ogre des Ardennes, a été condamné le 28 mai 2008 à la réclusion criminelle à perpétuité pour 7 meurtres (8e condamnation en 2018). Il est décédé le 10 mai 2021 à la Pitié-Salpêtrière.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1987-2001",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.lefigaro.fr/actualite-france/2008/05/28/01016-20080528ARTFIG00007-fourniret-condamne-a-la-reclusion-a-perpetuite.php"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_qcm_001",
+      "affaire_id": "fourniret",
+      "module": "qcm",
+      "question": "Quel est le surnom de Michel Fourniret ?",
+      "propositions": ["L'Ogre des Ardennes", "Le Monstre du Marais", "L'Ange Noir", "Le Chasseur des forêts"],
+      "bonne_reponse": "L'Ogre des Ardennes",
+      "explication": "Son surnom, L'Ogre des Ardennes, vient de la région où il opérait et de la nature prédatrice de ses crimes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1987-2001",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.liberation.fr/societe/police-justice/affaire-fourniret/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_vf_001",
+      "affaire_id": "fourniret",
+      "module": "vrai_faux",
+      "affirmation": "Michel Fourniret a toujours agi seul, sans aucun complice.",
+      "bonne_reponse": false,
+      "explication": "Son épouse, Monique Olivier, était sa complice active. Elle a été condamnée séparément pour complicité dans plusieurs meurtres.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1987-2001",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.europe1.fr/societe/affaire-fourniret-monique-olivier-condamnee"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_qcm_002",
+      "affaire_id": "fourniret",
+      "module": "qcm",
+      "question": "En quelle année Michel Fourniret a-t-il été arrêté ?",
+      "propositions": ["1999", "2001", "2003", "2006"],
+      "bonne_reponse": "2003",
+      "explication": "Fourniret a été arrêté en 2003 après qu'une adolescente de 13 ans, Natacha Marin, lui ait échappé et ait alerté les secours.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.bfmtv.com/police-justice/affaire-fourniret-chronologie/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_vf_002",
+      "affaire_id": "fourniret",
+      "module": "vrai_faux",
+      "affirmation": "Michel Fourniret a été condamné à la réclusion criminelle à perpétuité.",
+      "bonne_reponse": true,
+      "explication": "En mai 2008, la cour d'assises de Charleville-Mézières l'a condamné à la réclusion criminelle à perpétuité, la peine maximale en France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2008",
+      "sources": [
+        "https://www.lefigaro.fr/actualite-france/2008/05/28/01016-20080528ARTFIG00007-fourniret-condamne-a-la-reclusion-a-perpetuite.php",
+        "https://www.liberation.fr/societe/police-justice/affaire-fourniret/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_chron_001",
+      "affaire_id": "fourniret",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces étapes clés de l'affaire Fourniret.",
+      "evenements": [
+        { "label": "Premier crime établi par la justice", "date_iso": "1987-01-01" },
+        { "label": "Arrestation après la fuite d'une victime", "date_iso": "2003-06-01" },
+        { "label": "Condamnation à la réclusion perpétuelle", "date_iso": "2008-05-28" },
+        { "label": "Décès en détention", "date_iso": "2021-05-28" }
+      ],
+      "bonne_reponse": null,
+      "explication": "L'affaire s'est étalée sur plus de 30 ans : premiers crimes en 1987, arrestation en 2003, condamnation en 2008, décès en 2021.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1987-2021",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.bfmtv.com/police-justice/affaire-fourniret-chronologie/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_qcm_003",
+      "affaire_id": "fourniret",
+      "module": "qcm",
+      "question": "Comment Fourniret a-t-il été mis en cause en 2003 ?",
+      "propositions": [
+        "Un aveu spontané à la gendarmerie",
+        "Une victime lui a échappé et a alerté les secours",
+        "Découvert lors d'un contrôle douanier",
+        "Dénoncé par un témoin anonyme"
+      ],
+      "bonne_reponse": "Une victime lui a échappé et a alerté les secours",
+      "explication": "Une adolescente de 13 ans a réussi à s'échapper du véhicule de Fourniret à Ciney (Belgique) et à alerter les autorités. Elle avait relevé la plaque d'immatriculation, déclenchant l'arrestation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.lexpress.fr/actualite/societe/justice/affaire-fourniret_"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_duel_001",
+      "affaire_id": "fourniret",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels a été condamné le premier ?",
+      "item_a": "Guy Georges (Le Tueur de l'Est parisien)",
+      "item_b": "Michel Fourniret (L'Ogre des Ardennes)",
+      "bonne_reponse": "a",
+      "explication": "Guy Georges a été condamné en avril 2001. Michel Fourniret n'a été jugé qu'en mai 2008, sept ans plus tard.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2001-2008",
+      "sources": [
+        "https://www.lemonde.fr/archives/article/2001/04/05/guy-georges-condamne-a-la-reclusion-criminelle-a-perpetuite_3529_0.html",
+        "https://www.lefigaro.fr/actualite-france/2008/05/28/01016-20080528ARTFIG00007-fourniret-condamne-a-la-reclusion-a-perpetuite.php"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_qsj_002",
+      "affaire_id": "fourniret",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai épousé l'une des figures les plus sombres de la criminologie française.",
+        "J'ai été reconnue coupable de complicité dans plusieurs meurtres.",
+        "Mes aveux ont contribué à élucider certains crimes de mon mari.",
+        "Ma coopération partielle avec la justice m'a valu une peine inférieure à celle de mon époux."
+      ],
+      "propositions": ["Monique Olivier", "Véronique Courjault", "Florence Rey", "Christine Villemin"],
+      "bonne_reponse": "Monique Olivier",
+      "explication": "Monique Olivier, épouse de Fourniret, a été condamnée pour complicité de meurtre. Ses témoignages ont permis d'identifier certaines victimes et d'élucider de nouveaux crimes.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1987-2003",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2008/05/28/monique-olivier-condamnee-a-28-ans-de-reclusion_1051695_3224.html",
+        "https://www.liberation.fr/societe/police-justice/affaire-fourniret/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fourniret_qcm_004",
+      "affaire_id": "fourniret",
+      "module": "qcm",
+      "question": "En quelle année Michel Fourniret est-il décédé en prison ?",
+      "propositions": ["2017", "2019", "2021", "2023"],
+      "bonne_reponse": "2021",
+      "explication": "Michel Fourniret est décédé le 10 mai 2021 à l'UHSI de la Pitié-Salpêtrière à Paris. Il souffrait d'Alzheimer et de problèmes cardiaques. Il avait 79 ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2021",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/05/28/michel-fourniret-l-ogre-des-ardennes-est-mort_6082102_3224.html",
+        "https://www.bfmtv.com/police-justice/michel-fourniret-est-mort-2021/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

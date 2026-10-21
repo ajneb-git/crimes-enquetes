@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "bundy_qcm_001",
+      "affaire_id": "bundy",
+      "module": "qcm",
+      "question": "Dans quel État américain Ted Bundy fut-il finalement exécuté ?",
+      "propositions": ["Floride", "Utah", "Washington", "Colorado"],
+      "bonne_reponse": "Floride",
+      "explication": "Ted Bundy fut exécuté sur la chaise électrique le 24 janvier 1989 à la prison de Starke, en Floride, pour les meurtres de plusieurs jeunes femmes commis dans cet État.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.lemonde.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy_vf_001",
+      "affaire_id": "bundy",
+      "module": "vrai_faux",
+      "affirmation": "Ted Bundy s'évada deux fois de prison avant son exécution.",
+      "bonne_reponse": true,
+      "explication": "Bundy s'évada une première fois en 1977 du palais de justice d'Aspen (Colorado) en sautant par une fenêtre, puis une seconde fois en décembre 1977 de la prison de Glenwood Springs, en s'échappant par un trou dans le plafond.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.lefigaro.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy_qcm_002",
+      "affaire_id": "bundy",
+      "module": "qcm",
+      "question": "Quelle particularité Ted Bundy présenta-t-il lors de son procès ?",
+      "propositions": ["Il se défendit lui-même", "Il plaida l'alibi total", "Il refusa de parler", "Il accusa son frère jumeau"],
+      "bonne_reponse": "Il se défendit lui-même",
+      "explication": "Ted Bundy, qui avait des études de droit, choisit de se défendre lui-même lors de son procès en Floride en 1979, ce qui lui permit une grande visibilité médiatique tout en lui coûtant sa défense.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.lemonde.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy_vf_002",
+      "affaire_id": "bundy",
+      "module": "vrai_faux",
+      "affirmation": "Bundy avoua 30 meurtres avant son exécution, mais le nombre réel pourrait être bien supérieur.",
+      "bonne_reponse": true,
+      "explication": "Bundy avoua 30 meurtres la veille de son exécution. Les enquêteurs estiment le nombre réel de ses victimes entre 35 et 100, car il donnait des informations par bribes pour retarder son exécution.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.liberation.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy_qsj_001",
+      "affaire_id": "bundy",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série américain qui utilisait mon charme pour approcher mes victimes.",
+        "J'ai fait des études de droit et me suis défendu seul lors de mon procès.",
+        "Je me suis évadé deux fois de prison.",
+        "J'ai été exécuté sur la chaise électrique en Floride en 1989."
+      ],
+      "propositions": ["Ted Bundy", "Jeffrey Dahmer", "John Wayne Gacy", "Dennis Rader"],
+      "bonne_reponse": "Ted Bundy",
+      "explication": "Ted Bundy, tueur en série charismatique, commit de nombreux meurtres dans les années 1970. Après deux évasions, il fut exécuté en Floride en 1989 après avoir avoué 30 meurtres.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1974-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.lemonde.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bundy_chron_001",
+      "affaire_id": "bundy",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre ces étapes de la vie criminelle de Ted Bundy.",
+      "evenements": [
+        { "label": "Premiers meurtres dans l'État de Washington", "date_iso": "1974-02-01" },
+        { "label": "Première évasion du palais de justice d'Aspen", "date_iso": "1977-06-07" },
+        { "label": "Procès en Floride, Bundy se défend seul", "date_iso": "1979-07-01" },
+        { "label": "Exécution sur la chaise électrique en Floride", "date_iso": "1989-01-24" }
+      ],
+      "bonne_reponse": null,
+      "explication": "Premiers meurtres en 1974, évasion en 1977, procès en 1979 et exécution en janvier 1989.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ted_Bundy",
+        "https://www.lemonde.fr/archives/bundy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}
