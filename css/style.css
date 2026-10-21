@@ -331,6 +331,34 @@ button:not(:disabled):active { transform: scale(0.97); }
   padding: 2px 8px;
 }
 
+.q-counter {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-left: auto;
+}
+
+.q-scores {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.q-score-chip {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.q-score-chip strong {
+  color: var(--accent);
+  font-weight: 800;
+}
+
 .player-info {
   text-align: center;
   font-size: 0.9rem;

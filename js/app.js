@@ -157,12 +157,19 @@ function renderQuestion(q) {
   el('q-module-label').textContent = MODULE_LABELS[q.module] || q.module;
   el('q-difficulty').textContent = '⬥'.repeat(q.difficulte) + '⬦'.repeat(3 - q.difficulte);
   el('q-points').textContent = `${POINTS[q.difficulte]} pt${POINTS[q.difficulte] > 1 ? 's' : ''}`;
+  el('q-counter').textContent = `${state.questionIdx + 1}/${state.questions.length}`;
 
   if (state.mode === 'multi') {
     el('q-player-name').textContent = state.players[state.currentPlayerIdx].name;
     setHidden('q-player-info', false);
+    const scoresEl = el('q-scores');
+    scoresEl.innerHTML = state.players.map(p =>
+      `<span class="q-score-chip">${p.name} <strong>${p.score}</strong></span>`
+    ).join('');
+    setHidden('q-scores', false);
   } else {
     setHidden('q-player-info', true);
+    setHidden('q-scores', true);
   }
 
   const content = el('question-content');
@@ -598,6 +605,7 @@ async function init() {
 
   el('btn-result-continue').addEventListener('click', () => onContinue());
 
+  el('btn-end-solo').addEventListener('click', () => show('screen-solo-setup'));
   el('btn-end-home').addEventListener('click', () => show('screen-home'));
 
   el('btn-end-replay').addEventListener('click', () => {
