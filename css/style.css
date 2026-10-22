@@ -320,6 +320,17 @@ button:not(:disabled):active { transform: scale(0.97); }
   margin-top: 8px;
 }
 
+.home-stats-link {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-decoration: none;
+  margin-top: 12px;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+}
+.home-stats-link:hover { opacity: 1; }
+
 /* ── Screen: Setup ────────────────────────────────────────────────────────── */
 .setup-section {
   display: flex;

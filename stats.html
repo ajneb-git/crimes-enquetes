@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crimes & Enquêtes — Stats</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:         #0e0e17;
+      --card:       #16161f;
+      --border:     #2a2a38;
+      --accent:     #b91c1c;
+      --accent-solo:#c2410c;
+      --accent-multi:#1d4ed8;
+      --text:       #f1f1f3;
+      --text-muted: #6b7280;
+      --radius:     12px;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 16px;
+      gap: 24px;
+    }
+
+    .header { text-align: center; display: flex; flex-direction: column; gap: 4px; }
+    .header h1 { font-size: 1.5rem; font-weight: 900; }
+    .header p  { color: var(--text-muted); font-size: 0.9rem; font-weight: 600; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      width: 100%;
+      max-width: 540px;
+    }
+    @media (min-width: 480px) {
+      .cards { grid-template-columns: repeat(4, 1fr); }
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 12px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    .card-icon  { font-size: 1.6rem; }
+    .card-value { font-size: 1.9rem; font-weight: 900; }
+    .card-label { font-size: 0.72rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+    .chart-section {
+      width: 100%;
+      max-width: 540px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .chart-title {
+      font-size: 0.8rem;
+      font-weight: 800;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .dot {
+      width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+    }
+    .dot-enqueteur { background: var(--accent); }
+    .dot-solo      { background: var(--accent-solo); }
+    .dot-multi     { background: var(--accent-multi); }
+
+    .bar-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+    }
+    .bar-date  { width: 36px; color: var(--text-muted); font-weight: 600; flex-shrink: 0; font-size: 0.72rem; }
+    .bar-track { flex: 1; height: 8px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; }
+    .bar-fill  { height: 100%; border-radius: 99px; transition: width 0.4s ease; }
+    .bar-count { width: 22px; text-align: right; font-weight: 800; font-size: 0.78rem; color: var(--text-muted); }
+
+    .legend {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+
+    .stacked-bar-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+    }
+    .stacked-bar-track {
+      flex: 1;
+      height: 10px;
+      background: rgba(255,255,255,0.06);
+      border-radius: 99px;
+      overflow: hidden;
+      display: flex;
+    }
+    .seg { height: 100%; transition: width 0.4s ease; }
+    .seg-enqueteur { background: var(--accent); }
+    .seg-solo      { background: var(--accent-solo); }
+    .seg-multi     { background: var(--accent-multi); }
+
+    .btn-back {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.88rem;
+    }
+    .btn-back:hover { color: var(--text); }
+
+    .empty { color: var(--text-muted); font-size: 0.85rem; font-weight: 600; text-align: center; padding: 8px 0; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>🔍 Crimes & Enquêtes — Stats</h1>
+    <p>Parties lancées sur cet appareil</p>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <span class="card-icon">🎖️</span>
+      <span class="card-value" id="val-enqueteur">0</span>
+      <span class="card-label">Enquêteur</span>
+    </div>
+    <div class="card">
+      <span class="card-icon">🕵️</span>
+      <span class="card-value" id="val-solo">0</span>
+      <span class="card-label">Solo</span>
+    </div>
+    <div class="card">
+      <span class="card-icon">👥</span>
+      <span class="card-value" id="val-multi">0</span>
+      <span class="card-label">Multi</span>
+    </div>
+    <div class="card">
+      <span class="card-icon">📅</span>
+      <span class="card-value" id="val-today">0</span>
+      <span class="card-label">Aujourd'hui</span>
+    </div>
+  </div>
+
+  <div class="chart-section">
+    <div class="chart-title">📈 Parties des 14 derniers jours</div>
+    <div class="legend">
+      <div class="legend-item"><span class="dot dot-enqueteur"></span>Enquêteur</div>
+      <div class="legend-item"><span class="dot dot-solo"></span>Solo</div>
+      <div class="legend-item"><span class="dot dot-multi"></span>Multi</div>
+    </div>
+    <div id="chart-combined"></div>
+  </div>
+
+  <div class="chart-section">
+    <div class="chart-title"><span class="dot dot-enqueteur"></span>Mode Enquêteur</div>
+    <div id="chart-enqueteur"></div>
+  </div>
+
+  <div class="chart-section">
+    <div class="chart-title"><span class="dot dot-solo"></span>Mode Solo</div>
+    <div id="chart-solo"></div>
+  </div>
+
+  <div class="chart-section">
+    <div class="chart-title"><span class="dot dot-multi"></span>Mode Multi</div>
+    <div id="chart-multi"></div>
+  </div>
+
+  <a href="/" class="btn-back">← Retour au quiz</a>
+
+  <script>
+    function getLast14Days() {
+      const days = [];
+      for (let i = 13; i >= 0; i--) {
+        const d = new Date();
+        d.setDate(d.getDate() - i);
+        days.push(d.toISOString().slice(0, 10));
+      }
+      return days;
+    }
+
+    function fmtDay(iso) {
+      const d = new Date(iso + 'T00:00:00');
+      return d.toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' });
+    }
+
+    function renderStackedChart(containerId, days, data) {
+      const container = document.getElementById(containerId);
+      const maxTotal = Math.max(...days.map(d => {
+        const row = data[d] || {};
+        return (row.enqueteur || 0) + (row.solo || 0) + (row.multi || 0);
+      }), 1);
+
+      container.innerHTML = days.map(day => {
+        const row = data[day] || {};
+        const e = row.enqueteur || 0;
+        const s = row.solo || 0;
+        const m = row.multi || 0;
+        const total = e + s + m;
+        const pe = Math.round((e / maxTotal) * 100);
+        const ps = Math.round((s / maxTotal) * 100);
+        const pm = Math.round((m / maxTotal) * 100);
+        return `
+          <div class="stacked-bar-row">
+            <span class="bar-date">${fmtDay(day)}</span>
+            <div class="stacked-bar-track">
+              <div class="seg seg-enqueteur" style="width:${pe}%"></div>
+              <div class="seg seg-solo" style="width:${ps}%"></div>
+              <div class="seg seg-multi" style="width:${pm}%"></div>
+            </div>
+            <span class="bar-count">${total || ''}</span>
+          </div>`;
+      }).join('');
+    }
+
+    function renderSimpleChart(containerId, days, data, mode, colorClass) {
+      const container = document.getElementById(containerId);
+      const max = Math.max(...days.map(d => (data[d] || {})[mode] || 0), 1);
+
+      const hasData = days.some(d => ((data[d] || {})[mode] || 0) > 0);
+      if (!hasData) {
+        container.innerHTML = '<p class="empty">Pas encore de données.</p>';
+        return;
+      }
+
+      container.innerHTML = days.map(day => {
+        const count = (data[day] || {})[mode] || 0;
+        const pct = Math.round((count / max) * 100);
+        return `
+          <div class="bar-row">
+            <span class="bar-date">${fmtDay(day)}</span>
+            <div class="bar-track">
+              <div class="bar-fill ${colorClass}" style="width:${pct}%"></div>
+            </div>
+            <span class="bar-count">${count || ''}</span>
+          </div>`;
+      }).join('');
+    }
+
+    function render() {
+      let data = {};
+      try { data = JSON.parse(localStorage.getItem('crimes_stats') || '{}'); } catch(e) {}
+
+      const days = getLast14Days();
+      const today = new Date().toISOString().slice(0, 10);
+
+      let totE = 0, totS = 0, totM = 0, todayTotal = 0;
+      for (const [day, row] of Object.entries(data)) {
+        totE += row.enqueteur || 0;
+        totS += row.solo || 0;
+        totM += row.multi || 0;
+      }
+      const todayRow = data[today] || {};
+      todayTotal = (todayRow.enqueteur || 0) + (todayRow.solo || 0) + (todayRow.multi || 0);
+
+      document.getElementById('val-enqueteur').textContent = totE;
+      document.getElementById('val-solo').textContent = totS;
+      document.getElementById('val-multi').textContent = totM;
+      document.getElementById('val-today').textContent = todayTotal;
+
+      const hasAny = days.some(d => {
+        const row = data[d] || {};
+        return (row.enqueteur || 0) + (row.solo || 0) + (row.multi || 0) > 0;
+      });
+
+      if (!hasAny) {
+        document.getElementById('chart-combined').innerHTML =
+          '<p class="empty">Pas encore de données — lance une partie pour commencer.</p>';
+      } else {
+        renderStackedChart('chart-combined', days, data);
+      }
+
+      renderSimpleChart('chart-enqueteur', days, data, 'enqueteur', 'seg-enqueteur');
+      renderSimpleChart('chart-solo',      days, data, 'solo',      'seg-solo');
+      renderSimpleChart('chart-multi',     days, data, 'multi',     'seg-multi');
+    }
+
+    render();
+  </script>
+</body>
+</html>

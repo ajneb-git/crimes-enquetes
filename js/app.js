@@ -38,6 +38,17 @@ function shuffle(arr) {
 
 function el(id) { return document.getElementById(id); }
 
+function gcTrack(mode) {
+  const today = new Date().toISOString().slice(0, 10);
+  try {
+    const data = JSON.parse(localStorage.getItem('crimes_stats') || '{}');
+    if (!data[today]) data[today] = { enqueteur: 0, solo: 0, multi: 0 };
+    data[today][mode] = (data[today][mode] || 0) + 1;
+    localStorage.setItem('crimes_stats', JSON.stringify(data));
+  } catch(e) {}
+  try { window.goatcounter?.count({ path: 'crimes/' + mode, event: true }); } catch(e) {}
+}
+
 function show(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   const target = el(id);
@@ -156,7 +167,7 @@ function startLadder() {
   state.questionIdx = 0;
   state.questions = questions;
   state.lastSetup = { type: 'ladder' };
-
+  gcTrack('enqueteur');
   showNextQuestion();
 }
 
@@ -190,6 +201,7 @@ function startSolo(modules, rounds) {
     alert('Aucune question disponible pour les modules sélectionnés.');
     return;
   }
+  gcTrack('solo');
   showNextQuestion();
 }
 
@@ -207,6 +219,7 @@ function startMulti(players, rounds, modules) {
     alert('Aucune question disponible.');
     return;
   }
+  gcTrack('multi');
   showPrivacy();
 }
 
