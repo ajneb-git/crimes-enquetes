@@ -514,6 +514,15 @@
       "statut_judiciaire": "condamnation_definitive"
     },
     {
+      "id": "droit_penal",
+      "nom": "Droit pénal français",
+      "alias": "Le Code pénal",
+      "dates": "1791–aujourd'hui",
+      "lieu": "France",
+      "resume": "Questions sur les peines maximales prévues par le Code pénal français, leur évolution historique et les grands repères du droit pénal : abolition de la peine de mort (1981), dépénalisation de l'homosexualité (1982), création de la perpétuité incompressible (1994).",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
       "id": "fred_rosemary_west",
       "nom": "Fred et Rosemary West",
       "alias": "Les Monstres de Cromwell Street",

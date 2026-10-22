@@ -1,0 +1,398 @@
+{
+  "questions": [
+    {
+      "id": "droit_penal_qcm_001",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Quelle est la peine maximale prévue par le Code pénal pour un meurtre simple (sans préméditation) en France ?",
+      "propositions": ["30 ans de réclusion", "Perpétuité", "20 ans de réclusion", "15 ans de réclusion"],
+      "bonne_reponse": "30 ans de réclusion",
+      "explication": "Le meurtre simple est puni de 30 ans de réclusion criminelle (art. 221-1 du Code pénal). La perpétuité n'est pas automatique : elle s'applique à l'assassinat (avec préméditation, art. 221-3) ou au meurtre aggravé. Un jury peut donc condamner un meurtrier à une peine bien inférieure à 30 ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "actuel",
+      "sources": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221748",
+        "https://www.service-public.fr/particuliers/vosdroits/F1515"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_002",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Quelle est la peine maximale pour un viol simple commis sur un adulte en France ?",
+      "propositions": ["15 ans de réclusion", "20 ans de réclusion", "Perpétuité", "30 ans de réclusion"],
+      "bonne_reponse": "15 ans de réclusion",
+      "explication": "Le viol simple est puni de 15 ans de réclusion criminelle (art. 222-23 du Code pénal). Ce chiffre surprend souvent : beaucoup imaginent une peine plus lourde. Elle monte à 20 ans si la victime est mineure de moins de 15 ans, à 30 ans si le viol entraîne la mort, et peut aller jusqu'à la perpétuité si commis avec torture.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "actuel",
+      "sources": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043413553",
+        "https://www.service-public.fr/particuliers/vosdroits/F1526"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_003",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Quelle est la peine maximale pour une escroquerie simple en France ?",
+      "propositions": ["5 ans + 375 000 €", "10 ans + 1 000 000 €", "2 ans + 30 000 €", "7 ans + 750 000 €"],
+      "bonne_reponse": "5 ans + 375 000 €",
+      "explication": "L'escroquerie simple est punie de 5 ans d'emprisonnement et 375 000 € d'amende (art. 313-1 du Code pénal). C'est nettement moins que ce que beaucoup imaginent pour des arnaques parfois colossales. La peine monte à 7 ans et 750 000 € si l'escroquerie est commise en bande organisée.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "actuel",
+      "sources": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418188",
+        "https://www.service-public.fr/particuliers/vosdroits/F1520"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_004",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Quelle est la peine maximale pour un trafic de stupéfiants en bande organisée en France ?",
+      "propositions": ["30 ans + 7,5 millions d'euros d'amende", "15 ans + 1 million d'euros d'amende", "20 ans + 3 millions d'euros d'amende", "Perpétuité + confiscation des biens"],
+      "bonne_reponse": "30 ans + 7,5 millions d'euros d'amende",
+      "explication": "Le trafic de stupéfiants en bande organisée est puni de 30 ans de réclusion criminelle et 7,5 millions d'euros d'amende (art. 222-34 du Code pénal). C'est autant qu'un meurtre simple. Le trafic simple est quant à lui puni de 10 ans et 7,5 millions d'euros d'amende.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "actuel",
+      "sources": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222272",
+        "https://www.drogues.gouv.fr/se-faire-aider/droits-et-obligations/les-sanctions-penales"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_005",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "En quelle année la France a-t-elle officiellement aboli la peine de mort ?",
+      "propositions": ["1981", "1977", "1975", "1990"],
+      "bonne_reponse": "1981",
+      "explication": "La peine de mort a été abolie en France par la loi n° 81-908 du 9 octobre 1981, portée par le garde des Sceaux Robert Badinter sous la présidence de François Mitterrand. Elle a été inscrite dans la Constitution en 2007 sous Jacques Chirac.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1981",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Abolition_de_la_peine_de_mort_en_France",
+        "https://www.conseil-constitutionnel.fr/les-revisions-constitutionnelles/revision-du-23-fevrier-2007"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_006",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Qui fut le dernier condamné à être guillotiné en France, le 10 septembre 1977 à la prison des Baumettes de Marseille ?",
+      "propositions": ["Hamida Djandoubi", "Christian Ranucci", "Patrick Henry", "Jacques Mesrine"],
+      "bonne_reponse": "Hamida Djandoubi",
+      "explication": "Hamida Djandoubi, Franco-Tunisien condamné pour enlèvement, séquestration, viol et meurtre avec torture sur une jeune femme de 21 ans, fut guillotiné le 10 septembre 1977 à la prison des Baumettes à Marseille. Il fut le dernier condamné à mort exécuté en France. Christian Ranucci, souvent cité, avait été guillotiné deux ans plus tôt, le 28 juillet 1976.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Hamida_Djandoubi",
+        "https://fr.wikipedia.org/wiki/Abolition_de_la_peine_de_mort_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_001",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "En France, l'homosexualité était encore un délit pénal en 1980.",
+      "bonne_reponse": true,
+      "explication": "VRAI. L'homosexualité n'a été dépénalisée en France que par la loi Forni n° 82-683 du 4 août 1982. La loi réprimant les relations homosexuelles avait été instaurée sous le régime de Vichy en 1942, et maintenue sans modification à la Libération pendant 40 ans. En 1960, elle avait même été aggravée (classification comme 'fléau social').",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1942-1982",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Histoire_de_la_d%C3%A9p%C3%A9nalisation_de_l%27homosexualit%C3%A9_en_France",
+        "https://www.cairn.info/revue-histoire-et-societes-2005-2-page-35.htm"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_002",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Avant 1975, l'adultère était puni par la loi de la même façon pour l'homme et pour la femme en France.",
+      "bonne_reponse": false,
+      "explication": "FAUX. L'ancien Code pénal traitait l'adultère de manière profondément inégale. La femme adultère risquait 3 mois à 2 ans de prison (art. 337 ancien). Le mari adultère n'était sanctionné que d'une simple amende, et seulement s'il avait entretenu sa maîtresse au domicile conjugal (art. 339 ancien). Cette inégalité de traitement a perduré jusqu'à la loi du 11 juillet 1975 qui a dépénalisé l'adultère.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "avant-1975",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Adult%C3%A8re_en_France",
+        "https://www.cairn.info/revue-droit-et-societe-2007"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_003",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Le dernier bagne de Guyane a fermé ses portes avant la Seconde Guerre mondiale.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Le bagne de Guyane (forçats transportés depuis 1854) n'a officiellement fermé qu'en 1946 — soit un an après la fin de la Seconde Guerre mondiale. La loi du 17 juin 1938 avait supprimé les nouveaux envois au bagne, mais les derniers détenus sont rentrés en France en 1953 seulement. La dernière traversée de forçats avait eu lieu en 1938.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1854-1946",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bagne_de_Guyane",
+        "https://www.criminocorpus.fr/fr/histoire/les-bagnes-coloniaux/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_004",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "La réclusion criminelle à perpétuité incompressible (sans possibilité de libération conditionnelle) existait déjà en France avant 1990.",
+      "bonne_reponse": false,
+      "explication": "FAUX. La perpétuité incompressible — qui supprime toute possibilité de libération conditionnelle — a été créée par la loi du 1er février 1994. Avant cette date, toute peine de réclusion criminelle à perpétuité pouvait en théorie donner lieu à une demande de libération conditionnelle après une période de sûreté. Elle a été étendue au terrorisme ayant causé la mort par la loi du 3 juin 2016.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/R%C3%A9clusion_criminelle_%C3%A0_perp%C3%A9tuit%C3%A9_incompressible",
+        "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000349981"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_chron_001",
+      "affaire_id": "droit_penal",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces grandes réformes du droit pénal français.",
+      "evenements": [
+        {
+          "label": "Dépénalisation de l'adultère (loi du 11 juillet 1975)",
+          "date_iso": "1975-07-11"
+        },
+        {
+          "label": "Abolition de la peine de mort par Robert Badinter (loi du 9 octobre 1981)",
+          "date_iso": "1981-10-09"
+        },
+        {
+          "label": "Dépénalisation de l'homosexualité (loi Forni du 4 août 1982)",
+          "date_iso": "1982-08-04"
+        },
+        {
+          "label": "Création de la perpétuité incompressible (loi du 1er février 1994)",
+          "date_iso": "1994-02-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1975 : dépénalisation de l'adultère. 1981 : abolition de la peine de mort. 1982 : dépénalisation de l'homosexualité. 1994 : création de la perpétuité incompressible. Ces quatre réformes majeures se sont étalées sur moins de 20 ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Abolition_de_la_peine_de_mort_en_France",
+        "https://fr.wikipedia.org/wiki/R%C3%A9clusion_criminelle_%C3%A0_perp%C3%A9tuit%C3%A9_incompressible"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_duel_001",
+      "affaire_id": "droit_penal",
+      "module": "duel",
+      "question": "Lequel de ces deux crimes est puni de la peine maximale la plus lourde en France ?",
+      "item_a": "Trafic de stupéfiants en bande organisée",
+      "item_b": "Viol aggravé sur mineur de moins de 15 ans",
+      "bonne_reponse": "a",
+      "explication": "Le trafic de stupéfiants en bande organisée est puni de 30 ans de réclusion (art. 222-34 CP), contre 20 ans pour le viol aggravé sur mineur (art. 222-24 CP). Ce décalage surprend souvent : une infraction de 'violence sexuelle' grave est théoriquement moins sévèrement punie qu'un crime organisé lié à la drogue.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "actuel",
+      "sources": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222272",
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043413565"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_duel_002",
+      "affaire_id": "droit_penal",
+      "module": "duel",
+      "question": "Lequel de ces deux actes était puni plus sévèrement par la loi en France avant 1975 ?",
+      "item_a": "L'adultère commis par une femme mariée",
+      "item_b": "L'adultère commis par un homme marié",
+      "bonne_reponse": "a",
+      "explication": "Avant la dépénalisation de l'adultère en 1975, la femme adultère risquait de 3 mois à 2 ans de prison ferme. Le mari adultère n'était passible que d'une simple amende, et encore uniquement s'il avait entretenu sa concubine au domicile conjugal. Cette inégalité sexiste flagrante a perduré dans le droit français jusqu'en 1975.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "avant-1975",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Adult%C3%A8re_en_France",
+        "https://gallica.bnf.fr/ark:/12148/bpt6k6557891v"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qsj_001",
+      "affaire_id": "droit_penal",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un homme politique français qui a défendu l'abolition de la peine de mort devant l'Assemblée nationale.",
+        "Mon discours du 17 septembre 1981 commence par 'Jamais plus...' et s'achève dans un silence de mort.",
+        "J'ai été garde des Sceaux sous François Mitterrand et président du Conseil constitutionnel.",
+        "Mon combat pour les droits de l'homme a inspiré des générations de juristes."
+      ],
+      "propositions": ["Robert Badinter", "Michel Debré", "Jacques Chirac", "Simone Veil"],
+      "bonne_reponse": "Robert Badinter",
+      "explication": "Robert Badinter (1928-2024) fut l'artisan de l'abolition de la peine de mort en France. Garde des Sceaux de 1981 à 1986, il porta la loi du 9 octobre 1981 après un discours historique à l'Assemblée nationale. Il fut ensuite Président du Conseil constitutionnel (1986-1995), puis sénateur.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1981",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Robert_Badinter",
+        "https://fr.wikipedia.org/wiki/Abolition_de_la_peine_de_mort_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_005",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Michel Fourniret, 'l'Ogre des Ardennes', a été condamné à la réclusion criminelle à perpétuité incompressible.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Michel Fourniret est l'un des premiers condamnés à la perpétuité incompressible en France, le 28 mai 2008, pour viols et meurtres sur plusieurs jeunes femmes et mineures. Il est décédé en détention le 10 mai 2021 à l'âge de 79 ans, sans jamais avoir été libéré.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Michel_Fourniret",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_006",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Guy Georges, le 'tueur de l'Est parisien' (7 meurtres), a été condamné à la réclusion criminelle à perpétuité incompressible.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Guy Georges, condamné en 2001 pour 7 meurtres et viols sur des femmes, a reçu une réclusion criminelle à perpétuité assortie d'une période de sûreté de 22 ans — le maximum légal ordinaire — mais PAS de perpétuité incompressible. Il pourrait donc théoriquement demander une libération conditionnelle depuis mars 2020.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_007",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Nordahl Lelandais, condamné pour le meurtre de la petite Maëlys (9 ans), a reçu la réclusion criminelle à perpétuité incompressible.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Nordahl Lelandais a été condamné en 2022 à la réclusion criminelle à perpétuité avec une période de sûreté de 22 ans (le maximum ordinaire) pour le meurtre de Maëlys De Araujo, mais sans la clause d'incompressibilité. Le jury a écarté le viol aggravé, condition nécessaire pour déclencher la perpétuité incompressible.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Nordahl_Lelandais",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_008",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Patrick Henry, condamné en 1977 pour l'enlèvement et le meurtre du petit Philippe Bertrand (8 ans), est sorti de prison de son vivant.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Patrick Henry, condamné en 1977 à la réclusion criminelle à perpétuité (la peine de mort ayant été réclamée), a bénéficié d'une libération conditionnelle en 2002, après 25 ans de détention. La perpétuité incompressible n'existait pas encore lors de sa condamnation (créée en 1994). Son avocat à l'époque était Robert Badinter — le futur artisan de l'abolition de la peine de mort.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1977-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrick_Henry_(criminel)",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_vf_009",
+      "affaire_id": "droit_penal",
+      "module": "vrai_faux",
+      "affirmation": "Salah Abdeslam a reçu la perpétuité incompressible au titre des lois antiterroristes, en vertu de la loi de 2016 sur le terrorisme.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Abdeslam a bien été condamné à la perpétuité incompressible en juin 2022, mais PAS au titre de la loi antiterroriste de 2016 (qui n'est pas rétroactive). Il l'a reçue pour tentative d'assassinat en bande organisée sur des policiers — une infraction qui ouvrait déjà droit à cette peine. C'est un détail juridique crucial souvent ignoré.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Salah_Abdeslam",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_qcm_007",
+      "affaire_id": "droit_penal",
+      "module": "qcm",
+      "question": "Combien de personnes avaient été condamnées à la réclusion criminelle à perpétuité incompressible en France avant Salah Abdeslam, en 2022 ?",
+      "propositions": ["3", "10", "1", "7"],
+      "bonne_reponse": "3",
+      "explication": "Avant Abdeslam (juin 2022), seules 3 personnes avaient été définitivement condamnées à la perpétuité incompressible : Michel Fourniret (mai 2008), Pierre Bodein dit 'Pierrot le fou' (oct. 2008), Nicolas Blondiau (2015) et Yannick Luende Bothelo (2016). Un quatrième cas (Beaulieu, 2007) avait été annulé en appel.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1994-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France",
+        "https://www.lemonde.fr/societe/article/2022/06/29/proces-13-novembre-abdeslam"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "droit_penal_duel_003",
+      "affaire_id": "droit_penal",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels a été condamné à la réclusion criminelle à perpétuité incompressible ?",
+      "item_a": "Michel Fourniret ('l'Ogre des Ardennes')",
+      "item_b": "Francis Heaulme",
+      "bonne_reponse": "a",
+      "explication": "Michel Fourniret a été condamné à la perpétuité incompressible en mai 2008 pour viols et meurtres sur mineures. Francis Heaulme, lui, a reçu une perpétuité simple lors de sa condamnation en 2017 pour le double meurtre d'enfants à Montigny-lès-Metz. La perpétuité incompressible requiert notamment des viols sur mineur prouvés devant la cour.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Michel_Fourniret",
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}
