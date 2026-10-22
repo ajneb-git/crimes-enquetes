@@ -155,7 +155,7 @@
       "id": "courjault_duel_001",
       "affaire_id": "courjault",
       "module": "duel",
-      "question": "Laquelle de ces deux affaires implique le plus grand nombre d'infanticides reconnus ?",
+      "question": "Laquelle de ces deux femmes a causé le plus grand nombre de décès reconnus ?",
       "item_a": "Affaire Véronique Courjault (dite 'du bébé congélateur')",
       "item_b": "Affaire Christine Malèvre (infirmière de Mantes-la-Jolie)",
       "bonne_reponse": "b",
