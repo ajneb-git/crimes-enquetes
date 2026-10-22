@@ -521,9 +521,16 @@ function onAnswer(isCorrect, q) {
   showResult(isCorrect, pts, q);
 }
 
+function getQuestionLabel(q) {
+  if (q.module === 'vrai_faux') return q.affirmation || '';
+  if (q.module === 'qui_suis_je') return 'Qui suis-je ?';
+  return q.question || '';
+}
+
 function showResult(isCorrect, pts, q) {
   el('result-icon').textContent = isCorrect ? '✓' : '✗';
   el('result-icon').className   = `result-icon ${isCorrect ? 'correct' : 'wrong'}`;
+  el('result-question').textContent = getQuestionLabel(q);
   el('result-explication').textContent = q.explication || '';
 
   if (state.mode === 'ladder') {

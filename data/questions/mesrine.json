@@ -5,7 +5,12 @@
       "affaire_id": "mesrine",
       "module": "qcm",
       "question": "Quel surnom la presse donna-t-elle à Jacques Mesrine ?",
-      "propositions": ["L'Ennemi public n°1", "Le Robin des Bois français", "Le Grand Bandit", "Le Fantôme de la République"],
+      "propositions": [
+        "L'Ennemi public n°1",
+        "Le Robin des Bois français",
+        "Le Grand Bandit",
+        "Le Fantôme de la République"
+      ],
       "bonne_reponse": "L'Ennemi public n°1",
       "explication": "Jacques Mesrine fut désigné «L'Ennemi public n°1» par les médias et les autorités françaises en raison de ses nombreuses évasions spectaculaires, braquages et meurtres commis dans plusieurs pays.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "mesrine",
       "module": "qcm",
       "question": "De quelle prison canadienne Mesrine s'évada-t-il de façon spectaculaire en 1972 ?",
-      "propositions": ["Saint-Vincent-de-Paul", "Donnacona", "Bordeaux", "Archambault"],
+      "propositions": [
+        "Saint-Vincent-de-Paul",
+        "Donnacona",
+        "Bordeaux",
+        "Archambault"
+      ],
       "bonne_reponse": "Saint-Vincent-de-Paul",
       "explication": "En 1972, Mesrine s'évada de la prison de Saint-Vincent-de-Paul (Laval, Québec) avec un complice en passant par le toit. Cette évasion contribua à forger sa légende.",
       "difficulte": 3,
@@ -80,7 +90,12 @@
         "J'ai écrit mon autobiographie pendant ma cavale.",
         "Je fus abattu en 1979 dans une embuscade policière à Paris."
       ],
-      "propositions": ["Jacques Mesrine", "Albert Spaggiari", "Carlos l'Illich", "Jean-Paul Marat"],
+      "propositions": [
+        "Jacques Mesrine",
+        "Albert Spaggiari",
+        "Carlos l'Illich",
+        "Jean-Paul Marat"
+      ],
       "bonne_reponse": "Jacques Mesrine",
       "explication": "Jacques Mesrine, «L'Ennemi public n°1», fut l'un des criminels les plus célèbres de France. Auteur de nombreux meurtres et braquages, il fut abattu lors d'une embuscade en novembre 1979.",
       "difficulte": 1,
@@ -99,10 +114,22 @@
       "module": "chronologie",
       "question": "Remettez dans l'ordre ces étapes de la vie criminelle de Mesrine.",
       "evenements": [
-        { "label": "Première condamnation pour braquage en France", "date_iso": "1962-01-01" },
-        { "label": "Évasion spectaculaire de la prison Saint-Vincent-de-Paul au Canada", "date_iso": "1972-08-21" },
-        { "label": "Évasion de la Santé à Paris", "date_iso": "1978-05-08" },
-        { "label": "Abattu Porte de Clignancourt", "date_iso": "1979-11-02" }
+        {
+          "label": "Première condamnation pour braquage en France",
+          "date_iso": "1962-01-01"
+        },
+        {
+          "label": "Évasion spectaculaire de la prison Saint-Vincent-de-Paul au Canada",
+          "date_iso": "1972-08-21"
+        },
+        {
+          "label": "Évasion de la Santé à Paris",
+          "date_iso": "1978-05-08"
+        },
+        {
+          "label": "Abattu Porte de Clignancourt",
+          "date_iso": "1979-11-02"
+        }
       ],
       "bonne_reponse": null,
       "explication": "Mesrine débuta sa carrière criminelle dans les années 1960, s'évada du Canada en 1972, de la Santé en 1978 et fut abattu en novembre 1979.",
@@ -121,8 +148,8 @@
       "affaire_id": "mesrine",
       "module": "duel",
       "question": "Lequel de ces deux criminels français fut abattu par la police plutôt que jugé ?",
-      "item_a": "Jacques Mesrine (1979)",
-      "item_b": "Albert Spaggiari (rattrapé et condamné)",
+      "item_a": "Jacques Mesrine",
+      "item_b": "Albert Spaggiari",
       "bonne_reponse": "a",
       "explication": "Mesrine fut abattu en novembre 1979 lors d'une embuscade. Spaggiari, l'auteur du casse du siècle à Nice en 1976, fut arrêté mais s'évada lors de son procès et mourut en exil en 1989.",
       "difficulte": 2,
@@ -140,7 +167,12 @@
       "affaire_id": "mesrine",
       "module": "qcm",
       "question": "De quelle prison parisienne Mesrine parvint-il à s'évader en 1978 ?",
-      "propositions": ["La Santé", "Fresnes", "Fleury-Mérogis", "La Roquette"],
+      "propositions": [
+        "La Santé",
+        "Fresnes",
+        "Fleury-Mérogis",
+        "La Roquette"
+      ],
       "bonne_reponse": "La Santé",
       "explication": "En mai 1978, Mesrine réussit à s'évader de la prison de la Santé à Paris en escaladant les murs, exploit qui renforça encore sa réputation de criminel insaisissable.",
       "difficulte": 2,

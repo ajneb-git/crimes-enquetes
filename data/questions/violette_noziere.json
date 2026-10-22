@@ -5,7 +5,12 @@
       "affaire_id": "violette_noziere",
       "module": "qcm",
       "question": "Qui Violette Nozière empoisonna-t-elle en 1933 ?",
-      "propositions": ["Ses parents", "Son mari", "Son amant", "Sa belle-mère"],
+      "propositions": [
+        "Ses parents",
+        "Son mari",
+        "Son amant",
+        "Sa belle-mère"
+      ],
       "bonne_reponse": "Ses parents",
       "explication": "Violette Nozière empoisonna ses deux parents avec de la véronal mélangé à du vin en août 1933. Son père mourut, sa mère survécut. L'affaire devint un scandale retentissant dans la France de l'entre-deux-guerres.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "violette_noziere",
       "module": "qcm",
       "question": "Violette Nozière prétendait avoir empoisonné son père pour quelle raison ?",
-      "propositions": ["Pour mettre fin à des abus incestueux", "Pour hériter de sa fortune", "Pour vivre librement avec son amant", "Par jalousie envers sa mère"],
+      "propositions": [
+        "Pour mettre fin à des abus incestueux",
+        "Pour hériter de sa fortune",
+        "Pour vivre librement avec son amant",
+        "Par jalousie envers sa mère"
+      ],
       "bonne_reponse": "Pour mettre fin à des abus incestueux",
       "explication": "Violette affirma avoir subi des abus sexuels de son père depuis l'enfance et présenta son geste comme une délivrance. Ces allégations furent débattues et contribuèrent à la fascination des surréalistes pour cette affaire.",
       "difficulte": 2,
@@ -80,7 +90,12 @@
         "J'ai prétendu agir pour me libérer d'abus subis depuis l'enfance.",
         "J'ai été réhabilitée en 1963, trente ans après mon crime."
       ],
-      "propositions": ["Violette Nozière", "Marie Besnard", "Hélène Jegado", "Jeanne Weber"],
+      "propositions": [
+        "Violette Nozière",
+        "Marie Besnard",
+        "Hélène Jegado",
+        "Jeanne Weber"
+      ],
       "bonne_reponse": "Violette Nozière",
       "explication": "Violette Nozière empoisonna ses parents en 1933, fut condamnée à mort, graciée, libérée en 1945 et réhabilitée en 1963. Son affaire inspira les surréalistes et le cinéaste Claude Chabrol.",
       "difficulte": 2,
@@ -98,8 +113,8 @@
       "affaire_id": "violette_noziere",
       "module": "duel",
       "question": "Laquelle de ces deux empoisonneuses françaises fut finalement réhabilitée par la justice ?",
-      "item_a": "Violette Nozière (réhabilitée en 1963)",
-      "item_b": "Marie Besnard (acquittée, mais non réhabilitée pour les mêmes raisons)",
+      "item_a": "Violette Nozière",
+      "item_b": "Marie Besnard",
       "bonne_reponse": "a",
       "explication": "Violette Nozière fut formellement réhabilitée en 1963 par la Cour de cassation. Marie Besnard, elle, fut acquittée après trois procès mais sans réhabilitation de la même nature.",
       "difficulte": 3,
@@ -118,10 +133,22 @@
       "module": "chronologie",
       "question": "Remettez dans l'ordre ces étapes de l'affaire Violette Nozière.",
       "evenements": [
-        { "label": "Empoisonnement des parents, mort du père", "date_iso": "1933-08-21" },
-        { "label": "Condamnation à mort", "date_iso": "1934-10-12" },
-        { "label": "Libération et grâce présidentielle", "date_iso": "1945-01-01" },
-        { "label": "Réhabilitation par la Cour de cassation", "date_iso": "1963-01-01" }
+        {
+          "label": "Empoisonnement des parents, mort du père",
+          "date_iso": "1933-08-21"
+        },
+        {
+          "label": "Condamnation à mort",
+          "date_iso": "1934-10-12"
+        },
+        {
+          "label": "Libération et grâce présidentielle",
+          "date_iso": "1945-01-01"
+        },
+        {
+          "label": "Réhabilitation par la Cour de cassation",
+          "date_iso": "1963-01-01"
+        }
       ],
       "bonne_reponse": null,
       "explication": "Le crime eut lieu en août 1933, condamnation à mort en 1934, libération en 1945 et réhabilitation officielle en 1963.",

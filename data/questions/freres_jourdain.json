@@ -4,21 +4,21 @@
       "id": "freres_jourdain_qcm_001",
       "affaire_id": "freres_jourdain",
       "module": "qcm",
-      "question": "Dans quelle région de France les frères Thierry et Christian Jourdain ont-ils commis leurs crimes au début des années 1990 ?",
+      "question": "Dans quelle ville du Pas-de-Calais quatre jeunes femmes ont-elles disparu lors d'un carnaval en février 1997, victimes des frères Jourdain ?",
       "propositions": [
-        "Poitou-Charentes",
-        "Normandie",
-        "Bretagne",
-        "Alsace"
+        "Le Portel",
+        "Calais",
+        "Arras",
+        "Lens"
       ],
-      "bonne_reponse": "Poitou-Charentes",
-      "explication": "Les frères Jourdain ont sévi principalement en Poitou-Charentes au début des années 1990. Leur affaire a été traitée par l'émission 'Faites entrer l'accusé'. Note : les détails précis de cette affaire restent peu documentés dans les sources disponibles ; cette question est à vérifier.",
-      "difficulte": 3,
+      "bonne_reponse": "Le Portel",
+      "explication": "Les quatre victimes ont disparu dans la nuit du 11 au 12 février 1997 lors du carnaval du Portel, une petite ville côtière du Pas-de-Calais proche de Boulogne-sur-Mer. Leur disparition simultanée lors d'un événement festif a immédiatement alerté les familles et déclenché une enquête d'envergure.",
+      "difficulte": 2,
       "pays": "FR",
-      "epoque": "1993-1994",
+      "epoque": "1997",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
-        "https://www.france.tv/france-2/faites-entrer-l-accuse/"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"
@@ -27,21 +27,44 @@
       "id": "freres_jourdain_qcm_002",
       "affaire_id": "freres_jourdain",
       "module": "qcm",
-      "question": "Quel est le nom de l'émission télévisée française qui a consacré un épisode aux frères Jourdain et a popularisé de nombreuses affaires criminelles ?",
+      "question": "Lors de quel événement festif les quatre victimes des frères Jourdain ont-elles disparu ?",
       "propositions": [
-        "Faites entrer l'accusé",
-        "Enquêtes criminelles",
-        "Témoin n°1",
-        "L'Heure du crime"
+        "Un carnaval",
+        "Un feu d'artifice du 14-Juillet",
+        "Une fête de village",
+        "Un concert"
       ],
-      "bonne_reponse": "Faites entrer l'accusé",
-      "explication": "'Faites entrer l'accusé' est une émission de France 2, animée par Christophe Hondelatte, diffusée de 2000 à 2012 puis relancée en 2017. Elle a traité environ 200 grandes affaires criminelles françaises, dont celle des frères Jourdain, et constitue une référence pour la criminologie grand public en France.",
+      "bonne_reponse": "Un carnaval",
+      "explication": "Les quatre jeunes femmes, âgées de 16 à 20 ans, ont été enlevées lors du carnaval du Portel dans la nuit du 11 au 12 février 1997. Le contexte festif, la foule et l'ambiance nocturne ont facilité leur enlèvement par les frères Jean-Michel et Jean-Louis Jourdain.",
       "difficulte": 1,
       "pays": "FR",
-      "epoque": "2000-2019",
+      "epoque": "1997",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
-        "https://www.france.tv/france-2/faites-entrer-l-accuse/"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_qcm_003",
+      "affaire_id": "freres_jourdain",
+      "module": "qcm",
+      "question": "À quelle peine Jean-Michel Jourdain, le frère aîné, a-t-il été condamné en 2000 ?",
+      "propositions": [
+        "Réclusion criminelle à perpétuité avec 22 ans de sûreté",
+        "30 ans de réclusion criminelle",
+        "Réclusion criminelle à perpétuité incompressible",
+        "20 ans de réclusion criminelle"
+      ],
+      "bonne_reponse": "Réclusion criminelle à perpétuité avec 22 ans de sûreté",
+      "explication": "Jean-Michel Jourdain a été condamné à la réclusion criminelle à perpétuité assortie d'une période de sûreté de 22 ans lors du procès du 27 octobre 2000. Son frère Jean-Louis a reçu la même peine avec 20 ans de sûreté. Ces condamnations ont été confirmées en appel le 27 mars 2002.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2000",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"
@@ -50,15 +73,15 @@
       "id": "freres_jourdain_vf_001",
       "affaire_id": "freres_jourdain",
       "module": "vrai_faux",
-      "affirmation": "Les criminels agissant en duo frère-frère sont un phénomène exceptionnel dans l'histoire criminelle française.",
+      "affirmation": "Les frères Jourdain ont commis leurs crimes en Poitou-Charentes.",
       "bonne_reponse": false,
-      "explication": "FAUX. Plusieurs affaires criminelles françaises impliquent des frères ou des duos familiaux : les frères Jourdain, les frères Kouachi (Charlie Hebdo), les frères Léger (affaire de Mourmelon), etc. La criminologie note que les liens familiaux peuvent renforcer l'emprise mutuelle, réduire les inhibitions et faciliter la planification des crimes.",
+      "explication": "FAUX. L'affaire des frères Jourdain s'est déroulée dans le Pas-de-Calais, plus précisément au Portel, petite ville côtière proche de Boulogne-sur-Mer. Les quatre jeunes femmes ont disparu lors du carnaval du Portel dans la nuit du 11 au 12 février 1997.",
       "difficulte": 2,
       "pays": "FR",
-      "epoque": "1990s",
+      "epoque": "1997",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
-        "https://fr.wikipedia.org/wiki/Criminalit%C3%A9_en_France"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"
@@ -68,20 +91,25 @@
       "affaire_id": "freres_jourdain",
       "module": "qui_suis_je",
       "indices": [
-        "Nous sommes deux frères ayant commis ensemble des crimes violents dans l'ouest de la France.",
-        "Nos méfaits ont eu lieu principalement en Poitou-Charentes au début des années 1990.",
-        "Notre affaire a été couverte par l'émission 'Faites entrer l'accusé' sur France 2.",
-        "Nous avons tous deux été condamnés à de lourdes peines de réclusion criminelle."
+        "Nous sommes deux frères qui avons semé la terreur dans une ville côtière du Pas-de-Calais.",
+        "Nous avons profité d'un carnaval nocturne pour enlever nos victimes, dans la nuit du 11 au 12 février 1997.",
+        "Nous avons tué quatre jeunes femmes âgées de 16 à 20 ans, que nous avions attirées hors de la fête.",
+        "Nous avons été condamnés à la réclusion criminelle à perpétuité en 2000, verdict confirmé en appel en 2002."
       ],
-      "propositions": ["Les frères Jourdain", "Les frères Kouachi", "Les frères Léger", "Les frères Zemour"],
+      "propositions": [
+        "Les frères Jourdain",
+        "Les frères Kouachi",
+        "Les frères Léger",
+        "Florence Rey et Audry Maupin"
+      ],
       "bonne_reponse": "Les frères Jourdain",
-      "explication": "Thierry et Christian Jourdain sont deux frères condamnés pour des crimes violents commis en Poitou-Charentes dans les années 1990. Leur affaire illustre le phénomène des duos criminels fraternels, dans lesquels la complicité familiale peut renforcer le passage à l'acte. Note : les détails de cette affaire sont à vérifier.",
+      "explication": "Jean-Michel et Jean-Louis Jourdain ont kidnappé et tué quatre jeunes femmes lors du carnaval du Portel (Pas-de-Calais) en février 1997. Condamnés à perpétuité en 2000, leur affaire a été rendue célèbre par l'émission 'Faites entrer l'accusé' en 2006.",
       "difficulte": 2,
       "pays": "FR",
-      "epoque": "1993-1994",
+      "epoque": "1997",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
-        "https://fr.wikipedia.org/wiki/Criminalit%C3%A9_en_France"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"
@@ -90,33 +118,33 @@
       "id": "freres_jourdain_chron_001",
       "affaire_id": "freres_jourdain",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre chronologique ces grandes affaires criminelles françaises impliquant des duos ou complices.",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire des frères Jourdain.",
       "evenements": [
         {
-          "label": "Affaire des frères Jourdain : meurtres en Poitou-Charentes",
-          "date_iso": "1993-01-01"
+          "label": "Disparition de quatre jeunes femmes lors du carnaval du Portel, nuit du 11 au 12 février",
+          "date_iso": "1997-02-12"
         },
         {
-          "label": "Florence Rey et Audry Maupin tuent 5 policiers lors d'une cavale parisienne",
-          "date_iso": "1994-10-04"
+          "label": "Condamnation à perpétuité de Jean-Michel et Jean-Louis Jourdain par la cour d'assises",
+          "date_iso": "2000-10-27"
         },
         {
-          "label": "Michel Fourniret et Monique Olivier arrêtés en Belgique — duo criminel de 15 ans",
-          "date_iso": "2003-07-26"
+          "label": "Confirmation des condamnations par la cour d'appel",
+          "date_iso": "2002-03-27"
         },
         {
-          "label": "Les frères Kouachi attaquent la rédaction de Charlie Hebdo : 12 morts",
-          "date_iso": "2015-01-07"
+          "label": "Épisode de 'Faites entrer l'accusé' consacré à l'affaire, sur France 2",
+          "date_iso": "2006-04-01"
         }
       ],
       "bonne_reponse": null,
-      "explication": "1993 : frères Jourdain (Poitou-Charentes). 4 octobre 1994 : Florence Rey et Audry Maupin (5 policiers tués à Paris). 26 juillet 2003 : arrestation du couple Fourniret-Olivier après 15 ans de crimes. 7 janvier 2015 : frères Kouachi attaquent Charlie Hebdo.",
+      "explication": "Février 1997 : disparition des quatre victimes au carnaval du Portel. Octobre 2000 : condamnation à perpétuité (22 et 20 ans de sûreté). Mars 2002 : confirmation en appel. Avril 2006 : l'affaire racontée dans 'Faites entrer l'accusé'.",
       "difficulte": 2,
       "pays": "FR",
-      "epoque": "1993-2015",
+      "epoque": "1997-2006",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
-        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://wikimonde.com/article/Affaire_des_fr%C3%A8res_Jourdain"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"
@@ -125,17 +153,17 @@
       "id": "freres_jourdain_duel_001",
       "affaire_id": "freres_jourdain",
       "module": "duel",
-      "question": "Lequel de ces deux duos criminels français a causé le plus de victimes mortelles ?",
-      "item_a": "Les frères Jourdain (Poitou-Charentes, années 1990)",
-      "item_b": "Florence Rey et Audry Maupin (Paris, octobre 1994)",
-      "bonne_reponse": "b",
-      "explication": "Florence Rey et Audry Maupin ont tué 5 personnes (dont 4 policiers) en une seule nuit d'octobre 1994 à Paris. Le bilan précis des frères Jourdain est moins bien documenté dans les sources accessibles, mais il est estimé à un nombre inférieur de victimes. Note : à vérifier.",
-      "difficulte": 3,
+      "question": "Lequel de ces deux duos criminels français a agi lors d'un événement festif public pour piéger ses victimes ?",
+      "item_a": "Les frères Jourdain (Pas-de-Calais, 1997)",
+      "item_b": "Florence Rey et Audry Maupin",
+      "bonne_reponse": "a",
+      "explication": "Les frères Jourdain ont profité du carnaval du Portel (ambiance festive, foule, nuit) pour enlever leurs quatre victimes. Florence Rey et Audry Maupin, eux, ont commis leurs crimes lors d'une fusillade dans les rues de Paris après le vol d'armes — sans utiliser un contexte festif comme couverture.",
+      "difficulte": 2,
       "pays": "FR",
-      "epoque": "1993-1994",
+      "epoque": "1997",
       "sources": [
-        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
-        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9"
+        "https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A8res_Jourdain",
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin"
       ],
       "statut": "a_verifier",
       "statut_judiciaire": "condamnation_definitive"

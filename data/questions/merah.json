@@ -5,7 +5,12 @@
       "affaire_id": "merah",
       "module": "qcm",
       "question": "Combien de personnes Mohamed Merah a-t-il assassinées lors de ses attaques de mars 2012 ?",
-      "propositions": ["7", "3", "5", "12"],
+      "propositions": [
+        "7",
+        "3",
+        "5",
+        "12"
+      ],
       "bonne_reponse": "7",
       "explication": "Mohamed Merah a tué 7 personnes en 11 jours : 2 militaires à Toulouse le 11 mars, 1 militaire à Montauban le 15 mars, puis le 19 mars 4 personnes à l'école juive Ozar Hatorah de Toulouse — le professeur Jonathan Sandler, ses deux fils Gabriel (3 ans) et Arieh (6 ans), et l'élève Myriam Monsonégo (8 ans).",
       "difficulte": 1,
@@ -23,7 +28,12 @@
       "affaire_id": "merah",
       "module": "qcm",
       "question": "Dans quelle ville se trouvait l'école juive où Mohamed Merah a commis son attaque la plus meurtrière ?",
-      "propositions": ["Toulouse", "Montauban", "Marseille", "Lyon"],
+      "propositions": [
+        "Toulouse",
+        "Montauban",
+        "Marseille",
+        "Lyon"
+      ],
       "bonne_reponse": "Toulouse",
       "explication": "L'école juive Ozar Hatorah où Merah tua 4 personnes (dont 3 enfants) le 19 mars 2012 était située à Toulouse. Ses attaques précédentes contre des militaires avaient eu lieu à Toulouse (11 mars) et à Montauban (15 mars). Merah lui-même habitait Toulouse et y a été abattu le 22 mars lors du siège de son appartement.",
       "difficulte": 1,
@@ -41,7 +51,12 @@
       "affaire_id": "merah",
       "module": "qcm",
       "question": "Combien de temps a duré le siège de l'appartement de Mohamed Merah avant qu'il soit abattu par le RAID ?",
-      "propositions": ["32 heures", "6 heures", "3 jours", "12 heures"],
+      "propositions": [
+        "32 heures",
+        "6 heures",
+        "3 jours",
+        "12 heures"
+      ],
       "bonne_reponse": "32 heures",
       "explication": "Le siège de l'appartement de Mohamed Merah dans le quartier Côte Pavée à Toulouse a duré 32 heures, du 21 mars au 22 mars 2012. Merah négociait avec le RAID, diffusait des vidéos de ses meurtres et tirait sur les forces de l'ordre. Il a finalement été abattu en tentant de s'échapper par une fenêtre.",
       "difficulte": 2,
@@ -98,7 +113,12 @@
         "Je filmais mes meurtres avec une caméra GoPro fixée à mon casque de moto.",
         "J'ai été abattu par le RAID après un siège de 32 heures lors duquel je négociais depuis mon appartement."
       ],
-      "propositions": ["Mohamed Merah", "Abdelhamid Abaaoud", "Lahouaiej-Bouhlel", "Brahim Aouissaoui"],
+      "propositions": [
+        "Mohamed Merah",
+        "Abdelhamid Abaaoud",
+        "Lahouaiej-Bouhlel",
+        "Brahim Aouissaoui"
+      ],
       "bonne_reponse": "Mohamed Merah",
       "explication": "Mohamed Merah, 23 ans, Toulousain d'origine algérienne, se réclamait d'Al-Qaïda. Il a tué 7 personnes en mars 2012 lors de 3 attaques. Abattu le 22 mars 2012 lors du siège de son appartement, ses crimes ont profondément traumatisé la France et ouvert une ère de terrorisme islamiste sur le sol national.",
       "difficulte": 1,
@@ -151,7 +171,7 @@
       "affaire_id": "merah",
       "module": "duel",
       "question": "Lequel de ces deux terroristes français a agi en premier sur le sol national ?",
-      "item_a": "Mohamed Merah (Toulouse, 2012)",
+      "item_a": "Mohamed Merah",
       "item_b": "Les auteurs des attentats du 13 novembre 2015",
       "bonne_reponse": "a",
       "explication": "Mohamed Merah a agi en mars 2012, soit plus de 3 ans avant les attentats du 13 novembre 2015. Ses crimes marquent le début de la vague d'attentats islamistes de la décennie 2010 en France. Contrairement au 13-Novembre (commando de 9 personnes), Merah était un 'loup solitaire'.",

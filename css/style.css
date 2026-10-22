@@ -585,6 +585,15 @@ button:not(:disabled):active { transform: scale(0.97); }
 .result-pts.correct { color: var(--correct); }
 .result-pts.wrong   { color: var(--text-muted); }
 
+.result-question {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--text-muted);
+  max-width: 360px;
+  opacity: 0.75;
+  margin-bottom: -4px;
+}
+
 .result-explication {
   font-size: 0.95rem;
   color: var(--text-muted);

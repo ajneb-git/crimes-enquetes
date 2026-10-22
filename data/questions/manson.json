@@ -5,7 +5,12 @@
       "affaire_id": "manson",
       "module": "qcm",
       "question": "Comment s'appelait la communauté fondée par Charles Manson ?",
-      "propositions": ["La Famille", "Les Enfants de Dieu", "La Fraternité", "Le Clan Manson"],
+      "propositions": [
+        "La Famille",
+        "Les Enfants de Dieu",
+        "La Fraternité",
+        "Le Clan Manson"
+      ],
       "bonne_reponse": "La Famille",
       "explication": "Charles Manson dirigeait une communauté sectaire qu'il appelait «La Famille» (The Family), installée d'abord à San Francisco, puis à Spahn Ranch en Californie.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "manson",
       "module": "qcm",
       "question": "Quelle célèbre actrice fut parmi les victimes des meurtres du clan Manson en 1969 ?",
-      "propositions": ["Sharon Tate", "Jane Fonda", "Marilyn Monroe", "Janis Joplin"],
+      "propositions": [
+        "Sharon Tate",
+        "Jane Fonda",
+        "Marilyn Monroe",
+        "Janis Joplin"
+      ],
       "bonne_reponse": "Sharon Tate",
       "explication": "Sharon Tate, actrice et femme enceinte de 8 mois, épouse du réalisateur Roman Polanski, fut assassinée le 9 août 1969 avec quatre autres personnes dans sa villa de Bel Air par des membres de la «Famille» Manson.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
         "Une actrice célèbre et enceinte fut parmi mes victimes.",
         "Je suis mort en prison en 2017 après avoir passé plus de 45 ans derrière les barreaux."
       ],
-      "propositions": ["Charles Manson", "David Koresh", "Jim Jones", "Marshall Applewhite"],
+      "propositions": [
+        "Charles Manson",
+        "David Koresh",
+        "Jim Jones",
+        "Marshall Applewhite"
+      ],
       "bonne_reponse": "Charles Manson",
       "explication": "Charles Manson, leader de «La Famille», fut condamné pour avoir orchestré plusieurs meurtres en 1969, dont celui de Sharon Tate. Il mourut en prison en novembre 2017 à l'âge de 83 ans.",
       "difficulte": 1,
@@ -98,8 +113,8 @@
       "affaire_id": "manson",
       "module": "duel",
       "question": "Lequel de ces deux criminels américains est décédé en prison ?",
-      "item_a": "Charles Manson (mort en 2017)",
-      "item_b": "Ted Bundy (exécuté en 1989)",
+      "item_a": "Charles Manson",
+      "item_b": "Ted Bundy",
       "bonne_reponse": "a",
       "explication": "Charles Manson mourut de causes naturelles en prison en novembre 2017. Ted Bundy fut exécuté sur la chaise électrique le 24 janvier 1989 en Floride.",
       "difficulte": 2,

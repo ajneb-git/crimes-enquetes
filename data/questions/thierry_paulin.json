@@ -5,7 +5,12 @@
       "affaire_id": "thierry_paulin",
       "module": "qcm",
       "question": "Quel surnom les médias donnèrent-ils à Thierry Paulin ?",
-      "propositions": ["Le Monstre de Montmartre", "Le Tueur de Belleville", "L'Assassin des vieilles dames", "Le Vampire de Paris"],
+      "propositions": [
+        "Le Monstre de Montmartre",
+        "Le Tueur de Belleville",
+        "L'Assassin des vieilles dames",
+        "Le Vampire de Paris"
+      ],
       "bonne_reponse": "Le Monstre de Montmartre",
       "explication": "Thierry Paulin fut surnommé «le Monstre de Montmartre» car il sévissait principalement dans ce quartier de Paris, ciblant des personnes âgées vivant seules.",
       "difficulte": 2,
@@ -40,7 +45,12 @@
       "affaire_id": "thierry_paulin",
       "module": "qcm",
       "question": "Quel type de victimes Thierry Paulin ciblait-il principalement ?",
-      "propositions": ["Des femmes âgées vivant seules", "Des jeunes femmes lors de promenades nocturnes", "Des homosexuels", "Des commerçants"],
+      "propositions": [
+        "Des femmes âgées vivant seules",
+        "Des jeunes femmes lors de promenades nocturnes",
+        "Des homosexuels",
+        "Des commerçants"
+      ],
       "bonne_reponse": "Des femmes âgées vivant seules",
       "explication": "Thierry Paulin s'attaquait quasi exclusivement à des femmes âgées vivant seules, qu'il torturait et tuait souvent pour leur voler leur argent et leurs bijoux.",
       "difficulte": 1,
@@ -80,7 +90,12 @@
         "Je suis mort du sida en prison en 1989 avant d'être jugé.",
         "Mon surnom évoquait un célèbre quartier parisien."
       ],
-      "propositions": ["Thierry Paulin", "Guy Georges", "Francis Heaulme", "Émile Louis"],
+      "propositions": [
+        "Thierry Paulin",
+        "Guy Georges",
+        "Francis Heaulme",
+        "Émile Louis"
+      ],
       "bonne_reponse": "Thierry Paulin",
       "explication": "Thierry Paulin, surnommé «le Monstre de Montmartre», tua une vingtaine de personnes âgées entre 1984 et 1987. Il mourut du sida en prison en 1989, avant son procès.",
       "difficulte": 2,
@@ -98,8 +113,8 @@
       "affaire_id": "thierry_paulin",
       "module": "duel",
       "question": "Lequel de ces deux tueurs parisiens est mort avant d'avoir été jugé ?",
-      "item_a": "Thierry Paulin (mort en 1989)",
-      "item_b": "Guy Georges (condamné en 2001)",
+      "item_a": "Thierry Paulin",
+      "item_b": "Guy Georges",
       "bonne_reponse": "a",
       "explication": "Thierry Paulin mourut du sida en détention provisoire en 1989, sans jamais être jugé. Guy Georges, en revanche, fut condamné à la réclusion criminelle à perpétuité par un jury en 2001.",
       "difficulte": 1,
@@ -117,7 +132,12 @@
       "affaire_id": "thierry_paulin",
       "module": "qcm",
       "question": "Combien de meurtres Thierry Paulin est-il suspecté d'avoir commis ?",
-      "propositions": ["Une vingtaine", "5 à 6", "Plus de 40", "Exactement 11"],
+      "propositions": [
+        "Une vingtaine",
+        "5 à 6",
+        "Plus de 40",
+        "Exactement 11"
+      ],
       "bonne_reponse": "Une vingtaine",
       "explication": "Thierry Paulin est suspecté d'avoir commis une vingtaine de meurtres entre 1984 et 1987. Son décès avant le procès a rendu impossible l'établissement d'un bilan définitif.",
       "difficulte": 2,

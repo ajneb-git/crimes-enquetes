@@ -5,7 +5,12 @@
       "affaire_id": "dupont_ligonnes",
       "module": "qcm",
       "question": "Dans quelle ville fut découvert le corps de la famille Dupont de Ligonnès en 2011 ?",
-      "propositions": ["Nantes", "Rennes", "Bordeaux", "La Rochelle"],
+      "propositions": [
+        "Nantes",
+        "Rennes",
+        "Bordeaux",
+        "La Rochelle"
+      ],
       "bonne_reponse": "Nantes",
       "explication": "En avril 2011, les corps d'Agnès Dupont de Ligonnès et de ses quatre enfants furent découverts enterrés sous la terrasse de leur maison à Nantes. Le père, Xavier, avait disparu.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "dupont_ligonnes",
       "module": "qcm",
       "question": "Combien de membres de sa famille Xavier Dupont de Ligonnès est-il soupçonné d'avoir tués ?",
-      "propositions": ["5", "3", "7", "4"],
+      "propositions": [
+        "5",
+        "3",
+        "7",
+        "4"
+      ],
       "bonne_reponse": "5",
       "explication": "Xavier Dupont de Ligonnès est soupçonné d'avoir tué son épouse Agnès et leurs quatre enfants (Arthur, Thomas, Anne et Benoît), soit 5 victimes, ainsi que deux chiens de la famille.",
       "difficulte": 1,
@@ -75,7 +85,12 @@
       "affaire_id": "dupont_ligonnes",
       "module": "qcm",
       "question": "Où furent retrouvés les corps de la famille Dupont de Ligonnès ?",
-      "propositions": ["Enterrés sous la terrasse de leur maison", "Dans la Sèvre Nantaise", "Dans une forêt proche de Nantes", "Dans le garage de la maison"],
+      "propositions": [
+        "Enterrés sous la terrasse de leur maison",
+        "Dans la Sèvre Nantaise",
+        "Dans une forêt proche de Nantes",
+        "Dans le garage de la maison"
+      ],
       "bonne_reponse": "Enterrés sous la terrasse de leur maison",
       "explication": "Les cinq corps furent retrouvés enterrés sous le carrelage de la terrasse de la maison familiale de la rue Casimir Marot à Nantes, enveloppés dans des sacs plastique et du ruban adhésif.",
       "difficulte": 2,
@@ -93,8 +108,8 @@
       "affaire_id": "dupont_ligonnes",
       "module": "duel",
       "question": "Laquelle de ces deux affaires implique un suspect qui n'a jamais été retrouvé ?",
-      "item_a": "L'affaire Dupont de Ligonnès (fugitif depuis 2011)",
-      "item_b": "L'affaire Grégory (coupable jamais condamné)",
+      "item_a": "L'affaire Dupont de Ligonnès",
+      "item_b": "L'affaire Grégory",
       "bonne_reponse": "a",
       "explication": "Dans l'affaire Dupont de Ligonnès, le principal suspect Xavier a physiquement disparu et n'a jamais été retrouvé ni jugé. Dans l'affaire Grégory, les suspects sont connus mais non condamnés définitivement.",
       "difficulte": 2,

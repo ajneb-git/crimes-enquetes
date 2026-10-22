@@ -5,7 +5,12 @@
       "affaire_id": "dominici",
       "module": "qcm",
       "question": "Quelle était la nationalité de la famille Drummond, victime dans l'affaire Dominici ?",
-      "propositions": ["Britannique", "Américaine", "Canadienne", "Australienne"],
+      "propositions": [
+        "Britannique",
+        "Américaine",
+        "Canadienne",
+        "Australienne"
+      ],
       "bonne_reponse": "Britannique",
       "explication": "Sir Jack Drummond, éminent biochimiste britannique, sa femme Ann et leur fille Élisabeth furent assassinés près de la ferme Grand'Terre à Lurs en août 1952.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "dominici",
       "module": "qcm",
       "question": "Dans quel département français eut lieu l'affaire Dominici ?",
-      "propositions": ["Alpes-de-Haute-Provence", "Var", "Vaucluse", "Hautes-Alpes"],
+      "propositions": [
+        "Alpes-de-Haute-Provence",
+        "Var",
+        "Vaucluse",
+        "Hautes-Alpes"
+      ],
       "bonne_reponse": "Alpes-de-Haute-Provence",
       "explication": "Les meurtres eurent lieu le 4 août 1952 près de Lurs, dans les Alpes-de-Haute-Provence (alors appelées Basses-Alpes), non loin de la ferme Grand'Terre.",
       "difficulte": 2,
@@ -80,7 +90,12 @@
         "Ma condamnation à mort fut commuée grâce au général de Gaulle.",
         "Ma culpabilité est encore contestée plus de 70 ans après les faits."
       ],
-      "propositions": ["Gaston Dominici", "Guillaume Seznec", "Auguste Sarret", "Paul Gorguloff"],
+      "propositions": [
+        "Gaston Dominici",
+        "Guillaume Seznec",
+        "Auguste Sarret",
+        "Paul Gorguloff"
+      ],
       "bonne_reponse": "Gaston Dominici",
       "explication": "Gaston Dominici, paysan de 75 ans en 1952, fut condamné à mort pour le meurtre de la famille Drummond. Sa peine fut commuée par de Gaulle et il fut libéré malade en 1960.",
       "difficulte": 2,
@@ -98,7 +113,12 @@
       "affaire_id": "dominici",
       "module": "qcm",
       "question": "Quel élément a permis de relier Gaston Dominici aux meurtres ?",
-      "propositions": ["Une carabine retrouvée dans la rivière Durance", "Des empreintes digitales sur la voiture", "Un témoin oculaire du village", "Des traces de sang dans la ferme"],
+      "propositions": [
+        "Une carabine retrouvée dans la rivière Durance",
+        "Des empreintes digitales sur la voiture",
+        "Un témoin oculaire du village",
+        "Des traces de sang dans la ferme"
+      ],
       "bonne_reponse": "Une carabine retrouvée dans la rivière Durance",
       "explication": "Une carabine Rock-Ola fut retrouvée dans la Durance et reliée aux meurtres. Les enquêteurs parvinrent à la rattacher à la ferme Grand'Terre de Dominici.",
       "difficulte": 3,
@@ -132,12 +152,12 @@
       "id": "dominici_duel_001",
       "affaire_id": "dominici",
       "module": "duel",
-      "question": "Lequel de ces deux événements s'est produit en premier dans l'affaire Dominici ?",
-      "item_a": "Le meurtre de la famille Drummond (1952)",
-      "item_b": "La condamnation à mort de Gaston Dominici (1954)",
+      "question": "Lequel de ces deux destins a connu Gaston Dominici après sa condamnation à mort en 1954 ?",
+      "item_a": "Il a été gracié par le général de Gaulle et libéré en 1960",
+      "item_b": "Il a été exécuté par guillotine après confirmation de sa peine",
       "bonne_reponse": "a",
-      "explication": "Les meurtres eurent lieu en août 1952, le procès se tint en novembre 1954, soit deux ans et trois mois après les faits.",
-      "difficulte": 1,
+      "explication": "Gaston Dominici, condamné à mort en novembre 1954, fut gracié par le général de Gaulle en 1960, invoquant son grand âge et son état de santé. Il mourut libre en 1965. L'affaire Dominici reste controversée : Jean Giono, notamment, doutait de sa culpabilité réelle.",
+      "difficulte": 2,
       "pays": "FR",
       "epoque": "1952-1954",
       "sources": [
@@ -152,7 +172,12 @@
       "affaire_id": "dominici",
       "module": "qcm",
       "question": "Quel romancier célèbre s'intéressa à l'affaire Dominici et exprima des doutes sur le verdict ?",
-      "propositions": ["Jean Giono", "Albert Camus", "Simone de Beauvoir", "François Mauriac"],
+      "propositions": [
+        "Jean Giono",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "François Mauriac"
+      ],
       "bonne_reponse": "Jean Giono",
       "explication": "Jean Giono, natif de Manosque, assista au procès et publia des articles mettant en doute la culpabilité de Dominici, pointant les lacunes de l'enquête et les problèmes de communication avec ce vieux paysan peu instruit.",
       "difficulte": 3,
@@ -170,7 +195,12 @@
       "affaire_id": "dominici",
       "module": "qcm",
       "question": "Comment s'appelle la ferme de Gaston Dominici, devenue célèbre dans l'affaire ?",
-      "propositions": ["Grand'Terre", "La Bastide", "Les Oliviers", "Mas Blanc"],
+      "propositions": [
+        "Grand'Terre",
+        "La Bastide",
+        "Les Oliviers",
+        "Mas Blanc"
+      ],
       "bonne_reponse": "Grand'Terre",
       "explication": "La ferme Grand'Terre, située sur la route nationale près de Lurs, était la propriété de Gaston Dominici. Elle est devenue l'un des symboles de cette affaire criminelle.",
       "difficulte": 3,

@@ -5,7 +5,12 @@
       "affaire_id": "dahmer",
       "module": "qcm",
       "question": "Dans quelle ville américaine Jeffrey Dahmer commit-il la majorité de ses meurtres ?",
-      "propositions": ["Milwaukee", "Chicago", "Cleveland", "Detroit"],
+      "propositions": [
+        "Milwaukee",
+        "Chicago",
+        "Cleveland",
+        "Detroit"
+      ],
       "bonne_reponse": "Milwaukee",
       "explication": "Jeffrey Dahmer commit la grande majorité de ses 17 meurtres dans son appartement de Milwaukee, dans le Wisconsin. Son arrestation en 1991 choqua le monde par l'horreur des découvertes dans son logement.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "dahmer",
       "module": "qcm",
       "question": "Comment Jeffrey Dahmer fut-il finalement découvert ?",
-      "propositions": ["Une victime en fuite alerta la police", "Un voisin appela la police pour une odeur suspecte", "La police fit un contrôle routier", "Une victime laissa un message d'alerte"],
+      "propositions": [
+        "Une victime en fuite alerta la police",
+        "Un voisin appela la police pour une odeur suspecte",
+        "La police fit un contrôle routier",
+        "Une victime laissa un message d'alerte"
+      ],
       "bonne_reponse": "Une victime en fuite alerta la police",
       "explication": "En juillet 1991, Tracy Edwards réussit à s'échapper de l'appartement de Dahmer avec une menottes au poignet et alerta des policiers dans la rue. Ces derniers fouillèrent l'appartement et firent d'horribles découvertes.",
       "difficulte": 2,
@@ -80,7 +90,12 @@
         "Les découvertes dans mon logement furent parmi les plus horribles de l'histoire criminelle.",
         "Je fus tué par un codétenu en prison deux ans après ma condamnation."
       ],
-      "propositions": ["Jeffrey Dahmer", "Ted Bundy", "John Wayne Gacy", "Dennis Nilsen"],
+      "propositions": [
+        "Jeffrey Dahmer",
+        "Ted Bundy",
+        "John Wayne Gacy",
+        "Dennis Nilsen"
+      ],
       "bonne_reponse": "Jeffrey Dahmer",
       "explication": "Jeffrey Dahmer, «le Monstre de Milwaukee», commit 17 meurtres entre 1978 et 1991. Condamné à 957 ans de prison en 1992, il fut tué par un codétenu en novembre 1994.",
       "difficulte": 1,
@@ -98,8 +113,8 @@
       "affaire_id": "dahmer",
       "module": "duel",
       "question": "Lequel de ces deux tueurs américains a été tué par un codétenu avant d'avoir purgé sa peine ?",
-      "item_a": "Jeffrey Dahmer (tué en prison en 1994)",
-      "item_b": "Ted Bundy (exécuté en 1989)",
+      "item_a": "Jeffrey Dahmer",
+      "item_b": "Ted Bundy",
       "bonne_reponse": "a",
       "explication": "Jeffrey Dahmer fut tué par Christopher Scarver à la prison Columbia Correctional en novembre 1994. Ted Bundy fut officiellement exécuté sur la chaise électrique en janvier 1989.",
       "difficulte": 1,
