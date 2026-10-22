@@ -5,7 +5,12 @@
       "affaire_id": "omar_raddad",
       "module": "qcm",
       "question": "Quelle inscription célèbre fut retrouvée sur la porte de la cave de Ghislaine Marchal ?",
-      "propositions": ["Omar m'a tuer", "Au secours Omar", "C'est Omar", "Omar est là"],
+      "propositions": [
+        "Omar m'a tuer",
+        "Au secours Omar",
+        "C'est Omar",
+        "Omar est là"
+      ],
       "bonne_reponse": "Omar m'a tuer",
       "explication": "L'inscription «Omar m'a tuer», avec la faute d'orthographe sur le verbe «tuer», fut retrouvée écrite en sang sur la porte de la cave où Ghislaine Marchal avait succombé. Cette faute alimenta le débat sur l'authenticité du message.",
       "difficulte": 1,
@@ -40,7 +45,12 @@
       "affaire_id": "omar_raddad",
       "module": "qcm",
       "question": "Dans quelle ville se trouvait la villa où Omar Raddad était jardinier ?",
-      "propositions": ["Mougins", "Cannes", "Nice", "Antibes"],
+      "propositions": [
+        "Mougins",
+        "Cannes",
+        "Nice",
+        "Antibes"
+      ],
       "bonne_reponse": "Mougins",
       "explication": "Ghislaine Marchal habitait une villa à Mougins, dans les Alpes-Maritimes. C'est dans la cave de cette villa qu'elle fut retrouvée morte en juin 1991.",
       "difficulte": 2,
@@ -80,7 +90,12 @@
         "J'ai été gracié par un président de la République sans être réhabilité.",
         "Mon histoire a inspiré un film avec Omar Sharif."
       ],
-      "propositions": ["Omar Raddad", "Abdelkader Belmoktar", "Mohamed Merah", "Hassan Diab"],
+      "propositions": [
+        "Omar Raddad",
+        "Abdelkader Belmoktar",
+        "Mohamed Merah",
+        "Hassan Diab"
+      ],
       "bonne_reponse": "Omar Raddad",
       "explication": "Omar Raddad, jardinier marocain, fut condamné pour le meurtre de sa patronne Ghislaine Marchal en 1994. Son affaire inspira le film «Omar m'a tuer» (2011) avec Sami Bouajila.",
       "difficulte": 2,
@@ -115,8 +130,8 @@
       "affaire_id": "omar_raddad",
       "module": "duel",
       "question": "Quel événement s'est produit en premier dans l'affaire Omar Raddad ?",
-      "item_a": "La condamnation d'Omar Raddad (1994)",
-      "item_b": "Sa grâce partielle par Chirac (1996)",
+      "item_a": "La condamnation d'Omar Raddad par la cour d'assises",
+      "item_b": "Sa grâce partielle par le président Chirac",
       "bonne_reponse": "a",
       "explication": "Omar Raddad fut condamné à 18 ans de réclusion en 1994 par la cour d'assises des Alpes-Maritimes. Sa grâce présidentielle intervint deux ans plus tard, en 1996.",
       "difficulte": 1,
@@ -134,7 +149,12 @@
       "affaire_id": "omar_raddad",
       "module": "qcm",
       "question": "À combien d'années de réclusion Omar Raddad fut-il condamné en 1994 ?",
-      "propositions": ["18 ans", "15 ans", "25 ans", "10 ans"],
+      "propositions": [
+        "18 ans",
+        "15 ans",
+        "25 ans",
+        "10 ans"
+      ],
       "bonne_reponse": "18 ans",
       "explication": "La cour d'assises des Alpes-Maritimes condamna Omar Raddad à 18 ans de réclusion criminelle en 1994. Cette peine fut partiellement graciée par le président Chirac en 1996.",
       "difficulte": 3,

@@ -5,7 +5,12 @@
       "affaire_id": "nice_basilique_2020",
       "module": "qcm",
       "question": "Combien de personnes ont été tuées lors de l'attentat à la basilique Notre-Dame de Nice le 29 octobre 2020 ?",
-      "propositions": ["3", "7", "1", "5"],
+      "propositions": [
+        "3",
+        "7",
+        "1",
+        "5"
+      ],
       "bonne_reponse": "3",
       "explication": "L'attentat du 29 octobre 2020 à la basilique Notre-Dame de l'Assomption de Nice a fait 3 morts : Nadine Devillers (sacristine, 60 ans), Vincent Loquès (sacristain, 54 ans) — tous deux décapités — et Simone Barreto Silva, une Brésilienne de 44 ans blessée mortellement peu après s'être enfuie. L'auteur Brahim Issaoui a été grièvement blessé par la police et survécu.",
       "difficulte": 1,
@@ -23,7 +28,12 @@
       "affaire_id": "nice_basilique_2020",
       "module": "qcm",
       "question": "Combien de jours s'étaient écoulés entre l'assassinat de Samuel Paty et l'attentat de la basilique de Nice ?",
-      "propositions": ["13 jours", "30 jours", "5 jours", "45 jours"],
+      "propositions": [
+        "13 jours",
+        "30 jours",
+        "5 jours",
+        "45 jours"
+      ],
       "bonne_reponse": "13 jours",
       "explication": "Samuel Paty a été assassiné le 16 octobre 2020 et l'attentat de la basilique de Nice s'est produit le 29 octobre 2020, soit exactement 13 jours plus tard. Cette proximité temporelle a renforcé le sentiment de terreur islamiste dans la société française.",
       "difficulte": 2,
@@ -103,7 +113,12 @@
         "J'ai survécu à mon attentat, grièvement blessé lors de mon interpellation.",
         "J'ai été condamné à la réclusion criminelle à perpétuité en 2024."
       ],
-      "propositions": ["Brahim Issaoui", "Abdoullakh Anzorov", "Mohamed Lahouaiej-Bouhlel", "Anis Amri"],
+      "propositions": [
+        "Brahim Issaoui",
+        "Abdoullakh Anzorov",
+        "Mohamed Lahouaiej-Bouhlel",
+        "Anis Amri"
+      ],
       "bonne_reponse": "Brahim Issaoui",
       "explication": "Brahim Issaoui, né en Tunisie en 1999, a perpétré l'attentat de la basilique Notre-Dame de Nice le 29 octobre 2020. Arrivé clandestinement en France depuis l'Italie, il a tué 3 personnes dont 2 décapitées. Contrairement à la plupart des terroristes jihadistes, il a été neutralisé vivant et jugé.",
       "difficulte": 1,
@@ -156,8 +171,8 @@
       "affaire_id": "nice_basilique_2020",
       "module": "duel",
       "question": "Lequel de ces deux attentats jihadistes a eu lieu en premier ?",
-      "item_a": "Attentat de la basilique Notre-Dame de Nice (octobre 2020)",
-      "item_b": "Attentat au couteau d'Arras (octobre 2023)",
+      "item_a": "Attentat de la basilique Notre-Dame de Nice",
+      "item_b": "Attentat au couteau d'Arras",
       "bonne_reponse": "a",
       "explication": "L'attentat de la basilique de Nice a eu lieu le 29 octobre 2020, soit exactement 3 ans avant l'attentat d'Arras du 13 octobre 2023. Dans les deux cas, des enseignants ou des lieux symboliques de la société française ont été ciblés dans le contexte de la 'guerre contre la laïcité'.",
       "difficulte": 2,
