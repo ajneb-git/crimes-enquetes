@@ -8,15 +8,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg:         #0e0e17;
-      --card:       #16161f;
-      --border:     #2a2a38;
-      --accent:     #b91c1c;
-      --accent-solo:#c2410c;
-      --accent-multi:#1d4ed8;
-      --text:       #f1f1f3;
-      --text-muted: #6b7280;
-      --radius:     12px;
+      --bg:          #0e0e17;
+      --card:        #16161f;
+      --border:      #2a2a38;
+      --accent-e:    #b91c1c;
+      --accent-s:    #c2410c;
+      --accent-m:    #1d4ed8;
+      --text:        #f1f1f3;
+      --text-muted:  #6b7280;
+      --radius:      12px;
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -31,10 +31,11 @@
       gap: 24px;
     }
 
-    .header { text-align: center; display: flex; flex-direction: column; gap: 4px; }
+    .header { text-align: center; }
     .header h1 { font-size: 1.5rem; font-weight: 900; }
-    .header p  { color: var(--text-muted); font-size: 0.9rem; font-weight: 600; }
+    .header p  { color: var(--text-muted); font-size: 0.9rem; font-weight: 600; margin-top: 4px; }
 
+    /* ── Cards ── */
     .cards {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -42,9 +43,7 @@
       width: 100%;
       max-width: 540px;
     }
-    @media (min-width: 480px) {
-      .cards { grid-template-columns: repeat(4, 1fr); }
-    }
+    @media (min-width: 480px) { .cards { grid-template-columns: repeat(4, 1fr); } }
 
     .card {
       background: var(--card);
@@ -58,8 +57,9 @@
     }
     .card-icon  { font-size: 1.6rem; }
     .card-value { font-size: 1.9rem; font-weight: 900; }
-    .card-label { font-size: 0.72rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .card-label { font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
 
+    /* ── Chart section ── */
     .chart-section {
       width: 100%;
       max-width: 540px;
@@ -72,7 +72,7 @@
       gap: 12px;
     }
     .chart-title {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 800;
       color: var(--text-muted);
       text-transform: uppercase;
@@ -81,126 +81,131 @@
       align-items: center;
       gap: 6px;
     }
-    .dot {
-      width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
-    }
-    .dot-enqueteur { background: var(--accent); }
-    .dot-solo      { background: var(--accent-solo); }
-    .dot-multi     { background: var(--accent-multi); }
+    .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .dot-e { background: var(--accent-e); }
+    .dot-s { background: var(--accent-s); }
+    .dot-m { background: var(--accent-m); }
 
-    .bar-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 0.82rem;
-    }
-    .bar-date  { width: 36px; color: var(--text-muted); font-weight: 600; flex-shrink: 0; font-size: 0.72rem; }
-    .bar-track { flex: 1; height: 8px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; }
-    .bar-fill  { height: 100%; border-radius: 99px; transition: width 0.4s ease; }
-    .bar-count { width: 22px; text-align: right; font-weight: 800; font-size: 0.78rem; color: var(--text-muted); }
-
-    .legend {
-      display: flex;
-      gap: 16px;
-      flex-wrap: wrap;
-    }
+    /* ── Stacked bars ── */
+    .legend { display: flex; gap: 16px; flex-wrap: wrap; }
     .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 5px;
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--text-muted);
+      display: flex; align-items: center; gap: 5px;
+      font-size: 0.73rem; font-weight: 700; color: var(--text-muted);
     }
-
-    .stacked-bar-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 0.82rem;
-    }
-    .stacked-bar-track {
-      flex: 1;
-      height: 10px;
-      background: rgba(255,255,255,0.06);
-      border-radius: 99px;
-      overflow: hidden;
-      display: flex;
-    }
+    .bar-row { display: flex; align-items: center; gap: 8px; }
+    .bar-date { width: 36px; color: var(--text-muted); font-weight: 600; flex-shrink: 0; font-size: 0.7rem; }
+    .stacked-track { flex: 1; height: 10px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; display: flex; }
     .seg { height: 100%; transition: width 0.4s ease; }
-    .seg-enqueteur { background: var(--accent); }
-    .seg-solo      { background: var(--accent-solo); }
-    .seg-multi     { background: var(--accent-multi); }
+    .seg-e { background: var(--accent-e); }
+    .seg-s { background: var(--accent-s); }
+    .seg-m { background: var(--accent-m); }
+    .simple-track { flex: 1; height: 8px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 99px; transition: width 0.4s ease; }
+    .bar-count { width: 24px; text-align: right; font-weight: 800; font-size: 0.75rem; color: var(--text-muted); }
+
+    /* ── States ── */
+    .loading { color: var(--text-muted); font-size: 0.85rem; font-weight: 600; }
+    .error   { color: #fca5a5; font-size: 0.82rem; font-weight: 600; text-align: center; }
+    .error a { color: #a5b4fc; }
 
     .btn-back {
-      color: var(--text-muted);
-      text-decoration: none;
-      font-weight: 700;
-      font-size: 0.88rem;
+      color: var(--text-muted); text-decoration: none;
+      font-weight: 700; font-size: 0.88rem;
     }
     .btn-back:hover { color: var(--text); }
 
-    .empty { color: var(--text-muted); font-size: 0.85rem; font-weight: 600; text-align: center; padding: 8px 0; }
+    .token-warning {
+      background: rgba(185,28,28,0.12);
+      border: 1px solid rgba(185,28,28,0.3);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #fca5a5;
+      max-width: 540px;
+      width: 100%;
+      text-align: center;
+    }
+    .token-warning a { color: #a5b4fc; }
   </style>
 </head>
 <body>
 
   <div class="header">
     <h1>🔍 Crimes & Enquêtes — Stats</h1>
-    <p>Parties lancées sur cet appareil</p>
+    <p>Parties lancées — tous appareils cumulés</p>
+  </div>
+
+  <!-- Shown only when token not set -->
+  <div class="token-warning" id="token-warning" style="display:none">
+    ⚠️ Token GoatCounter non configuré.<br>
+    Crée un token en lecture seule sur
+    <a href="https://ajneb.goatcounter.com/user/api" target="_blank">ajneb.goatcounter.com/user/api</a>
+    et mets-le dans la constante <code>GC_TOKEN</code> de ce fichier.
   </div>
 
   <div class="cards">
     <div class="card">
       <span class="card-icon">🎖️</span>
-      <span class="card-value" id="val-enqueteur">0</span>
+      <span class="card-value" id="val-e">—</span>
       <span class="card-label">Enquêteur</span>
     </div>
     <div class="card">
       <span class="card-icon">🕵️</span>
-      <span class="card-value" id="val-solo">0</span>
+      <span class="card-value" id="val-s">—</span>
       <span class="card-label">Solo</span>
     </div>
     <div class="card">
       <span class="card-icon">👥</span>
-      <span class="card-value" id="val-multi">0</span>
+      <span class="card-value" id="val-m">—</span>
       <span class="card-label">Multi</span>
     </div>
     <div class="card">
       <span class="card-icon">📅</span>
-      <span class="card-value" id="val-today">0</span>
+      <span class="card-value" id="val-today">—</span>
       <span class="card-label">Aujourd'hui</span>
     </div>
   </div>
 
   <div class="chart-section">
-    <div class="chart-title">📈 Parties des 14 derniers jours</div>
+    <div class="chart-title">📈 14 derniers jours</div>
     <div class="legend">
-      <div class="legend-item"><span class="dot dot-enqueteur"></span>Enquêteur</div>
-      <div class="legend-item"><span class="dot dot-solo"></span>Solo</div>
-      <div class="legend-item"><span class="dot dot-multi"></span>Multi</div>
+      <div class="legend-item"><span class="dot dot-e"></span>Enquêteur</div>
+      <div class="legend-item"><span class="dot dot-s"></span>Solo</div>
+      <div class="legend-item"><span class="dot dot-m"></span>Multi</div>
     </div>
-    <div id="chart-combined"></div>
+    <div id="chart-stacked"><span class="loading">Chargement…</span></div>
   </div>
 
   <div class="chart-section">
-    <div class="chart-title"><span class="dot dot-enqueteur"></span>Mode Enquêteur</div>
-    <div id="chart-enqueteur"></div>
+    <div class="chart-title"><span class="dot dot-e"></span>Mode Enquêteur</div>
+    <div id="chart-e"><span class="loading">Chargement…</span></div>
   </div>
 
   <div class="chart-section">
-    <div class="chart-title"><span class="dot dot-solo"></span>Mode Solo</div>
-    <div id="chart-solo"></div>
+    <div class="chart-title"><span class="dot dot-s"></span>Mode Solo</div>
+    <div id="chart-s"><span class="loading">Chargement…</span></div>
   </div>
 
   <div class="chart-section">
-    <div class="chart-title"><span class="dot dot-multi"></span>Mode Multi</div>
-    <div id="chart-multi"></div>
+    <div class="chart-title"><span class="dot dot-m"></span>Mode Multi</div>
+    <div id="chart-m"><span class="loading">Chargement…</span></div>
   </div>
 
   <a href="/" class="btn-back">← Retour au quiz</a>
 
   <script>
+    // ── Config ─────────────────────────────────────────────────────
+    const GC_BASE  = 'https://ajneb.goatcounter.com/api/v0';
+    const GC_TOKEN = 'GOATCOUNTER_TOKEN'; // ← remplace par ton token API (read only)
+
+    const MODES = [
+      { key: 'e', path: 'crimes/enqueteur', label: 'Enquêteur', seg: 'seg-e', fill: '#b91c1c' },
+      { key: 's', path: 'crimes/solo',      label: 'Solo',       seg: 'seg-s', fill: '#c2410c' },
+      { key: 'm', path: 'crimes/multi',     label: 'Multi',      seg: 'seg-m', fill: '#1d4ed8' },
+    ];
+
+    // ── Helpers ────────────────────────────────────────────────────
     function getLast14Days() {
       const days = [];
       for (let i = 13; i >= 0; i--) {
@@ -216,98 +221,132 @@
       return d.toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' });
     }
 
-    function renderStackedChart(containerId, days, data) {
-      const container = document.getElementById(containerId);
-      const maxTotal = Math.max(...days.map(d => {
-        const row = data[d] || {};
-        return (row.enqueteur || 0) + (row.solo || 0) + (row.multi || 0);
-      }), 1);
+    function gcFetch(path, params) {
+      const url = `${GC_BASE}${path}?${params}`;
+      return fetch(url, {
+        headers: { Authorization: `Bearer ${GC_TOKEN}`, Accept: 'application/json' }
+      });
+    }
+
+    // ── Fetch per-mode daily data ──────────────────────────────────
+    async function fetchModeDays(modePath, days) {
+      const start = days[0];
+      const end   = days[days.length - 1];
+      const params = new URLSearchParams({ start, end, daily: 'true', limit: 14,
+                                           path: modePath });
+      const res = await gcFetch('/stats/hits', params);
+      if (!res.ok) throw new Error(`${res.status}`);
+      const data = await res.json();
+      // Build a map day→count from the response
+      const map = {};
+      for (const h of (data.hits ?? [])) map[h.day] = h.count ?? 0;
+      return map;
+    }
+
+    // ── Render stacked chart ───────────────────────────────────────
+    function renderStacked(days, maps) {
+      const container = document.getElementById('chart-stacked');
+      const maxTotal = Math.max(...days.map(d =>
+        MODES.reduce((s, m) => s + (maps[m.key][d] || 0), 0)
+      ), 1);
 
       container.innerHTML = days.map(day => {
-        const row = data[day] || {};
-        const e = row.enqueteur || 0;
-        const s = row.solo || 0;
-        const m = row.multi || 0;
-        const total = e + s + m;
-        const pe = Math.round((e / maxTotal) * 100);
-        const ps = Math.round((s / maxTotal) * 100);
-        const pm = Math.round((m / maxTotal) * 100);
+        const counts = MODES.map(m => maps[m.key][day] || 0);
+        const total  = counts.reduce((a, b) => a + b, 0);
+        const pcts   = counts.map(c => Math.round((c / maxTotal) * 100));
+        const segs   = MODES.map((m, i) =>
+          `<div class="seg ${m.seg}" style="width:${pcts[i]}%"></div>`
+        ).join('');
         return `
-          <div class="stacked-bar-row">
+          <div class="bar-row">
             <span class="bar-date">${fmtDay(day)}</span>
-            <div class="stacked-bar-track">
-              <div class="seg seg-enqueteur" style="width:${pe}%"></div>
-              <div class="seg seg-solo" style="width:${ps}%"></div>
-              <div class="seg seg-multi" style="width:${pm}%"></div>
-            </div>
+            <div class="stacked-track">${segs}</div>
             <span class="bar-count">${total || ''}</span>
           </div>`;
       }).join('');
     }
 
-    function renderSimpleChart(containerId, days, data, mode, colorClass) {
+    // ── Render simple chart per mode ───────────────────────────────
+    function renderSimple(containerId, days, map, fill) {
       const container = document.getElementById(containerId);
-      const max = Math.max(...days.map(d => (data[d] || {})[mode] || 0), 1);
+      const max = Math.max(...days.map(d => map[d] || 0), 1);
+      const hasData = days.some(d => (map[d] || 0) > 0);
 
-      const hasData = days.some(d => ((data[d] || {})[mode] || 0) > 0);
       if (!hasData) {
-        container.innerHTML = '<p class="empty">Pas encore de données.</p>';
+        container.innerHTML = '<span class="loading">Pas encore de données.</span>';
         return;
       }
 
       container.innerHTML = days.map(day => {
-        const count = (data[day] || {})[mode] || 0;
-        const pct = Math.round((count / max) * 100);
+        const count = map[day] || 0;
+        const pct   = Math.round((count / max) * 100);
         return `
           <div class="bar-row">
             <span class="bar-date">${fmtDay(day)}</span>
-            <div class="bar-track">
-              <div class="bar-fill ${colorClass}" style="width:${pct}%"></div>
+            <div class="simple-track">
+              <div class="bar-fill" style="width:${pct}%; background:${fill}"></div>
             </div>
             <span class="bar-count">${count || ''}</span>
           </div>`;
       }).join('');
     }
 
-    function render() {
-      let data = {};
-      try { data = JSON.parse(localStorage.getItem('crimes_stats') || '{}'); } catch(e) {}
+    // ── Main ───────────────────────────────────────────────────────
+    async function main() {
+      if (GC_TOKEN === 'GOATCOUNTER_TOKEN') {
+        document.getElementById('token-warning').style.display = '';
+        ['chart-stacked','chart-e','chart-s','chart-m'].forEach(id => {
+          document.getElementById(id).innerHTML =
+            '<span class="error">Token non configuré.</span>';
+        });
+        ['val-e','val-s','val-m','val-today'].forEach(id => {
+          document.getElementById(id).textContent = '?';
+        });
+        return;
+      }
 
       const days = getLast14Days();
-      const today = new Date().toISOString().slice(0, 10);
+      const today = days[days.length - 1];
 
-      let totE = 0, totS = 0, totM = 0, todayTotal = 0;
-      for (const [day, row] of Object.entries(data)) {
-        totE += row.enqueteur || 0;
-        totS += row.solo || 0;
-        totM += row.multi || 0;
+      try {
+        const maps = {};
+        await Promise.all(MODES.map(async m => {
+          maps[m.key] = await fetchModeDays(m.path, days);
+        }));
+
+        // Totals (all time — also query a larger range for grand totals)
+        const start2020 = '2020-01-01';
+        const totals = {};
+        await Promise.all(MODES.map(async m => {
+          const params = new URLSearchParams({ start: start2020, end: today, limit: 1,
+                                               path: m.path });
+          const res = await gcFetch('/stats/hits', params);
+          const data = res.ok ? await res.json() : { total: 0 };
+          totals[m.key] = data.total ?? (data.hits ?? []).reduce((s, h) => s + (h.count ?? 0), 0);
+        }));
+
+        document.getElementById('val-e').textContent = totals.e ?? '—';
+        document.getElementById('val-s').textContent = totals.s ?? '—';
+        document.getElementById('val-m').textContent = totals.m ?? '—';
+
+        const todayTotal = MODES.reduce((s, m) => s + (maps[m.key][today] || 0), 0);
+        document.getElementById('val-today').textContent = todayTotal;
+
+        renderStacked(days, maps);
+        MODES.forEach(m => renderSimple('chart-' + m.key, days, maps[m.key], m.fill));
+
+      } catch(err) {
+        const msg = `<p class="error">Erreur de chargement (${err.message}).<br>
+          <a href="https://ajneb.goatcounter.com" target="_blank">
+          Ouvre le dashboard GoatCounter ↗</a></p>`;
+        ['chart-stacked','chart-e','chart-s','chart-m'].forEach(id => {
+          document.getElementById(id).innerHTML = msg;
+        });
+        console.error(err);
       }
-      const todayRow = data[today] || {};
-      todayTotal = (todayRow.enqueteur || 0) + (todayRow.solo || 0) + (todayRow.multi || 0);
-
-      document.getElementById('val-enqueteur').textContent = totE;
-      document.getElementById('val-solo').textContent = totS;
-      document.getElementById('val-multi').textContent = totM;
-      document.getElementById('val-today').textContent = todayTotal;
-
-      const hasAny = days.some(d => {
-        const row = data[d] || {};
-        return (row.enqueteur || 0) + (row.solo || 0) + (row.multi || 0) > 0;
-      });
-
-      if (!hasAny) {
-        document.getElementById('chart-combined').innerHTML =
-          '<p class="empty">Pas encore de données — lance une partie pour commencer.</p>';
-      } else {
-        renderStackedChart('chart-combined', days, data);
-      }
-
-      renderSimpleChart('chart-enqueteur', days, data, 'enqueteur', 'seg-enqueteur');
-      renderSimpleChart('chart-solo',      days, data, 'solo',      'seg-solo');
-      renderSimpleChart('chart-multi',     days, data, 'multi',     'seg-multi');
     }
 
-    render();
+    main();
   </script>
 </body>
 </html>
