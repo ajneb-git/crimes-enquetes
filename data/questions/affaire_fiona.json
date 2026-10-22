@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "affaire_fiona_qcm_001",
+      "affaire_id": "affaire_fiona",
+      "module": "qcm",
+      "question": "Quel âge avait Fiona lorsqu'elle disparut à Clermont-Ferrand en mai 2013 ?",
+      "propositions": [
+        "5 ans",
+        "3 ans",
+        "8 ans",
+        "7 ans"
+      ],
+      "bonne_reponse": "5 ans",
+      "explication": "Fiona avait 5 ans lorsqu'elle disparut le 12 mai 2013 à Clermont-Ferrand. Sa disparition avait initialement été présentée comme un enlèvement par sa mère, Cécile Bourgeon, un mensonge qui retarda considérablement l'enquête.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2013",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.lemonde.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona_qcm_002",
+      "affaire_id": "affaire_fiona",
+      "module": "qcm",
+      "question": "Que prétendit la mère de Fiona, Cécile Bourgeon, juste après la disparition de sa fille ?",
+      "propositions": [
+        "Que Fiona avait été enlevée dans un parc",
+        "Que Fiona avait fugué volontairement",
+        "Que Fiona avait été emmenée par son père",
+        "Qu'elle ne savait pas où était sa fille"
+      ],
+      "bonne_reponse": "Que Fiona avait été enlevée dans un parc",
+      "explication": "Cécile Bourgeon affirma dans un premier temps que sa fille avait été enlevée dans un parc de Clermont-Ferrand, ce qui déclencha une immense vague de solidarité nationale. Ce récit était totalement inventé pour dissimuler la vérité.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2013",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.liberation.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona_vf_001",
+      "affaire_id": "affaire_fiona",
+      "module": "vrai_faux",
+      "affirmation": "Le corps de Fiona a été retrouvé et a permis d'établir les causes de sa mort.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Le corps de Fiona n'a jamais été retrouvé, ce qui constitue l'un des aspects les plus troublants de cette affaire. En l'absence de corps, les preuves étaient essentiellement les aveux partiels et contradictoires de Berkane Makhlouf, le compagnon de la mère.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2013",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.lemonde.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona_vf_002",
+      "affaire_id": "affaire_fiona",
+      "module": "vrai_faux",
+      "affirmation": "Cécile Bourgeon, la mère de Fiona, fut condamnée à une peine plus lourde que son compagnon Berkane Makhlouf.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Lors du procès en 2016, Cécile Bourgeon fut condamnée à 25 ans de réclusion criminelle, une peine supérieure à celle infligée à Berkane Makhlouf (20 ans). Makhlouf avait avoué avoir donné le coup fatal, mais la justice estima que Bourgeon portait une lourde responsabilité dans les violences subies par Fiona.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.lepoint.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona_qsj_001",
+      "affaire_id": "affaire_fiona",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une affaire de meurtre d'enfant qui a bouleversé la France en 2013.",
+        "Une mise en scène d'enlèvement avait initialement trompé l'opinion publique.",
+        "La victime avait 5 ans et habitait dans une ville d'Auvergne.",
+        "La mère de la victime et son compagnon ont tous deux été condamnés pour ce crime."
+      ],
+      "propositions": [
+        "Affaire Fiona",
+        "Affaire Maëlys",
+        "Affaire Grégory",
+        "Affaire Laëtitia"
+      ],
+      "bonne_reponse": "Affaire Fiona",
+      "explication": "L'affaire Fiona a choqué la France en 2013 : la petite Fiona, 5 ans, avait disparu à Clermont-Ferrand. Sa mère Cécile Bourgeon avait simulé un enlèvement. Son compagnon Berkane Makhlouf avoua finalement le meurtre. Les deux furent condamnés en 2016, le corps de Fiona n'a jamais été retrouvé.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2013-2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.lemonde.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona_chron_001",
+      "affaire_id": "affaire_fiona",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Fiona.",
+      "evenements": [
+        {
+          "label": "Fiona, 5 ans, est signalée disparue à Clermont-Ferrand — sa mère invoque un enlèvement",
+          "date_iso": "2013-05-12"
+        },
+        {
+          "label": "Arrestation de Cécile Bourgeon et Berkane Makhlouf, mis en examen pour meurtre",
+          "date_iso": "2013-11-01"
+        },
+        {
+          "label": "Aveux de Berkane Makhlouf reconnaissant avoir donné le coup fatal",
+          "date_iso": "2014-01-01"
+        },
+        {
+          "label": "Condamnations : Bourgeon à 25 ans, Makhlouf à 20 ans de réclusion",
+          "date_iso": "2016-12-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Fiona disparaît le 12 mai 2013, sa mère invente un enlèvement. En novembre 2013, les parents sont mis en examen. En 2014, Makhlouf avoue le meurtre. En décembre 2016, les deux sont condamnés : Bourgeon à 25 ans et Makhlouf à 20 ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2013-2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Fiona",
+        "https://www.lemonde.fr/archives/affaire-fiona"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

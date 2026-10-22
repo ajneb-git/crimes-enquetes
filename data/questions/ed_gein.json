@@ -1,0 +1,135 @@
+{
+  "questions": [
+    {
+      "id": "ed_gein_qcm_001",
+      "affaire_id": "ed_gein",
+      "module": "qcm",
+      "question": "Quel célèbre personnage de fiction fut directement inspiré par Ed Gein et sa façon de traiter les corps ?",
+      "propositions": [
+        "Norman Bates dans Psycho",
+        "Hannibal Lecter dans Le Silence des agneaux",
+        "Michael Myers dans Halloween",
+        "Jason Voorhees dans Vendredi 13"
+      ],
+      "bonne_reponse": "Norman Bates dans Psycho",
+      "explication": "Norman Bates, le personnage d'Alfred Hitchcock dans «Psycho» (1960), fut directement inspiré par Ed Gein, notamment pour son rapport malsain à sa mère décédée et sa façon de dissimuler les corps. Leatherface («Texas Chainsaw Massacre») et Hannibal Lecter s'en sont également inspirés.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1954-1957",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://www.lemonde.fr/archives/ed-gein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein_qcm_002",
+      "affaire_id": "ed_gein",
+      "module": "qcm",
+      "question": "Quelle était la profession d'Ed Gein dans sa vie quotidienne à Plainfield, Wisconsin ?",
+      "propositions": [
+        "Fermier",
+        "Employé de bureau",
+        "Charpentier",
+        "Médecin"
+      ],
+      "bonne_reponse": "Fermier",
+      "explication": "Ed Gein vivait comme fermier à Plainfield, dans le Wisconsin. Discret et peu sociable, il vivait seul dans la ferme familiale après la mort de sa mère Augusta, avec laquelle il entretenait une relation fusionnelle et morbide.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1954-1957",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://www.fbi.gov/ed-gein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein_vf_001",
+      "affaire_id": "ed_gein",
+      "module": "vrai_faux",
+      "affirmation": "Ed Gein n'a tué qu'une seule personne ; les autres cadavres provenaient de cimetières.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Ed Gein fut reconnu coupable d'au moins 2 meurtres (Bernice Worden en 1957 et Mary Hogan en 1954), même si ses exhumations de cadavres dans les cimetières furent bien réelles et nombreuses. Il fabriquait avec les corps des masques, des meubles et des vêtements en peau humaine.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "1954-1957",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://www.fbi.gov/ed-gein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein_vf_002",
+      "affaire_id": "ed_gein",
+      "module": "vrai_faux",
+      "affirmation": "Ed Gein fut condamné à mort et exécuté.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Ed Gein ne fut jamais condamné à mort. Jugé mentalement inapte lors de son premier procès, il fut interné dans un hôpital psychiatrique. Lorsqu'il fut jugé une seconde fois en 1968, il fut condamné à la prison à vie mais renvoyé dans un hôpital psychiatrique où il mourut le 26 juillet 1984.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1957-1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://www.fbi.gov/ed-gein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein_qsj_001",
+      "affaire_id": "ed_gein",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un fermier discret du Wisconsin qui vivait dans une ferme isolée.",
+        "Je fabriquais des objets morbides avec des restes humains exhumés dans les cimetières.",
+        "Mon histoire a inspiré plusieurs des plus grands méchants du cinéma d'horreur américain.",
+        "Arrêté en 1957 à Plainfield, je fus déclaré mentalement inapte et interné jusqu'à ma mort en 1984."
+      ],
+      "propositions": [
+        "Ed Gein",
+        "John Wayne Gacy",
+        "Dennis Rader",
+        "Jeffrey Dahmer"
+      ],
+      "bonne_reponse": "Ed Gein",
+      "explication": "Ed Gein, fermier de Plainfield (Wisconsin), tuait et exhumait des cadavres pour fabriquer des objets en peau humaine. Son cas est l'un des plus troublants de l'histoire criminelle américaine et a directement inspiré Norman Bates, Leatherface et Hannibal Lecter.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1954-1957",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://www.lemonde.fr/archives/ed-gein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein_qcm_003",
+      "affaire_id": "ed_gein",
+      "module": "qcm",
+      "question": "Quel film de 1974, inspiré d'Ed Gein, met en scène un tueur portant un masque en peau humaine ?",
+      "propositions": [
+        "Massacre à la tronçonneuse",
+        "Halloween",
+        "Vendredi 13",
+        "L'Exorciste"
+      ],
+      "bonne_reponse": "Massacre à la tronçonneuse",
+      "explication": "«Massacre à la tronçonneuse» («The Texas Chain Saw Massacre», 1974) de Tobe Hooper mit en scène Leatherface, un tueur portant un masque en peau humaine directement inspiré d'Ed Gein. Le film fut présenté comme «basé sur une histoire vraie», même si les similitudes sont partielles.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1957",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ed_Gein",
+        "https://fr.wikipedia.org/wiki/Massacre_%C3%A0_la_tron%C3%A7onneuse"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

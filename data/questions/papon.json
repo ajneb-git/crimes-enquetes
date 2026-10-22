@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": "papon_qcm_001",
+      "affaire_id": "papon",
+      "module": "qcm",
+      "question": "Quelle était la fonction de Maurice Papon sous le régime de Vichy pendant la Seconde Guerre mondiale ?",
+      "propositions": [
+        "Secrétaire général de la préfecture de la Gironde",
+        "Préfet de la Seine",
+        "Ministre de l'Intérieur",
+        "Chef de la milice à Bordeaux"
+      ],
+      "bonne_reponse": "Secrétaire général de la préfecture de la Gironde",
+      "explication": "De 1942 à 1944, Maurice Papon occupa le poste de secrétaire général de la préfecture de la Gironde à Bordeaux. À ce titre, il signa les ordres d'arrestation et de déportation de plus de 1 600 Juifs vers les camps d'extermination nazis.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1942-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://www.lemonde.fr/archives/Maurice-Papon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_qcm_002",
+      "affaire_id": "papon",
+      "module": "qcm",
+      "question": "À combien d'années de réclusion Maurice Papon fut-il condamné en 1998 ?",
+      "propositions": [
+        "10 ans",
+        "20 ans",
+        "Perpétuité",
+        "5 ans"
+      ],
+      "bonne_reponse": "10 ans",
+      "explication": "Le 2 avril 1998, Maurice Papon fut condamné à 10 ans de réclusion criminelle pour complicité de crimes contre l'humanité. Le jury avait écarté la complicité d'assassinat pour ne retenir que la complicité de séquestration et de déportation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://www.liberation.fr/archives/papon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_vf_001",
+      "affaire_id": "papon",
+      "module": "vrai_faux",
+      "affirmation": "Maurice Papon a occupé le poste de préfet de police de Paris sous la Ve République.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Malgré son passé de collaborateur, Maurice Papon fit une brillante carrière dans la haute fonction publique française. Il fut notamment préfet de police de Paris de 1958 à 1967, poste sous lequel il fut impliqué dans le massacre du 17 octobre 1961 contre des manifestants algériens.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1958-1967",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://fr.wikipedia.org/wiki/Massacre_du_17_octobre_1961"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_vf_002",
+      "affaire_id": "papon",
+      "module": "vrai_faux",
+      "affirmation": "Maurice Papon est le seul ministre de la Ve République à avoir été condamné au pénal.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Maurice Papon, qui fut ministre du Budget sous Valéry Giscard d'Estaing (1978-1981), est l'unique ministre de la Ve République condamné pénalement. Il s'est vu condamner pour complicité de crimes contre l'humanité en 1998.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://www.lemonde.fr/archives/Maurice-Papon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_qsj_001",
+      "affaire_id": "papon",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un haut fonctionnaire français qui a servi sous plusieurs régimes.",
+        "Sous Vichy, j'ai participé à la déportation de plus d'un millier de juifs de ma région.",
+        "J'ai ensuite fait carrière dans l'État, jusqu'à être ministre.",
+        "Je suis le seul ministre de la Ve République condamné pour complicité de crimes contre l'humanité, jugé à Bordeaux en 1997-1998."
+      ],
+      "propositions": [
+        "Maurice Papon",
+        "René Bousquet",
+        "Paul Touvier",
+        "Pierre Laval"
+      ],
+      "bonne_reponse": "Maurice Papon",
+      "explication": "Maurice Papon fut secrétaire général de la préfecture de Gironde sous Vichy (1942-1944), puis préfet de police de Paris et ministre du Budget. Jugé à partir de 1997, il fut condamné à 10 ans de prison pour complicité de crimes contre l'humanité. Il mourut en 2007.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1942-1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://www.lemonde.fr/archives/Maurice-Papon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_chron_001",
+      "affaire_id": "papon",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Papon.",
+      "evenements": [
+        {
+          "label": "Papon signe des ordres de déportation de juifs depuis la Gironde",
+          "date_iso": "1942-01-01"
+        },
+        {
+          "label": "Massacre de manifestants algériens sous sa direction à Paris",
+          "date_iso": "1961-10-17"
+        },
+        {
+          "label": "Papon ministre du Budget dans le gouvernement Barre",
+          "date_iso": "1978-04-05"
+        },
+        {
+          "label": "Condamnation à 10 ans pour complicité de crimes contre l'humanité",
+          "date_iso": "1998-04-02"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Papon signe des ordres de déportation de 1942 à 1944. En 1961, comme préfet de police, il est à la tête des forces qui répriment violemment une manifestation d'Algériens (plusieurs dizaines de morts). En 1978, il est ministre du Budget. En 1998, il est condamné à 10 ans pour sa complicité sous Vichy.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1942-1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://fr.wikipedia.org/wiki/Massacre_du_17_octobre_1961"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon_qcm_003",
+      "affaire_id": "papon",
+      "module": "qcm",
+      "question": "Combien de Juifs furent déportés depuis la Gironde sous l'autorité de Maurice Papon ?",
+      "propositions": [
+        "Plus de 1 600",
+        "Environ 300",
+        "Plus de 5 000",
+        "Environ 800"
+      ],
+      "bonne_reponse": "Plus de 1 600",
+      "explication": "Entre 1942 et 1944, plus de 1 600 Juifs — dont de nombreux enfants — furent déportés depuis la Gironde sous la responsabilité administrative de Papon. La quasi-totalité périt dans les camps d'extermination nazis.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1942-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Maurice_Papon",
+        "https://www.memorial-papon.fr/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

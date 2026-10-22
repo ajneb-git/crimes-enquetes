@@ -26,10 +26,53 @@
     <h1 class="home-title">Crimes & Enquêtes</h1>
     <p class="home-subtitle">Quiz sur les grandes affaires criminelles</p>
     <div class="home-buttons">
-      <button id="btn-solo" class="btn-primary">Jouer en solo</button>
+      <button id="btn-ladder" class="btn-primary">Mode Enquêteur</button>
+      <button id="btn-solo" class="btn-secondary">Mode Libre</button>
       <button id="btn-multi" class="btn-secondary">Jouer à plusieurs</button>
     </div>
     <p class="home-stat" id="loading-status">Chargement…</p>
+    <p class="home-stat ladder-home-record hidden" id="ladder-home-record"></p>
+  </section>
+
+  <!-- ══════════════════ SCREEN: LADDER START ══════════════════ -->
+  <section id="screen-ladder-start" class="screen">
+    <button class="btn-back" id="btn-back-ladder">← Retour</button>
+    <h2>Mode Enquêteur</h2>
+
+    <div class="ladder-intro">
+      <div class="ladder-tiers-preview">
+        <div class="ladder-tier-row">
+          <span class="tier-num">1–10</span>
+          <span class="tier-info">
+            <span class="tier-title">Stagiaire</span>
+            <span class="tier-desc">Questions faciles</span>
+          </span>
+          <span class="tier-stars">⬥⬦⬦</span>
+        </div>
+        <div class="ladder-tier-row">
+          <span class="tier-num">11–20</span>
+          <span class="tier-info">
+            <span class="tier-title">Inspecteur</span>
+            <span class="tier-desc">Questions moyennes</span>
+          </span>
+          <span class="tier-stars">⬥⬥⬦</span>
+        </div>
+        <div class="ladder-tier-row">
+          <span class="tier-num">21–30</span>
+          <span class="tier-info">
+            <span class="tier-title">Commissaire</span>
+            <span class="tier-desc">Questions difficiles</span>
+          </span>
+          <span class="tier-stars">⬥⬥⬥</span>
+        </div>
+      </div>
+
+      <p class="ladder-rule">❤️❤️❤️ &nbsp;3 vies — chaque erreur en coûte une</p>
+
+      <div class="ladder-best-block hidden" id="ladder-best-block"></div>
+    </div>
+
+    <button id="btn-ladder-start" class="btn-primary">Commencer le défi →</button>
   </section>
 
   <!-- ══════════════════ SCREEN: SOLO SETUP ══════════════════ -->
@@ -101,6 +144,7 @@
       <span class="q-difficulty" id="q-difficulty">⬥⬥⬦</span>
       <span class="q-points" id="q-points">2 pts</span>
       <span class="q-counter" id="q-counter">1/10</span>
+      <span class="q-lives hidden" id="q-lives"></span>
     </div>
     <div class="q-scores hidden" id="q-scores"></div>
     <div class="player-info hidden" id="q-player-info">
@@ -121,6 +165,15 @@
   <!-- ══════════════════ SCREEN: END ══════════════════ -->
   <section id="screen-end" class="screen">
 
+    <div id="end-ladder" class="hidden">
+      <h2 id="end-ladder-title">Partie terminée</h2>
+      <div class="ladder-rank-display">
+        <span id="end-ladder-rank">0</span>
+        <span class="ladder-rank-max">/30</span>
+      </div>
+      <p id="end-ladder-best"></p>
+    </div>
+
     <div id="end-solo" class="hidden">
       <h2>Quiz terminé !</h2>
       <div class="solo-score">
@@ -138,7 +191,7 @@
 
     <div class="end-buttons">
       <button id="btn-end-replay" class="btn-primary">Rejouer</button>
-      <button id="btn-end-solo" class="btn-secondary">Jouer en solo →</button>
+      <button id="btn-end-solo" class="btn-secondary">Rejouer en Enquêteur →</button>
       <button id="btn-end-home" class="btn-secondary">Accueil</button>
     </div>
 

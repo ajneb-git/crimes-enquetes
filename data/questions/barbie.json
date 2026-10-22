@@ -1,0 +1,193 @@
+{
+  "questions": [
+    {
+      "id": "barbie_qcm_001",
+      "affaire_id": "barbie",
+      "module": "qcm",
+      "question": "Quel surnom avait Klaus Barbie dû à ses méthodes brutales à Lyon ?",
+      "propositions": [
+        "Le Boucher de Lyon",
+        "Le Vampire de Lyon",
+        "L'Ange de la Mort",
+        "Le Loup de Lyon"
+      ],
+      "bonne_reponse": "Le Boucher de Lyon",
+      "explication": "Klaus Barbie, chef de la Gestapo à Lyon de 1942 à 1944, fut surnommé «Le Boucher de Lyon» en raison des tortures systématiques qu'il infligeait aux prisonniers, résistants et juifs, dans les caves de l'hôtel Terminus.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1942-1944",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://www.lemonde.fr/archives/Klaus-Barbie"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_qcm_002",
+      "affaire_id": "barbie",
+      "module": "qcm",
+      "question": "Dans quelle ville se déroula le procès de Klaus Barbie en 1987 ?",
+      "propositions": [
+        "Lyon",
+        "Paris",
+        "Bordeaux",
+        "Strasbourg"
+      ],
+      "bonne_reponse": "Lyon",
+      "explication": "Le procès de Klaus Barbie s'ouvrit le 11 mai 1987 à Lyon, ville où il avait exercé ses fonctions de chef de la Gestapo. Ce fut le premier procès en France pour crimes contre l'humanité.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://www.ina.fr/archives/procès-barbie"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_qcm_003",
+      "affaire_id": "barbie",
+      "module": "qcm",
+      "question": "Quel célèbre résistant français fut arrêté sous les ordres de Barbie le 21 juin 1943 à Caluire ?",
+      "propositions": [
+        "Jean Moulin",
+        "Charles de Gaulle",
+        "Henri Frenay",
+        "Raymond Aubrac"
+      ],
+      "bonne_reponse": "Jean Moulin",
+      "explication": "Le 21 juin 1943, à Caluire-et-Cuire (près de Lyon), Klaus Barbie fit arrêter Jean Moulin, chef du Conseil national de la Résistance. Moulin mourut des suites des tortures qui lui furent infligées, sans avoir parlé.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1943",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean_Moulin",
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_vf_001",
+      "affaire_id": "barbie",
+      "module": "vrai_faux",
+      "affirmation": "Klaus Barbie fut condamné à mort lors de son procès à Lyon en 1987.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Klaus Barbie fut condamné à la réclusion criminelle à perpétuité, et non à la peine de mort. En France, la peine de mort avait été abolie par Robert Badinter en 1981, soit six ans avant le procès Barbie.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://www.lemonde.fr/archives/Klaus-Barbie"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_vf_002",
+      "affaire_id": "barbie",
+      "module": "vrai_faux",
+      "affirmation": "Après la guerre, Klaus Barbie s'était réfugié en Amérique du Sud sous une fausse identité.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Après la guerre, Klaus Barbie fut aidé par des réseaux de fuite (Ratlines) et s'installa en Bolivie sous le faux nom de Klaus Altmann. Il y vécut pendant des décennies, y compris en travaillant pour des services secrets, avant d'être identifié et extradé en France en 1983.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1945-1983",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://fr.wikipedia.org/wiki/Rat_lines"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_qsj_001",
+      "affaire_id": "barbie",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un officier allemand qui a servi pendant la Seconde Guerre mondiale.",
+        "J'ai dirigé une section de la police secrète nazie dans une grande ville française.",
+        "Je suis responsable de l'arrestation d'un chef de la Résistance française mort sous la torture.",
+        "J'ai été jugé à Lyon en 1987 lors du premier procès français pour crimes contre l'humanité."
+      ],
+      "propositions": [
+        "Klaus Barbie",
+        "Adolf Eichmann",
+        "Josef Mengele",
+        "Maurice Papon"
+      ],
+      "bonne_reponse": "Klaus Barbie",
+      "explication": "Klaus Barbie, «Boucher de Lyon», dirigea la Gestapo (Section IV) à Lyon de 1942 à 1944. Il fit arrêter Jean Moulin et déporta notamment 44 enfants d'Izieu. Jugé en 1987 et condamné à perpétuité, il mourut en prison en 1991.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1942-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://fr.wikipedia.org/wiki/Rafle_des_enfants_d%27Izieu"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_qcm_004",
+      "affaire_id": "barbie",
+      "module": "qcm",
+      "question": "Quel avocat controversé assura la défense de Klaus Barbie lors de son procès ?",
+      "propositions": [
+        "Jacques Vergès",
+        "Robert Badinter",
+        "Henri Leclerc",
+        "Pierre Viansson-Ponté"
+      ],
+      "bonne_reponse": "Jacques Vergès",
+      "explication": "L'avocat Jacques Vergès, connu pour défendre des causes controversées, prit en charge la défense de Klaus Barbie. Sa stratégie consistait notamment à mettre en cause la France coloniale pour ses propres crimes, retournant l'accusation contre l'État français.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jacques_Verg%C3%A8s",
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "barbie_chron_001",
+      "affaire_id": "barbie",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Barbie.",
+      "evenements": [
+        {
+          "label": "Arrestation de Jean Moulin à Caluire — il mourra sous la torture",
+          "date_iso": "1943-06-21"
+        },
+        {
+          "label": "Barbie identifié comme «Klaus Altmann» vivant en Bolivie par des journalistes",
+          "date_iso": "1971-01-01"
+        },
+        {
+          "label": "Extradition de Barbie en France depuis la Bolivie",
+          "date_iso": "1983-02-05"
+        },
+        {
+          "label": "Condamnation à la réclusion criminelle à perpétuité à Lyon",
+          "date_iso": "1987-07-04"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Jean Moulin est arrêté à Caluire le 21 juin 1943 et meurt des suites des tortures de Barbie. En 1971, des journalistes identifient Barbie, qui vit sous le nom de Klaus Altmann en Bolivie. Il est extradé en France en 1983. Le 4 juillet 1987, il est condamné à la réclusion à perpétuité.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1943-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Klaus_Barbie",
+        "https://fr.wikipedia.org/wiki/Jean_Moulin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

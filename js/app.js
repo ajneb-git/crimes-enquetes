@@ -3,7 +3,7 @@ import { DEV_MODE, POINTS, MODULE_LABELS, PERF_LABELS } from './config.js';
 // ── State ─────────────────────────────────────────────────────────────────────
 
 const state = {
-  mode: null,           // 'solo' | 'multi'
+  mode: null,           // 'solo' | 'multi' | 'ladder'
   players: [],          // [{ name, score }]
   currentPlayerIdx: 0,
   roundsPerPlayer: 5,
@@ -12,6 +12,8 @@ const state = {
   soloScore: 0,
   soloMaxScore: 0,
   selectedModules: [],
+  // Ladder
+  ladderLives: 3,
   // QSJ
   qsjIndicesShown: 1,
   // Chronologie
@@ -79,7 +81,84 @@ async function loadAllQuestions() {
   return results;
 }
 
+// ── Ladder localStorage helpers ───────────────────────────────────────────────
+
+function getLadderBest() {
+  try { return parseInt(localStorage.getItem('crimes_ladder_best') || '0', 10) || 0; }
+  catch { return 0; }
+}
+
+function saveLadderBest(rank) {
+  if (rank > getLadderBest()) {
+    try { localStorage.setItem('crimes_ladder_best', rank); } catch {}
+  }
+}
+
+function updateLadderBestDisplay() {
+  const best = getLadderBest();
+  const block = el('ladder-best-block');
+  if (!block) return;
+  if (best > 0) {
+    block.textContent = `Ton record : ${best}/30`;
+    block.classList.remove('hidden');
+  } else {
+    block.classList.add('hidden');
+  }
+  const homeRecord = el('ladder-home-record');
+  if (homeRecord) {
+    if (best > 0) {
+      homeRecord.textContent = `🏅 Enquêteur — Record : ${best}/30`;
+      homeRecord.classList.remove('hidden');
+    } else {
+      homeRecord.classList.add('hidden');
+    }
+  }
+}
+
 // ── Game setup ────────────────────────────────────────────────────────────────
+
+function buildLadderTier(diff, count) {
+  const key = `crimes_seen_d${diff}`;
+  const pool = allQuestions.filter(q => q.difficulte === diff);
+  if (!pool.length) return [];
+
+  let seen;
+  try { seen = new Set(JSON.parse(localStorage.getItem(key) || '[]')); }
+  catch { seen = new Set(); }
+
+  let unseen = pool.filter(q => !seen.has(q.id));
+  if (unseen.length < count) {
+    seen = new Set();
+    try { localStorage.removeItem(key); } catch {}
+    unseen = pool;
+  }
+
+  const selected = shuffle(unseen).slice(0, count);
+  selected.forEach(q => seen.add(q.id));
+  try { localStorage.setItem(key, JSON.stringify([...seen])); } catch {}
+  return selected;
+}
+
+function startLadder() {
+  const questions = [
+    ...buildLadderTier(1, 10),
+    ...buildLadderTier(2, 10),
+    ...buildLadderTier(3, 10),
+  ];
+
+  if (!questions.length) {
+    alert('Aucune question disponible.');
+    return;
+  }
+
+  state.mode = 'ladder';
+  state.ladderLives = 3;
+  state.questionIdx = 0;
+  state.questions = questions;
+  state.lastSetup = { type: 'ladder' };
+
+  showNextQuestion();
+}
 
 function buildQuestionPool(modules, count) {
   const pool = modules.length
@@ -158,6 +237,14 @@ function renderQuestion(q) {
   el('q-difficulty').textContent = '⬥'.repeat(q.difficulte) + '⬦'.repeat(3 - q.difficulte);
   el('q-points').textContent = `${POINTS[q.difficulte]} pt${POINTS[q.difficulte] > 1 ? 's' : ''}`;
   el('q-counter').textContent = `${state.questionIdx + 1}/${state.questions.length}`;
+
+  if (state.mode === 'ladder') {
+    const lives = Math.max(0, state.ladderLives);
+    el('q-lives').textContent = '❤️'.repeat(lives) + '🖤'.repeat(3 - lives);
+    setHidden('q-lives', false);
+  } else {
+    setHidden('q-lives', true);
+  }
 
   if (state.mode === 'multi') {
     el('q-player-name').textContent = state.players[state.currentPlayerIdx].name;
@@ -417,6 +504,14 @@ function highlightAnswer(chosenBtn, correct, correctBtn) {
 function onAnswer(isCorrect, q) {
   const pts = isCorrect ? (POINTS[q.difficulte] || 1) : 0;
 
+  if (state.mode === 'ladder') {
+    if (!isCorrect) {
+      state.ladderLives = Math.max(0, state.ladderLives - 1);
+    }
+    showResult(isCorrect, pts, q);
+    return;
+  }
+
   if (state.mode === 'multi') {
     state.players[state.currentPlayerIdx].score += pts;
   } else {
@@ -427,11 +522,34 @@ function onAnswer(isCorrect, q) {
 }
 
 function showResult(isCorrect, pts, q) {
-  el('result-icon').textContent  = isCorrect ? '✓' : '✗';
-  el('result-icon').className    = `result-icon ${isCorrect ? 'correct' : 'wrong'}`;
-  el('result-pts').textContent   = isCorrect ? `+${pts} pt${pts > 1 ? 's' : ''}` : '0 point';
-  el('result-pts').className     = `result-pts ${isCorrect ? 'correct' : 'wrong'}`;
+  el('result-icon').textContent = isCorrect ? '✓' : '✗';
+  el('result-icon').className   = `result-icon ${isCorrect ? 'correct' : 'wrong'}`;
   el('result-explication').textContent = q.explication || '';
+
+  if (state.mode === 'ladder') {
+    const nextRank = state.questionIdx + 1;
+    if (isCorrect) {
+      const milestone = nextRank === 10 || nextRank === 20;
+      if (milestone) {
+        el('result-pts').textContent = nextRank === 10 ? '🏅 Palier Inspecteur !' : '🏅 Palier Commissaire !';
+      } else {
+        el('result-pts').textContent = `Niveau ${nextRank}/30`;
+      }
+    } else {
+      el('result-pts').textContent = state.ladderLives <= 0
+        ? 'Plus de vies !'
+        : `${state.ladderLives} vie${state.ladderLives !== 1 ? 's' : ''} restante${state.ladderLives !== 1 ? 's' : ''}`;
+    }
+    el('result-pts').className = `result-pts ${isCorrect ? 'correct' : 'wrong'}`;
+    const lives = Math.max(0, state.ladderLives);
+    el('result-player-score').textContent = '❤️'.repeat(lives) + '🖤'.repeat(3 - lives);
+    setHidden('result-player-score', false);
+    show('screen-result');
+    return;
+  }
+
+  el('result-pts').textContent = isCorrect ? `+${pts} pt${pts > 1 ? 's' : ''}` : '0 point';
+  el('result-pts').className   = `result-pts ${isCorrect ? 'correct' : 'wrong'}`;
 
   if (state.mode === 'multi') {
     const player = state.players[state.currentPlayerIdx];
@@ -447,6 +565,22 @@ function showResult(isCorrect, pts, q) {
 // ── Continue ──────────────────────────────────────────────────────────────────
 
 function onContinue() {
+  if (state.mode === 'ladder') {
+    if (state.ladderLives <= 0) {
+      saveLadderBest(state.questionIdx);
+      showLadderEnd(false);
+      return;
+    }
+    state.questionIdx++;
+    if (state.questionIdx >= state.questions.length) {
+      saveLadderBest(30);
+      showLadderEnd(true);
+      return;
+    }
+    showNextQuestion();
+    return;
+  }
+
   state.questionIdx++;
 
   if (state.questionIdx >= state.questions.length) {
@@ -460,6 +594,35 @@ function onContinue() {
   } else {
     showNextQuestion();
   }
+}
+
+// ── Ladder end ────────────────────────────────────────────────────────────────
+
+function showLadderEnd(victory) {
+  const rank = victory ? 30 : state.questionIdx;
+  const prev = getLadderBest();
+  saveLadderBest(rank);
+  const best = getLadderBest();
+
+  setHidden('end-ladder', false);
+  setHidden('end-solo', true);
+  setHidden('end-multi', true);
+
+  el('end-ladder-title').textContent = victory ? '🏆 Grand Détective !' : 'Partie terminée !';
+  el('end-ladder-rank').textContent  = rank;
+
+  if (rank > prev && prev > 0) {
+    el('end-ladder-best').textContent = `🏅 Nouveau record ! (était ${prev}/30)`;
+  } else if (rank === 30) {
+    el('end-ladder-best').textContent = 'Tu as atteint le rang maximum !';
+  } else if (best > 0) {
+    el('end-ladder-best').textContent = `Record : ${best}/30`;
+  } else {
+    el('end-ladder-best').textContent = '';
+  }
+
+  updateLadderBestDisplay();
+  show('screen-end');
 }
 
 // ── End screen ────────────────────────────────────────────────────────────────
@@ -575,7 +738,18 @@ async function init() {
     buildPlayerInputs(playerCount);
   });
 
+  updateLadderBestDisplay();
+
   // ── Button bindings ───────────────────────────────────────────────────────
+
+  el('btn-ladder').addEventListener('click', () => {
+    updateLadderBestDisplay();
+    show('screen-ladder-start');
+  });
+
+  el('btn-back-ladder').addEventListener('click', () => show('screen-home'));
+
+  el('btn-ladder-start').addEventListener('click', () => startLadder());
 
   el('btn-solo').addEventListener('click', () => {
     show('screen-solo-setup');
@@ -605,13 +779,18 @@ async function init() {
 
   el('btn-result-continue').addEventListener('click', () => onContinue());
 
-  el('btn-end-solo').addEventListener('click', () => show('screen-solo-setup'));
+  el('btn-end-solo').addEventListener('click', () => {
+    updateLadderBestDisplay();
+    show('screen-ladder-start');
+  });
   el('btn-end-home').addEventListener('click', () => show('screen-home'));
 
   el('btn-end-replay').addEventListener('click', () => {
     if (!state.lastSetup) { show('screen-home'); return; }
     const s = state.lastSetup;
-    if (s.type === 'solo') {
+    if (s.type === 'ladder') {
+      startLadder();
+    } else if (s.type === 'solo') {
       startSolo(s.modules, s.rounds);
     } else {
       startMulti(s.players, s.rounds, s.modules);

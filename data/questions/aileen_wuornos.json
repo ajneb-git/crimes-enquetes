@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "aileen_wuornos_qcm_001",
+      "affaire_id": "aileen_wuornos",
+      "module": "qcm",
+      "question": "Dans quel État américain Aileen Wuornos commit-elle ses crimes entre 1989 et 1990 ?",
+      "propositions": [
+        "Floride",
+        "Texas",
+        "Géorgie",
+        "Alabama"
+      ],
+      "bonne_reponse": "Floride",
+      "explication": "Aileen Wuornos tua 7 hommes entre 1989 et 1990 en Floride, le long des autoroutes de l'État. Elle exerçait la prostitution dans cet État et prétendait avoir agi en état de légitime défense contre des clients violents.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1989-1990",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://www.lemonde.fr/archives/aileen-wuornos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos_qcm_002",
+      "affaire_id": "aileen_wuornos",
+      "module": "qcm",
+      "question": "Quelle actrice reçut l'Oscar de la meilleure actrice pour avoir incarné Aileen Wuornos dans le film «Monster» (2003) ?",
+      "propositions": [
+        "Charlize Theron",
+        "Cate Blanchett",
+        "Hilary Swank",
+        "Nicole Kidman"
+      ],
+      "bonne_reponse": "Charlize Theron",
+      "explication": "Charlize Theron remporta l'Oscar de la meilleure actrice en 2004 pour son interprétation d'Aileen Wuornos dans «Monster» (2003). Sa transformation physique et psychologique pour ce rôle fut saluée unanimement par la critique.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1989-1990",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://fr.wikipedia.org/wiki/Monster_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos_vf_001",
+      "affaire_id": "aileen_wuornos",
+      "module": "vrai_faux",
+      "affirmation": "Aileen Wuornos est généralement considérée comme la première femme tueuse en série reconnue comme telle aux États-Unis.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Aileen Wuornos est souvent désignée comme la première femme officiellement reconnue comme tueuse en série aux États-Unis selon les critères du FBI. Son profil d'attaques de victimes inconnues (et non de proches) la distinguait des criminelles féminines antérieures.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1989-1990",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://www.fbi.gov/aileen-wuornos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos_vf_002",
+      "affaire_id": "aileen_wuornos",
+      "module": "vrai_faux",
+      "affirmation": "Aileen Wuornos fut exécutée par la chaise électrique.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Aileen Wuornos fut exécutée par injection létale le 9 octobre 2002 à la prison de Broward en Floride. Elle avait elle-même demandé à ce que ses recours soient abandonnés et à être exécutée rapidement, refusant de continuer à vivre.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://www.fbi.gov/aileen-wuornos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos_qsj_001",
+      "affaire_id": "aileen_wuornos",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une femme américaine qui vécut une enfance difficile marquée par des abus.",
+        "Entre 1989 et 1990, j'ai tué 7 hommes en Floride en affirmant agir en légitime défense.",
+        "Je fus la première femme reconnue tueuse en série aux États-Unis selon le FBI.",
+        "Mon histoire inspira un film qui valut un Oscar de la meilleure actrice à Charlize Theron en 2004."
+      ],
+      "propositions": [
+        "Aileen Wuornos",
+        "Rosemary West",
+        "Karla Homolka",
+        "Myra Hindley"
+      ],
+      "bonne_reponse": "Aileen Wuornos",
+      "explication": "Aileen Wuornos, prostituée de Floride, tua 7 clients entre 1989 et 1990. Première tueuse en série officiellement reconnue aux USA, elle fut exécutée par injection létale le 9 octobre 2002. Charlize Theron l'incarna dans «Monster» (2003, Oscar).",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1989-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://fr.wikipedia.org/wiki/Monster_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos_chron_001",
+      "affaire_id": "aileen_wuornos",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Aileen Wuornos.",
+      "evenements": [
+        {
+          "label": "Meurtre du premier client connu, Richard Mallory, en Floride",
+          "date_iso": "1989-11-30"
+        },
+        {
+          "label": "Arrestation d'Aileen Wuornos dans un bar de Floride",
+          "date_iso": "1991-01-09"
+        },
+        {
+          "label": "Condamnation à mort pour les meurtres de ses clients",
+          "date_iso": "1992-01-27"
+        },
+        {
+          "label": "Exécution par injection létale à la prison de Broward en Floride",
+          "date_iso": "2002-10-09"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Wuornos tue son premier client en novembre 1989. Elle est arrêtée dans un bar le 9 janvier 1991. Condamnée à mort en 1992, elle est exécutée par injection létale le 9 octobre 2002 en Floride.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1989-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Aileen_Wuornos",
+        "https://www.fbi.gov/aileen-wuornos"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

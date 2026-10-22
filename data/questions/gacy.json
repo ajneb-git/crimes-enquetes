@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": "gacy_qcm_001",
+      "affaire_id": "gacy",
+      "module": "qcm",
+      "question": "Quel surnom macabre John Wayne Gacy avait-il gagné en raison de son passe-temps ?",
+      "propositions": [
+        "Le Clown Tueur",
+        "Le Monstre de Chicago",
+        "Le Fossoyeur",
+        "L'Ange Noir"
+      ],
+      "bonne_reponse": "Le Clown Tueur",
+      "explication": "John Wayne Gacy était surnommé «Le Clown Tueur» car il animait des fêtes pour enfants malades déguisé en son personnage de clown «Pogo the Clown». Ce contraste entre son apparence joviale et ses crimes atroces en fit l'un des tueurs les plus perturbants de l'histoire américaine.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1972-1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.fbi.gov/john-wayne-gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_qcm_002",
+      "affaire_id": "gacy",
+      "module": "qcm",
+      "question": "Combien de victimes confirmées John Wayne Gacy avait-il ?",
+      "propositions": [
+        "33",
+        "17",
+        "52",
+        "28"
+      ],
+      "bonne_reponse": "33",
+      "explication": "John Wayne Gacy fut reconnu coupable du meurtre de 33 jeunes hommes et garçons, tous retrouvés enterrés sous sa maison et dans sa cour à Chicago ou jetés dans des rivières voisines. Il reste l'un des tueurs en série les plus prolifiques de l'histoire américaine.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1972-1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.lemonde.fr/archives/gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_vf_001",
+      "affaire_id": "gacy",
+      "module": "vrai_faux",
+      "affirmation": "Les victimes de John Wayne Gacy étaient exclusivement des jeunes hommes et adolescents.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Toutes les 33 victimes connues de Gacy étaient des jeunes hommes et adolescents, principalement âgés de 14 à 21 ans. Il les attirait chez lui avec des promesses de travail dans son entreprise de construction ou les rencontrait dans des bars.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1972-1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.fbi.gov/john-wayne-gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_vf_002",
+      "affaire_id": "gacy",
+      "module": "vrai_faux",
+      "affirmation": "John Wayne Gacy fut condamné à mort et exécuté.",
+      "bonne_reponse": true,
+      "explication": "VRAI. John Wayne Gacy fut condamné à mort et exécuté par injection létale le 10 mai 1994 à la prison de Stateville en Illinois. Ses dernières paroles furent «Embrasse mon cul» («Kiss my ass»).",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.lemonde.fr/archives/gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_qsj_001",
+      "affaire_id": "gacy",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un entrepreneur américain respecté dans mon quartier de Chicago.",
+        "Je me déguisais en clown pour divertir des enfants malades dans les hôpitaux.",
+        "J'ai tué et enterré mes victimes sous ma propre maison.",
+        "Mes 33 victimes, tous des jeunes hommes, furent découvertes lors d'une fouille de ma propriété en 1978."
+      ],
+      "propositions": [
+        "John Wayne Gacy",
+        "Ted Bundy",
+        "Dennis Rader",
+        "David Berkowitz"
+      ],
+      "bonne_reponse": "John Wayne Gacy",
+      "explication": "John Wayne Gacy, «Le Clown Tueur», entrepreneur de BTP à Chicago, tuait de jeunes hommes qu'il enterrait sous sa maison. Arrêté en 1978, il fut condamné à mort pour 33 meurtres et exécuté en 1994.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1972-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.fbi.gov/john-wayne-gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_chron_001",
+      "affaire_id": "gacy",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire John Wayne Gacy.",
+      "evenements": [
+        {
+          "label": "Premier meurtre connu : Timothy McCoy, 15 ans, attiré au domicile de Gacy",
+          "date_iso": "1972-01-01"
+        },
+        {
+          "label": "Arrestation de Gacy après la disparition de Robert Piest, 15 ans",
+          "date_iso": "1978-12-22"
+        },
+        {
+          "label": "Condamnation à mort pour 33 meurtres",
+          "date_iso": "1980-03-13"
+        },
+        {
+          "label": "Exécution par injection létale à la prison de Stateville (Illinois)",
+          "date_iso": "1994-05-10"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Gacy commet son premier meurtre connu en 1972. Il est arrêté en décembre 1978 quand la famille d'un de ses employés signale sa disparition. Condamné à mort en 1980 pour 33 meurtres, il est exécuté le 10 mai 1994.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1972-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.fbi.gov/john-wayne-gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy_qcm_003",
+      "affaire_id": "gacy",
+      "module": "qcm",
+      "question": "Dans quelle ville américaine John Wayne Gacy commettait-il ses crimes ?",
+      "propositions": [
+        "Chicago",
+        "Detroit",
+        "Los Angeles",
+        "Houston"
+      ],
+      "bonne_reponse": "Chicago",
+      "explication": "John Wayne Gacy vivait et opérait dans la banlieue nord de Chicago, dans le quartier de Norwood Park. Son entreprise de construction était également basée là, ce qui lui permit d'attirer de jeunes employés qu'il ciblait comme victimes.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1972-1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/John_Wayne_Gacy",
+        "https://www.fbi.gov/john-wayne-gacy"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

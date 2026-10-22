@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "id": "mccann_qcm_001",
+      "affaire_id": "mccann",
+      "module": "qcm",
+      "question": "Dans quel pays européen Madeleine McCann a-t-elle disparu en 2007 ?",
+      "propositions": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "France"
+      ],
+      "bonne_reponse": "Portugal",
+      "explication": "Madeleine McCann disparut le 3 mai 2007 à Praia da Luz, station balnéaire de l'Algarve, au Portugal, où ses parents britanniques étaient en vacances.",
+      "difficulte": 1,
+      "pays": "PT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.lemonde.fr/archives/mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_qcm_002",
+      "affaire_id": "mccann",
+      "module": "qcm",
+      "question": "Quel âge avait Madeleine McCann au moment de sa disparition en 2007 ?",
+      "propositions": [
+        "3 ans",
+        "5 ans",
+        "7 ans",
+        "2 ans"
+      ],
+      "bonne_reponse": "3 ans",
+      "explication": "Madeleine McCann avait 3 ans lors de sa disparition le 3 mai 2007. Elle venait de fêter son troisième anniversaire quelques jours avant, le 12 mai précédent.",
+      "difficulte": 1,
+      "pays": "PT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.bbc.com/news/madeleine-mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_vf_001",
+      "affaire_id": "mccann",
+      "module": "vrai_faux",
+      "affirmation": "Les parents de Madeleine McCann dînaient dans un restaurant proche de leur appartement au moment de sa disparition.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Kate et Gerry McCann dînaient avec des amis dans un restaurant de la résidence touristique Ocean Club à Praia da Luz, situé à environ 50 mètres de l'appartement où dormaient leurs enfants. Ils vérifiaient régulièrement leurs enfants. C'est lors d'une de ces vérifications qu'ils constatèrent la disparition de Madeleine.",
+      "difficulte": 2,
+      "pays": "PT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.lemonde.fr/archives/mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_vf_002",
+      "affaire_id": "mccann",
+      "module": "vrai_faux",
+      "affirmation": "Le corps de Madeleine McCann a été retrouvé dans les mois suivant sa disparition.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Le corps de Madeleine McCann n'a jamais été retrouvé depuis sa disparition en mai 2007. Cette absence de corps constitue l'une des difficultés majeures de l'enquête, qui reste ouverte plus de 15 ans après les faits.",
+      "difficulte": 1,
+      "pays": "PT",
+      "epoque": "2007-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.lemonde.fr/archives/mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_qcm_003",
+      "affaire_id": "mccann",
+      "module": "qcm",
+      "question": "Dans quelle station balnéaire du Portugal Madeleine McCann a-t-elle disparu ?",
+      "propositions": [
+        "Praia da Luz",
+        "Faro",
+        "Lagos",
+        "Albufeira"
+      ],
+      "bonne_reponse": "Praia da Luz",
+      "explication": "Madeleine McCann disparut de la résidence Ocean Club à Praia da Luz, village de l'Algarve dans l'extrême sud du Portugal. La famille McCann y passait des vacances organisées par un tour-opérateur britannique.",
+      "difficulte": 3,
+      "pays": "PT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.bbc.com/news/madeleine-mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_qsj_001",
+      "affaire_id": "mccann",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une enfant disparue lors de vacances familiales en Europe en 2007.",
+        "Mes parents, médecins britanniques, dînaient à quelques dizaines de mètres au moment de ma disparition.",
+        "Ma disparition a suscité une mobilisation mondiale et une enquête internationale.",
+        "J'avais 3 ans et je disparaissais de la résidence Ocean Club en Algarve, au Portugal."
+      ],
+      "propositions": [
+        "Madeleine McCann",
+        "Estelle Mouzin",
+        "Laëtitia Perrais",
+        "Marion Wagon"
+      ],
+      "bonne_reponse": "Madeleine McCann",
+      "explication": "Madeleine McCann, 3 ans, disparut le 3 mai 2007 de l'appartement 5A de la résidence Ocean Club à Praia da Luz au Portugal. L'affaire devint mondiale et reste non résolue à ce jour.",
+      "difficulte": 1,
+      "pays": "PT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.bbc.com/news/madeleine-mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "mccann_qcm_004",
+      "affaire_id": "mccann",
+      "module": "qcm",
+      "question": "Quelle nationalité a le suspect principal dans l'affaire McCann, identifié à partir de 2022 ?",
+      "propositions": [
+        "Allemande",
+        "Britannique",
+        "Portugaise",
+        "Néerlandaise"
+      ],
+      "bonne_reponse": "Allemande",
+      "explication": "Le suspect principal dans l'affaire McCann est Christian Brückner, un ressortissant allemand. Pédophile condamné pour d'autres crimes, il était présent dans la région au moment de la disparition de Madeleine. Les autorités allemandes le placèrent officiellement comme suspect en 2022.",
+      "difficulte": 2,
+      "pays": "PT",
+      "epoque": "2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Disparition_de_Madeleine_McCann",
+        "https://www.lemonde.fr/archives/mccann"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "golden_state_qcm_001",
+      "affaire_id": "golden_state",
+      "module": "qcm",
+      "question": "Quelle technique révolutionnaire permit d'identifier le Golden State Killer en 2018 ?",
+      "propositions": [
+        "La généalogie génétique sur des bases de données publiques",
+        "La reconnaissance faciale sur des caméras de surveillance",
+        "Le témoignage d'un complice repenti",
+        "Des empreintes digitales retrouvées sur une scène de crime"
+      ],
+      "bonne_reponse": "La généalogie génétique sur des bases de données publiques",
+      "explication": "Le Golden State Killer fut identifié en avril 2018 grâce à la généalogie génétique : les enquêteurs soumirent l'ADN du tueur à la plateforme GEDmatch, remontèrent l'arbre généalogique jusqu'à Joseph James DeAngelo, et confirmèrent par surveillance sa culpabilité. Cette technique pionnière révolutionna la criminologie.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state_qcm_002",
+      "affaire_id": "golden_state",
+      "module": "qcm",
+      "question": "Quelle était la profession de Joseph James DeAngelo avant d'être identifié comme le Golden State Killer ?",
+      "propositions": [
+        "Policier",
+        "Médecin urgentiste",
+        "Garde-chasse",
+        "Professeur"
+      ],
+      "bonne_reponse": "Policier",
+      "explication": "Joseph James DeAngelo était ancien policier de l'État de Californie. Cette formation professionnelle lui donnait une connaissance approfondie des techniques d'enquête, ce qui lui permit d'éviter toute identification pendant plus de 40 ans.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1986",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state_vf_001",
+      "affaire_id": "golden_state",
+      "module": "vrai_faux",
+      "affirmation": "Le Golden State Killer était connu sous plusieurs surnoms différents avant d'être identifié.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Le Golden State Killer était connu sous plusieurs surnoms avant son identification en 2018 : «East Area Rapist» (EAR) pour ses agressions sexuelles dans la région de Sacramento (1976-1979), «Original Night Stalker» (ONS) pour ses meurtres en Californie du Sud, et enfin «Golden State Killer» (GSK), nom popularisé par l'auteure Michelle McNamara.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1986",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state_vf_002",
+      "affaire_id": "golden_state",
+      "module": "vrai_faux",
+      "affirmation": "Joseph DeAngelo avait plus de 70 ans au moment de son arrestation en 2018.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Joseph James DeAngelo avait 72 ans lorsqu'il fut arrêté en avril 2018. Retraité, il vivait dans une banlieue de Sacramento avec sa famille, ignorante de son passé criminel. Il plaidait coupable en 2020, à 74 ans, pour éviter la peine de mort.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state_qsj_001",
+      "affaire_id": "golden_state",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un criminel californien qui a commis des dizaines de meurtres et de viols sur quatre décennies.",
+        "Mon ancienne profession m'avait appris à effacer mes traces et à comprendre les enquêtes policières.",
+        "Mon identité resta inconnue pendant plus de 40 ans, malgré des centaines d'enquêteurs.",
+        "Je fus identifié en 2018 grâce à la généalogie génétique, à l'âge de 72 ans, dans ma maison de retraite."
+      ],
+      "propositions": [
+        "Joseph James DeAngelo",
+        "Dennis Rader",
+        "John Wayne Gacy",
+        "Ted Bundy"
+      ],
+      "bonne_reponse": "Joseph James DeAngelo",
+      "explication": "Joseph James DeAngelo, alias Golden State Killer (GSK), ancien policier californien, commit au moins 13 meurtres et 51 viols entre 1974 et 1986. Identifié en 2018 par généalogie génétique à 72 ans, il plaida coupable en 2020 et fut condamné à la prison à vie.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state_chron_001",
+      "affaire_id": "golden_state",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés au Golden State Killer.",
+      "evenements": [
+        {
+          "label": "Premières agressions sexuelles en Californie du Nord (East Area Rapist)",
+          "date_iso": "1976-06-18"
+        },
+        {
+          "label": "Dernier crime connu : meurtre d'un couple à Ventura, Californie",
+          "date_iso": "1986-05-04"
+        },
+        {
+          "label": "Identification par généalogie génétique et arrestation de Joseph DeAngelo",
+          "date_iso": "2018-04-24"
+        },
+        {
+          "label": "Plaidoyer de culpabilité et condamnation à la prison à vie",
+          "date_iso": "2020-08-21"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "DeAngelo commence ses crimes sexuels en 1976 comme «East Area Rapist». Son dernier crime connu date de 1986. Après 32 ans d'anonymat, il est identifié par généalogie génétique et arrêté en avril 2018. En août 2020, il plaide coupable et est condamné à la prison à vie.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1976-2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Golden_State_Killer",
+        "https://www.nytimes.com/golden-state-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

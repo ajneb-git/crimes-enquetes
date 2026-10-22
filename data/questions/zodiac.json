@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "id": "zodiac_qcm_001",
+      "affaire_id": "zodiac",
+      "module": "qcm",
+      "question": "Dans quel État américain le Tueur du Zodiaque commettait-il ses crimes à la fin des années 1960 ?",
+      "propositions": [
+        "Californie",
+        "Oregon",
+        "Nevada",
+        "Washington"
+      ],
+      "bonne_reponse": "Californie",
+      "explication": "Le Tueur du Zodiaque sévit en Californie du Nord, dans la région de San Francisco Bay Area, entre 1968 et 1969. Ses crimes confirmés eurent lieu à Benicia, Vallejo, Lake Berryessa et San Francisco.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1968-1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_qcm_002",
+      "affaire_id": "zodiac",
+      "module": "qcm",
+      "question": "Combien de meurtres sont officiellement attribués au Tueur du Zodiaque, bien qu'il en ait revendiqué 37 ?",
+      "propositions": [
+        "5",
+        "13",
+        "2",
+        "22"
+      ],
+      "bonne_reponse": "5",
+      "explication": "Seuls 5 meurtres sont officiellement confirmés et attribués au Tueur du Zodiaque par les enquêteurs, bien que le tueur ait revendiqué 37 victimes dans ses lettres cryptées aux journaux. L'écart entre ses revendications et les cas confirmés reste l'un des mystères de l'affaire.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1968-1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_vf_001",
+      "affaire_id": "zodiac",
+      "module": "vrai_faux",
+      "affirmation": "Le Tueur du Zodiaque envoyait des lettres codées aux journaux et a choisi lui-même ce surnom.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Le tueur signa ses premières lettres «Zodiac» et envoya des messages chiffrés (cryptogrammes) notamment au San Francisco Chronicle. Ces lettres contenaient des revendications, des moqueries envers la police, et des chiffres représentant prétendument ses victimes. Le code de 408 symboles fut partiellement déchiffré.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_vf_002",
+      "affaire_id": "zodiac",
+      "module": "vrai_faux",
+      "affirmation": "L'identité du Tueur du Zodiaque a été établie avec certitude à la suite d'analyses ADN récentes.",
+      "bonne_reponse": false,
+      "explication": "FAUX. L'identité du Tueur du Zodiaque n'a jamais été établie à ce jour. Malgré de nombreux suspects, dont Arthur Leigh Allen (le plus souvent cité), aucune preuve définitive n'a pu l'identifier formellement. L'ADN partiel prélevé sur certaines lettres n'a pas permis d'identification concluante.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1968-présent",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_qcm_003",
+      "affaire_id": "zodiac",
+      "module": "qcm",
+      "question": "Quel réalisateur a adapté l'enquête sur le Tueur du Zodiaque dans un film sorti en 2007 ?",
+      "propositions": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Martin Scorsese"
+      ],
+      "bonne_reponse": "David Fincher",
+      "explication": "David Fincher réalisa «Zodiac» en 2007, un film retraçant l'enquête du San Francisco Chronicle et des inspecteurs de police sur le tueur. Le film met en vedette Jake Gyllenhaal, Mark Ruffalo et Robert Downey Jr. et est considéré comme l'un des meilleurs films policiers américains.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Zodiac_(film)",
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_qsj_001",
+      "affaire_id": "zodiac",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série californien des années 1960 dont l'identité reste inconnue.",
+        "J'envoyais des lettres cryptées et des revendications aux journaux pour me moquer de la police.",
+        "Je me suis moi-même donné un surnom astrologique dans mes correspondances.",
+        "Un film de 2007 de David Fincher retrace l'enquête sur mes crimes et ma traque infructueuse."
+      ],
+      "propositions": [
+        "Le Tueur du Zodiaque",
+        "Le Golden State Killer",
+        "Son of Sam",
+        "BTK"
+      ],
+      "bonne_reponse": "Le Tueur du Zodiaque",
+      "explication": "Le Tueur du Zodiaque a commis au moins 5 meurtres en Californie en 1968-1969. Son identité reste inconnue. Il envoyait des lettres cryptées aux journaux sous le nom «Zodiac». Le film de Fincher (2007) retrace cette enquête restée sans solution.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1968-1969",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "zodiac_qcm_004",
+      "affaire_id": "zodiac",
+      "module": "qcm",
+      "question": "En quelle année un des cryptogrammes du Tueur du Zodiaque (le «Z-340») fut-il enfin déchiffré ?",
+      "propositions": [
+        "2020",
+        "2007",
+        "2001",
+        "2015"
+      ],
+      "bonne_reponse": "2020",
+      "explication": "Le «Z-340», un cryptogramme de 340 caractères envoyé par le Tueur du Zodiaque en 1969, fut déchiffré en décembre 2020 par une équipe internationale d'amateurs. Son message évoquait ses «esclaves» dans l'au-delà, mais ne révéla pas son identité.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Tueur_du_Zodiaque",
+        "https://www.sfchronicle.com/zodiac-340-cipher-solved"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

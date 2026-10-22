@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": "btk_qcm_001",
+      "affaire_id": "btk",
+      "module": "qcm",
+      "question": "Que signifie l'acronyme BTK utilisé par Dennis Rader pour se désigner lui-même ?",
+      "propositions": [
+        "Bind, Torture, Kill",
+        "Break, Track, Kill",
+        "Brutal, Terrible, Killer",
+        "Behind, Terrify, Kill"
+      ],
+      "bonne_reponse": "Bind, Torture, Kill",
+      "explication": "Dennis Rader avait lui-même choisi le surnom «BTK» pour «Bind, Torture, Kill» (Ligoter, Torturer, Tuer), décrivant ainsi sa méthode opératoire. Il envoyait des lettres à la police et aux médias sous ce pseudonyme depuis les années 1970.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_qcm_002",
+      "affaire_id": "btk",
+      "module": "qcm",
+      "question": "Quelle technique insolite permit à la police d'identifier et d'arrêter Dennis Rader en 2005 ?",
+      "propositions": [
+        "Traçage d'une disquette qu'il avait envoyée",
+        "Reconnaissance faciale sur une caméra",
+        "Analyse ADN sur une lettre",
+        "Témoignage d'un complice"
+      ],
+      "bonne_reponse": "Traçage d'une disquette qu'il avait envoyée",
+      "explication": "Dennis Rader demanda aux enquêteurs si une disquette pouvait être tracée. La police lui répondit faussement que non. Il envoya alors une disquette contenant un document Word, dont les métadonnées pointèrent vers le nom «Dennis» et l'église Christ Lutheran où il était président de l'assemblée. Il fut arrêté en février 2005.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_vf_001",
+      "affaire_id": "btk",
+      "module": "vrai_faux",
+      "affirmation": "Dennis Rader vivait une double vie : tueur en série ET président d'une assemblée religieuse.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Dennis Rader menait une vie apparemment normale à Wichita : marié, père de famille, employé municipal, et président de son assemblée luthérienne Christ Lutheran. Cette double vie pendant des décennies renforça le choc de son arrestation en 2005.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1974-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_vf_002",
+      "affaire_id": "btk",
+      "module": "vrai_faux",
+      "affirmation": "Dennis Rader fut condamné à mort pour ses dix meurtres.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Dennis Rader ne fut pas condamné à mort car le Kansas avait aboli la peine capitale avant ses crimes (la loi qui rétablit la peine de mort au Kansas fut adoptée en 1994, après les crimes de Rader). Il fut condamné à 10 peines consécutives de prison à vie.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_qsj_001",
+      "affaire_id": "btk",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série américain qui m'étais choisi un surnom décrivant ma méthode.",
+        "J'ai tué 10 personnes dans une ville du Kansas entre 1974 et 1991, puis je suis resté silencieux.",
+        "J'occupais dans ma vie publique le poste de président d'une assemblée protestante.",
+        "Je fus trahi en 2005 par les métadonnées d'une disquette que j'envoyais moi-même à la police."
+      ],
+      "propositions": [
+        "Dennis Rader",
+        "John Wayne Gacy",
+        "David Berkowitz",
+        "Joseph DeAngelo"
+      ],
+      "bonne_reponse": "Dennis Rader",
+      "explication": "Dennis Rader, dit «BTK» (Bind, Torture, Kill), tua 10 personnes à Wichita entre 1974 et 1991. Président d'assemblée et employé municipal en apparence, il fut arrêté en 2005 grâce aux métadonnées d'une disquette qu'il envoya lui-même.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1974-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_chron_001",
+      "affaire_id": "btk",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire BTK.",
+      "evenements": [
+        {
+          "label": "Premier quadruple meurtre : la famille Otero à Wichita, Kansas",
+          "date_iso": "1974-01-15"
+        },
+        {
+          "label": "Dernier meurtre connu : Dolores Davis, 62 ans",
+          "date_iso": "1991-01-19"
+        },
+        {
+          "label": "Reprise de contact avec la police et les médias après 13 ans de silence",
+          "date_iso": "2004-01-01"
+        },
+        {
+          "label": "Arrestation après traçage d'une disquette envoyée à la police",
+          "date_iso": "2005-02-25"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Rader commence avec le quadruple meurtre de la famille Otero en janvier 1974. Son dernier meurtre connu date de 1991. Après 13 ans de silence, il reprend contact en 2004. En 2005, une disquette dont les métadonnées le trahissent mène à son arrestation.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk_qcm_003",
+      "affaire_id": "btk",
+      "module": "qcm",
+      "question": "Dans quelle ville américaine Dennis Rader, le tueur BTK, commettait-il ses crimes ?",
+      "propositions": [
+        "Wichita",
+        "Kansas City",
+        "Denver",
+        "Tulsa"
+      ],
+      "bonne_reponse": "Wichita",
+      "explication": "Dennis Rader opérait à Wichita, au Kansas. Il travaillait même comme employé municipal (agent de conformité) dans cette ville, ce qui lui donnait accès aux adresses et domiciles de ses victimes potentielles.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1974-1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dennis_Rader",
+        "https://www.fbi.gov/btk-killer"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

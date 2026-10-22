@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "id": "jubillar_qcm_001",
+      "affaire_id": "jubillar",
+      "module": "qcm",
+      "question": "Dans quel département français Delphine Jubillar a-t-elle disparu en décembre 2020 ?",
+      "propositions": [
+        "Tarn",
+        "Haute-Garonne",
+        "Aveyron",
+        "Hérault"
+      ],
+      "bonne_reponse": "Tarn",
+      "explication": "Delphine Jubillar disparut dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines, commune du Tarn. Cette infirmière de 33 ans, mère de deux enfants, n'a depuis jamais été retrouvée.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.lemonde.fr/archives/affaire-jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_qcm_002",
+      "affaire_id": "jubillar",
+      "module": "qcm",
+      "question": "Quelle était la profession de Delphine Jubillar au moment de sa disparition ?",
+      "propositions": [
+        "Infirmière",
+        "Institutrice",
+        "Aide-soignante",
+        "Pharmacienne"
+      ],
+      "bonne_reponse": "Infirmière",
+      "explication": "Delphine Jubillar était infirmière. Sa disparition dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines (Tarn) a entraîné une enquête nationale toujours en cours.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.liberation.fr/archives/jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_vf_001",
+      "affaire_id": "jubillar",
+      "module": "vrai_faux",
+      "affirmation": "Le corps de Delphine Jubillar a été retrouvé plusieurs mois après sa disparition.",
+      "bonne_reponse": false,
+      "explication": "FAUX. À ce jour, le corps de Delphine Jubillar n'a pas été retrouvé malgré de nombreuses fouilles et recherches menées depuis sa disparition en décembre 2020. L'affaire reste en cours d'instruction.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.lemonde.fr/archives/affaire-jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_vf_002",
+      "affaire_id": "jubillar",
+      "module": "vrai_faux",
+      "affirmation": "Delphine Jubillar avait deux enfants au moment de sa disparition.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Delphine Jubillar était mère de deux enfants : un garçon d'environ 7 ans et une fille d'environ 1 an au moment de sa disparition en décembre 2020.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.liberation.fr/archives/jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_qcm_003",
+      "affaire_id": "jubillar",
+      "module": "qcm",
+      "question": "Dans quelle ville ou commune du Tarn Delphine Jubillar habitait-elle au moment de sa disparition ?",
+      "propositions": [
+        "Cagnac-les-Mines",
+        "Albi",
+        "Castres",
+        "Gaillac"
+      ],
+      "bonne_reponse": "Cagnac-les-Mines",
+      "explication": "Delphine Jubillar vivait à Cagnac-les-Mines, une commune du Tarn. C'est dans cette localité, dans la nuit du 15 au 16 décembre 2020, qu'elle fut signalée disparue.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.lemonde.fr/archives/affaire-jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_qsj_001",
+      "affaire_id": "jubillar",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une affaire de disparition survenue dans le sud de la France en 2020.",
+        "La victime, une femme de 33 ans, n'a jamais été retrouvée malgré des années de recherches.",
+        "La victime était infirmière et mère de deux enfants, dans le Tarn.",
+        "Cette affaire a tenu la France en haleine à partir de décembre 2020, dans un contexte familial difficile."
+      ],
+      "propositions": [
+        "Affaire Jubillar",
+        "Affaire Grégory",
+        "Affaire Daval",
+        "Disparition d'Estelle Mouzin"
+      ],
+      "bonne_reponse": "Affaire Jubillar",
+      "explication": "L'affaire Jubillar concerne la disparition de Delphine Jubillar, infirmière de 33 ans, dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines dans le Tarn. Son corps n'a jamais été retrouvé. L'instruction judiciaire est toujours en cours.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.lemonde.fr/archives/affaire-jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "jubillar_qcm_004",
+      "affaire_id": "jubillar",
+      "module": "qcm",
+      "question": "Depuis quelle année l'enquête judiciaire sur la disparition de Delphine Jubillar est-elle officiellement ouverte ?",
+      "propositions": [
+        "2020",
+        "2021",
+        "2022",
+        "2019"
+      ],
+      "bonne_reponse": "2020",
+      "explication": "L'enquête sur la disparition de Delphine Jubillar fut ouverte dès décembre 2020, immédiatement après son signalement de disparition. Une information judiciaire fut ensuite ouverte et l'affaire a depuis été suivie par un juge d'instruction.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jubillar",
+        "https://www.lemonde.fr/archives/affaire-jubillar"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "amanda_knox_qcm_001",
+      "affaire_id": "amanda_knox",
+      "module": "qcm",
+      "question": "Dans quelle ville italienne Meredith Kercher fut-elle assassinée en 2007 ?",
+      "propositions": [
+        "Pérouse",
+        "Rome",
+        "Florence",
+        "Bologne"
+      ],
+      "bonne_reponse": "Pérouse",
+      "explication": "Meredith Kercher fut trouvée assassinée le 2 novembre 2007 dans la maison qu'elle partageait avec sa colocataire Amanda Knox à Pérouse, en Ombrie, où les deux étudiantes faisaient une année à l'étranger.",
+      "difficulte": 2,
+      "pays": "IT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://www.lemonde.fr/archives/amanda-knox"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "amanda_knox_qcm_002",
+      "affaire_id": "amanda_knox",
+      "module": "qcm",
+      "question": "Combien d'années ont duré les procédures judiciaires dans l'affaire Amanda Knox avant son acquittement définitif ?",
+      "propositions": [
+        "8 ans",
+        "3 ans",
+        "12 ans",
+        "5 ans"
+      ],
+      "bonne_reponse": "8 ans",
+      "explication": "Les procédures judiciaires s'étendirent sur environ 8 ans, de l'arrestation d'Amanda Knox en 2007 à son acquittement définitif prononcé par la Cour suprême italienne en mars 2015. Elle fut condamnée, puis acquittée, puis recondamnée, puis définitivement acquittée.",
+      "difficulte": 2,
+      "pays": "IT",
+      "epoque": "2007-2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://www.lemonde.fr/archives/amanda-knox"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "amanda_knox_vf_001",
+      "affaire_id": "amanda_knox",
+      "module": "vrai_faux",
+      "affirmation": "Amanda Knox est la seule personne définitivement condamnée pour le meurtre de Meredith Kercher.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Amanda Knox et son petit ami Raffaele Sollecito furent acquittés. Le seul condamné définitif est Rudy Guede, un Ivoirien vivant en Italie, reconnu coupable et condamné à 16 ans de prison. Son ADN fut retrouvé sur les lieux du crime.",
+      "difficulte": 2,
+      "pays": "IT",
+      "epoque": "2007-2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://fr.wikipedia.org/wiki/Rudy_Guede"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "amanda_knox_vf_002",
+      "affaire_id": "amanda_knox",
+      "module": "vrai_faux",
+      "affirmation": "Amanda Knox était américaine et Meredith Kercher était britannique.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Amanda Knox était une étudiante américaine de Seattle, et Meredith Kercher était une étudiante britannique d'origine mixte (père britannique, mère inde). Les deux colocataires faisaient une année d'études à l'université de Pérouse.",
+      "difficulte": 2,
+      "pays": "IT",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://www.bbc.com/news/amanda-knox"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "amanda_knox_qsj_001",
+      "affaire_id": "amanda_knox",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une étudiante étrangère qui partageait un appartement avec une femme assassinée en Italie.",
+        "J'ai été condamnée à 26 ans de prison en première instance, avant de voir mon verdict annulé.",
+        "Après 8 ans de procédures et deux condamnations successives, j'ai été définitivement acquittée.",
+        "Mon affaire, médiatisée mondialement, s'est déroulée à Pérouse en 2007."
+      ],
+      "propositions": [
+        "Amanda Knox",
+        "Jodi Arias",
+        "Casey Anthony",
+        "Pamela Smart"
+      ],
+      "bonne_reponse": "Amanda Knox",
+      "explication": "Amanda Knox, étudiante américaine, fut acquittée définitivement en 2015 par la Cour suprême italienne pour le meurtre de sa colocataire Meredith Kercher à Pérouse en 2007. Seul Rudy Guede fut définitivement condamné.",
+      "difficulte": 1,
+      "pays": "IT",
+      "epoque": "2007-2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://www.lemonde.fr/archives/amanda-knox"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "amanda_knox_chron_001",
+      "affaire_id": "amanda_knox",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Amanda Knox.",
+      "evenements": [
+        {
+          "label": "Meurtre de Meredith Kercher à Pérouse, Knox et Sollecito arrêtés",
+          "date_iso": "2007-11-01"
+        },
+        {
+          "label": "Knox condamnée à 26 ans de prison en première instance",
+          "date_iso": "2009-12-04"
+        },
+        {
+          "label": "Knox acquittée en appel et libérée, rentre aux États-Unis",
+          "date_iso": "2011-10-03"
+        },
+        {
+          "label": "Acquittement définitif prononcé par la Cour suprême italienne",
+          "date_iso": "2015-03-27"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Meredith Kercher est tuée et Knox arrêtée en novembre 2007. En décembre 2009, Knox est condamnée à 26 ans. En 2011, elle est acquittée en appel et rentre aux USA. En 2015, la Cour suprême italienne prononce son acquittement définitif.",
+      "difficulte": 2,
+      "pays": "IT",
+      "epoque": "2007-2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Meurtre_de_Meredith_Kercher",
+        "https://www.lemonde.fr/archives/amanda-knox"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    }
+  ]
+}

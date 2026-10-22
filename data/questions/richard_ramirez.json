@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "richard_ramirez_qcm_001",
+      "affaire_id": "richard_ramirez",
+      "module": "qcm",
+      "question": "Quel surnom la presse donna-t-elle à Richard Ramirez pour ses intrusions nocturnes à Los Angeles ?",
+      "propositions": [
+        "Le Night Stalker",
+        "L'Ange de la Nuit",
+        "L'Ombre de LA",
+        "Le Fantôme de Hollywood"
+      ],
+      "bonne_reponse": "Le Night Stalker",
+      "explication": "Richard Ramirez fut surnommé «The Night Stalker» (le traqueur nocturne) par la presse en raison de sa méthode : il s'introduisait la nuit dans des maisons et appartements pour commettre meurtres et viols. Cette appellation s'est imposée dans la culture populaire.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1984-1985",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez_qcm_002",
+      "affaire_id": "richard_ramirez",
+      "module": "qcm",
+      "question": "Richard Ramirez était connu pour son adhésion à quel courant religieux extrémiste ?",
+      "propositions": [
+        "Le satanisme",
+        "Le vaudou",
+        "L'occultisme wicca",
+        "Le paganisme nordique"
+      ],
+      "bonne_reponse": "Le satanisme",
+      "explication": "Richard Ramirez était un sataniste affirmé. Il portait un pentagramme tatoué dans la paume de la main et levait le poing en criant «Hail Satan !» lors de son procès. Son appartenance au satanisme faisait partie de l'image terrifiante qu'il cultivait publiquement.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1984-1985",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez_vf_001",
+      "affaire_id": "richard_ramirez",
+      "module": "vrai_faux",
+      "affirmation": "Richard Ramirez a été condamné à mort mais est décédé avant son exécution.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Richard Ramirez fut condamné à mort en 1989 en Californie pour 13 meurtres. Cependant, il mourut en prison le 7 juin 2013 d'un lymphome, à l'âge de 53 ans, sans avoir été exécuté. La Californie applique rarement la peine de mort malgré son maintien légal.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1989-2013",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez_vf_002",
+      "affaire_id": "richard_ramirez",
+      "module": "vrai_faux",
+      "affirmation": "Richard Ramirez trouva une épouse qui l'épousa pendant ses années de détention dans le couloir de la mort.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Doreen Lioy, une journaliste américaine fascinée par Ramirez, l'épousa en prison en 1996 malgré ses crimes. Ce phénomène dit de «hybristophilie» (attirance romantique pour des criminels) est rare mais documenté chez certaines personnes.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez_qsj_001",
+      "affaire_id": "richard_ramirez",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur américain qui semais la terreur en m'introduisant la nuit dans les maisons.",
+        "Je portais des signes sataniques et clamait publiquement mon appartenance à cette idéologie.",
+        "J'ai commis au moins 13 meurtres en Californie du Sud en 1984-1985.",
+        "Je fus condamné à 19 reprises à la peine de mort en 1989 mais suis mort d'un cancer en prison en 2013."
+      ],
+      "propositions": [
+        "Richard Ramirez",
+        "David Berkowitz",
+        "John Wayne Gacy",
+        "Ted Bundy"
+      ],
+      "bonne_reponse": "Richard Ramirez",
+      "explication": "Richard Ramirez, «Night Stalker», terrorisa Los Angeles en 1984-1985 en s'introduisant dans des maisons la nuit. Sataniste affirmé, il fut condamné à mort en 1989 pour 13 meurtres. Il mourut d'un lymphome en prison le 7 juin 2013.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1984-1985",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez_chron_001",
+      "affaire_id": "richard_ramirez",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Richard Ramirez.",
+      "evenements": [
+        {
+          "label": "Début de la série de meurtres et agressions nocturnes à Los Angeles",
+          "date_iso": "1984-06-28"
+        },
+        {
+          "label": "Arrestation de Ramirez par des habitants de East Los Angeles après sa reconnaissance",
+          "date_iso": "1985-08-31"
+        },
+        {
+          "label": "Condamnation à mort pour 13 meurtres et 19 chefs d'accusation",
+          "date_iso": "1989-09-20"
+        },
+        {
+          "label": "Décès de Ramirez d'un lymphome dans le couloir de la mort",
+          "date_iso": "2013-06-07"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Ramirez commence ses meurtres en juin 1984 à Los Angeles. Il est arrêté en août 1985 par des habitants qui le reconnaissent. Condamné à mort en 1989 pour 13 meurtres, il meurt d'un cancer en prison le 7 juin 2013 avant d'être exécuté.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1984-2013",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Richard_Ramirez",
+        "https://www.latimes.com/richard-ramirez"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

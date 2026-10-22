@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "son_of_sam_qcm_001",
+      "affaire_id": "son_of_sam",
+      "module": "qcm",
+      "question": "Dans quelle ville américaine David Berkowitz, le «Fils de Sam», commit-il ses crimes en 1976-1977 ?",
+      "propositions": [
+        "New York",
+        "Chicago",
+        "Los Angeles",
+        "Boston"
+      ],
+      "bonne_reponse": "New York",
+      "explication": "David Berkowitz terrorisa New York de l'été 1976 à l'été 1977, tuant 6 personnes et en blessant 7 autres dans plusieurs quartiers de la ville, dont le Bronx, Queens et Brooklyn. Son affaire devint l'une des plus retentissantes de l'histoire new-yorkaise.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1976-1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.nytimes.com/son-of-sam"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "son_of_sam_qcm_002",
+      "affaire_id": "son_of_sam",
+      "module": "qcm",
+      "question": "Quelle explication délirante David Berkowitz donnait-il pour ses meurtres lors de son arrestation ?",
+      "propositions": [
+        "Le chien de son voisin lui ordonnait de tuer",
+        "Il entendait des voix lui commandant de tuer",
+        "Il vengeait la mort de sa mère",
+        "Il obéissait à un culte satanique"
+      ],
+      "bonne_reponse": "Le chien de son voisin lui ordonnait de tuer",
+      "explication": "Lors de son arrestation en 1977, David Berkowitz affirmait recevoir des ordres de tuer d'un démon qui s'exprimait à travers «Harvey», le chien labrador de son voisin Sam Carr — d'où le surnom «Son of Sam» (Fils de Sam). Il a plus tard reconnu que cette histoire était une mise en scène.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1976-1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.fbi.gov/david-berkowitz"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "son_of_sam_vf_001",
+      "affaire_id": "son_of_sam",
+      "module": "vrai_faux",
+      "affirmation": "David Berkowitz ciblait de préférence des femmes aux cheveux longs et des couples dans des voitures.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Berkowitz attaquait de préférence des couples assis dans des voitures la nuit, et semblait avoir une préférence pour les femmes aux longs cheveux bruns. Cette particularité paniqua les femmes new-yorkaises à l'époque, certaines allant jusqu'à se couper les cheveux.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1976-1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.nytimes.com/son-of-sam"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "son_of_sam_vf_002",
+      "affaire_id": "son_of_sam",
+      "module": "vrai_faux",
+      "affirmation": "David Berkowitz fut condamné à mort pour ses crimes.",
+      "bonne_reponse": false,
+      "explication": "FAUX. David Berkowitz fut condamné à 6 × 25 ans de prison, soit 150 ans au total. À l'époque de son procès en 1978, l'État de New York n'avait pas rétabli la peine de mort (elle avait été suspendue par la Cour suprême en 1972 et le New York ne l'a rétablie qu'en 1995).",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.fbi.gov/david-berkowitz"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "son_of_sam_qsj_001",
+      "affaire_id": "son_of_sam",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série américain qui a terrorisé une grande ville pendant plus d'un an.",
+        "Je signais mes lettres d'un surnom inspiré par mon voisin et son chien.",
+        "Je ciblais des couples dans des voitures et des femmes aux longs cheveux.",
+        "J'ai tué 6 personnes et en ai blessé 7 à New York entre 1976 et 1977."
+      ],
+      "propositions": [
+        "David Berkowitz",
+        "Richard Ramirez",
+        "Ted Bundy",
+        "Dennis Rader"
+      ],
+      "bonne_reponse": "David Berkowitz",
+      "explication": "David Berkowitz, dit «Son of Sam», tua 6 personnes à New York entre 1976 et 1977. Il signait ses lettres de ce surnom tiré du chien de son voisin Sam Carr. Arrêté en août 1977, il fut condamné à 150 ans de prison.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1976-1977",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.nytimes.com/son-of-sam"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "son_of_sam_chron_001",
+      "affaire_id": "son_of_sam",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Son of Sam.",
+      "evenements": [
+        {
+          "label": "Premier meurtre : Donna Lauria abattue devant son immeuble du Bronx",
+          "date_iso": "1976-07-29"
+        },
+        {
+          "label": "Berkowitz envoie une lettre au policier Joe Borelli signée «Son of Sam»",
+          "date_iso": "1977-04-17"
+        },
+        {
+          "label": "Arrestation de David Berkowitz devant son appartement dans le Yonkers",
+          "date_iso": "1977-08-10"
+        },
+        {
+          "label": "Condamnation à 6 × 25 ans de prison consécutifs",
+          "date_iso": "1978-06-12"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Berkowitz tire sur sa première victime, Donna Lauria, le 29 juillet 1976. En avril 1977, il envoie une lettre signée «Son of Sam» à la police. Il est arrêté le 10 août 1977. En 1978, il est condamné à 150 ans de prison.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "1976-1978",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/David_Berkowitz",
+        "https://www.nytimes.com/son-of-sam"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

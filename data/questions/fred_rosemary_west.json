@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "fred_rosemary_west_qcm_001",
+      "affaire_id": "fred_rosemary_west",
+      "module": "qcm",
+      "question": "Dans quelle ville britannique vivaient Fred et Rosemary West, au cœur de leurs crimes ?",
+      "propositions": [
+        "Gloucester",
+        "Birmingham",
+        "Bristol",
+        "Cardiff"
+      ],
+      "bonne_reponse": "Gloucester",
+      "explication": "Fred et Rosemary West vivaient au 25 Cromwell Street à Gloucester, en Angleterre. C'est dans cette maison, surnommée «House of Horrors», que furent commis la plupart des meurtres et qu'étaient enterrées les victimes.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1967-1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west_qcm_002",
+      "affaire_id": "fred_rosemary_west",
+      "module": "qcm",
+      "question": "Que fit Fred West avant son procès en 1995 ?",
+      "propositions": [
+        "Il se suicida en prison",
+        "Il fut tué par un codétenu",
+        "Il plaida coupable et fut condamné",
+        "Il s'évada de prison"
+      ],
+      "bonne_reponse": "Il se suicida en prison",
+      "explication": "Fred West fut retrouvé mort dans sa cellule de la prison de Winson Green à Birmingham le 1er janvier 1995, avant d'être jugé. Il s'était pendu. Seule Rosemary West fut finalement jugée et condamnée à la réclusion à perpétuité en novembre 1995.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west_vf_001",
+      "affaire_id": "fred_rosemary_west",
+      "module": "vrai_faux",
+      "affirmation": "Parmi les victimes de Fred et Rosemary West, se trouvait leur propre fille.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Heather West, la fille de 16 ans de Fred et Rosemary, fut l'une de leurs victimes. Son corps fut retrouvé enterré dans le jardin du 25 Cromwell Street. Ce détail particulièrement choquant illustre la profondeur de la pathologie du couple.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west_vf_002",
+      "affaire_id": "fred_rosemary_west",
+      "module": "vrai_faux",
+      "affirmation": "Rosemary West fut condamnée à une peine à durée déterminée et fut libérée après avoir purgé sa peine.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Rosemary West fut condamnée à la perpétuité réelle, sans possibilité de libération conditionnelle, en novembre 1995. Le juge précisa que la recommandation était qu'elle ne soit «jamais libérée». Elle reste emprisonnée à ce jour.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west_qsj_001",
+      "affaire_id": "fred_rosemary_west",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un couple de meurtriers en série britanniques du XXe siècle.",
+        "Nous vivions dans une maison surnommée «House of Horrors» où nous enterrions nos victimes.",
+        "Parmi nos victimes se trouvaient des jeunes femmes et notre propre fille adolescente.",
+        "Notre adresse, 25 Cromwell Street à Gloucester, est devenue synonyme d'horreur en Grande-Bretagne."
+      ],
+      "propositions": [
+        "Fred et Rosemary West",
+        "Ian Brady et Myra Hindley",
+        "Ted Bundy et Carol DaRonch",
+        "Paul Bernardo et Karla Homolka"
+      ],
+      "bonne_reponse": "Fred et Rosemary West",
+      "explication": "Fred et Rosemary West ont tué au moins 12 jeunes femmes et filles, dont leur propre fille Heather, dans leur maison de Cromwell Street à Gloucester. Fred se suicida en prison en 1995. Rosemary fut condamnée à la perpétuité réelle.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1967-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west_chron_001",
+      "affaire_id": "fred_rosemary_west",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Fred et Rosemary West.",
+      "evenements": [
+        {
+          "label": "Meurtres de Rena West et Anne McFall, premières victimes identifiées",
+          "date_iso": "1967-01-01"
+        },
+        {
+          "label": "Meurtre d'Heather West, leur propre fille de 16 ans",
+          "date_iso": "1987-01-01"
+        },
+        {
+          "label": "Arrestation du couple après la découverte d'ossements au 25 Cromwell Street",
+          "date_iso": "1994-02-25"
+        },
+        {
+          "label": "Condamnation de Rosemary West à la perpétuité réelle",
+          "date_iso": "1995-11-22"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Les crimes débutent fin 1960s avec Rena West et Anne McFall. En 1987, ils tuent leur fille Heather. En février 1994, la police découvre des ossements au 25 Cromwell Street et arrête le couple. Fred se suicide en prison le 1er janvier 1995. Rosemary est condamnée à perpétuité en novembre 1995.",
+      "difficulte": 2,
+      "pays": "UK",
+      "epoque": "1967-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fred_et_Rosemary_West",
+        "https://www.theguardian.com/uk/fred-and-rosemary-west"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "id": "weinstein_qcm_001",
+      "affaire_id": "weinstein",
+      "module": "qcm",
+      "question": "Quel mouvement mondial les accusations contre Harvey Weinstein contribuèrent-elles à déclencher en 2017 ?",
+      "propositions": [
+        "#MeToo",
+        "#BalanceTonPorc",
+        "#TimesUp",
+        "#SpeakUp"
+      ],
+      "bonne_reponse": "#MeToo",
+      "explication": "Les révélations sur Harvey Weinstein en octobre 2017 dans le New York Times et le New Yorker déclenchèrent le mouvement #MeToo à l'échelle mondiale. Des millions de femmes partagèrent leurs expériences d'agression et de harcèlement sexuel, transformant profondément le débat public.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://fr.wikipedia.org/wiki/Mouvement_MeToo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein_qcm_002",
+      "affaire_id": "weinstein",
+      "module": "qcm",
+      "question": "Harvey Weinstein était cofondateur de quelle célèbre société de production cinématographique ?",
+      "propositions": [
+        "Miramax",
+        "Warner Bros",
+        "Universal Pictures",
+        "Lionsgate"
+      ],
+      "bonne_reponse": "Miramax",
+      "explication": "Harvey Weinstein cofonda Miramax avec son frère Bob en 1979, une société qui produisit de nombreux films oscarisés (Pulp Fiction, Le Patient anglais, Shakespeare in Love...). Après avoir vendu Miramax à Disney, les frères fondèrent The Weinstein Company en 2005.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1979-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://fr.wikipedia.org/wiki/Miramax"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein_vf_001",
+      "affaire_id": "weinstein",
+      "module": "vrai_faux",
+      "affirmation": "Harvey Weinstein fut condamné lors de son premier procès à New York en 2020.",
+      "bonne_reponse": true,
+      "explication": "VRAI. En février 2020, Harvey Weinstein fut reconnu coupable de viol au troisième degré et d'agression sexuelle criminelle lors de son procès à New York, et condamné à 23 ans de prison. Ce verdict historique marqua l'aboutissement judiciaire du mouvement #MeToo.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://www.lemonde.fr/archives/weinstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein_vf_002",
+      "affaire_id": "weinstein",
+      "module": "vrai_faux",
+      "affirmation": "Plus de 80 femmes ont accusé Harvey Weinstein d'agressions sexuelles ou de harcèlement.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Plus de 80 femmes ont publiquement accusé Harvey Weinstein, dont de nombreuses actrices et professionnelles du cinéma (Angelina Jolie, Gwyneth Paltrow, Rose McGowan, Ashley Judd...). Ces accusations couvraient plusieurs décennies d'abus de pouvoir.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2017-2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://www.lemonde.fr/archives/weinstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein_qsj_001",
+      "affaire_id": "weinstein",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un homme très puissant de l'industrie du cinéma américain.",
+        "Mon entreprise a produit de nombreux films lauréats des Oscars dans les années 1990.",
+        "Des accusations d'agression sexuelle portées contre moi ont déclenché une révolution mondiale en 2017.",
+        "Je fus condamné à 23 ans de prison à New York en 2020, puis à 16 ans supplémentaires à Los Angeles en 2023."
+      ],
+      "propositions": [
+        "Harvey Weinstein",
+        "Jeffrey Epstein",
+        "Bill Cosby",
+        "Roman Polanski"
+      ],
+      "bonne_reponse": "Harvey Weinstein",
+      "explication": "Harvey Weinstein, mogul d'Hollywood et cofondateur de Miramax, fut au cœur du mouvement #MeToo lancé en octobre 2017. Condamné à 23 ans à New York en 2020 puis à 16 ans à Los Angeles en 2023 pour viols et agressions sexuelles.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "2017-2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://www.lemonde.fr/archives/weinstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein_chron_001",
+      "affaire_id": "weinstein",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Weinstein.",
+      "evenements": [
+        {
+          "label": "Publication des révélations dans le New York Times et le New Yorker, déclenchant le mouvement #MeToo",
+          "date_iso": "2017-10-05"
+        },
+        {
+          "label": "Arrestation de Harvey Weinstein à New York par la police",
+          "date_iso": "2018-05-25"
+        },
+        {
+          "label": "Condamnation à 23 ans de prison lors du procès de New York",
+          "date_iso": "2020-03-11"
+        },
+        {
+          "label": "Condamnation à 16 ans supplémentaires lors du procès de Los Angeles",
+          "date_iso": "2023-02-23"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Les révélations paraissent le 5 octobre 2017. Weinstein est arrêté en mai 2018. Il est condamné à 23 ans à New York en mars 2020. Puis à 16 ans de plus à Los Angeles en février 2023.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2017-2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harvey_Weinstein",
+        "https://www.lemonde.fr/archives/weinstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

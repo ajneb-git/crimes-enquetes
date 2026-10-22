@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": "cantat_qcm_001",
+      "affaire_id": "cantat",
+      "module": "qcm",
+      "question": "Dans quelle ville Bertrand Cantat causa-t-il la mort de Marie Trintignant en 2003 ?",
+      "propositions": [
+        "Vilnius",
+        "Varsovie",
+        "Riga",
+        "Cracovie"
+      ],
+      "bonne_reponse": "Vilnius",
+      "explication": "Le drame se déroula à Vilnius, capitale de la Lituanie, où Marie Trintignant tournait un film. Dans la nuit du 26 au 27 juillet 2003, Bertrand Cantat la frappa à mort lors d'une violente dispute dans leur chambre d'hôtel.",
+      "difficulte": 2,
+      "pays": "LT",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bertrand_Cantat",
+        "https://www.lemonde.fr/archives/cantat"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_qcm_002",
+      "affaire_id": "cantat",
+      "module": "qcm",
+      "question": "Quel groupe de rock Bertrand Cantat chantait-il avant l'affaire ?",
+      "propositions": [
+        "Noir Désir",
+        "Louise Attaque",
+        "Téléphone",
+        "Les Têtes Raides"
+      ],
+      "bonne_reponse": "Noir Désir",
+      "explication": "Bertrand Cantat était le chanteur emblématique du groupe de rock français Noir Désir, l'un des plus populaires de France dans les années 1990-2000. Après l'affaire, le groupe se sépara officiellement en 2010.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bertrand_Cantat",
+        "https://fr.wikipedia.org/wiki/Noir_D%C3%A9sir"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_vf_001",
+      "affaire_id": "cantat",
+      "module": "vrai_faux",
+      "affirmation": "Marie Trintignant est décédée le soir même des coups qu'elle avait reçus.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Marie Trintignant ne mourut pas immédiatement. Elle fut hospitalisée à Vilnius le 27 juillet 2003 et tomba dans le coma. Elle décéda le 1er août 2003, plusieurs jours après avoir reçu les coups, des suites de ses blessures cérébrales.",
+      "difficulte": 2,
+      "pays": "LT",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marie_Trintignant",
+        "https://www.lemonde.fr/archives/marie-trintignant"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_vf_002",
+      "affaire_id": "cantat",
+      "module": "vrai_faux",
+      "affirmation": "Bertrand Cantat fut condamné par un tribunal français.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Les faits s'étant produits en Lituanie, Cantat fut jugé par un tribunal lituanien. En mars 2004, il fut condamné à 8 ans de prison par le tribunal de Vilnius pour coups et blessures ayant entraîné la mort. Il bénéficia d'une liberté conditionnelle en 2007.",
+      "difficulte": 2,
+      "pays": "LT",
+      "epoque": "2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bertrand_Cantat",
+        "https://www.liberation.fr/archives/cantat"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_qsj_001",
+      "affaire_id": "cantat",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un musicien français très connu, figure d'un groupe de rock majeur.",
+        "En 2003, j'ai été impliqué dans le décès d'une actrice française à l'étranger.",
+        "J'ai été jugé et condamné dans un pays balte où le drame s'est déroulé.",
+        "Mon groupe, dont j'étais le chanteur, s'est dissous en 2010 à la suite de mon affaire."
+      ],
+      "propositions": [
+        "Bertrand Cantat",
+        "Sébastien Lefebvre",
+        "Louis Bertignac",
+        "Manu Chao"
+      ],
+      "bonne_reponse": "Bertrand Cantat",
+      "explication": "Bertrand Cantat, chanteur de Noir Désir, fut condamné en 2004 à 8 ans de prison en Lituanie pour la mort de Marie Trintignant. Libéré en 2007, il ne put empêcher la dissolution de son groupe en 2010 ni retrouver pleinement sa place dans le paysage musical.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2003-2004",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bertrand_Cantat",
+        "https://fr.wikipedia.org/wiki/Noir_D%C3%A9sir"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_chron_001",
+      "affaire_id": "cantat",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Cantat.",
+      "evenements": [
+        {
+          "label": "Marie Trintignant frappée par Cantat dans leur hôtel à Vilnius",
+          "date_iso": "2003-07-27"
+        },
+        {
+          "label": "Décès de Marie Trintignant des suites de ses blessures cérébrales",
+          "date_iso": "2003-08-01"
+        },
+        {
+          "label": "Condamnation de Cantat à 8 ans de prison par le tribunal de Vilnius",
+          "date_iso": "2004-03-28"
+        },
+        {
+          "label": "Dissolution officielle du groupe Noir Désir",
+          "date_iso": "2010-01-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Dans la nuit du 26-27 juillet 2003, Cantat frappe Trintignant à Vilnius. Elle meurt le 1er août. En mars 2004, Cantat est condamné à 8 ans (libéré en 2007 en conditionnelle). En 2010, Noir Désir se dissout officiellement.",
+      "difficulte": 1,
+      "pays": "LT",
+      "epoque": "2003-2010",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bertrand_Cantat",
+        "https://fr.wikipedia.org/wiki/Marie_Trintignant"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cantat_qcm_003",
+      "affaire_id": "cantat",
+      "module": "qcm",
+      "question": "Quel célèbre acteur était le père de Marie Trintignant, décédée en 2003 ?",
+      "propositions": [
+        "Jean-Louis Trintignant",
+        "Lino Ventura",
+        "Yves Montand",
+        "Michel Piccoli"
+      ],
+      "bonne_reponse": "Jean-Louis Trintignant",
+      "explication": "Marie Trintignant était la fille du grand acteur Jean-Louis Trintignant, notamment connu pour ses rôles dans «Un homme et une femme» (1966) et «Amour» (2012). Sa mort fut doublement ressentie dans le milieu du cinéma français.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marie_Trintignant",
+        "https://fr.wikipedia.org/wiki/Jean-Louis_Trintignant"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

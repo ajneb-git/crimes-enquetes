@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": "patrick_dils_qcm_001",
+      "affaire_id": "patrick_dils",
+      "module": "qcm",
+      "question": "Quel âge avait Patrick Dils lorsqu'il fut condamné pour le meurtre de deux enfants à Montigny-lès-Metz ?",
+      "propositions": [
+        "15 ans",
+        "17 ans",
+        "19 ans",
+        "13 ans"
+      ],
+      "bonne_reponse": "15 ans",
+      "explication": "Patrick Dils avait 15 ans lorsqu'il fut condamné en 1989 pour le meurtre d'Alexandre Beckrich et Cyril Beining, deux enfants de 8 ans tués en 1986 à Montigny-lès-Metz. Il était alors l'un des plus jeunes condamnés à perpétuité de France.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://www.lemonde.fr/archives/patrick-dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_qcm_002",
+      "affaire_id": "patrick_dils",
+      "module": "qcm",
+      "question": "Combien d'années Patrick Dils passa-t-il en prison avant d'être innocenté ?",
+      "propositions": [
+        "15 ans",
+        "8 ans",
+        "22 ans",
+        "3 ans"
+      ],
+      "bonne_reponse": "15 ans",
+      "explication": "Patrick Dils passa 15 années en prison pour des crimes qu'il n'avait pas commis. Arrêté en 1987 à l'âge de 14 ans, il confessa sous pression policière. Innocenté en avril 2002, il avait alors 29 ans.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1987-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://www.liberation.fr/archives/dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_vf_001",
+      "affaire_id": "patrick_dils",
+      "module": "vrai_faux",
+      "affirmation": "Patrick Dils s'est auto-dénoncé spontanément à la police dans l'affaire de Montigny-lès-Metz.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Patrick Dils avoua les meurtres lors d'un long interrogatoire policier, sous une pression psychologique intense. Il reconnut plus tard avoir avoué un crime qu'il n'avait pas commis parce qu'il ne comprenait pas les enjeux et voulait «aider» la police. C'est une des erreurs judiciaires les plus graves liées aux aveux forcés.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1987",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://www.lemonde.fr/archives/patrick-dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_vf_002",
+      "affaire_id": "patrick_dils",
+      "module": "vrai_faux",
+      "affirmation": "Le vrai coupable des meurtres de Montigny-lès-Metz était le tueur en série Francis Heaulme.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Francis Heaulme, tueur en série déjà condamné pour d'autres meurtres, fut reconnu coupable du double meurtre de Montigny-lès-Metz en 2017, soit 31 ans après les faits. Son procès bénéficia de témoignages nouveaux et d'analyses ADN.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_qsj_001",
+      "affaire_id": "patrick_dils",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai passé de longues années en prison pour des meurtres commis dans une ville de Moselle.",
+        "J'ai avoué un crime que je n'avais pas commis sous la pression d'un interrogatoire policier.",
+        "J'ai été innocenté en 2002 par une décision historique de la Cour de cassation.",
+        "J'avais 14 ans lors de mon arrestation ; le vrai coupable était un tueur en série déjà connu."
+      ],
+      "propositions": [
+        "Patrick Dils",
+        "Omar Raddad",
+        "Loïc Sécher",
+        "Rida Daalouche"
+      ],
+      "bonne_reponse": "Patrick Dils",
+      "explication": "Patrick Dils fut condamné à 15 ans à l'âge de 15 ans pour des meurtres qu'il n'avait pas commis. Innocenté en 2002 après 15 ans de prison, c'est l'une des erreurs judiciaires les plus marquantes de France. Le vrai coupable, Francis Heaulme, fut condamné en 2017.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1987-2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://www.lemonde.fr/archives/patrick-dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_chron_001",
+      "affaire_id": "patrick_dils",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Patrick Dils.",
+      "evenements": [
+        {
+          "label": "Meurtre d'Alexandre Beckrich et Cyril Beining, 8 ans, à Montigny-lès-Metz",
+          "date_iso": "1986-09-28"
+        },
+        {
+          "label": "Condamnation de Patrick Dils à 15 ans de réclusion criminelle",
+          "date_iso": "1989-04-01"
+        },
+        {
+          "label": "Innocentation de Dils par la Cour de révision — erreur judiciaire reconnue",
+          "date_iso": "2002-04-24"
+        },
+        {
+          "label": "Condamnation de Francis Heaulme pour les meurtres de Montigny-lès-Metz",
+          "date_iso": "2017-06-29"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Les deux enfants sont tués en septembre 1986. Patrick Dils, 15 ans, est condamné en 1989 après avoir avoué sous pression. En 2002, la Cour de cassation reconnaît l'erreur judiciaire et Dils est libéré. En 2017, Francis Heaulme est enfin jugé coupable de ces meurtres.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1986-2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://fr.wikipedia.org/wiki/Francis_Heaulme"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "patrick_dils_qcm_003",
+      "affaire_id": "patrick_dils",
+      "module": "qcm",
+      "question": "Comment l'innocence de Patrick Dils fut-elle finalement établie ?",
+      "propositions": [
+        "Francis Heaulme avoua les meurtres lors d'un autre procès",
+        "Un témoin se manifesta 15 ans après les faits",
+        "Des analyses ADN exclurent formellement Dils",
+        "Le vrai coupable laissa une lettre d'aveu"
+      ],
+      "bonne_reponse": "Francis Heaulme avoua les meurtres lors d'un autre procès",
+      "explication": "L'innocence de Patrick Dils fut déclenchée notamment par les aveux de Francis Heaulme, qui reconnut être présent sur les lieux lors d'un autre interrogatoire. Des investigations complémentaires et l'acharnement de l'avocat de Dils permirent la révision du procès et l'innocentation en 2002.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2002",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Patrick_Dils",
+        "https://www.lemonde.fr/archives/patrick-dils"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "acquittement"
+    }
+  ]
+}

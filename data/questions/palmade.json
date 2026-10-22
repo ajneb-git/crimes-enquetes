@@ -1,0 +1,135 @@
+{
+  "questions": [
+    {
+      "id": "palmade_qcm_001",
+      "affaire_id": "palmade",
+      "module": "qcm",
+      "question": "En quelle année Pierre Palmade provoqua-t-il l'accident de voiture qui causa la mort in utero d'un enfant ?",
+      "propositions": [
+        "2023",
+        "2021",
+        "2020",
+        "2022"
+      ],
+      "bonne_reponse": "2023",
+      "explication": "L'accident provoqué par Pierre Palmade eut lieu le 10 février 2023 sur la RD372 en Seine-et-Marne. Sa voiture percuta une autre véhicule, causant la mort in utero d'un fœtus de 7 mois et blessant grièvement plusieurs personnes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.lemonde.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "palmade_qcm_002",
+      "affaire_id": "palmade",
+      "module": "qcm",
+      "question": "Quelles substances étaient présentes dans l'organisme de Pierre Palmade au moment de l'accident de 2023 ?",
+      "propositions": [
+        "Cocaïne et GHB",
+        "Alcool et cannabis",
+        "Héroïne",
+        "Médicaments et alcool"
+      ],
+      "bonne_reponse": "Cocaïne et GHB",
+      "explication": "Les analyses toxicologiques révélèrent que Pierre Palmade était sous l'emprise de cocaïne et de GHB au moment de l'accident. Ces substances très puissantes altèrent fortement la perception et les réflexes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.liberation.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "palmade_vf_001",
+      "affaire_id": "palmade",
+      "module": "vrai_faux",
+      "affirmation": "Pierre Palmade est principalement connu du grand public comme acteur de cinéma.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Pierre Palmade est avant tout connu comme humoriste, scénariste et metteur en scène de théâtre. Il fut notamment populaire à la télévision dans les années 1990-2000 et a écrit de nombreux spectacles de stand-up et pièces de théâtre.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.lemonde.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "palmade_vf_002",
+      "affaire_id": "palmade",
+      "module": "vrai_faux",
+      "affirmation": "L'accident de Pierre Palmade a causé la mort d'une personne adulte.",
+      "bonne_reponse": false,
+      "explication": "FAUX. L'accident n'a pas causé la mort d'un adulte mais d'un fœtus de 7 mois in utero. La femme enceinte percutée perdit son bébé des suites du choc. Son beau-frère et sa belle-mère furent grièvement blessés mais survécurent.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.lemonde.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "palmade_qsj_001",
+      "affaire_id": "palmade",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un artiste du spectacle français, très populaire à la télévision dans les années 1990.",
+        "J'ai eu des problèmes d'addiction qui ont ponctué ma vie publique.",
+        "En 2023, j'ai causé un grave accident de la route en Seine-et-Marne.",
+        "Mon accident a causé la mort in utero d'un fœtus de 7 mois et m'a valu une condamnation en 2024."
+      ],
+      "propositions": [
+        "Pierre Palmade",
+        "Smaïn",
+        "Gad Elmaleh",
+        "Franck Dubosc"
+      ],
+      "bonne_reponse": "Pierre Palmade",
+      "explication": "Pierre Palmade, humoriste et auteur à succès dans les années 1990-2000, provoqua le 10 février 2023 un grave accident sous l'emprise de drogues (cocaïne et GHB) en Seine-et-Marne. Il fut condamné à 5 ans de prison dont 2 ferme en novembre 2024.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2023-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.lemonde.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "palmade_qcm_003",
+      "affaire_id": "palmade",
+      "module": "qcm",
+      "question": "Dans quel département français l'accident causé par Pierre Palmade en 2023 s'est-il produit ?",
+      "propositions": [
+        "Seine-et-Marne",
+        "Val-de-Marne",
+        "Essonne",
+        "Seine-Saint-Denis"
+      ],
+      "bonne_reponse": "Seine-et-Marne",
+      "explication": "L'accident eut lieu le 10 février 2023 sur la RD372, une route départementale de Seine-et-Marne (77), en Île-de-France. Palmade conduisait sous l'emprise de cocaïne et de GHB et percuta une voiture arrivant en sens inverse.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Palmade",
+        "https://www.lemonde.fr/archives/palmade"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

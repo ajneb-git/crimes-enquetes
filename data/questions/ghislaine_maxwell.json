@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": "ghislaine_maxwell_qcm_001",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "qcm",
+      "question": "À combien d'années de prison Ghislaine Maxwell fut-elle condamnée en 2022 pour trafic sexuel de mineures ?",
+      "propositions": [
+        "20 ans",
+        "10 ans",
+        "35 ans",
+        "Prison à vie"
+      ],
+      "bonne_reponse": "20 ans",
+      "explication": "En juin 2022, Ghislaine Maxwell fut condamnée à 20 ans de prison pour avoir recruté et abusé de jeunes filles aux côtés de Jeffrey Epstein. Elle avait été reconnue coupable en décembre 2021 de trafic sexuel de mineurs.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2021-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ghislaine_Maxwell",
+        "https://www.lemonde.fr/archives/ghislaine-maxwell"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_qcm_002",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "qcm",
+      "question": "Comment Jeffrey Epstein mourut-il en prison en 2019 ?",
+      "propositions": [
+        "Suicide par pendaison selon les autorités officielles",
+        "Mort naturelle d'une crise cardiaque",
+        "Assassiné par un codétenu",
+        "Mort des suites d'une maladie"
+      ],
+      "bonne_reponse": "Suicide par pendaison selon les autorités officielles",
+      "explication": "Jeffrey Epstein fut retrouvé mort dans sa cellule de la prison fédérale de New York le 10 août 2019. La cause officielle est un suicide par pendaison, mais cette conclusion suscita de nombreuses controverses et théories du complot, notamment en raison de défaillances de surveillance signalées.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2019",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jeffrey_Epstein",
+        "https://www.lemonde.fr/archives/epstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_vf_001",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "vrai_faux",
+      "affirmation": "Ghislaine Maxwell est la fille d'un célèbre magnat de la presse britannique.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Ghislaine Maxwell est la fille de Robert Maxwell, magnat de la presse britannique d'origine tchèque, propriétaire notamment du Daily Mirror. Il mourut mystérieusement en 1991 en tombant de son yacht. Son père laissa derrière lui des scandales financiers qui ruinèrent ses employés.",
+      "difficulte": 3,
+      "pays": "UK",
+      "epoque": "1991-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ghislaine_Maxwell",
+        "https://fr.wikipedia.org/wiki/Robert_Maxwell"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_vf_002",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "vrai_faux",
+      "affirmation": "Jeffrey Epstein possédait une île privée aux Caraïbes utilisée dans son réseau d'abus.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Jeffrey Epstein possédait Little Saint James, une île privée des Îles Vierges américaines, surnommée «l'île d'Epstein» ou «Pedo Island» par ses détracteurs. C'est là que de nombreux abus auraient eu lieu, et où des personnalités influentes venaient séjourner.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "1990s-2019",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jeffrey_Epstein",
+        "https://www.lemonde.fr/archives/epstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_qsj_001",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une femme de la haute société britannique qui fréquentait les cercles les plus puissants du monde.",
+        "J'ai été la complice d'un financier américain condamné pour trafic sexuel de mineures.",
+        "Je suis la fille d'un magnat de la presse britannique mort mystérieusement en 1991.",
+        "Arrêtée en 2020 et condamnée à 20 ans de prison en 2022 pour avoir recruté des jeunes filles."
+      ],
+      "propositions": [
+        "Ghislaine Maxwell",
+        "Aileen Wuornos",
+        "Rosemary West",
+        "Karla Homolka"
+      ],
+      "bonne_reponse": "Ghislaine Maxwell",
+      "explication": "Ghislaine Maxwell, fille du magnat de la presse Robert Maxwell, fut la principale complice de Jeffrey Epstein. Elle recruta et prépara des jeunes filles pour les abus de leur réseau. Condamnée à 20 ans en 2022 après la mort d'Epstein en prison en 2019.",
+      "difficulte": 1,
+      "pays": "US",
+      "epoque": "1990s-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ghislaine_Maxwell",
+        "https://fr.wikipedia.org/wiki/Jeffrey_Epstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_qcm_003",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "qcm",
+      "question": "Jeffrey Epstein avait été condamné une première fois pour infractions sexuelles en quelle année ?",
+      "propositions": [
+        "2008",
+        "2002",
+        "2015",
+        "2012"
+      ],
+      "bonne_reponse": "2008",
+      "explication": "Jeffrey Epstein avait fait l'objet d'un premier accord judiciaire controversé en 2008 en Floride, où il fut condamné à 18 mois de prison pour sollicitation de prostitution avec une mineure. Cet accord, négocié par son avocat Alan Dershowitz, fut par la suite critiqué pour son extrême clémence.",
+      "difficulte": 3,
+      "pays": "US",
+      "epoque": "2008",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jeffrey_Epstein",
+        "https://www.lemonde.fr/archives/epstein"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ghislaine_maxwell_duel_001",
+      "affaire_id": "ghislaine_maxwell",
+      "module": "duel",
+      "item_a": "Jeffrey Epstein",
+      "item_b": "Ghislaine Maxwell",
+      "bonne_reponse": "b",
+      "explication": "Ghislaine Maxwell est la seule des deux à avoir été jugée et condamnée par un tribunal : 20 ans de prison en 2022. Jeffrey Epstein mourut en prison en 2019 avant son procès au fond, emportant potentiellement la vérité sur son réseau avec lui.",
+      "difficulte": 2,
+      "pays": "US",
+      "epoque": "2019-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jeffrey_Epstein",
+        "https://fr.wikipedia.org/wiki/Ghislaine_Maxwell"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive",
+      "question": "Lequel de ces deux protagonistes du réseau d'abus sexuels fut condamné par un tribunal ?"
+    }
+  ]
+}

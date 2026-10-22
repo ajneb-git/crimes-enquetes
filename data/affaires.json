@@ -287,6 +287,186 @@
       "lieu": "Royaume-Uni / Londres",
       "resume": "Tueur en série non identifié ayant commis au moins 5 meurtres de femmes dans le quartier de Whitechapel à Londres en 1888. Son identité n'a jamais été établie.",
       "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "barbie",
+      "nom": "Klaus Barbie",
+      "alias": "Le Boucher de Lyon",
+      "dates": "1942–1944 / jugé 1987",
+      "lieu": "France / Lyon",
+      "resume": "Chef de la Gestapo à Lyon pendant l'Occupation, responsable de la torture et de la déportation de milliers de juifs et résistants. Jugé en France en 1987 et condamné à la réclusion criminelle à perpétuité pour crimes contre l'humanité.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "papon",
+      "nom": "Maurice Papon",
+      "alias": "L'Affaire Papon",
+      "dates": "1942–1944 / jugé 1998",
+      "lieu": "France / Bordeaux",
+      "resume": "Haut fonctionnaire français ayant signé des ordres de déportation de juifs sous Vichy. Jugé en 1998 pour complicité de crimes contre l'humanité, condamné à 10 ans de réclusion. Seul ministre de la Ve République condamné au pénal.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "patrick_dils",
+      "nom": "Patrick Dils",
+      "alias": "L'Affaire Patrick Dils",
+      "dates": "1986–2002",
+      "lieu": "France / Montigny-lès-Metz",
+      "resume": "Condamné à 15 ans à l'âge de 15 ans pour le meurtre de deux enfants en 1986, il a passé 15 ans en prison avant d'être totalement innocenté en 2002. Le vrai coupable était Francis Heaulme.",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "cantat",
+      "nom": "Bertrand Cantat",
+      "alias": "L'Affaire Cantat",
+      "dates": "2003",
+      "lieu": "Lituanie / Vilnius",
+      "resume": "Le chanteur de Noir Désir a causé la mort de l'actrice Marie Trintignant à Vilnius en juillet 2003 lors d'une violente dispute. Condamné à 8 ans de prison en Lituanie, il bénéficia d'une liberté conditionnelle en 2007.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "affaire_fiona",
+      "nom": "Affaire Fiona",
+      "alias": "Le meurtre de la petite Fiona",
+      "dates": "2013",
+      "lieu": "France / Clermont-Ferrand",
+      "resume": "Fiona, 5 ans, disparaît en mai 2013. Ses parents, Cécile Bourgeon et Berkane Makhlouf, sont condamnés pour son meurtre. La mère avait simulé un enlèvement. Le corps de Fiona n'a jamais été retrouvé.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "jubillar",
+      "nom": "Affaire Jubillar",
+      "alias": "La Disparition de Delphine",
+      "dates": "2020–présent",
+      "lieu": "France / Cagnac-les-Mines (Tarn)",
+      "resume": "Delphine Jubillar disparaît dans la nuit du 15 au 16 décembre 2020. Son mari Cédric Jubillar est mis en examen pour meurtre. Son corps n'a jamais été retrouvé. L'affaire est toujours en cours d'instruction.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "palmade",
+      "nom": "Pierre Palmade",
+      "alias": "L'Affaire Palmade",
+      "dates": "2023",
+      "lieu": "France / Seine-et-Marne",
+      "resume": "Le 10 février 2023, l'humoriste Pierre Palmade provoque un grave accident de la route sous l'emprise de drogues, causant la mort in utero d'un fœtus de 7 mois et blessant grièvement plusieurs personnes. Condamné à 5 ans de prison en 2024.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "weinstein",
+      "nom": "Harvey Weinstein",
+      "alias": "L'Affaire #MeToo",
+      "dates": "1980s–2020",
+      "lieu": "États-Unis / New York",
+      "resume": "Producteur de cinéma américain au centre du mouvement #MeToo, accusé de viols et agressions sexuelles par plus de 80 femmes. Condamné à 23 ans de prison à New York en 2020, puis à 16 ans supplémentaires à Los Angeles en 2023.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "mccann",
+      "nom": "Disparition de Madeleine McCann",
+      "alias": "La Petite Maddie",
+      "dates": "2007–présent",
+      "lieu": "Portugal / Praia da Luz",
+      "resume": "Madeleine McCann, 3 ans, disparaît le 3 mai 2007 de la chambre d'hôtel à Praia da Luz au Portugal. Malgré une enquête mondiale, elle n'a jamais été retrouvée. Le suspect principal est Christian Brückner, incarcéré en Allemagne pour d'autres crimes.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "amanda_knox",
+      "nom": "Amanda Knox",
+      "alias": "Le Meurtre de Meredith Kercher",
+      "dates": "2007–2015",
+      "lieu": "Italie / Pérouse",
+      "resume": "Meredith Kercher, étudiante britannique, est retrouvée assassinée à Pérouse en 2007. Amanda Knox, sa colocataire américaine, est condamnée puis acquittée après 8 ans de procédures. Raffaele Sollecito est également acquitté. Rudy Guede, seul condamné définitif.",
+      "statut_judiciaire": "acquittement"
+    },
+    {
+      "id": "ghislaine_maxwell",
+      "nom": "Jeffrey Epstein / Ghislaine Maxwell",
+      "alias": "Le Réseau Epstein",
+      "dates": "1990s–2021",
+      "lieu": "États-Unis / New York",
+      "resume": "Jeffrey Epstein, financier américain, et Ghislaine Maxwell ont organisé un réseau d'abus sexuels sur mineures impliquant des personnalités puissantes. Epstein meurt en prison en 2019. Maxwell est condamnée à 20 ans en 2021.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "gacy",
+      "nom": "John Wayne Gacy",
+      "alias": "Le Clown Tueur",
+      "dates": "1972–1978",
+      "lieu": "États-Unis / Chicago",
+      "resume": "Entrepreneur américain se déguisant en clown pour les enfants malades, il a assassiné et enterré 33 jeunes hommes sous sa maison à Chicago. Exécuté par injection létale en 1994.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "btk",
+      "nom": "Dennis Rader — BTK Killer",
+      "alias": "BTK (Bind, Torture, Kill)",
+      "dates": "1974–1991",
+      "lieu": "États-Unis / Wichita (Kansas)",
+      "resume": "Président d'une association de voisinage et bedeau, il a tué 10 personnes entre 1974 et 1991 en signant ses lettres 'BTK'. Arrêté en 2005 grâce à une disquette qu'il avait lui-même envoyée à la police. Condamné à 10 peines de prison à vie.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "zodiac",
+      "nom": "Le Tueur du Zodiaque",
+      "alias": "Zodiac Killer",
+      "dates": "1968–1969",
+      "lieu": "États-Unis / Californie",
+      "resume": "Tueur en série californien ayant officiellement tué 5 personnes et revendiqué 37 meurtres dans des lettres cryptées envoyées à la presse. Son identité n'a jamais été établie malgré des décennies d'enquête.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "son_of_sam",
+      "nom": "David Berkowitz",
+      "alias": "Son of Sam / Le Fils de Sam",
+      "dates": "1976–1977",
+      "lieu": "États-Unis / New York",
+      "resume": "David Berkowitz a terrorisé New York en 1976-1977, tuant 6 personnes et en blessant 7 autres. Il signait ses lettres 'Son of Sam', prétendant recevoir des ordres de tuer d'un démon via son voisin et son chien. Condamné à 6 fois 25 ans de prison.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ed_gein",
+      "nom": "Ed Gein",
+      "alias": "Le Boucher de Plainfield",
+      "dates": "1954–1957",
+      "lieu": "États-Unis / Plainfield (Wisconsin)",
+      "resume": "Fermier américain ayant tué et déterré des cadavres pour confectionner des objets en peau humaine. Inspiration directe pour les personnages de Hannibal Lecter, Norman Bates et Leatherface. Jugé non responsable et interné jusqu'à sa mort en 1984.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "golden_state",
+      "nom": "Golden State Killer",
+      "alias": "Joseph James DeAngelo",
+      "dates": "1974–1986",
+      "lieu": "États-Unis / Californie",
+      "resume": "Ancien policier californien responsable d'au moins 13 meurtres, 50 viols et 100 cambriolages. Resté anonyme pendant 40 ans, il est identifié en 2018 grâce à la généalogie génétique. Condamné à la prison à vie en 2020.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "aileen_wuornos",
+      "nom": "Aileen Wuornos",
+      "alias": "La Tueuse en Série",
+      "dates": "1989–1990",
+      "lieu": "États-Unis / Floride",
+      "resume": "Prostituée américaine ayant tué 7 hommes en Floride entre 1989 et 1990. Première femme officiellement reconnue comme tueuse en série aux États-Unis. Exécutée par injection létale en 2002. Son histoire a inspiré le film 'Monster' (2003).",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "richard_ramirez",
+      "nom": "Richard Ramirez",
+      "alias": "Le Night Stalker",
+      "dates": "1984–1985",
+      "lieu": "États-Unis / Los Angeles",
+      "resume": "Tueur en série et violeur ayant semé la terreur à Los Angeles en 1984-1985, tuant au moins 13 personnes. Sataniste affirmé, il terrorisait la ville par ses intrusions nocturnes. Condamné à 19 fois la peine capitale en 1989, mort en prison en 2013.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "fred_rosemary_west",
+      "nom": "Fred et Rosemary West",
+      "alias": "Les Monstres de Cromwell Street",
+      "dates": "1967–1987",
+      "lieu": "Royaume-Uni / Gloucester",
+      "resume": "Couple britannique ayant violé, torturé et assassiné au moins 12 jeunes femmes, dont leur propre fille, enterrées dans leur maison de Cromwell Street. Fred se suicide en prison en 1995. Rosemary est condamnée à la perpétuité la même année.",
+      "statut_judiciaire": "condamnation_definitive"
     }
   ]
 }
