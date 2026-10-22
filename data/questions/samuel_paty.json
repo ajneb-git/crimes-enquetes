@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": "samuel_paty_qcm_001",
+      "affaire_id": "samuel_paty",
+      "module": "qcm",
+      "question": "Dans quelle ville Samuel Paty a-t-il été assassiné le 16 octobre 2020 ?",
+      "propositions": [
+        "Conflans-Sainte-Honorine",
+        "Éragny-sur-Oise",
+        "Poissy",
+        "Cergy"
+      ],
+      "bonne_reponse": "Conflans-Sainte-Honorine",
+      "explication": "Samuel Paty, professeur d'histoire-géographie au collège du Bois-d'Aulne, a été décapité le 16 octobre 2020 à Conflans-Sainte-Honorine (Yvelines), à proximité de son établissement. Son assassin Abdoullakh Anzorov, 18 ans, d'origine tchétchène, a été abattu par la police peu après.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty",
+        "https://www.lemonde.fr/societe/article/2020/10/16/samuel-paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_qcm_002",
+      "affaire_id": "samuel_paty",
+      "module": "qcm",
+      "question": "Sur quel thème Samuel Paty avait-il fait cours dans les semaines précédant son assassinat, déclenchant une campagne de haine en ligne ?",
+      "propositions": [
+        "La liberté d'expression et les caricatures",
+        "L'histoire de la colonisation française",
+        "Les religions monothéistes",
+        "La laïcité à l'école"
+      ],
+      "bonne_reponse": "La liberté d'expression et les caricatures",
+      "explication": "Samuel Paty avait présenté en cours d'éducation morale et civique des caricatures de Mahomet issues de Charlie Hebdo pour illustrer la liberté d'expression. Un parent d'élève avait lancé une campagne virale sur les réseaux sociaux, provoquant des menaces de mort contre l'enseignant.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty",
+        "https://www.liberation.fr/societe/2020/10/16/samuel-paty-professeur-decapite_1801680/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_qcm_003",
+      "affaire_id": "samuel_paty",
+      "module": "qcm",
+      "question": "Quel était l'âge d'Abdoullakh Anzorov, l'assassin de Samuel Paty, au moment des faits ?",
+      "propositions": ["18 ans", "22 ans", "25 ans", "16 ans"],
+      "bonne_reponse": "18 ans",
+      "explication": "Abdoullakh Anzorov était âgé de 18 ans au moment des faits. D'origine tchétchène, il était arrivé en France comme réfugié. Il s'est connecté aux réseaux islamistes en ligne et a contacté des parents d'élèves pour identifier Samuel Paty avant de l'attaquer.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Abdoullakh_Anzorov",
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_vf_001",
+      "affaire_id": "samuel_paty",
+      "module": "vrai_faux",
+      "affirmation": "L'hommage national à Samuel Paty a eu lieu à la Sorbonne, en présence du président de la République.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Le 21 octobre 2020, une cérémonie d'hommage national à Samuel Paty s'est tenue dans la cour de la Sorbonne à Paris, en présence d'Emmanuel Macron. Des extraits de textes de Voltaire et de Samuel Paty lui-même ont été lus. C'était 5 jours après son assassinat.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty",
+        "https://www.lefigaro.fr/actualite-france/2020/10/21/hommage-sorbonne-samuel-paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_vf_002",
+      "affaire_id": "samuel_paty",
+      "module": "vrai_faux",
+      "affirmation": "L'assassin de Samuel Paty avait lui-même été élève dans sa classe.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Abdoullakh Anzorov n'était pas élève de Samuel Paty et ne le connaissait pas personnellement. C'est en suivant la campagne virale lancée sur les réseaux sociaux par un père d'élève qu'il a identifié et localisé l'enseignant, demandant à des élèves de lui désigner physiquement leur professeur devant le collège.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty",
+        "https://fr.wikipedia.org/wiki/Abdoullakh_Anzorov"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_qsj_001",
+      "affaire_id": "samuel_paty",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un professeur d'histoire-géographie tué pour avoir enseigné la liberté d'expression.",
+        "Mon assassinat a été précédé d'une campagne de haine sur les réseaux sociaux lancée par un père d'élève.",
+        "J'ai été décapité à la sortie de mon collège des Yvelines en octobre 2020.",
+        "J'ai reçu à titre posthume la Légion d'honneur lors d'un hommage national à la Sorbonne."
+      ],
+      "propositions": ["Samuel Paty", "Dominique Bernard", "Ahmed Merabet", "Xavier Jugelé"],
+      "bonne_reponse": "Samuel Paty",
+      "explication": "Samuel Paty, 47 ans, était professeur d'histoire-géographie au collège du Bois-d'Aulne à Conflans-Sainte-Honorine. Décapité le 16 octobre 2020 par Abdoullakh Anzorov, il a été décoré à titre posthume de la Légion d'honneur lors de la cérémonie d'hommage national à la Sorbonne le 21 octobre 2020.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Samuel_Paty",
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_chron_001",
+      "affaire_id": "samuel_paty",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Samuel Paty.",
+      "evenements": [
+        {
+          "label": "Samuel Paty présente en classe des caricatures pour un cours sur la liberté d'expression",
+          "date_iso": "2020-10-06"
+        },
+        {
+          "label": "Samuel Paty est décapité par Anzorov à la sortie de son collège à Conflans",
+          "date_iso": "2020-10-16"
+        },
+        {
+          "label": "Hommage national à Samuel Paty dans la cour de la Sorbonne",
+          "date_iso": "2020-10-21"
+        },
+        {
+          "label": "Condamnation de 8 complices lors du procès, peines allant jusqu'à 16 ans de réclusion",
+          "date_iso": "2024-12-20"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "6 octobre 2020 : cours sur la liberté d'expression avec caricatures → campagne de haine en ligne. 16 octobre : assassinat par Anzorov (abattu par la police peu après). 21 octobre : hommage national à la Sorbonne. Décembre 2024 : au procès des 8 complices, condamnations allant jusqu'à 16 ans de réclusion.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty",
+        "https://www.lemonde.fr/societe/article/2024/12/20/proces-samuel-paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "samuel_paty_duel_001",
+      "affaire_id": "samuel_paty",
+      "module": "duel",
+      "question": "Lequel de ces deux enseignants a été victime d'un attentat islamiste en France ?",
+      "item_a": "Samuel Paty",
+      "item_b": "Dominique Bernard",
+      "bonne_reponse": "a",
+      "explication": "Samuel Paty a été décapité le 16 octobre 2020 par Abdoullakh Anzorov. Dominique Bernard, professeur de français au lycée Gambetta d'Arras, a lui aussi été tué dans un attentat islamiste — mais le 13 octobre 2023, trois ans plus tard. Les deux enseignants sont des victimes distinctes de deux attaques séparées.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Samuel_Paty",
+        "https://fr.wikipedia.org/wiki/Attentat_au_couteau_d%27Arras"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

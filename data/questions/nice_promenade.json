@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "id": "nice_promenade_qcm_001",
+      "affaire_id": "nice_promenade",
+      "module": "qcm",
+      "question": "Combien de personnes ont été tuées lors de l'attentat de la Promenade des Anglais à Nice le 14 juillet 2016 ?",
+      "propositions": ["86", "130", "47", "102"],
+      "bonne_reponse": "86",
+      "explication": "L'attentat du 14 juillet 2016 à Nice a fait 86 morts, dont 10 enfants, et plus de 450 blessés. Mohamed Lahouaiej-Bouhlel a conduit un poids lourd de 19 tonnes sur 2 km de la Promenade des Anglais dans la foule réunie pour le feu d'artifice de la Fête nationale.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://www.lemonde.fr/attentat-nice/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_qcm_002",
+      "affaire_id": "nice_promenade",
+      "module": "qcm",
+      "question": "Quelle fête nationale française était célébrée à Nice lors de l'attentat du 14 juillet 2016 ?",
+      "propositions": [
+        "Le feu d'artifice de la Bastille",
+        "La fête de la Victoire",
+        "La fête de la Musique",
+        "La fête du Travail"
+      ],
+      "bonne_reponse": "Le feu d'artifice de la Bastille",
+      "explication": "La foule s'était rassemblée sur la Promenade des Anglais pour assister au traditionnel feu d'artifice du 14 juillet, fête nationale commémorant la prise de la Bastille en 1789. C'est dans cette foule festive que Lahouaiej-Bouhlel a foncé avec son camion.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://www.lefigaro.fr/actualite-france/2016/07/14/attentat-nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_qcm_003",
+      "affaire_id": "nice_promenade",
+      "module": "qcm",
+      "question": "Sur quelle distance Mohamed Lahouaiej-Bouhlel a-t-il foncé dans la foule avec son camion de 19 tonnes lors de l'attentat de Nice ?",
+      "propositions": ["2 km", "500 m", "800 m", "4 km"],
+      "bonne_reponse": "2 km",
+      "explication": "Lahouaiej-Bouhlel a parcouru environ 2 kilomètres sur la Promenade des Anglais, depuis la rue Marigliano jusqu'au pont Magnan, avant d'être abattu par les forces de l'ordre. C'est cette longue distance qui explique le bilan catastrophique de 86 morts.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://www.liberation.fr/france/2016/07/15/attentat-de-nice_1465220/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_vf_001",
+      "affaire_id": "nice_promenade",
+      "module": "vrai_faux",
+      "affirmation": "L'attentat de la Promenade des Anglais à Nice est l'attentat jihadiste le plus meurtrier jamais commis sur le sol français.",
+      "bonne_reponse": false,
+      "explication": "FAUX. L'attentat de Nice (86 morts) est le deuxième attentat le plus meurtrier de France, après les attentats du 13 novembre 2015 (130 morts). Les deux attentats sont cependant comparables en termes de traumatisme national.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_vf_002",
+      "affaire_id": "nice_promenade",
+      "module": "vrai_faux",
+      "affirmation": "Mohamed Lahouaiej-Bouhlel a été arrêté vivant à la fin de l'attentat de Nice.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Mohamed Lahouaiej-Bouhlel, Franco-Tunisien de 31 ans, a été abattu par les forces de l'ordre au bout de 2 km de course meurtrière. Il a échangé des coups de feu avec des policiers avant d'être tué, mettant fin à l'attentat.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Mohamed_Lahouaiej-Bouhlel",
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_qsj_001",
+      "affaire_id": "nice_promenade",
+      "module": "qui_suis_je",
+      "indices": [
+        "Franco-Tunisien de 31 ans, j'ai agi seul lors d'une fête nationale.",
+        "J'ai utilisé un poids lourd de 19 tonnes comme arme de destruction massive.",
+        "J'ai foncé dans une foule de milliers de personnes rassemblées pour un feu d'artifice.",
+        "J'ai été abattu par la police après avoir parcouru 2 km sur une promenade célèbre de la Côte d'Azur."
+      ],
+      "propositions": ["Mohamed Lahouaiej-Bouhlel", "Amédy Coulibaly", "Abdelhamid Abaaoud", "Anis Amri"],
+      "bonne_reponse": "Mohamed Lahouaiej-Bouhlel",
+      "explication": "Mohamed Lahouaiej-Bouhlel, Franco-Tunisien de 31 ans résidant à Nice, a perpétré l'attentat du 14 juillet 2016 sur la Promenade des Anglais. Son profil différait des jihadistes classiques : peu pratiquant, il s'est radicalisé rapidement. Daech l'a néanmoins revendiqué comme 'soldat de l'État islamique'.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Mohamed_Lahouaiej-Bouhlel",
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_chron_001",
+      "affaire_id": "nice_promenade",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'attentat de Nice du 14 juillet 2016.",
+      "evenements": [
+        {
+          "label": "Lahouaiej-Bouhlel fonce dans la foule du 14 juillet sur la Promenade des Anglais : 86 morts",
+          "date_iso": "2016-07-14"
+        },
+        {
+          "label": "Ouverture du procès de 8 complices présumés devant la cour d'assises spéciale de Paris",
+          "date_iso": "2022-09-05"
+        },
+        {
+          "label": "Condamnations : 2 à 18 ans de réclusion pour les 8 complices jugés à Paris",
+          "date_iso": "2023-02-10"
+        },
+        {
+          "label": "La cour d'appel confirme les condamnations des complices de l'attentat de Nice",
+          "date_iso": "2024-06-20"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "14 juillet 2016 : attentat (86 morts), Lahouaiej-Bouhlel abattu sur place. Septembre 2022 : ouverture du procès de 8 complices présumés devant la cour d'assises spéciale. Février 2023 : condamnations de 2 à 18 ans de réclusion pour les complices. 2024 : arrêt de la cour d'appel confirmant les peines.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2016-2023",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://www.lemonde.fr/societe/article/2023/02/10/proces-attentat-nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_promenade_duel_001",
+      "affaire_id": "nice_promenade",
+      "module": "duel",
+      "question": "Lequel de ces deux attentats a compté le plus d'enfants parmi ses victimes ?",
+      "item_a": "Attentat de la Promenade des Anglais à Nice (14 juillet 2016)",
+      "item_b": "Attentats du Bataclan à Paris (13 novembre 2015)",
+      "bonne_reponse": "a",
+      "explication": "L'attentat de Nice a fait 10 enfants parmi ses 86 victimes — la foule du feu d'artifice rassemblait beaucoup de familles. L'attentat du Bataclan visait une salle de concert rock pour adultes ; ses 90 victimes étaient quasi exclusivement des jeunes adultes.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice",
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

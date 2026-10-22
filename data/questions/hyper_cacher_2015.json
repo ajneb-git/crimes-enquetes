@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": "hyper_cacher_2015_qcm_001",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "qcm",
+      "question": "Combien d'otages Amédy Coulibaly a-t-il tués lors de la prise d'otages à l'Hyper Cacher le 9 janvier 2015 ?",
+      "propositions": ["4", "7", "2", "11"],
+      "bonne_reponse": "4",
+      "explication": "Amédy Coulibaly a tué 4 otages dans le supermarché casher : Yoav Hattab, Philippe Braham, François-Michel Saada et Yohan Cohen. 15 autres personnes, cachées dans une chambre froide, ont été libérées indemnes lors de l'assaut du RAID.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_qcm_002",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "qcm",
+      "question": "Quelle policière municipale Amédy Coulibaly a-t-il assassinée à Montrouge le 8 janvier 2015, la veille de la prise d'otages ?",
+      "propositions": [
+        "Clarissa Jean-Philippe",
+        "Sophie Marin",
+        "Aurélie Dupont",
+        "Leila Saïd"
+      ],
+      "bonne_reponse": "Clarissa Jean-Philippe",
+      "explication": "Clarissa Jean-Philippe, policière municipale de 26 ans, a été abattue par Coulibaly à Montrouge le 8 janvier 2015 alors qu'elle intervenait sur un accident de la route. Il visait en réalité une école gardée à proximité.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Clarissa_Jean-Philippe",
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_qcm_003",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "qcm",
+      "question": "À quel groupe terroriste Amédy Coulibaly avait-il prêté allégeance, à la différence des frères Kouachi ?",
+      "propositions": [
+        "Daech (État islamique)",
+        "Al-Qaïda dans la Péninsule Arabique",
+        "Al-Shabaab",
+        "Al-Qaïda au Maghreb islamique"
+      ],
+      "bonne_reponse": "Daech (État islamique)",
+      "explication": "Contrairement aux frères Kouachi qui agissaient au nom d'AQPA (Al-Qaïda au Yémen), Amédy Coulibaly avait prêté allégeance à Daech (l'État islamique). Les trois terroristes se connaissaient néanmoins et ont coordonné leurs actions simultanément.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Am%C3%A9dy_Coulibaly",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_vf_001",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "vrai_faux",
+      "affirmation": "L'Hyper Cacher visé par Coulibaly était un supermarché proposant des produits conformes aux règles alimentaires juives.",
+      "bonne_reponse": true,
+      "explication": "VRAI. L'Hyper Cacher de la Porte de Vincennes était bien un supermarché kasher (casher), c'est-à-dire proposant des produits conformes aux règles alimentaires de la religion juive. Ce choix n'était pas anodin : Coulibaly voulait viser la communauté juive de France, dans un acte à la fois terroriste et antisémite.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes",
+        "https://www.lefigaro.fr/actualite-france/2015/01/09/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_vf_002",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "vrai_faux",
+      "affirmation": "L'assaut contre l'Hyper Cacher et la fin de la traque des frères Kouachi à Dammartin-en-Goële ont eu lieu simultanément.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Le 9 janvier 2015, les deux assauts ont été lancés exactement en même temps : le RAID a donné l'assaut à l'Hyper Cacher tandis que le GIGN intervenait à Dammartin-en-Goële. Cette simultanéité visait à éviter que Coulibaly, en contact téléphonique avec les Kouachi, ne tue ses otages en apprenant la mort de ces derniers.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes",
+        "https://www.liberation.fr/societe/2015/01/09/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_qsj_001",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai frappé Paris en même temps que deux complices s'en prenaient à un journal satirique.",
+        "Contrairement à eux, j'avais prêté allégeance à l'État islamique, pas à Al-Qaïda.",
+        "J'ai tué une policière à Montrouge avant de prendre en otage les clients d'un supermarché casher.",
+        "Je suis mort lors de l'assaut du RAID le 9 janvier 2015 à la Porte de Vincennes."
+      ],
+      "propositions": ["Amédy Coulibaly", "Abdelhamid Abaaoud", "Chérif Kouachi", "Salah Abdeslam"],
+      "bonne_reponse": "Amédy Coulibaly",
+      "explication": "Amédy Coulibaly, Franco-Malien de 32 ans, a perpétré l'attentat de l'Hyper Cacher le 9 janvier 2015, en coordination avec les frères Kouachi. Il a tué 5 personnes au total (Clarissa Jean-Philippe + 4 otages) avant d'être abattu lors de l'assaut du RAID.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Am%C3%A9dy_Coulibaly",
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_chron_001",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'attentat de l'Hyper Cacher.",
+      "evenements": [
+        {
+          "label": "Meurtre de Clarissa Jean-Philippe, policière municipale, à Montrouge par Coulibaly",
+          "date_iso": "2015-01-08"
+        },
+        {
+          "label": "Prise d'otages à l'Hyper Cacher : 4 clients juifs assassinés, 15 otages cachés dans la chambre froide",
+          "date_iso": "2015-01-09"
+        },
+        {
+          "label": "Grande marche républicaine parisienne contre le terrorisme (1,5 million de personnes)",
+          "date_iso": "2015-01-11"
+        },
+        {
+          "label": "Hayat Boumeddiene condamnée par défaut à 30 ans de réclusion criminelle (procès V13)",
+          "date_iso": "2022-06-29"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Le 8 janvier : Coulibaly tue Clarissa Jean-Philippe à Montrouge. Le 9 janvier : prise d'otages et assaut simultané de l'Hyper Cacher et de Dammartin. Le 11 janvier : grande marche républicaine. En juin 2022 : lors du procès V13, Hayat Boumeddiene — compagne de Coulibaly, en Syrie depuis le 8 janvier — est condamnée par défaut.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Prise_d%27otages_de_l%27Hyper_Cacher_de_la_porte_de_Vincennes",
+        "https://fr.wikipedia.org/wiki/Attentats_de_janvier_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "hyper_cacher_2015_duel_001",
+      "affaire_id": "hyper_cacher_2015",
+      "module": "duel",
+      "question": "Lequel des deux attentats de janvier 2015 a causé le plus de morts ?",
+      "item_a": "Attentat contre la rédaction de Charlie Hebdo (7 janvier)",
+      "item_b": "Prise d'otages de l'Hyper Cacher (9 janvier)",
+      "bonne_reponse": "a",
+      "explication": "L'attentat contre Charlie Hebdo a causé 12 morts, contre 4 lors de la prise d'otages de l'Hyper Cacher (sans compter Clarissa Jean-Philippe, tuée la veille à Montrouge). Au total, les attentats de janvier 2015 ont fait 17 morts (victimes civiles et policiers, hors les 3 terroristes).",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_de_janvier_2015_en_France",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

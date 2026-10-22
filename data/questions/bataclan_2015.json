@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "id": "bataclan_2015_qcm_001",
+      "affaire_id": "bataclan_2015",
+      "module": "qcm",
+      "question": "Combien de personnes ont été tuées lors des attentats du 13 novembre 2015 à Paris ?",
+      "propositions": ["130", "89", "86", "157"],
+      "bonne_reponse": "130",
+      "explication": "Les attentats du 13 novembre 2015 ont fait 130 morts et plus de 350 blessés. C'est l'attentat le plus meurtrier de l'histoire de France. Les victimes se répartissent entre le Bataclan (90), les terrasses de café (39) et le Stade de France (1).",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://www.lemonde.fr/attentats-du-13-novembre/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_qcm_002",
+      "affaire_id": "bataclan_2015",
+      "module": "qcm",
+      "question": "Quel groupe de musique se produisait au Bataclan lors de l'attentat du 13 novembre 2015 ?",
+      "propositions": [
+        "Eagles of Death Metal",
+        "Foo Fighters",
+        "Muse",
+        "Queens of the Stone Age"
+      ],
+      "bonne_reponse": "Eagles of Death Metal",
+      "explication": "Le groupe américain Eagles of Death Metal donnait un concert au Bataclan le soir du 13 novembre 2015. Deux assaillants ont ouvert le feu sur la foule, tuant 90 personnes dans la salle avant d'être neutralisés lors de l'assaut du RAID. Le groupe devait avoir 1 500 spectateurs ce soir-là.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://fr.wikipedia.org/wiki/Le_Bataclan"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_qcm_003",
+      "affaire_id": "bataclan_2015",
+      "module": "qcm",
+      "question": "Dans quel pays Salah Abdeslam, seul survivant du commando du 13 novembre, a-t-il été arrêté ?",
+      "propositions": ["Belgique", "Allemagne", "Pays-Bas", "Turquie"],
+      "bonne_reponse": "Belgique",
+      "explication": "Salah Abdeslam a été arrêté le 18 mars 2016 à Molenbeek-Saint-Jean, quartier de Bruxelles (Belgique), après plus de quatre mois de cavale. Son arrestation est survenue 4 jours avant les attentats de Bruxelles du 22 mars 2016.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Salah_Abdeslam",
+        "https://www.lemonde.fr/attentats-du-13-novembre/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_vf_001",
+      "affaire_id": "bataclan_2015",
+      "module": "vrai_faux",
+      "affirmation": "Les attentats du 13 novembre 2015 se sont limités à la seule salle de concert du Bataclan.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Les attentats ont frappé plusieurs sites simultanément : le Stade de France (3 kamikazes), plusieurs terrasses de café du 10e et 11e arrondissements (Le Carillon, La Bonne Bière, La Belle Équipe, Le Comptoir Voltaire) et la salle du Bataclan. C'est cette coordination qui en fait l'attentat le plus complexe jamais perpétré en France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://www.lemonde.fr/attentats-du-13-novembre/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_vf_002",
+      "affaire_id": "bataclan_2015",
+      "module": "vrai_faux",
+      "affirmation": "Abdelhamid Abaaoud, le coordinateur des attentats, a survécu et a été jugé lors du procès V13.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Abdelhamid Abaaoud, cerveau logistique des attentats depuis la Syrie puis sur place, a été tué le 18 novembre 2015 lors de l'assaut du RAID dans un appartement de Saint-Denis. Son décès 5 jours après les attentats l'a privé de tout procès.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Abdelhamid_Abaaoud",
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_vf_003",
+      "affaire_id": "bataclan_2015",
+      "module": "vrai_faux",
+      "affirmation": "Les kamikazes du Stade de France ont causé de nombreuses victimes parmi les 80 000 spectateurs présents dans les tribunes.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Malgré l'explosion de 3 kamikazes aux abords du Stade de France, aucun spectateur ne mourut à l'intérieur du stade. Les bombes ont explosé à l'extérieur, tuant un passant. Le match France-Allemagne s'est poursuivi pour éviter la panique de masse. La grande majorité des 130 victimes sont mortes au Bataclan et sur les terrasses.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://www.lefigaro.fr/actualite-france/attentats-13-novembre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_qsj_001",
+      "affaire_id": "bataclan_2015",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis le seul membre du commando du 13 novembre 2015 à avoir survécu à cette nuit-là.",
+        "J'ai fui en Belgique après les attentats et me suis caché à Molenbeek pendant plus de 4 mois.",
+        "Mon arrestation à Bruxelles en mars 2016 est survenue 4 jours avant les attentats dans cette ville.",
+        "En juin 2022, j'ai été condamné à la réclusion criminelle à perpétuité incompressible, une peine exceptionnelle en droit français."
+      ],
+      "propositions": ["Salah Abdeslam", "Abdelhamid Abaaoud", "Mohamed Abrini", "Bilal Hadfi"],
+      "bonne_reponse": "Salah Abdeslam",
+      "explication": "Salah Abdeslam, Français d'origine marocaine, était chargé de conduire les assaillants. Il a renoncé à déclencher sa ceinture explosive et a fui en Belgique. Arrêté en mars 2016, il a été condamné en juin 2022 à la réclusion criminelle à perpétuité sans possibilité de révision — la peine la plus sévère du droit français.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Salah_Abdeslam",
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_chron_001",
+      "affaire_id": "bataclan_2015",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements clés liés aux attentats du 13 novembre 2015.",
+      "evenements": [
+        {
+          "label": "Attentats coordonnés à Paris et Saint-Denis : 130 morts en une nuit",
+          "date_iso": "2015-11-13"
+        },
+        {
+          "label": "Mort d'Abdelhamid Abaaoud lors de l'assaut du RAID à Saint-Denis",
+          "date_iso": "2015-11-18"
+        },
+        {
+          "label": "Arrestation de Salah Abdeslam à Molenbeek (Bruxelles) après 4 mois de cavale",
+          "date_iso": "2016-03-18"
+        },
+        {
+          "label": "Condamnation d'Abdeslam à la réclusion criminelle à perpétuité incompressible",
+          "date_iso": "2022-06-29"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "13 novembre 2015 : attentats (130 morts). 18 novembre : mort d'Abaaoud à Saint-Denis. 18 mars 2016 : arrestation d'Abdeslam à Molenbeek. 29 juin 2022 : à l'issue du procès V13, Abdeslam est condamné à la réclusion criminelle à perpétuité sans possibilité de révision, la peine maximale du droit français.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_attentats_du_13_novembre_2015"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bataclan_2015_duel_001",
+      "affaire_id": "bataclan_2015",
+      "module": "duel",
+      "question": "Lequel des deux attentats jihadistes perpétrés en France est le plus meurtrier de l'histoire ?",
+      "item_a": "Attentats du 13 novembre 2015 (Paris et Saint-Denis)",
+      "item_b": "Attentat de la Promenade des Anglais (Nice, juillet 2016)",
+      "bonne_reponse": "a",
+      "explication": "Les attentats du 13 novembre 2015 ont fait 130 morts, contre 86 pour l'attentat de Nice du 14 juillet 2016. Le 13-Novembre demeure l'attentat le plus meurtrier de l'histoire de France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+        "https://fr.wikipedia.org/wiki/Attentat_du_14_juillet_2016_%C3%A0_Nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

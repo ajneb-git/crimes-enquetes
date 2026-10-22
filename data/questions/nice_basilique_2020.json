@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "id": "nice_basilique_2020_qcm_001",
+      "affaire_id": "nice_basilique_2020",
+      "module": "qcm",
+      "question": "Combien de personnes ont été tuées lors de l'attentat à la basilique Notre-Dame de Nice le 29 octobre 2020 ?",
+      "propositions": ["3", "7", "1", "5"],
+      "bonne_reponse": "3",
+      "explication": "L'attentat du 29 octobre 2020 à la basilique Notre-Dame de l'Assomption de Nice a fait 3 morts : Nadine Devillers (sacristine, 60 ans), Vincent Loquès (sacristain, 54 ans) — tous deux décapités — et Simone Barreto Silva, une Brésilienne de 44 ans blessée mortellement peu après s'être enfuie. L'auteur Brahim Issaoui a été grièvement blessé par la police et survécu.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://www.lemonde.fr/societe/article/2020/10/29/attentat-nice-basilique"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_qcm_002",
+      "affaire_id": "nice_basilique_2020",
+      "module": "qcm",
+      "question": "Combien de jours s'étaient écoulés entre l'assassinat de Samuel Paty et l'attentat de la basilique de Nice ?",
+      "propositions": ["13 jours", "30 jours", "5 jours", "45 jours"],
+      "bonne_reponse": "13 jours",
+      "explication": "Samuel Paty a été assassiné le 16 octobre 2020 et l'attentat de la basilique de Nice s'est produit le 29 octobre 2020, soit exactement 13 jours plus tard. Cette proximité temporelle a renforcé le sentiment de terreur islamiste dans la société française.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://fr.wikipedia.org/wiki/Assassinat_de_Samuel_Paty"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_qcm_003",
+      "affaire_id": "nice_basilique_2020",
+      "module": "qcm",
+      "question": "Quelle peine Brahim Issaoui, auteur de l'attentat de la basilique de Nice, a-t-il reçue lors de son procès en 2024 ?",
+      "propositions": [
+        "La réclusion criminelle à perpétuité",
+        "30 ans de réclusion criminelle",
+        "20 ans de réclusion criminelle",
+        "La peine de mort"
+      ],
+      "bonne_reponse": "La réclusion criminelle à perpétuité",
+      "explication": "Brahim Issaoui a été condamné en 2024 à la réclusion criminelle à perpétuité par la cour d'assises spéciale de Paris. Né en Tunisie en 1999, il avait 21 ans au moment des faits. Il est le seul survivant de l'attentat, ayant été grièvement blessé lors de son interpellation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://www.lefigaro.fr/actualite-france/2024/brahim-issaoui-condamne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_vf_001",
+      "affaire_id": "nice_basilique_2020",
+      "module": "vrai_faux",
+      "affirmation": "Deux des trois victimes de l'attentat de la basilique de Nice ont été décapitées.",
+      "bonne_reponse": true,
+      "explication": "VRAI. La sacristine Nadine Devillers et le sacristain Vincent Loquès ont tous deux été décapités à l'intérieur de la basilique. Simone Barreto Silva, troisième victime, avait réussi à fuir blessée vers un bar voisin où elle est décédée peu après. Le mode opératoire rappelait explicitement le meurtre de Samuel Paty 13 jours plus tôt.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://www.liberation.fr/france/2020/10/29/attentat-nice-basilique_1803264/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_vf_002",
+      "affaire_id": "nice_basilique_2020",
+      "module": "vrai_faux",
+      "affirmation": "Brahim Issaoui est entré en France légalement avec un visa de travail.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Brahim Issaoui, Tunisien de 21 ans, avait migré clandestinement par Lampedusa en Italie. Il était arrivé sur le sol français illégalement peu avant l'attentat. Ce point a alimenté un vif débat politique sur le contrôle des frontières et les filières migratoires.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Brahim_Issaoui",
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_qsj_001",
+      "affaire_id": "nice_basilique_2020",
+      "module": "qui_suis_je",
+      "indices": [
+        "Tunisien de 21 ans, j'ai agi 13 jours après la décapitation d'un professeur en France.",
+        "J'ai pénétré dans un lieu de culte catholique du vieux-Nice et décapité deux fidèles.",
+        "J'ai survécu à mon attentat, grièvement blessé lors de mon interpellation.",
+        "J'ai été condamné à la réclusion criminelle à perpétuité en 2024."
+      ],
+      "propositions": ["Brahim Issaoui", "Abdoullakh Anzorov", "Mohamed Lahouaiej-Bouhlel", "Anis Amri"],
+      "bonne_reponse": "Brahim Issaoui",
+      "explication": "Brahim Issaoui, né en Tunisie en 1999, a perpétré l'attentat de la basilique Notre-Dame de Nice le 29 octobre 2020. Arrivé clandestinement en France depuis l'Italie, il a tué 3 personnes dont 2 décapitées. Contrairement à la plupart des terroristes jihadistes, il a été neutralisé vivant et jugé.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Brahim_Issaoui",
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_chron_001",
+      "affaire_id": "nice_basilique_2020",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'attentat de la basilique de Nice.",
+      "evenements": [
+        {
+          "label": "Assassinat de Samuel Paty à Conflans-Sainte-Honorine",
+          "date_iso": "2020-10-16"
+        },
+        {
+          "label": "Attentat à la basilique Notre-Dame de Nice : 3 morts dont 2 décapités",
+          "date_iso": "2020-10-29"
+        },
+        {
+          "label": "Attentat au couteau à Arras : mort de Dominique Bernard, professeur de lycée",
+          "date_iso": "2023-10-13"
+        },
+        {
+          "label": "Condamnation de Brahim Issaoui à la réclusion criminelle à perpétuité",
+          "date_iso": "2024-11-28"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "16 octobre 2020 : Samuel Paty décapité. 29 octobre 2020 : attentat de la basilique de Nice (3 morts). 13 octobre 2023 : attentat d'Arras, mort du professeur Dominique Bernard. Novembre 2024 : Issaoui condamné à perpétuité.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2020-2024",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://fr.wikipedia.org/wiki/Attentat_au_couteau_d%27Arras"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "nice_basilique_2020_duel_001",
+      "affaire_id": "nice_basilique_2020",
+      "module": "duel",
+      "question": "Lequel de ces deux attentats jihadistes a eu lieu en premier ?",
+      "item_a": "Attentat de la basilique Notre-Dame de Nice (octobre 2020)",
+      "item_b": "Attentat au couteau d'Arras (octobre 2023)",
+      "bonne_reponse": "a",
+      "explication": "L'attentat de la basilique de Nice a eu lieu le 29 octobre 2020, soit exactement 3 ans avant l'attentat d'Arras du 13 octobre 2023. Dans les deux cas, des enseignants ou des lieux symboliques de la société française ont été ciblés dans le contexte de la 'guerre contre la laïcité'.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_de_la_basilique_Notre-Dame_de_Nice",
+        "https://fr.wikipedia.org/wiki/Attentat_au_couteau_d%27Arras"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

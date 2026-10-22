@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": "charlie_hebdo_2015_qcm_001",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "qcm",
+      "question": "Combien de personnes ont été tuées lors de l'attentat contre la rédaction de Charlie Hebdo le 7 janvier 2015 ?",
+      "propositions": ["12", "8", "17", "5"],
+      "bonne_reponse": "12",
+      "explication": "12 personnes ont été assassinées le 7 janvier 2015 : 8 journalistes et dessinateurs de Charlie Hebdo (dont Charb, Cabu, Wolinski, Tignous), 2 policiers (dont Ahmed Merabet), 1 agent de maintenance et 1 correcteur.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_qcm_002",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "qcm",
+      "question": "Quel groupe terroriste a revendiqué l'attentat contre Charlie Hebdo du 7 janvier 2015 ?",
+      "propositions": [
+        "Al-Qaïda dans la Péninsule Arabique (AQPA)",
+        "Daech (État islamique)",
+        "Al-Qaïda au Maghreb islamique (AQMI)",
+        "Boko Haram"
+      ],
+      "bonne_reponse": "Al-Qaïda dans la Péninsule Arabique (AQPA)",
+      "explication": "L'attentat a été revendiqué par AQPA (Al-Qaïda dans la Péninsule Arabique), la branche yéménite d'Al-Qaïda. Chérif Kouachi avait notamment été formé au Yémen. C'est ce qui le distingue de Coulibaly, qui avait lui prêté allégeance à Daech.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo",
+        "https://www.lefigaro.fr/actualite-france/attentat-charlie-hebdo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_qcm_003",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "qcm",
+      "question": "Dans quelle ville les frères Kouachi ont-ils été abattus le 9 janvier 2015, mettant fin à leur cavale ?",
+      "propositions": [
+        "Dammartin-en-Goële",
+        "Meaux",
+        "Creil",
+        "Roissy-en-France"
+      ],
+      "bonne_reponse": "Dammartin-en-Goële",
+      "explication": "Après deux jours de cavale, les frères Saïd et Chérif Kouachi se sont retranchés dans une imprimerie de Dammartin-en-Goële (Seine-et-Marne), où ils ont été abattus lors de l'assaut du GIGN le 9 janvier 2015.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo",
+        "https://www.liberation.fr/societe/2015/01/09/fin-de-traque-pour-les-kouachi_1181046/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_vf_001",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "vrai_faux",
+      "affirmation": "Les frères Kouachi ont été arrêtés vivants par les forces de l'ordre françaises.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Saïd et Chérif Kouachi ont été abattus le 9 janvier 2015 lors de l'assaut du GIGN dans l'imprimerie de Dammartin-en-Goële où ils s'étaient retranchés. Ils ont ouvert le feu en sortant du bâtiment.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_vf_002",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "vrai_faux",
+      "affirmation": "Ahmed Merabet, le policier tué lors de l'attentat de Charlie Hebdo, était lui-même de confession musulmane.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Ahmed Merabet était un policier municipal du 11e arrondissement de Paris, de confession musulmane. Blessé à terre, il a été exécuté par les frères Kouachi en pleine rue. Son frère Malek a prononcé une allocution émouvante lors des hommages : 'Je suis Ahmed Merabet, policier, et Français de confession musulmane.'",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ahmed_Merabet",
+        "https://www.lemonde.fr/attaque-charlie-hebdo/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_qsj_001",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une figure de la presse satirique française, assassinée dans mon bureau en pleine réunion de rédaction.",
+        "Je défendais sans relâche la liberté de caricaturer, y compris les figures religieuses.",
+        "J'avais reçu des menaces de mort répétées après la publication de caricatures de Mahomet.",
+        "Je suis mort le 7 janvier 2015 en tant que directeur de publication de Charlie Hebdo."
+      ],
+      "propositions": ["Charb", "Cabu", "Wolinski", "Plantu"],
+      "bonne_reponse": "Charb",
+      "explication": "Stéphane Charbonnier, dit Charb, était le directeur de publication de Charlie Hebdo. Sous sa direction, le journal avait publié des numéros spéciaux consacrés aux caricatures de Mahomet, lui valant des menaces de mort. Il figurait sur la liste de personnes recherchées par Al-Qaïda.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Charb",
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_chron_001",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés aux attentats de janvier 2015.",
+      "evenements": [
+        {
+          "label": "Attentat contre la rédaction de Charlie Hebdo : 12 morts dont Charb, Cabu et Wolinski",
+          "date_iso": "2015-01-07"
+        },
+        {
+          "label": "Meurtre de la policière Clarissa Jean-Philippe à Montrouge par Amédy Coulibaly",
+          "date_iso": "2015-01-08"
+        },
+        {
+          "label": "Mort des frères Kouachi à Dammartin-en-Goële lors de l'assaut du GIGN",
+          "date_iso": "2015-01-09"
+        },
+        {
+          "label": "Grande marche républicaine 'Je suis Charlie' à Paris (1,5 million de personnes)",
+          "date_iso": "2015-01-11"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Le 7 janvier : attentat contre Charlie Hebdo (12 morts). Le 8 janvier : Coulibaly tue une policière à Montrouge. Le 9 janvier : assauts simultanés à Dammartin (mort des Kouachi) et à l'Hyper Cacher. Le 11 janvier : grande marche républicaine à Paris, l'une des plus grandes manifestations de l'histoire de France.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo",
+        "https://fr.wikipedia.org/wiki/Attentats_de_janvier_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "charlie_hebdo_2015_duel_001",
+      "affaire_id": "charlie_hebdo_2015",
+      "module": "duel",
+      "question": "Lequel de ces deux dessinateurs a été tué lors de l'attentat contre Charlie Hebdo ?",
+      "item_a": "Cabu",
+      "item_b": "Plantu",
+      "bonne_reponse": "a",
+      "explication": "Cabu (Jean Cabut), dessinateur emblématique de Charlie Hebdo, a été assassiné le 7 janvier 2015. Plantu, dessinateur du quotidien Le Monde, n'était pas présent à Charlie Hebdo ce jour-là et a survécu.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Cabu",
+        "https://fr.wikipedia.org/wiki/Attentat_contre_Charlie_Hebdo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}
