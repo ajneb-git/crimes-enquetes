@@ -140,15 +140,15 @@
           "date_iso": "1984-01-01"
         },
         {
-          "label": "Diffusion de l'épisode consacré à l'affaire dans l'émission Faites entrer l'accusé",
-          "date_iso": "2003-01-01"
+          "label": "Lamare obtient une libération conditionnelle ; rejet du recours des familles de victimes",
+          "date_iso": "1994-01-01"
         }
       ],
       "bonne_reponse": null,
-      "explication": "1978 : début des crimes dans l'Oise. Décembre 1979 : arrestation surprise. 1984 : condamnation à perpétuité. 2003 : l'affaire est médiatisée dans Faites entrer l'accusé. Son cas est resté longtemps peu connu du grand public, protégé par le silence de l'institution.",
+      "explication": "1978 : début des crimes dans l'Oise (meurtres, viols, agressions). Décembre 1979 : arrestation surprise par un collègue gendarme. 1984 : condamné à la réclusion criminelle à perpétuité. 1994 : libération conditionnelle après 10 ans — une décision très contestée par les familles des victimes.",
       "difficulte": 3,
       "pays": "FR",
-      "epoque": "1978-2003",
+      "epoque": "1978-1994",
       "sources": [
         "https://fr.wikipedia.org/wiki/Alain_Lamare",
         "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"

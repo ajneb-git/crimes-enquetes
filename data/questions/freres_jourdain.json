@@ -101,16 +101,16 @@
           "date_iso": "1994-10-04"
         },
         {
-          "label": "Attentat de Charlie Hebdo par les frères Kouachi",
-          "date_iso": "2015-01-07"
+          "label": "Michel Fourniret et Monique Olivier arrêtés en Belgique — duo criminel de 15 ans",
+          "date_iso": "2003-07-26"
         },
         {
-          "label": "Attentats du 13 novembre 2015 : commando de 9 hommes coordonnés",
-          "date_iso": "2015-11-13"
+          "label": "Les frères Kouachi attaquent la rédaction de Charlie Hebdo : 12 morts",
+          "date_iso": "2015-01-07"
         }
       ],
       "bonne_reponse": null,
-      "explication": "1993 : frères Jourdain (Poitou-Charentes). 4 octobre 1994 : Florence Rey et Audry Maupin (5 policiers tués à Paris). 7 janvier 2015 : frères Kouachi (Charlie Hebdo). 13 novembre 2015 : commando coordonné du 13-Novembre.",
+      "explication": "1993 : frères Jourdain (Poitou-Charentes). 4 octobre 1994 : Florence Rey et Audry Maupin (5 policiers tués à Paris). 26 juillet 2003 : arrestation du couple Fourniret-Olivier après 15 ans de crimes. 7 janvier 2015 : frères Kouachi attaquent Charlie Hebdo.",
       "difficulte": 2,
       "pays": "FR",
       "epoque": "1993-2015",

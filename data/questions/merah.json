@@ -115,30 +115,30 @@
       "id": "merah_chron_001",
       "affaire_id": "merah",
       "module": "chronologie",
-      "question": "Remettez dans l'ordre chronologique les quatre attaques et événements de l'affaire Merah.",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Mohamed Merah.",
       "evenements": [
         {
-          "label": "Première attaque : 2 militaires tués à Toulouse (Imasse Commandant Rolland)",
+          "label": "Merah effectue un séjour en Afghanistan et au Pakistan, signalé par la DCRI",
+          "date_iso": "2011-01-01"
+        },
+        {
+          "label": "Deux parachutistes du 1er RPIMa tués à Toulouse — premières victimes connues de Merah",
           "date_iso": "2012-03-11"
         },
         {
-          "label": "Deuxième attaque : 1 militaire tué à Montauban devant une caserne",
-          "date_iso": "2012-03-15"
-        },
-        {
-          "label": "Troisième attaque : 4 morts à l'école juive Ozar Hatorah de Toulouse (3 enfants)",
+          "label": "Trois enfants et leur professeur tués à l'école juive Ozar Hatorah de Toulouse",
           "date_iso": "2012-03-19"
         },
         {
-          "label": "Mohamed Merah abattu par le RAID lors du siège de son appartement à Toulouse",
-          "date_iso": "2012-03-22"
+          "label": "Abdelkader Merah condamné à 30 ans de réclusion pour complicité terroriste",
+          "date_iso": "2017-10-02"
         }
       ],
       "bonne_reponse": null,
-      "explication": "11 mars : 2 militaires tués à Toulouse. 15 mars : 1 militaire tué à Montauban. 19 mars : 4 victimes à l'école Ozar Hatorah dont 3 enfants. 22 mars : mort de Merah lors du siège. En 11 jours, la France a vécu l'horreur d'un terroriste islamiste ciblant militaires et Juifs.",
+      "explication": "2011 : Merah en Afghanistan/Pakistan, connu des services de renseignement. 11 mars 2012 : 2 militaires tués à Toulouse (puis 1 à Montauban le 15 mars). 19 mars : 4 morts à l'école Ozar Hatorah — Jonathan Sandler, ses fils Gabriel (3 ans) et Arieh (6 ans), et Myriam Monsonégo (8 ans). Merah abattu le 22 mars. 2 oct. 2017 : son frère Abdelkader condamné à 30 ans.",
       "difficulte": 2,
       "pays": "FR",
-      "epoque": "2012",
+      "epoque": "2011-2017",
       "sources": [
         "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
         "https://www.lemonde.fr/societe/article/2012/03/22/merah-abattu"
