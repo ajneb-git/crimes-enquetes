@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "florence_rey_qcm_001",
+      "affaire_id": "florence_rey",
+      "module": "qcm",
+      "question": "Combien de personnes ont été tuées lors de la fusillade de Florence Rey et Audry Maupin à Paris le 4 octobre 1994 ?",
+      "propositions": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "bonne_reponse": "5",
+      "explication": "La fusillade du 4 octobre 1994 a fait 5 morts : 4 policiers (dont un CRS et trois agents de la brigade anticriminalité) et un chauffeur de taxi pris dans la course-poursuite. Audry Maupin fut abattu lors de l'arrestation. Florence Rey, grièvement blessée, fut arrêtée vivante.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_qcm_002",
+      "affaire_id": "florence_rey",
+      "module": "qcm",
+      "question": "Quel était l'âge de Florence Rey au moment des faits, le 4 octobre 1994 ?",
+      "propositions": [
+        "19 ans",
+        "24 ans",
+        "17 ans",
+        "22 ans"
+      ],
+      "bonne_reponse": "19 ans",
+      "explication": "Florence Rey avait 19 ans au moment des faits. Audry Maupin, son compagnon, en avait 22. Leur jeunesse, leur relation amoureuse et leur idéologie anarchiste ont contribué à la fascination médiatique pour cette affaire, souvent comparée au mythe de Bonnie and Clyde.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_qcm_003",
+      "affaire_id": "florence_rey",
+      "module": "qcm",
+      "question": "À combien d'années de réclusion Florence Rey a-t-elle été condamnée en 1998 ?",
+      "propositions": [
+        "20 ans",
+        "Perpétuité",
+        "30 ans",
+        "15 ans"
+      ],
+      "bonne_reponse": "20 ans",
+      "explication": "Florence Rey a été condamnée en 1998 à 20 ans de réclusion criminelle pour complicité de meurtre et assassinat. Le jury a tenu compte de son jeune âge au moment des faits et du fait qu'Audry Maupin semblait être le meneur. Elle a été libérée en 2009 après avoir purgé sa peine.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_vf_001",
+      "affaire_id": "florence_rey",
+      "module": "vrai_faux",
+      "affirmation": "Audry Maupin a survécu à la fusillade du 4 octobre 1994 et a été jugé avec Florence Rey.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Audry Maupin a été abattu par la police lors de son arrestation le 4 octobre 1994, dans le XIIe arrondissement de Paris. Seule Florence Rey a survécu — grièvement blessée — et a été jugée seule lors du procès de 1998.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_qsj_001",
+      "affaire_id": "florence_rey",
+      "module": "qui_suis_je",
+      "indices": [
+        "Jeune femme de 19 ans, je partageais une idéologie anarchiste avec mon compagnon.",
+        "Le 4 octobre 1994, nous avons semé la terreur dans les rues de Paris, tuant 5 personnes dont 4 policiers.",
+        "Mon compagnon a été abattu ; moi, blessée, j'ai été arrêtée et jugée seule.",
+        "Condamnée à 20 ans, j'ai été libérée en 2009, suscitant une comparaison médiatique avec Bonnie and Clyde."
+      ],
+      "propositions": [
+        "Florence Rey",
+        "Nathalie Menigon",
+        "Véronique Courjault",
+        "Simone Weber"
+      ],
+      "bonne_reponse": "Florence Rey",
+      "explication": "Florence Rey, jeune anarchiste parisienne, est devenue malgré elle une figure tragique des années 1990. Son histoire avec Audry Maupin a inspiré plusieurs œuvres artistiques, dont un film de Philippe Haïm.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_chron_001",
+      "affaire_id": "florence_rey",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Florence Rey et Audry Maupin.",
+      "evenements": [
+        {
+          "label": "Fusillade à Paris : 5 morts dont 4 policiers, Maupin abattu, Rey arrêtée blessée",
+          "date_iso": "1994-10-04"
+        },
+        {
+          "label": "Procès de Florence Rey devant la cour d'assises de Paris",
+          "date_iso": "1998-03-01"
+        },
+        {
+          "label": "Condamnation de Florence Rey à 20 ans de réclusion criminelle",
+          "date_iso": "1998-03-20"
+        },
+        {
+          "label": "Libération de Florence Rey après avoir purgé sa peine",
+          "date_iso": "2009-10-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "4 octobre 1994 : la fusillade. Mars 1998 : procès et condamnation à 20 ans. Octobre 2009 : libération après 15 ans passés en détention.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1994-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey_duel_001",
+      "affaire_id": "florence_rey",
+      "module": "duel",
+      "question": "Lequel de ces deux faits est exact concernant la fusillade du 4 octobre 1994 ?",
+      "item_a": "Florence Rey avait 19 ans et a survécu à la fusillade",
+      "item_b": "Audry Maupin avait 19 ans et a survécu à la fusillade",
+      "bonne_reponse": "a",
+      "explication": "Florence Rey avait bien 19 ans et a été arrêtée vivante, grièvement blessée. C'est son compagnon Audry Maupin (22 ans) qui a été abattu par la police lors de la fusillade finale.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://www.lemonde.fr/societe/article/1998/03/20/florence-rey-condamnee-a-20-ans-de-reclusion_3613166_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

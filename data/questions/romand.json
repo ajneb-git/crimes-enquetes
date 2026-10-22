@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "id": "romand_qcm_001",
+      "affaire_id": "romand",
+      "module": "qcm",
+      "question": "Quelle profession Jean-Claude Romand prétendait-il exercer pendant ses 18 années de mensonge ?",
+      "propositions": ["Médecin chercheur à l'OMS à Genève", "Diplomate au Quai d'Orsay", "Avocat international à Bruxelles", "Banquier à la BNP"],
+      "bonne_reponse": "Médecin chercheur à l'OMS à Genève",
+      "explication": "Pendant 18 ans, Jean-Claude Romand a fait croire à sa famille, ses amis et sa belle-famille qu'il était médecin chercheur à l'Organisation Mondiale de la Santé (OMS) à Genève. Il n'avait en réalité jamais obtenu son diplôme de médecine, ayant raté ses examens de 2e année. Il vivait d'escroqueries à ses proches.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1975-1993",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://fr.wikipedia.org/wiki/L%27Adversaire_(roman)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_qcm_002",
+      "affaire_id": "romand",
+      "module": "qcm",
+      "question": "Combien de membres de sa famille Jean-Claude Romand a-t-il tués le 9 janvier 1993 ?",
+      "propositions": ["4 (femme, 2 enfants, parents)", "2 (femme et mari)", "3 (femme et 2 enfants)", "5 (femme, 2 enfants, parents, belle-mère)"],
+      "bonne_reponse": "4 (femme, 2 enfants, parents)",
+      "explication": "Le 9 janvier 1993, Jean-Claude Romand tua successivement sa femme Florence, ses deux enfants Caroline (7 ans) et Antoine (5 ans) dans leur maison de Prévessin-Moëns (Ain), puis ses parents dans leur maison de Clairvaux-les-Lacs (Jura). Il tenta ensuite de tuer sa belle-mère, mais échoua, avant de mettre le feu à sa maison et tenter de se suicider.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1993",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://www.ina.fr/ina-eclaire-actu/jean-claude-romand-l-adversaire"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_qcm_003",
+      "affaire_id": "romand",
+      "module": "qcm",
+      "question": "Quel écrivain français a consacré un livre célèbre à l'affaire Romand, intitulé 'L'Adversaire' ?",
+      "propositions": ["Emmanuel Carrère", "Patrick Modiano", "Michel Houellebecq", "Frédéric Beigbeder"],
+      "bonne_reponse": "Emmanuel Carrère",
+      "explication": "Emmanuel Carrère a publié 'L'Adversaire' en 2000, un récit non-fictionnel sur l'affaire Romand. Il avait suivi le procès de près et correspondu avec Romand en prison. Le livre explore la psychologie du mensonge et la nature du mal. Il a été adapté en film en 2002 par Nicole Garcia, avec Daniel Auteuil dans le rôle de Romand.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2000",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/L%27Adversaire_(roman)",
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_vf_001",
+      "affaire_id": "romand",
+      "module": "vrai_faux",
+      "affirmation": "Jean-Claude Romand a été condamné à la réclusion criminelle à perpétuité incompressible.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Jean-Claude Romand a été condamné à la réclusion criminelle à perpétuité SIMPLE (avec période de sûreté de 22 ans) lors de son procès à Bourg-en-Bresse en 1996, et non à la perpétuité incompressible. Sa période de sûreté s'est achevée en 2015, lui permettant théoriquement de demander une libération conditionnelle, demandes qui ont toutes été rejetées.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1996",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://fr.wikipedia.org/wiki/P%C3%A9rp%C3%A9tuit%C3%A9_incompressible_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_vf_002",
+      "affaire_id": "romand",
+      "module": "vrai_faux",
+      "affirmation": "Jean-Claude Romand avait effectivement obtenu son doctorat de médecine et travaillé quelques années à l'OMS avant de perdre son poste.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Romand n'a jamais obtenu de diplôme de médecine. Il a raté ses examens de 2e année de médecine à Lyon en 1975, mais n'a jamais dit la vérité à ses proches. Pendant 18 ans, il simulait le trajet Genève-Lyon chaque matin, passait ses journées dans des aires de repos ou des hôtels, et fabriquait de faux documents pour alimenter son mensonge.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1975-1993",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://www.lemonde.fr/archives/article/1996/06/28/jean-claude-romand"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_qsj_001",
+      "affaire_id": "romand",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai raté mes examens de médecine en 2e année mais je n'en ai jamais rien dit à mes proches.",
+        "Pendant 18 ans, je quittais ma famille chaque matin en prétendant me rendre à Genève pour travailler.",
+        "Lorsque mon imposture a failli être découverte, j'ai supprimé les témoins de ma vie mensongère.",
+        "Un roman d'Emmanuel Carrère et un film avec Daniel Auteuil ont immortalisé mon histoire."
+      ],
+      "propositions": ["Jean-Claude Romand", "Patrick Henry", "Guy Georges", "Jean-Pierre Treiber"],
+      "bonne_reponse": "Jean-Claude Romand",
+      "explication": "Jean-Claude Romand, né en 1954 dans l'Ain, a entretenu un mensonge colossal pendant 18 ans avant de tuer toute sa famille en janvier 1993. Son histoire, unique dans les annales criminelles françaises, a inspiré le roman 'L'Adversaire' d'Emmanuel Carrère (2000) et le film de Nicole Garcia (2002) avec Daniel Auteuil.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1993",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://fr.wikipedia.org/wiki/L%27Adversaire_(roman)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_chron_001",
+      "affaire_id": "romand",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire Romand.",
+      "evenements": [
+        {
+          "label": "Romand rate ses examens de 2e année de médecine et commence à mentir à sa famille",
+          "date_iso": "1975-06-01"
+        },
+        {
+          "label": "Romand assassine sa femme, ses deux enfants, puis ses parents — tentative de suicide ratée",
+          "date_iso": "1993-01-09"
+        },
+        {
+          "label": "Romand condamné à la réclusion criminelle à perpétuité au procès de Bourg-en-Bresse",
+          "date_iso": "1996-07-05"
+        },
+        {
+          "label": "Publication de 'L'Adversaire' par Emmanuel Carrère, récit sur l'affaire",
+          "date_iso": "2000-01-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1975 : échec en médecine et début du mensonge. 9 janvier 1993 : quadruple meurtre de la famille. Juillet 1996 : procès et condamnation à perpétuité. 2000 : publication du livre de Carrère. L'affaire illustre comment un mensonge peut durer 18 ans quand l'entourage fait confiance aveuglément.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1975-2000",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://fr.wikipedia.org/wiki/L%27Adversaire_(roman)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand_duel_001",
+      "affaire_id": "romand",
+      "module": "duel",
+      "question": "Lequel de ces deux imposteurs a maintenu son mensonge le plus longtemps avant d'être démasqué ?",
+      "item_a": "Jean-Claude Romand (faux médecin de l'OMS)",
+      "item_b": "Frank Abagnale (faux pilote, médecin et avocat américain)",
+      "bonne_reponse": "a",
+      "explication": "Jean-Claude Romand a maintenu son mensonge pendant 18 ans (1975-1993), contre environ 5 ans pour Frank Abagnale dans les années 1960. Abagnale est célèbre pour ses escroqueries immortalisées dans 'Catch Me If You Can' de Spielberg, mais Romand le dépasse nettement en durée — et son histoire se termine tragiquement par le meurtre de toute sa famille.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1975-1993",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean-Claude_Romand",
+        "https://fr.wikipedia.org/wiki/Frank_Abagnale"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": "bamberski_qcm_001",
+      "affaire_id": "bamberski",
+      "module": "qcm",
+      "question": "En quelle année Kalinka Bamberski, 14 ans, est-elle morte chez son beau-père le Dr Dieter Krombach en Allemagne ?",
+      "propositions": ["1982", "1978", "1985", "1990"],
+      "bonne_reponse": "1982",
+      "explication": "Kalinka Bamberski est morte le 10 juillet 1982 à Lindau, en Allemagne, chez son beau-père le Dr Dieter Krombach. La cause officielle retenue en Allemagne fut un accident cardiaque. André Bamberski, son père, soupçonna immédiatement un viol sous l'effet de sédatifs injectés par Krombach.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1982",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.lemonde.fr/societe/article/2011/03/09/l-affaire-kalinka"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_qcm_002",
+      "affaire_id": "bamberski",
+      "module": "qcm",
+      "question": "Pourquoi l'Allemagne a-t-elle longtemps refusé d'extrader le Dr Krombach vers la France ?",
+      "propositions": [
+        "Le droit allemand interdit l'extradition de ses propres ressortissants",
+        "La prescription du crime était atteinte",
+        "L'Allemagne estimait Krombach innocent",
+        "Il n'existait pas de traité d'extradition franco-allemand"
+      ],
+      "bonne_reponse": "Le droit allemand interdit l'extradition de ses propres ressortissants",
+      "explication": "L'Allemagne refusait d'extrader Dieter Krombach en vertu d'un principe constitutionnel allemand interdisant l'extradition de ses ressortissants. La France l'avait pourtant condamné par contumace à 15 ans de réclusion en 1995. C'est cette impasse juridique qui poussa André Bamberski à organiser l'enlèvement de Krombach en 2009.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1982-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.liberation.fr/societe/2009/10/27/krombach-livre-pieds-et-poings-lies_589905/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_qcm_003",
+      "affaire_id": "bamberski",
+      "module": "qcm",
+      "question": "Comment André Bamberski a-t-il finalement obtenu que Dieter Krombach soit jugé en France en 2009 ?",
+      "propositions": [
+        "En le faisant enlever en Allemagne et déposer ligoté devant un tribunal français",
+        "En obtenant un mandat d'arrêt européen après l'entrée en vigueur du traité de Lisbonne",
+        "En soudoyant des fonctionnaires allemands pour obtenir son extradition",
+        "En attendant que Krombach franchisse lui-même la frontière française"
+      ],
+      "bonne_reponse": "En le faisant enlever en Allemagne et déposer ligoté devant un tribunal français",
+      "explication": "Le 27 octobre 2009, des hommes recrutés par André Bamberski ont enlevé Dieter Krombach en Allemagne et l'ont déposé ligoté devant le palais de justice de Mulhouse. Bamberski a assumé avoir organisé cet enlèvement. Krombach a été jugé et condamné à 15 ans. Bamberski a lui-même été condamné à 1 an de prison avec sursis pour ce kidnapping.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.lefigaro.fr/actualite-france/2009/10/27/krombach-enleve-allemagne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_vf_001",
+      "affaire_id": "bamberski",
+      "module": "vrai_faux",
+      "affirmation": "André Bamberski a été condamné pénalement pour avoir organisé l'enlèvement du Dr Krombach.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Malgré le soutien populaire dont il bénéficiait, André Bamberski a été condamné à 1 an de prison avec sursis pour avoir organisé l'enlèvement de Dieter Krombach sur le sol allemand. Il avait assumé publiquement sa décision, affirmant que c'était le seul moyen d'obtenir justice pour sa fille Kalinka après 27 ans de combat judiciaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2009-2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.lemonde.fr/societe/article/2011/03/09/bamberski-condamne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_vf_002",
+      "affaire_id": "bamberski",
+      "module": "vrai_faux",
+      "affirmation": "La France avait condamné le Dr Krombach à 15 ans de réclusion en son absence, avant même son enlèvement.",
+      "bonne_reponse": true,
+      "explication": "VRAI. En 1995, la cour d'assises du Haut-Rhin avait condamné Dieter Krombach par contumace (en son absence) à 15 ans de réclusion criminelle. Cette condamnation par défaut était légalement valable en France mais impossible à exécuter car Krombach résidait en Allemagne, qui refusait d'extrader ses ressortissants. Ce n'est qu'après son enlèvement en 2009 qu'il a pu être physiquement jugé et incarcéré en France.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.liberation.fr/societe/1995/03/03/krombach-condamne-par-contumace"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_qsj_001",
+      "affaire_id": "bamberski",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un père français dont la fille de 14 ans est morte chez son beau-père médecin en Allemagne en 1982.",
+        "J'ai mené un combat judiciaire de 27 ans pour obtenir justice, en vain par les voies légales.",
+        "En 2009, j'ai pris une décision illégale spectaculaire : faire enlever le suspect et le déposer ligoté devant un tribunal français.",
+        "J'ai été condamné à 1 an avec sursis pour ce kidnapping, que j'ai toujours assumé publiquement."
+      ],
+      "propositions": ["André Bamberski", "Jean-Pierre Treiber", "Patrick Henry", "Roland Agret"],
+      "bonne_reponse": "André Bamberski",
+      "explication": "André Bamberski est le père de Kalinka, morte en 1982 en Allemagne chez son beau-père le Dr Dieter Krombach. Son combat judiciaire de près de 30 ans, couronné par l'enlèvement spectaculaire de Krombach en 2009, est devenu l'un des épisodes les plus extraordinaires de la chronique judiciaire française.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1982-2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Andr%C3%A9_Bamberski",
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_chron_001",
+      "affaire_id": "bamberski",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements clés de l'affaire Kalinka Bamberski.",
+      "evenements": [
+        {
+          "label": "Mort de Kalinka Bamberski, 14 ans, chez le Dr Krombach à Lindau (Allemagne)",
+          "date_iso": "1982-07-10"
+        },
+        {
+          "label": "La France condamne Krombach par contumace à 15 ans de réclusion",
+          "date_iso": "1995-03-03"
+        },
+        {
+          "label": "Bamberski fait enlever Krombach en Allemagne et le dépose ligoté à Mulhouse",
+          "date_iso": "2009-10-27"
+        },
+        {
+          "label": "Krombach condamné à 15 ans par la cour d'assises de Paris ; Bamberski condamné à 1 an avec sursis",
+          "date_iso": "2011-03-09"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1982 : mort de Kalinka. 1995 : condamnation par contumace de Krombach (inapplicable). 2009 : enlèvement spectaculaire de Krombach par des hommes de main mandatés par Bamberski. 2011 : Krombach condamné à 15 ans — 29 ans après le crime.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1982-2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.lemonde.fr/societe/article/2011/03/09/affaire-kalinka-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski_duel_001",
+      "affaire_id": "bamberski",
+      "module": "duel",
+      "question": "Dans l'affaire Kalinka Bamberski, qui a été condamné à la peine la plus lourde ?",
+      "item_a": "Dieter Krombach (beau-père de Kalinka)",
+      "item_b": "André Bamberski (père de Kalinka)",
+      "bonne_reponse": "a",
+      "explication": "Dieter Krombach a été condamné à 15 ans de réclusion criminelle pour le viol et la mort de Kalinka. André Bamberski, bien qu'ayant organisé l'enlèvement illégal de Krombach sur le sol allemand, n'a reçu qu'1 an de prison avec sursis, la justice ayant tenu compte de son long combat pour obtenir justice.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Kalinka",
+        "https://www.lemonde.fr/societe/article/2011/03/09/affaire-kalinka-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

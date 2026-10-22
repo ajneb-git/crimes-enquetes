@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "id": "meilhon_qcm_001",
+      "affaire_id": "meilhon",
+      "module": "qcm",
+      "question": "Dans quelle ville Laëtitia Perrais a-t-elle disparu le 18 janvier 2011 ?",
+      "propositions": [
+        "Pornic",
+        "Saint-Nazaire",
+        "Nantes",
+        "La Baule"
+      ],
+      "bonne_reponse": "Pornic",
+      "explication": "Laëtitia Perrais, 18 ans, a disparu le 18 janvier 2011 à Pornic, en Loire-Atlantique, après une soirée dans un bar. Elle était en apprentissage dans un hôtel-restaurant de la commune. Tony Meilhon, qui l'avait croisée, l'a enlevée, violée et tuée avant de démembrer son corps.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_qcm_002",
+      "affaire_id": "meilhon",
+      "module": "qcm",
+      "question": "Quel livre, récompensé par le prix Médicis en 2016, relate l'histoire de Laëtitia Perrais et les dysfonctionnements de la protection de l'enfance ?",
+      "propositions": [
+        "'Laëtitia' d'Ivan Jablonka",
+        "'La Vérité sur l'affaire Harry Quebert' de Joël Dicker",
+        "'Les Années' d'Annie Ernaux",
+        "'L'Adversaire' d'Emmanuel Carrère"
+      ],
+      "bonne_reponse": "'Laëtitia' d'Ivan Jablonka",
+      "explication": "Le livre 'Laëtitia ou la fin des hommes' d'Ivan Jablonka (Seuil, 2016) a remporté le prix Médicis essai. L'historien y retrace la vie de Laëtitia, enfant placée chez une famille d'accueil, et analyse les failles du système de protection de l'enfance, au-delà du seul crime de Meilhon.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://fr.wikipedia.org/wiki/La%C3%ABtitia_ou_la_fin_des_hommes"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_vf_001",
+      "affaire_id": "meilhon",
+      "module": "vrai_faux",
+      "affirmation": "Nicolas Sarkozy a utilisé l'affaire Laëtitia Perrais pour critiquer publiquement la magistrature française.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Dès l'annonce de la disparition de Laëtitia, Nicolas Sarkozy (alors président) a convoqué le directeur de l'administration pénitentiaire et violemment critiqué les juges ayant accordé un contrôle judiciaire à Meilhon, multirécidiviste connu. Cette intervention politique dans une affaire judiciaire en cours a déclenché une grève des magistrats et un vif débat sur l'indépendance de la justice.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_vf_002",
+      "affaire_id": "meilhon",
+      "module": "vrai_faux",
+      "affirmation": "Laëtitia Perrais était une enfant placée en famille d'accueil au moment de son meurtre.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Laëtitia Perrais avait été placée en famille d'accueil avec sa sœur jumelle Jessica dès son plus jeune âge, après des violences familiales. L'affaire a révélé de graves dysfonctionnements dans le suivi de la famille d'accueil, le père nourricier ayant lui-même abusé de Laëtitia — ce qui n'avait pas été détecté par les services sociaux.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_qsj_001",
+      "affaire_id": "meilhon",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un multirécidiviste français arrêté en janvier 2011 pour l'enlèvement et le meurtre d'une jeune femme de 18 ans.",
+        "Mon crime a provoqué une crise entre le président Sarkozy et la magistrature française.",
+        "Mon arrestation et mon procès ont révélé les failles du système de protection de l'enfance.",
+        "J'ai été condamné à la réclusion criminelle à perpétuité en 2013 pour le meurtre de Laëtitia Perrais."
+      ],
+      "propositions": [
+        "Tony Meilhon",
+        "Nordahl Lelandais",
+        "Francis Heaulme",
+        "Pierre Chanal"
+      ],
+      "bonne_reponse": "Tony Meilhon",
+      "explication": "Tony Meilhon, multirécidiviste de 30 ans, était connu de la justice pour de nombreux délits. Sa remise en liberté sous contrôle judiciaire quelques mois avant le meurtre de Laëtitia Perrais a déclenché une crise politique majeure et un débat national sur le suivi judiciaire des récidivistes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_chron_001",
+      "affaire_id": "meilhon",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements liés à l'affaire Laëtitia Perrais.",
+      "evenements": [
+        {
+          "label": "Disparition de Laëtitia Perrais à Pornic ; le corps sera retrouvé démembré",
+          "date_iso": "2011-01-18"
+        },
+        {
+          "label": "Nicolas Sarkozy critique publiquement les magistrats ; grève des juges en réponse",
+          "date_iso": "2011-01-25"
+        },
+        {
+          "label": "Condamnation de Tony Meilhon à la réclusion criminelle à perpétuité",
+          "date_iso": "2013-11-14"
+        },
+        {
+          "label": "Publication de 'Laëtitia ou la fin des hommes' d'Ivan Jablonka, Prix Médicis essai",
+          "date_iso": "2016-09-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "18 janvier 2011 : disparition de Laëtitia. Fin janvier 2011 : polémique Sarkozy / magistrature. Novembre 2013 : Meilhon condamné à perpétuité. 2016 : prix Médicis pour le livre d'Ivan Jablonka.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2011-2016",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon_duel_001",
+      "affaire_id": "meilhon",
+      "module": "duel",
+      "question": "Lequel de ces deux crimes a déclenché une crise entre un président de la République et la magistrature française ?",
+      "item_a": "Le meurtre de Laëtitia Perrais par Tony Meilhon (2011)",
+      "item_b": "Le meurtre de Sophie Toscan du Plantier par Ian Bailey (1996)",
+      "bonne_reponse": "a",
+      "explication": "C'est bien l'affaire Laëtitia qui a déclenché la crise : Sarkozy a publiquement mis en cause les juges ayant libéré Meilhon sous contrôle judiciaire, provoquant une grève historique de la magistrature. L'affaire Sophie Toscan du Plantier (en Irlande) n'a eu aucune répercussion sur la justice française.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2011",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_La%C3%ABtitia",
+        "https://www.ouest-france.fr/pays-de-la-loire/pornic/affaire-laetitia-perrais-pornic-2011"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "simone_weber_qcm_001",
+      "affaire_id": "simone_weber",
+      "module": "qcm",
+      "question": "Dans quelle ville Simone Weber a-t-elle tué et démembré son fiancé Bernard Hettier en 1985 ?",
+      "propositions": [
+        "Nancy",
+        "Metz",
+        "Strasbourg",
+        "Reims"
+      ],
+      "bonne_reponse": "Nancy",
+      "explication": "Simone Weber résidait à Nancy (Meurthe-et-Moselle) où elle a empoisonné son fiancé Bernard Hettier en 1985. Elle a ensuite démembré le corps et tenté de faire disparaître les restes, dont un bras retrouvé dans la Meurthe, qui a permis de l'identifier comme suspecte.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1985",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_qcm_002",
+      "affaire_id": "simone_weber",
+      "module": "qcm",
+      "question": "Quel indice capital a permis de relier Simone Weber au meurtre de Bernard Hettier ?",
+      "propositions": [
+        "Un bras retrouvé dans la Meurthe",
+        "Une lettre manuscrite",
+        "Des empreintes digitales",
+        "Un témoin oculaire"
+      ],
+      "bonne_reponse": "Un bras retrouvé dans la Meurthe",
+      "explication": "Après la disparition de Bernard Hettier, un bras humain a été retrouvé dans la Meurthe, la rivière qui traverse Nancy. L'analyse médico-légale a permis d'établir un lien avec Hettier, orientant les soupçons vers Simone Weber. Cette découverte macabre a déclenché l'ouverture d'une enquête à son domicile.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1985",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_qcm_003",
+      "affaire_id": "simone_weber",
+      "module": "qcm",
+      "question": "Quelle peine Simone Weber a-t-elle reçue lors de son procès en 1991 ?",
+      "propositions": [
+        "La réclusion criminelle à perpétuité",
+        "30 ans de réclusion",
+        "20 ans de réclusion",
+        "15 ans de réclusion"
+      ],
+      "bonne_reponse": "La réclusion criminelle à perpétuité",
+      "explication": "Simone Weber a été condamnée à la réclusion criminelle à perpétuité en 1991 pour le meurtre de Bernard Hettier. Elle a également été acquittée du meurtre de son ex-mari Marcel Fixard, décédé en 1980 dans des circonstances suspectes. Elle a été libérée conditionnellement en 2009, après 24 ans de détention.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_vf_001",
+      "affaire_id": "simone_weber",
+      "module": "vrai_faux",
+      "affirmation": "Simone Weber a été condamnée à la fois pour le meurtre de son fiancé Bernard Hettier et pour celui de son ex-mari Marcel Fixard.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Simone Weber a été condamnée pour le seul meurtre de Bernard Hettier (1985). Pour le décès de son ex-mari Marcel Fixard survenu en 1980 — présenté comme une crise cardiaque mais suspecté d'être un empoisonnement — elle a été acquittée, faute de preuves suffisantes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_qsj_001",
+      "affaire_id": "simone_weber",
+      "module": "qui_suis_je",
+      "indices": [
+        "Surnommée 'la Diabolique', j'ai empoisonné mon fiancé dans l'Est de la France en 1985.",
+        "J'ai démembré le corps pour faire disparaître les preuves, mais un bras a trahi ma culpabilité.",
+        "Mon calme glacial lors du procès de 1991 a fasciné et effrayé l'opinion publique.",
+        "Condamnée à perpétuité, j'ai été libérée en 2009 après 24 ans de détention à Nancy."
+      ],
+      "propositions": [
+        "Simone Weber",
+        "Christine Malèvre",
+        "Marie-Thérèse Gurdin",
+        "Valérie Bacot"
+      ],
+      "bonne_reponse": "Simone Weber",
+      "explication": "Simone Weber, dite 'la Diabolique de Nancy', est l'une des criminelles françaises les plus médiatisées des années 1980-90. Son sang-froid absolu lors du procès, conjugué à la nature macabre des faits, a durablement marqué les esprits.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1985-1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_chron_001",
+      "affaire_id": "simone_weber",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique les étapes de l'affaire Simone Weber.",
+      "evenements": [
+        {
+          "label": "Décès suspect de Marcel Fixard, ex-mari de Simone Weber, pour lequel elle sera acquittée",
+          "date_iso": "1980-06-01"
+        },
+        {
+          "label": "Disparition de Bernard Hettier, fiancé de Weber ; un bras retrouvé dans la Meurthe relance l'enquête",
+          "date_iso": "1985-06-01"
+        },
+        {
+          "label": "Condamnation de Simone Weber à la réclusion criminelle à perpétuité pour le meurtre de Hettier",
+          "date_iso": "1991-11-01"
+        },
+        {
+          "label": "Libération conditionnelle de Simone Weber après 24 ans de détention",
+          "date_iso": "2009-06-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1980 : mort suspecte de l'ex-mari Fixard (acquittement). 1985 : disparition de Hettier, bras retrouvé. 1991 : condamnation à perpétuité. 2009 : libération conditionnelle après 24 ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber_duel_001",
+      "affaire_id": "simone_weber",
+      "module": "duel",
+      "question": "Laquelle de ces deux femmes a été condamnée à la réclusion criminelle à perpétuité en France ?",
+      "item_a": "Simone Weber ('la Diabolique de Nancy')",
+      "item_b": "Christine Malèvre ('l'infirmière de la mort')",
+      "bonne_reponse": "a",
+      "explication": "Simone Weber a été condamnée à la réclusion criminelle à perpétuité en 1991. Christine Malèvre, elle, n'a reçu que 10 ans de réclusion (réduits à 9 en appel) en 2003, le jury ayant tenu compte du contexte particulier des soins palliatifs défaillants.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1991",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Simone_Weber",
+        "https://www.criminocorpus.fr/fr/reperes/criminologie/grandes-affaires/affaire-simone-weber/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

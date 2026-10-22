@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "malevere_qcm_001",
+      "affaire_id": "malevere",
+      "module": "qcm",
+      "question": "Dans quel hôpital Christine Malèvre exerçait-elle comme infirmière lorsqu'elle a été arrêtée en 1998 ?",
+      "propositions": [
+        "Hôpital de Mantes-la-Jolie",
+        "Hôpital Lariboisière à Paris",
+        "CHU de Rouen",
+        "Hôpital de Pontoise"
+      ],
+      "bonne_reponse": "Hôpital de Mantes-la-Jolie",
+      "explication": "Christine Malèvre travaillait aux soins intensifs de l'hôpital de Mantes-la-Jolie (Yvelines). C'est un médecin de l'établissement qui, ayant remarqué des morts suspectes, a alerté les autorités en 1997-1998.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre",
+        "https://www.lemonde.fr/societe/article/2003/06/30/christine-malevere-condamnee-a-10-ans-de-reclusion_321623_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_qcm_002",
+      "affaire_id": "malevere",
+      "module": "qcm",
+      "question": "Combien d'euthanasies Christine Malèvre a-t-elle initialement avoué avoir commises ?",
+      "propositions": [
+        "Environ 30",
+        "6",
+        "Environ 50",
+        "3"
+      ],
+      "bonne_reponse": "Environ 30",
+      "explication": "Lors de sa garde à vue, Christine Malèvre a avoué avoir euthanasié environ 30 patients en soins intensifs entre 1997 et 1998. Elle s'est partiellement rétractée par la suite, affirmant avoir agi uniquement à la demande de patients souffrants. Elle a finalement été condamnée pour 6 meurtres prouvés.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre",
+        "https://www.lemonde.fr/societe/article/2003/06/30/christine-malevere-condamnee-a-10-ans-de-reclusion_321623_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_qcm_003",
+      "affaire_id": "malevere",
+      "module": "qcm",
+      "question": "Quelle loi majeure sur la fin de vie, directement liée au débat ouvert par l'affaire Malèvre, a été adoptée en France en 2005 ?",
+      "propositions": [
+        "La loi Leonetti",
+        "La loi Veil",
+        "La loi Badinter",
+        "La loi Kouchner"
+      ],
+      "bonne_reponse": "La loi Leonetti",
+      "explication": "La loi du 22 avril 2005, dite loi Leonetti (du nom du député Jean Leonetti), a été la première législation française encadrant la fin de vie : elle autorise l'arrêt des traitements, les soins palliatifs et la sédation profonde, mais n'autorise pas l'euthanasie active. L'affaire Malèvre avait mis en lumière le vide juridique sur ce sujet.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Loi_Leonetti",
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_vf_001",
+      "affaire_id": "malevere",
+      "module": "vrai_faux",
+      "affirmation": "Christine Malèvre a été condamnée à la réclusion criminelle à perpétuité pour les meurtres de ses patients.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Christine Malèvre a été condamnée à 10 ans de réclusion criminelle en 2003 par la cour d'assises de Versailles, ramenés à 9 ans en appel. Elle a été libérée en 2006 après avoir purgé les deux tiers de sa peine. La perpétuité n'a jamais été requise, le jury ayant pris en compte le contexte de soins palliatifs défaillants.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre",
+        "https://www.lemonde.fr/societe/article/2003/06/30/christine-malevere-condamnee-a-10-ans-de-reclusion_321623_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_qsj_001",
+      "affaire_id": "malevere",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une infirmière française qui a travaillé en soins intensifs à la fin des années 1990.",
+        "J'ai avoué avoir mis fin aux jours d'une trentaine de patients en grande souffrance.",
+        "Mon procès en 2003 a relancé en France le débat sur la légalisation de l'euthanasie.",
+        "J'ai été condamnée à 10 ans de réclusion, puis libérée en 2006."
+      ],
+      "propositions": [
+        "Christine Malèvre",
+        "Simone Weber",
+        "Valérie Bacot",
+        "Christine Villemin"
+      ],
+      "bonne_reponse": "Christine Malèvre",
+      "explication": "Christine Malèvre, surnommée 'l'infirmière de la mort' par les médias, est la figure centrale d'un débat éthique qui a traversé la France au tournant des années 2000. Son affaire a directement contribué à l'adoption de la loi Leonetti de 2005 sur la fin de vie.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1998-2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre",
+        "https://www.lemonde.fr/societe/article/2003/06/30/christine-malevere-condamnee-a-10-ans-de-reclusion_321623_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_chron_001",
+      "affaire_id": "malevere",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique les étapes clés de l'affaire Malèvre.",
+      "evenements": [
+        {
+          "label": "Arrestation de Christine Malèvre après signalement d'un médecin de l'hôpital",
+          "date_iso": "1998-05-06"
+        },
+        {
+          "label": "Condamnation à 10 ans de réclusion criminelle par la cour d'assises de Versailles",
+          "date_iso": "2003-06-30"
+        },
+        {
+          "label": "Adoption de la loi Leonetti sur la fin de vie, conséquence indirecte du débat ouvert par l'affaire",
+          "date_iso": "2005-04-22"
+        },
+        {
+          "label": "Libération conditionnelle de Christine Malèvre après 8 ans de détention",
+          "date_iso": "2006-06-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Mai 1998 : arrestation. Juin 2003 : condamnation à 10 ans (réduite à 9 en appel). Avril 2005 : loi Leonetti sur la fin de vie. Juin 2006 : libération conditionnelle.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998-2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre",
+        "https://fr.wikipedia.org/wiki/Loi_Leonetti"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "malevere_duel_001",
+      "affaire_id": "malevere",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires a le plus directement alimenté le débat législatif sur la fin de vie en France ?",
+      "item_a": "L'affaire Christine Malèvre (1998)",
+      "item_b": "L'affaire Vincent Humbert (2003)",
+      "bonne_reponse": "b",
+      "explication": "C'est l'affaire Vincent Humbert — ce jeune tétraplégique qui demandait publiquement le droit à mourir et dont la mère a mis fin à ses souffrances en 2003 — qui a directement conduit à la loi Leonetti de 2005. L'affaire Malèvre avait ouvert le débat dès 1998, mais c'est le cas Humbert, très médiatisé et soutenu par l'opinion publique, qui a déclenché l'action législative.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1998-2005",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Vincent_Humbert",
+        "https://fr.wikipedia.org/wiki/Loi_Leonetti"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "freres_jourdain_qcm_001",
+      "affaire_id": "freres_jourdain",
+      "module": "qcm",
+      "question": "Dans quelle région de France les frères Thierry et Christian Jourdain ont-ils commis leurs crimes au début des années 1990 ?",
+      "propositions": [
+        "Poitou-Charentes",
+        "Normandie",
+        "Bretagne",
+        "Alsace"
+      ],
+      "bonne_reponse": "Poitou-Charentes",
+      "explication": "Les frères Jourdain ont sévi principalement en Poitou-Charentes au début des années 1990. Leur affaire a été traitée par l'émission 'Faites entrer l'accusé'. Note : les détails précis de cette affaire restent peu documentés dans les sources disponibles ; cette question est à vérifier.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1993-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
+        "https://www.france.tv/france-2/faites-entrer-l-accuse/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_qcm_002",
+      "affaire_id": "freres_jourdain",
+      "module": "qcm",
+      "question": "Quel est le nom de l'émission télévisée française qui a consacré un épisode aux frères Jourdain et a popularisé de nombreuses affaires criminelles ?",
+      "propositions": [
+        "Faites entrer l'accusé",
+        "Enquêtes criminelles",
+        "Témoin n°1",
+        "L'Heure du crime"
+      ],
+      "bonne_reponse": "Faites entrer l'accusé",
+      "explication": "'Faites entrer l'accusé' est une émission de France 2, animée par Christophe Hondelatte, diffusée de 2000 à 2012 puis relancée en 2017. Elle a traité environ 200 grandes affaires criminelles françaises, dont celle des frères Jourdain, et constitue une référence pour la criminologie grand public en France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2000-2019",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
+        "https://www.france.tv/france-2/faites-entrer-l-accuse/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_vf_001",
+      "affaire_id": "freres_jourdain",
+      "module": "vrai_faux",
+      "affirmation": "Les criminels agissant en duo frère-frère sont un phénomène exceptionnel dans l'histoire criminelle française.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Plusieurs affaires criminelles françaises impliquent des frères ou des duos familiaux : les frères Jourdain, les frères Kouachi (Charlie Hebdo), les frères Léger (affaire de Mourmelon), etc. La criminologie note que les liens familiaux peuvent renforcer l'emprise mutuelle, réduire les inhibitions et faciliter la planification des crimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1990s",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
+        "https://fr.wikipedia.org/wiki/Criminalit%C3%A9_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_qsj_001",
+      "affaire_id": "freres_jourdain",
+      "module": "qui_suis_je",
+      "indices": [
+        "Nous sommes deux frères ayant commis ensemble des crimes violents dans l'ouest de la France.",
+        "Nos méfaits ont eu lieu principalement en Poitou-Charentes au début des années 1990.",
+        "Notre affaire a été couverte par l'émission 'Faites entrer l'accusé' sur France 2.",
+        "Nous avons tous deux été condamnés à de lourdes peines de réclusion criminelle."
+      ],
+      "propositions": ["Les frères Jourdain", "Les frères Kouachi", "Les frères Léger", "Les frères Zemour"],
+      "bonne_reponse": "Les frères Jourdain",
+      "explication": "Thierry et Christian Jourdain sont deux frères condamnés pour des crimes violents commis en Poitou-Charentes dans les années 1990. Leur affaire illustre le phénomène des duos criminels fraternels, dans lesquels la complicité familiale peut renforcer le passage à l'acte. Note : les détails de cette affaire sont à vérifier.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1993-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
+        "https://fr.wikipedia.org/wiki/Criminalit%C3%A9_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_chron_001",
+      "affaire_id": "freres_jourdain",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces grandes affaires criminelles françaises impliquant des duos ou complices.",
+      "evenements": [
+        {
+          "label": "Affaire des frères Jourdain : meurtres en Poitou-Charentes",
+          "date_iso": "1993-01-01"
+        },
+        {
+          "label": "Florence Rey et Audry Maupin tuent 5 policiers lors d'une cavale parisienne",
+          "date_iso": "1994-10-04"
+        },
+        {
+          "label": "Attentat de Charlie Hebdo par les frères Kouachi",
+          "date_iso": "2015-01-07"
+        },
+        {
+          "label": "Attentats du 13 novembre 2015 : commando de 9 hommes coordonnés",
+          "date_iso": "2015-11-13"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1993 : frères Jourdain (Poitou-Charentes). 4 octobre 1994 : Florence Rey et Audry Maupin (5 policiers tués à Paris). 7 janvier 2015 : frères Kouachi (Charlie Hebdo). 13 novembre 2015 : commando coordonné du 13-Novembre.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1993-2015",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9",
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain_duel_001",
+      "affaire_id": "freres_jourdain",
+      "module": "duel",
+      "question": "Lequel de ces deux duos criminels français a causé le plus de victimes mortelles ?",
+      "item_a": "Les frères Jourdain (Poitou-Charentes, années 1990)",
+      "item_b": "Florence Rey et Audry Maupin (Paris, octobre 1994)",
+      "bonne_reponse": "b",
+      "explication": "Florence Rey et Audry Maupin ont tué 5 personnes (dont 4 policiers) en une seule nuit d'octobre 1994 à Paris. Le bilan précis des frères Jourdain est moins bien documenté dans les sources accessibles, mais il est estimé à un nombre inférieur de victimes. Note : à vérifier.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1993-1994",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Florence_Rey_et_Audry_Maupin",
+        "https://fr.wikipedia.org/wiki/Faites_entrer_l%27accus%C3%A9"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

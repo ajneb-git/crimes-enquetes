@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "colonna_qcm_001",
+      "affaire_id": "colonna",
+      "module": "qcm",
+      "question": "Quel était le titre du préfet Claude Érignac, assassiné à Ajaccio le 6 février 1998 ?",
+      "propositions": [
+        "Préfet de Corse",
+        "Préfet de Police de Paris",
+        "Préfet des Bouches-du-Rhône",
+        "Préfet de la Haute-Corse"
+      ],
+      "bonne_reponse": "Préfet de Corse",
+      "explication": "Claude Érignac était préfet de Corse (préfet de Région, préfet de la Corse-du-Sud) depuis 1996. Abattu le 6 février 1998 à Ajaccio d'une balle dans la nuque, il est le premier préfet assassiné en France depuis la Libération, et l'un des représentants de l'État les plus haut placés jamais tués par un attentat nationaliste corse.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Claude_%C3%89rignac",
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_qcm_002",
+      "affaire_id": "colonna",
+      "module": "qcm",
+      "question": "Combien d'années Yvan Colonna a-t-il passées en cavale avant son arrestation ?",
+      "propositions": [
+        "4 ans",
+        "2 ans",
+        "7 ans",
+        "10 ans"
+      ],
+      "bonne_reponse": "4 ans",
+      "explication": "Yvan Colonna est entré en clandestinité immédiatement après l'assassinat du préfet Érignac en février 1998 et a été arrêté en juillet 2003, soit 4 ans et demi après les faits. Il se cachait dans le maquis corse, notamment dans la région de Cargèse. C'est l'une des plus longues cavales de l'histoire criminelle française récente.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna",
+        "https://www.lemonde.fr/societe/article/2022/03/21/yvan-colonna-est-decede_6118530_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_qcm_003",
+      "affaire_id": "colonna",
+      "module": "qcm",
+      "question": "Dans quelle prison Yvan Colonna a-t-il été agressé par un codétenu islamiste en mars 2022, quelques jours avant son décès ?",
+      "propositions": [
+        "La prison d'Arles",
+        "La prison de Fresnes",
+        "La prison de Fleury-Mérogis",
+        "La prison de Borgo en Corse"
+      ],
+      "bonne_reponse": "La prison d'Arles",
+      "explication": "Yvan Colonna a été agressé le 2 mars 2022 par Franck Elong Abé, un islamiste radical détenu au centre pénitentiaire d'Arles. Colonna est décédé le 21 mars 2022 des suites de ses blessures. Son décès a provoqué de violentes émeutes en Corse et relancé le débat sur le rapprochement des prisonniers corses.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna",
+        "https://www.lemonde.fr/societe/article/2022/03/21/yvan-colonna-est-decede_6118530_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_vf_001",
+      "affaire_id": "colonna",
+      "module": "vrai_faux",
+      "affirmation": "Yvan Colonna a reconnu être l'auteur de l'assassinat du préfet Érignac lors de son procès.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Yvan Colonna a toujours nié être l'auteur du coup de feu fatal, affirmant qu'il était présent mais n'avait pas tiré. Il a contesté sa culpabilité tout au long de son procès (2007) et en appel (2011). Malgré ces dénégations, il a été condamné à la réclusion criminelle à perpétuité sur la base des témoignages et des preuves réunies.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2007",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna",
+        "https://www.lemonde.fr/societe/article/2022/03/21/yvan-colonna-est-decede_6118530_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_qsj_001",
+      "affaire_id": "colonna",
+      "module": "qui_suis_je",
+      "indices": [
+        "Berger corse et militant nationaliste, je suis devenu l'ennemi public numéro un de l'État français en 1998.",
+        "J'ai vécu 4 ans en cavale dans le maquis corse avant d'être arrêté en 2003.",
+        "Condamné à perpétuité, j'ai toujours nié avoir tiré la balle fatale.",
+        "Mon décès en prison en 2022, après une agression par un islamiste, a provoqué des émeutes en Corse."
+      ],
+      "propositions": [
+        "Yvan Colonna",
+        "Pierre Alessandri",
+        "Alain Ferrandi",
+        "Jean-Guy Talamoni"
+      ],
+      "bonne_reponse": "Yvan Colonna",
+      "explication": "Yvan Colonna (1969-2022), fils de l'ancien député corse Jean-Hugues Colonna, est condamné pour l'assassinat du préfet Claude Érignac. Sa mort en 2022 à la suite d'une agression en prison a cristallisé les revendications autonomistes corses.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1998-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna",
+        "https://www.lemonde.fr/societe/article/2022/03/21/yvan-colonna-est-decede_6118530_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_chron_001",
+      "affaire_id": "colonna",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique les étapes de l'affaire Yvan Colonna.",
+      "evenements": [
+        {
+          "label": "Assassinat du préfet Claude Érignac à Ajaccio — premier préfet tué depuis la Libération",
+          "date_iso": "1998-02-06"
+        },
+        {
+          "label": "Arrestation de Yvan Colonna dans le maquis corse après 4 ans de cavale",
+          "date_iso": "2003-07-04"
+        },
+        {
+          "label": "Condamnation à la réclusion criminelle à perpétuité confirmée en appel",
+          "date_iso": "2011-05-01"
+        },
+        {
+          "label": "Décès de Yvan Colonna à la prison d'Arles après agression par un islamiste",
+          "date_iso": "2022-03-21"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "6 février 1998 : assassinat du préfet Érignac. Juillet 2003 : arrestation de Colonna. 2011 : condamnation à perpétuité confirmée en appel. 21 mars 2022 : décès en prison après l'agression du 2 mars.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1998-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yvan_Colonna",
+        "https://www.lemonde.fr/societe/article/2022/03/21/yvan-colonna-est-decede_6118530_3224.html"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna_duel_001",
+      "affaire_id": "colonna",
+      "module": "duel",
+      "question": "Lequel de ces deux hauts fonctionnaires a été assassiné en France dans un attentat à caractère politique ?",
+      "item_a": "Le préfet Claude Érignac (1998, Corse)",
+      "item_b": "Le préfet Bernard Bonnet (1999, Corse)",
+      "bonne_reponse": "a",
+      "explication": "Le préfet Claude Érignac a été assassiné à Ajaccio le 6 février 1998. Le préfet Bernard Bonnet, son successeur, n'a pas été assassiné : c'est lui qui a ordonné l'incendie illégal des paillotes corses en 1999, ce qui lui a valu une condamnation judiciaire. Les deux noms sont souvent confondus dans l'histoire criminelle corse.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1998",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Claude_%C3%89rignac",
+        "https://fr.wikipedia.org/wiki/Affaire_des_paillotes"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

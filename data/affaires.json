@@ -530,6 +530,159 @@
       "lieu": "Royaume-Uni / Gloucester",
       "resume": "Couple britannique ayant violé, torturé et assassiné au moins 12 jeunes femmes, dont leur propre fille, enterrées dans leur maison de Cromwell Street. Fred se suicide en prison en 1995. Rosemary est condamnée à la perpétuité la même année.",
       "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "romand",
+      "nom": "Jean-Claude Romand",
+      "alias": "L'Adversaire",
+      "dates": "1993",
+      "lieu": "France / Ain",
+      "resume": "Pendant 18 ans, Jean-Claude Romand a fait croire à sa famille qu'il était médecin chercheur à l'OMS à Genève. En janvier 1993, alors que son imposture allait être découverte, il assassina sa femme, ses deux enfants, ses parents, puis tenta de se suicider. Condamné à la réclusion criminelle à perpétuité en 1996.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi",
+      "nom": "Affaire Ilan Halimi",
+      "alias": "La Bande des Barbares",
+      "dates": "2006",
+      "lieu": "France / Bagneux",
+      "resume": "En janvier 2006, Ilan Halimi, 23 ans, est attiré dans un guet-apens, séquestré et torturé pendant 24 jours par la 'Bande des Barbares', un groupe ciblant des Juifs pour rançon. Il décède le 13 février 2006. Le chef du groupe, Youssouf Fofana, est condamné à la réclusion criminelle à perpétuité.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah",
+      "nom": "Mohamed Merah",
+      "alias": "Le Tueur de Toulouse",
+      "dates": "Mars 2012",
+      "lieu": "France / Toulouse et Montauban",
+      "resume": "En mars 2012, Mohamed Merah assassine 7 personnes en 11 jours : 3 militaires à Montauban, puis 3 enfants et un père de famille dans une école juive à Toulouse. Se réclamant d'Al-Qaïda, il est abattu par le RAID le 22 mars 2012 après un siège de 32 heures.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "succo",
+      "nom": "Roberto Succo",
+      "alias": "Le Tueur sans visage",
+      "dates": "1981–1988",
+      "lieu": "Italie / France",
+      "resume": "Roberto Succo tua ses parents en Italie en 1981, s'échappa de l'hôpital psychiatrique et commit plusieurs meurtres en France et en Italie dont celui d'un gendarme français. Arrêté en 1988, il se suicida en prison avant son procès. Inspiré d'un roman de Pascale Froment et d'un film de Claire Denis.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "lamare",
+      "nom": "Alain Lamare",
+      "alias": "Le Gendarme tueur de l'Oise",
+      "dates": "1978–1979",
+      "lieu": "France / Oise",
+      "resume": "Gendarme en activité dans l'Oise, Alain Lamare commet 4 meurtres et de nombreux viols entre 1978 et 1979. Ses collègues enquêtent sans se douter qu'il est le coupable. Arrêté en 1979, il est condamné à la réclusion criminelle à perpétuité. Cas unique dans l'histoire de la gendarmerie française.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "chanal",
+      "nom": "Pierre Chanal",
+      "alias": "Les Disparus de Mourmelon",
+      "dates": "1980–1988",
+      "lieu": "France / Marne",
+      "resume": "Sous-officier de l'armée à Mourmelon-le-Grand, Pierre Chanal est le principal suspect dans la disparition de 7 jeunes soldats du camp militaire entre 1980 et 1988. Jugé pour une autre agression en 1994, il nie toujours les disparitions. Se suicide en 2003 à la veille de son procès pour meurtre.",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "malevere",
+      "nom": "Christine Malèvre",
+      "alias": "L'Infirmière de la mort",
+      "dates": "1997–1998",
+      "lieu": "France / Mantes-la-Jolie",
+      "resume": "Infirmière aux soins intensifs de l'hôpital de Mantes-la-Jolie, Christine Malèvre avoua en 1998 avoir euthanasié environ 30 patients. Elle se rétracta partiellement lors du procès. Condamnée en 2003 à 10 ans de réclusion, libérée en 2006. Son affaire alimenta le débat sur la légalisation de l'euthanasie en France.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "florence_rey",
+      "nom": "Florence Rey et Audry Maupin",
+      "alias": "Les Amants Maudits",
+      "dates": "4 octobre 1994",
+      "lieu": "France / Paris",
+      "resume": "Le 4 octobre 1994, Florence Rey et Audry Maupin, couple de jeunes anarchistes, dérobent des armes à des policiers et fuient en voiture, tuant 5 personnes (dont 4 policiers). Maupin est abattu, Rey est grièvement blessée. Condamnée à 20 ans de réclusion, elle est libérée en 2009.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "simone_weber",
+      "nom": "Simone Weber",
+      "alias": "La Diabolique de Nancy",
+      "dates": "1985–1991",
+      "lieu": "France / Nancy",
+      "resume": "En 1985, Simone Weber empoisonne son fiancé Bernard Hettier à Nancy, démembre le corps et dissimule les restes. Elle est également soupçonnée du meurtre de son ex-mari en 1980. Condamnée à la réclusion criminelle à perpétuité en 1991, ses avocats et son sang-froid lors du procès lui valurent une célébrité médiatique.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux",
+      "nom": "Roland Cazaux",
+      "alias": "Le Tueur du Sud-Ouest",
+      "dates": "1989–1995",
+      "lieu": "France / Gironde",
+      "resume": "Roland Cazaux commit 7 meurtres en Gironde et dans le Sud-Ouest entre 1989 et 1995, ciblant des femmes seules et des personnes âgées. Arrêté en 1995, il est condamné à la réclusion criminelle à perpétuité en 1999.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "meilhon",
+      "nom": "Tony Meilhon — Affaire Laëtitia",
+      "alias": "L'Affaire Laëtitia",
+      "dates": "Janvier 2011",
+      "lieu": "France / Pornic",
+      "resume": "En janvier 2011, Tony Meilhon enlève, viole et assassine Laëtitia Perrais, 18 ans, à Pornic. Le crime provoque une polémique nationale lorsque Nicolas Sarkozy critique publiquement la décision de justice ayant libéré Meilhon sous contrôle judiciaire. Meilhon est condamné à la réclusion criminelle à perpétuité en 2013.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "colonna",
+      "nom": "Yvan Colonna",
+      "alias": "L'Assassin du Préfet Érignac",
+      "dates": "1998–2022",
+      "lieu": "France / Corse",
+      "resume": "Le 6 février 1998, le préfet Claude Érignac est assassiné à Ajaccio — premier préfet tué en France depuis la Seconde Guerre mondiale. Yvan Colonna, berger corse et nationaliste, est identifié comme le tireur. Après une longue cavale, il est arrêté en 2003 et condamné à perpétuité. Il décède en prison en mars 2022 après avoir été agressé par un codétenu.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "bamberski",
+      "nom": "Affaire Kalinka Bamberski",
+      "alias": "L'Affaire Bamberski",
+      "dates": "1982–2011",
+      "lieu": "France / Allemagne",
+      "resume": "En 1982, Kalinka Bamberski, 14 ans, meurt chez son beau-père allemand, le Dr Dieter Krombach, en Allemagne. Son père André Bamberski se bat pendant 30 ans pour obtenir justice. En 2009, il fait kidnapper Krombach en Allemagne et le livre à la justice française, qui le condamne à 15 ans. Bamberski lui-même est condamné à 1 an avec sursis pour ce kidnapping.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala",
+      "nom": "Dino Scala",
+      "alias": "Le Violeur du Nord",
+      "dates": "1988–2018",
+      "lieu": "France / Nord-Pas-de-Calais",
+      "resume": "Pendant 30 ans, Dino Scala multiplie les agressions sexuelles dans le Nord de la France, victimisant 56 femmes. Arrêté en 2018 à l'âge de 59 ans grâce à un fichier génétique, il est jugé en 2022 et condamné à 20 ans de réclusion criminelle. Son affaire illustre l'apport décisif de la génétique criminelle.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot",
+      "nom": "Valérie Bacot",
+      "alias": "L'Affaire Valérie Bacot",
+      "dates": "2012–2021",
+      "lieu": "France / Saône-et-Loire",
+      "resume": "Victime de viols et de violences conjugales depuis l'âge de 12 ans par son beau-père puis mari Daniel Polette, Valérie Bacot le tue en 2012. Elle dissimule le corps pendant 9 ans avant d'être découverte. Jugée en juin 2021, elle est condamnée à 4 ans de prison avec sursis et immédiatement libérée. Son affaire est devenue un symbole de la cause des femmes victimes de violences.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault",
+      "nom": "Véronique Courjault",
+      "alias": "L'Affaire du Bébé Congélateur",
+      "dates": "2006–2009",
+      "lieu": "France / Corée du Sud",
+      "resume": "En 2006, en Corée du Sud où son mari est expatrié, Véronique Courjault est découverte avec les corps congelés de deux de ses nouveau-nés. Une troisième dépouille est retrouvée en France. Lors du procès en 2009, elle reconnaît trois infanticides commis entre 1999 et 2003. Condamnée à 8 ans, elle est libérée en 2012.",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "freres_jourdain",
+      "nom": "Les Frères Jourdain",
+      "alias": "Les Frères Tueurs",
+      "dates": "1993–1994",
+      "lieu": "France / Poitou-Charentes",
+      "resume": "Thierry et Christian Jourdain, deux frères, commettent plusieurs meurtres et agressions violentes en Poitou-Charentes dans les années 1990. Condamnés à de lourdes peines de réclusion criminelle, leur affaire illustre le phénomène des criminels agissant en duo.",
+      "statut_judiciaire": "condamnation_definitive"
     }
   ]
 }

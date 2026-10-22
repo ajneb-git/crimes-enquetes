@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "id": "courjault_qcm_001",
+      "affaire_id": "courjault",
+      "module": "qcm",
+      "question": "Dans quel pays les corps des deux premiers bébés de Véronique Courjault ont-ils été découverts en 2006 ?",
+      "propositions": ["Corée du Sud", "Chine", "Japon", "Singapour"],
+      "bonne_reponse": "Corée du Sud",
+      "explication": "En 2006, les autorités sud-coréennes ont découvert les corps congelés de deux nouveau-nés dans le congélateur du domicile familial à Séoul, où son mari Jean-Louis Courjault était expatrié. C'est cette découverte qui a mis fin à plusieurs années de silence sur les infanticides de Véronique.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://www.lemonde.fr/societe/article/2009/06/16/courjault-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_qcm_002",
+      "affaire_id": "courjault",
+      "module": "qcm",
+      "question": "Combien d'infanticides Véronique Courjault a-t-elle reconnus au total lors de son procès en 2009 ?",
+      "propositions": ["3", "2", "5", "4"],
+      "bonne_reponse": "3",
+      "explication": "Véronique Courjault a reconnu trois infanticides commis entre 1999 et 2003 : deux bébés retrouvés dans le congélateur en Corée du Sud, et un troisième dont les restes ont été retrouvés en France à la suite de ses aveux. Les trois grossesses avaient été totalement dissimulées à son mari et à son entourage.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1999-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://www.liberation.fr/societe/2009/06/17/courjault-8-ans"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_qcm_003",
+      "affaire_id": "courjault",
+      "module": "qcm",
+      "question": "Quelle peine Véronique Courjault a-t-elle reçue lors de son procès à Tours en 2009 ?",
+      "propositions": [
+        "8 ans de réclusion criminelle",
+        "15 ans de réclusion criminelle",
+        "Réclusion criminelle à perpétuité",
+        "5 ans avec sursis"
+      ],
+      "bonne_reponse": "8 ans de réclusion criminelle",
+      "explication": "Véronique Courjault a été condamnée à 8 ans de réclusion criminelle par la cour d'assises d'Indre-et-Loire en juin 2009. La peine a été relativement modérée, les experts psychiatriques ayant conclu à une profonde perturbation psychologique liée à un déni de grossesse. Elle a été libérée en 2012.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://www.lemonde.fr/societe/article/2009/06/16/courjault-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_vf_001",
+      "affaire_id": "courjault",
+      "module": "vrai_faux",
+      "affirmation": "Le mari de Véronique Courjault, Jean-Louis, l'a quittée dès la découverte des corps de leurs bébés.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Jean-Louis Courjault n'a pas abandonné sa femme et l'a soutenue tout au long de la procédure judiciaire et du procès. Il a déclaré publiquement qu'il lui faisait confiance et qu'il était persuadé qu'elle souffrait d'un trouble psychologique profond. Leur couple a tenu malgré le choc de la révélation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://www.lefigaro.fr/actualite-france/2009/06/16/courjault-mari-soutien"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_vf_002",
+      "affaire_id": "courjault",
+      "module": "vrai_faux",
+      "affirmation": "Les experts psychiatriques ont conclu que Véronique Courjault souffrait d'un déni de grossesse.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Les experts psychiatriques commis par la justice ont conclu que Véronique Courjault souffrait d'un syndrome de déni de grossesse — un trouble psychologique réel, reconnu médicalement, dans lequel la femme ne prend pas conscience de sa grossesse, parfois jusqu'à l'accouchement. Ce trouble a pesé dans la détermination de la peine.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://fr.wikipedia.org/wiki/D%C3%A9ni_de_grossesse"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_qsj_001",
+      "affaire_id": "courjault",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis une femme française dont les actes ont été découverts lors d'une expatriation en Asie.",
+        "Les corps de mes bébés non désirés ont été retrouvés dans un appareil électroménager.",
+        "J'ai commis trois infanticides entre 1999 et 2003, en cachant chaque grossesse à mon entourage.",
+        "Les experts ont conclu à un déni de grossesse répété, ce qui a influencé ma condamnation à 8 ans."
+      ],
+      "propositions": ["Véronique Courjault", "Christine Malèvre", "Valérie Bacot", "Simone Weber"],
+      "bonne_reponse": "Véronique Courjault",
+      "explication": "Véronique Courjault est connue comme 'l'affaire du bébé congélateur'. Expatriée en Corée du Sud avec son mari cadre, elle a dissimulé trois grossesses et tué chaque nouveau-né entre 1999 et 2003. Découverte en 2006, elle a été condamnée à 8 ans de réclusion en 2009 et libérée en 2012.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1999-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://fr.wikipedia.org/wiki/V%C3%A9ronique_Courjault"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_chron_001",
+      "affaire_id": "courjault",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire Véronique Courjault.",
+      "evenements": [
+        {
+          "label": "Véronique Courjault commet son premier infanticide (bébé retrouvé plus tard en France)",
+          "date_iso": "1999-01-01"
+        },
+        {
+          "label": "Découverte par les autorités coréennes de deux bébés congelés dans le congélateur familial à Séoul",
+          "date_iso": "2006-07-01"
+        },
+        {
+          "label": "Procès à Tours : condamnée à 8 ans de réclusion criminelle",
+          "date_iso": "2009-06-16"
+        },
+        {
+          "label": "Libération de Véronique Courjault après 6 ans de détention",
+          "date_iso": "2012-01-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1999 : premier infanticide (bébé retrouvé en France après aveux). 2006 : découverte à Séoul des deux bébés congelés, révélant deux autres infanticides. 2009 : procès à Tours, 8 ans de réclusion. 2012 : libération après 6 ans de détention.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1999-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://www.lemonde.fr/societe/article/2009/06/16/courjault-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "courjault_duel_001",
+      "affaire_id": "courjault",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires implique le plus grand nombre d'infanticides reconnus ?",
+      "item_a": "Affaire Véronique Courjault (dite 'du bébé congélateur')",
+      "item_b": "Affaire Christine Malèvre (infirmière de Mantes-la-Jolie)",
+      "bonne_reponse": "b",
+      "explication": "Christine Malèvre a avoué avoir euthanasié environ 30 patients dans son service de soins intensifs entre 1997 et 1998 (avant de se rétracter partiellement). Véronique Courjault a reconnu 3 infanticides. En nombre de victimes, l'affaire Malèvre dépasse largement l'affaire Courjault, même si les deux cas sont d'une nature très différente.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1999-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_V%C3%A9ronique_Courjault",
+        "https://fr.wikipedia.org/wiki/Christine_Mal%C3%A8vre"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

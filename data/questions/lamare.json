@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": "lamare_qcm_001",
+      "affaire_id": "lamare",
+      "module": "qcm",
+      "question": "Dans quel département Alain Lamare commettait-il ses crimes tout en étant en service comme gendarme ?",
+      "propositions": ["L'Oise", "La Seine-et-Marne", "Le Val-d'Oise", "L'Aisne"],
+      "bonne_reponse": "L'Oise",
+      "explication": "Alain Lamare était gendarme à la brigade de Pontoise, dans l'Oise, et commettait ses crimes dans ce même département entre 1978 et 1979. Ses propres collègues enquêtaient sur les meurtres et agressions sans jamais le soupçonner, ce qui rend son cas absolument unique dans l'histoire de la gendarmerie nationale.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1978-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_qcm_002",
+      "affaire_id": "lamare",
+      "module": "qcm",
+      "question": "Qu'est-ce qui a rendu l'affaire Alain Lamare absolument unique dans l'histoire de la gendarmerie française ?",
+      "propositions": [
+        "C'est le seul gendarme en activité condamné pour meurtres en série",
+        "Il a tué des collègues gendarmes",
+        "Il avait usurpé l'identité d'un vrai gendarme",
+        "Il a perpétré ses crimes à l'intérieur même de la caserne"
+      ],
+      "bonne_reponse": "C'est le seul gendarme en activité condamné pour meurtres en série",
+      "explication": "Alain Lamare est le seul gendarme en activité dans l'histoire de France à avoir été condamné pour meurtres en série. Il patrouillait le jour sur les routes de l'Oise et commettait ses crimes la nuit ou lors de ses jours de repos. Ses collègues enquêtaient sur les mêmes crimes sans jamais se douter que le coupable portait l'uniforme.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1978-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://fr.wikipedia.org/wiki/Gendarmerie_nationale_(France)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_qcm_003",
+      "affaire_id": "lamare",
+      "module": "qcm",
+      "question": "À quelle peine Alain Lamare a-t-il été condamné pour ses 4 meurtres ?",
+      "propositions": [
+        "Réclusion criminelle à perpétuité",
+        "30 ans de réclusion criminelle",
+        "20 ans de réclusion criminelle",
+        "Réclusion criminelle à perpétuité incompressible"
+      ],
+      "bonne_reponse": "Réclusion criminelle à perpétuité",
+      "explication": "Alain Lamare a été condamné à la réclusion criminelle à perpétuité lors de son procès en 1984. La perpétuité incompressible n'existait pas encore (créée en 1994). Il a bénéficié d'une libération conditionnelle dans les années 2000, fait qui n'a pas manqué de provoquer la colère des familles des victimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_vf_001",
+      "affaire_id": "lamare",
+      "module": "vrai_faux",
+      "affirmation": "Les enquêteurs ont rapidement soupçonné Alain Lamare car ses déplacements ne coïncidaient pas avec ses horaires de service.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Alain Lamare n'a jamais été soupçonné par ses collègues durant toute la période des crimes (1978-1979). Ce sont ses propres collègues gendarmes qui enquêtaient sur les crimes qu'il commettait. Ce n'est que lorsque l'un d'eux le surprit en flagrant délit qu'il fut arrêté, en décembre 1979.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1978-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_vf_002",
+      "affaire_id": "lamare",
+      "module": "vrai_faux",
+      "affirmation": "Alain Lamare a été libéré conditionnellement avant la fin des années 2000.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Alain Lamare a bénéficié d'une libération conditionnelle plusieurs années après sa condamnation à perpétuité en 1984, fait qui a suscité l'incompréhension et la colère des familles des victimes. Sa libération illustre le fonctionnement du droit français où la perpétuité simple (non incompressible) permet une demande de libération après la période de sûreté.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2000s",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_qsj_001",
+      "affaire_id": "lamare",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je portais l'uniforme de la gendarmerie nationale et patrouillais les routes du département où je commettais mes crimes.",
+        "Mes propres collègues enquêtaient sur les meurtres dont j'étais l'auteur, sans jamais me soupçonner.",
+        "J'ai commis 4 meurtres et de nombreuses agressions entre 1978 et 1979 avant d'être surpris en flagrant délit.",
+        "Je suis le seul représentant de mon corps d'armée à avoir été condamné pour meurtres en série dans toute l'histoire française."
+      ],
+      "propositions": ["Alain Lamare", "Guy Georges", "Francis Heaulme", "Marcel Barbeault"],
+      "bonne_reponse": "Alain Lamare",
+      "explication": "Alain Lamare, gendarme en activité à la brigade de Pontoise (Oise), est le seul gendarme en exercice de l'histoire de France à avoir été condamné pour meurtres en série. Arrêté en 1979, condamné à la réclusion criminelle à perpétuité en 1984, son affaire reste un cas absolument unique dans les annales judiciaires.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1978-1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_chron_001",
+      "affaire_id": "lamare",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire Alain Lamare.",
+      "evenements": [
+        {
+          "label": "Début des meurtres et agressions dans l'Oise par le gendarme Alain Lamare",
+          "date_iso": "1978-01-01"
+        },
+        {
+          "label": "Arrestation de Lamare, surpris en flagrant délit par un collègue gendarme",
+          "date_iso": "1979-12-01"
+        },
+        {
+          "label": "Procès et condamnation d'Alain Lamare à la réclusion criminelle à perpétuité",
+          "date_iso": "1984-01-01"
+        },
+        {
+          "label": "Diffusion de l'épisode consacré à l'affaire dans l'émission Faites entrer l'accusé",
+          "date_iso": "2003-01-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1978 : début des crimes dans l'Oise. Décembre 1979 : arrestation surprise. 1984 : condamnation à perpétuité. 2003 : l'affaire est médiatisée dans Faites entrer l'accusé. Son cas est resté longtemps peu connu du grand public, protégé par le silence de l'institution.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1978-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://www.bfmtv.com/police-justice/alain-lamare-le-gendarme-tueur-de-l-oise"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "lamare_duel_001",
+      "affaire_id": "lamare",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels était membre des forces de l'ordre au moment de ses crimes ?",
+      "item_a": "Alain Lamare",
+      "item_b": "Guy Georges",
+      "bonne_reponse": "a",
+      "explication": "Alain Lamare était gendarme en activité lorsqu'il commettait ses meurtres dans l'Oise (1978-1979). Guy Georges, le 'tueur de l'Est parisien', était un homme sans emploi lors de ses 7 meurtres (1991-1997). C'est précisément le fait que Lamare enquêtait le jour sur les crimes qu'il commettait la nuit qui rend son cas unique.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1978-1979",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Lamare",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

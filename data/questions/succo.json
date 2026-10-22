@@ -1,0 +1,146 @@
+{
+  "questions": [
+    {
+      "id": "succo_qcm_001",
+      "affaire_id": "succo",
+      "module": "qcm",
+      "question": "Dans quelle ville italienne Roberto Succo a-t-il été arrêté en 1988 après sa cavale ?",
+      "propositions": ["Venise", "Milan", "Rome", "Gênes"],
+      "bonne_reponse": "Venise",
+      "explication": "Roberto Succo a été arrêté à Venise en mai 1988, reconnu sur une place de la ville alors qu'il se promenait. Son arrestation mit fin à plusieurs années de cavale entre l'Italie et la France. Il fut extradé en Italie où il était sous le coup d'un mandat d'arrêt pour le meurtre de ses parents.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://fr.wikipedia.org/wiki/Roberto_Succo_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_qcm_002",
+      "affaire_id": "succo",
+      "module": "qcm",
+      "question": "Quel film de Claire Denis (2001), présenté à Cannes avec Stefano Cassetti dans le rôle principal, retrace librement la cavale d'un criminel franco-italien des années 1980 ?",
+      "propositions": ["Roberto Succo", "L'Adversaire", "Un prophète", "La Haine"],
+      "bonne_reponse": "Roberto Succo",
+      "explication": "Claire Denis a réalisé 'Roberto Succo' en 2001, avec Stefano Cassetti dans le rôle principal. Le film retrace librement la cavale du criminel en France dans les années 1980. Il fut présenté à la Sélection Un Certain Regard au Festival de Cannes 2001. Une controverse avait entouré sa sortie, certains proches des victimes s'y opposant.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2001",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo_(film)",
+        "https://fr.wikipedia.org/wiki/Roberto_Succo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_qcm_003",
+      "affaire_id": "succo",
+      "module": "qcm",
+      "question": "Comment Roberto Succo a-t-il mis fin à sa vie en prison en 1988 ?",
+      "propositions": ["Suicide dans sa cellule", "Grève de la faim", "Tentative d'évasion fatale", "Exécution"],
+      "bonne_reponse": "Suicide dans sa cellule",
+      "explication": "Roberto Succo s'est suicidé dans sa cellule de la prison de Vicence le 23 mai 1988, trois jours avant l'ouverture de son procès pour le meurtre de ses parents. Il avait 26 ans. Son suicide anticipé a privé la justice d'un procès complet sur l'ensemble de ses crimes commis en France et en Italie.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://www.ina.fr/ina-eclaire-actu/roberto-succo"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_vf_001",
+      "affaire_id": "succo",
+      "module": "vrai_faux",
+      "affirmation": "Roberto Succo a été jugé et condamné pour tous ses crimes en France avant sa mort.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Roberto Succo est décédé (suicide) le 23 mai 1988 dans une prison italienne, avant d'être jugé pour ses crimes en France, dont le meurtre du gendarme Gilles Mattei à Hyères en 1987. Son décès a mis fin aux procédures judiciaires en cours. Plusieurs de ses crimes sont restés sans procès, ce qui a maintenu une part de mystère sur l'étendue de ses actes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://fr.wikipedia.org/wiki/Roberto_Succo_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_vf_002",
+      "affaire_id": "succo",
+      "module": "vrai_faux",
+      "affirmation": "Roberto Succo s'était évadé d'un hôpital psychiatrique où il avait été interné après le meurtre de ses parents.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Après le meurtre de ses parents en 1981, Roberto Succo avait été déclaré irresponsable et interné dans un hôpital psychiatrique en Italie. Il s'en est évadé en 1984, ce qui a permis sa cavale en France et en Italie pendant plusieurs années. Cette évasion est au cœur de la chronologie de l'affaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1981-1984",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://fr.wikipedia.org/wiki/Roberto_Succo_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_chron_001",
+      "affaire_id": "succo",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de la vie criminelle de Roberto Succo.",
+      "evenements": [
+        {
+          "label": "Succo tue ses deux parents en Italie et est interné en hôpital psychiatrique",
+          "date_iso": "1981-01-01"
+        },
+        {
+          "label": "Succo s'évade de l'hôpital psychiatrique et commence sa cavale en Europe",
+          "date_iso": "1984-01-01"
+        },
+        {
+          "label": "Succo arrêté à Venise et extradé en Italie",
+          "date_iso": "1988-05-01"
+        },
+        {
+          "label": "Succo se suicide dans sa cellule à Vicence, 3 jours avant son procès",
+          "date_iso": "1988-05-23"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1981 : meurtre des parents, internement psychiatrique. 1984 : évasion et début de la cavale. Mai 1988 : arrestation à Venise. 23 mai 1988 : suicide en prison. En 7 ans de cavale (1981-1988), Roberto Succo a semé la terreur en Italie et en France sans jamais être jugé pour l'ensemble de ses crimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1981-1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://fr.wikipedia.org/wiki/Roberto_Succo_(film)"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "succo_duel_001",
+      "affaire_id": "succo",
+      "module": "duel",
+      "question": "Lequel de ces deux criminels s'est suicidé en prison avant son procès ?",
+      "item_a": "Roberto Succo",
+      "item_b": "Pierre Chanal",
+      "bonne_reponse": "a",
+      "explication": "Roberto Succo s'est suicidé le 23 mai 1988 dans sa cellule à Vicence, trois jours avant son procès. Pierre Chanal s'est tranché la gorge en salle d'audience le 16 octobre 2003, à la veille de l'ouverture de son procès pour les Disparus de Mourmelon. Les deux criminels ont ainsi échappé à un jugement complet sur leurs crimes.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roberto_Succo",
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}

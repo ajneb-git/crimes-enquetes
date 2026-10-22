@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "id": "cazaux_qcm_001",
+      "affaire_id": "cazaux",
+      "module": "qcm",
+      "question": "Dans quelle région Roland Cazaux a-t-il commis la majorité de ses meurtres entre 1989 et 1995 ?",
+      "propositions": [
+        "Gironde / Sud-Ouest",
+        "Normandie",
+        "Provence",
+        "Bretagne"
+      ],
+      "bonne_reponse": "Gironde / Sud-Ouest",
+      "explication": "Roland Cazaux a sévi principalement en Gironde et dans le Sud-Ouest de la France. Ses victimes étaient des femmes vivant seules ou des personnes âgées, qu'il ciblait lors de cambriolages qui dégénéraient en meurtres. Il a commis 7 meurtres entre 1989 et 1995.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://www.sudouest.fr/gironde/roland-cazaux-tueur-serie-gironde"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux_qcm_002",
+      "affaire_id": "cazaux",
+      "module": "qcm",
+      "question": "Combien de meurtres Roland Cazaux a-t-il commis selon les condamnations définitives ?",
+      "propositions": [
+        "7",
+        "4",
+        "12",
+        "9"
+      ],
+      "bonne_reponse": "7",
+      "explication": "Roland Cazaux a été condamné pour 7 meurtres commis en Gironde et dans le Sud-Ouest entre 1989 et 1995. Ses victimes étaient essentiellement des femmes seules et des personnes âgées, tuées lors de cambriolages. Arrêté en 1995, il a été condamné à la réclusion criminelle à perpétuité en 1999.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://www.sudouest.fr/gironde/roland-cazaux-tueur-serie-gironde"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux_vf_001",
+      "affaire_id": "cazaux",
+      "module": "vrai_faux",
+      "affirmation": "Roland Cazaux ciblait principalement des victimes masculines dans le cadre de ses crimes.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Roland Cazaux ciblait principalement des femmes vivant seules et des personnes âgées, populations qu'il considérait comme plus vulnérables lors de ses cambriolages. Ce profil de victimes est caractéristique de nombreux tueurs en série français des années 1980-90.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://www.sudouest.fr/gironde/roland-cazaux-tueur-serie-gironde"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux_qsj_001",
+      "affaire_id": "cazaux",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis un tueur en série français qui a sévi dans le Sud-Ouest de la France dans les années 1990.",
+        "Mon mode opératoire : cibler des femmes seules et des personnes âgées lors de cambriolages.",
+        "J'ai commis 7 meurtres en Gironde entre 1989 et 1995 avant d'être arrêté.",
+        "J'ai été condamné à la réclusion criminelle à perpétuité en 1999."
+      ],
+      "propositions": [
+        "Roland Cazaux",
+        "Michel Fourniret",
+        "Guy Georges",
+        "Thierry Paulin"
+      ],
+      "bonne_reponse": "Roland Cazaux",
+      "explication": "Roland Cazaux est l'un des tueurs en série français les moins connus du grand public, mais l'un des plus meurtriers des années 1990 en dehors de la région parisienne. Ses 7 meurtres en Gironde ont terrorisé la population locale pendant six ans.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://www.sudouest.fr/gironde/roland-cazaux-tueur-serie-gironde"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux_chron_001",
+      "affaire_id": "cazaux",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique les étapes de l'affaire Roland Cazaux.",
+      "evenements": [
+        {
+          "label": "Premier meurtre commis par Roland Cazaux en Gironde",
+          "date_iso": "1989-01-01"
+        },
+        {
+          "label": "Dernier meurtre connu avant l'arrestation de Cazaux",
+          "date_iso": "1995-01-01"
+        },
+        {
+          "label": "Arrestation de Roland Cazaux grâce à un témoin",
+          "date_iso": "1995-06-01"
+        },
+        {
+          "label": "Condamnation à la réclusion criminelle à perpétuité",
+          "date_iso": "1999-01-01"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1989 : premier meurtre. 1995 : dernier meurtre puis arrestation grâce à un témoin. 1999 : condamnation à perpétuité pour 7 meurtres.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1989-1999",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://www.sudouest.fr/gironde/roland-cazaux-tueur-serie-gironde"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "cazaux_duel_001",
+      "affaire_id": "cazaux",
+      "module": "duel",
+      "question": "Lequel de ces deux tueurs en série français a sévi principalement dans le Sud-Ouest de la France ?",
+      "item_a": "Roland Cazaux",
+      "item_b": "Guy Georges",
+      "bonne_reponse": "a",
+      "explication": "Roland Cazaux a sévi en Gironde et dans le Sud-Ouest (7 meurtres entre 1989 et 1995). Guy Georges, lui, sévissait dans l'Est parisien (11e arrondissement et alentours), ce qui lui a valu le surnom de 'tueur de l'Est parisien'.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1989-1995",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Roland_Cazaux",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

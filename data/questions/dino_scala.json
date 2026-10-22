@@ -1,0 +1,157 @@
+{
+  "questions": [
+    {
+      "id": "dino_scala_qcm_001",
+      "affaire_id": "dino_scala",
+      "module": "qcm",
+      "question": "Combien de victimes ont été identifiées dans le dossier Dino Scala, arrêté en 2018 dans le Nord de la France ?",
+      "propositions": ["56", "12", "30", "78"],
+      "bonne_reponse": "56",
+      "explication": "56 victimes ont été identifiées dans le dossier Dino Scala, toutes dans le Nord-Pas-de-Calais. Ses agressions sexuelles et viols se sont étalés sur 30 ans, de 1988 à 2018, sans qu'il soit jamais soupçonné. En 2022, il a été condamné à 20 ans de réclusion pour 55 chefs d'accusation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1988-2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://www.lemonde.fr/societe/article/2022/03/25/dino-scala-condamne-20-ans"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_qcm_002",
+      "affaire_id": "dino_scala",
+      "module": "qcm",
+      "question": "Grâce à quelle technique Dino Scala a-t-il finalement été identifié et arrêté en 2018 ?",
+      "propositions": [
+        "L'analyse génétique (correspondance ADN avec les scènes de crime)",
+        "La reconnaissance faciale sur des images de vidéosurveillance",
+        "Le témoignage d'une victime qui l'avait reconnu 30 ans plus tard",
+        "Une dénonciation anonyme à la gendarmerie"
+      ],
+      "bonne_reponse": "L'analyse génétique (correspondance ADN avec les scènes de crime)",
+      "explication": "Dino Scala a été arrêté en mars 2018 après qu'une analyse génétique a établi une correspondance entre son ADN et des prélèvements biologiques conservés sur les nombreuses scènes de crime. C'est un exemple emblématique de l'efficacité du fichier national des empreintes génétiques (FNAEG), créé en 1998 en France.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://www.liberation.fr/france/2018/03/20/dino-scala-arrete-adn"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_qcm_003",
+      "affaire_id": "dino_scala",
+      "module": "qcm",
+      "question": "Quel âge avait Dino Scala lors de son arrestation en 2018 ?",
+      "propositions": ["59 ans", "42 ans", "35 ans", "67 ans"],
+      "bonne_reponse": "59 ans",
+      "explication": "Dino Scala avait 59 ans lors de son arrestation en mars 2018. Grand-père menant une vie apparemment ordinaire dans le Pas-de-Calais, rien dans son comportement quotidien ne laissait supposer qu'il était l'auteur de 56 agressions sexuelles et viols commis sur 30 ans. Ce contraste a profondément frappé les enquêteurs et les victimes.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://www.nordeclair.fr/faits-divers/dino-scala-59-ans"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_vf_001",
+      "affaire_id": "dino_scala",
+      "module": "vrai_faux",
+      "affirmation": "Dino Scala avait commencé ses agressions sexuelles alors qu'il était encore adolescent.",
+      "bonne_reponse": false,
+      "explication": "FAUX. La première agression de Dino Scala connue remonte à 1988, alors qu'il avait environ 29 ans. Il n'était pas un récidiviste précoce mais un prédateur qui a sévi pendant 30 ans dans la même région géographique, en toute impunité, menant par ailleurs une vie familiale apparemment normale.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://www.lemonde.fr/societe/article/2022/03/25/dino-scala-condamne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_qsj_001",
+      "affaire_id": "dino_scala",
+      "module": "qui_suis_je",
+      "indices": [
+        "J'ai agressé 56 femmes dans le même département du Nord de la France pendant 30 ans.",
+        "Je menais une vie de famille ordinaire, grand-père aimable, sans jamais être soupçonné.",
+        "Mon ADN conservé sur des prélèvements de scènes de crime a finalement causé ma perte.",
+        "Arrêté en 2018 à 59 ans, j'ai été condamné en 2022 à 20 ans de réclusion."
+      ],
+      "propositions": ["Dino Scala", "Guy Georges", "Pierre Chanal", "Francis Heaulme"],
+      "bonne_reponse": "Dino Scala",
+      "explication": "Dino Scala est le plus grand prédateur sexuel en série identifié en France, avec 56 victimes sur 30 ans dans le Nord-Pas-de-Calais. Son affaire a relancé le débat sur la durée de conservation des preuves ADN et sur la nécessaire alimentation du fichier FNAEG.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1988-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://www.lemonde.fr/societe/article/2022/03/25/dino-scala-condamne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_chron_001",
+      "affaire_id": "dino_scala",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces étapes de l'affaire Dino Scala.",
+      "evenements": [
+        {
+          "label": "Première agression sexuelle identifiée attribuée à Dino Scala dans le Pas-de-Calais",
+          "date_iso": "1988-01-01"
+        },
+        {
+          "label": "Création du fichier national des empreintes génétiques (FNAEG) en France",
+          "date_iso": "1998-06-17"
+        },
+        {
+          "label": "Arrestation de Dino Scala à 59 ans grâce à la correspondance ADN",
+          "date_iso": "2018-03-20"
+        },
+        {
+          "label": "Condamnation à 20 ans de réclusion criminelle pour 55 chefs d'accusation",
+          "date_iso": "2022-03-25"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1988 : début des agressions. 1998 : création du FNAEG, qui permettra des années plus tard de l'identifier. 2018 : arrestation grâce à l'ADN, 30 ans après les premières agressions. 2022 : condamnation à 20 ans de réclusion, pour 55 des 56 chefs d'accusation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1988-2022",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://fr.wikipedia.org/wiki/Fichier_national_automatis%C3%A9_des_empreintes_g%C3%A9n%C3%A9tiques"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "dino_scala_duel_001",
+      "affaire_id": "dino_scala",
+      "module": "duel",
+      "question": "Lequel de ces deux prédateurs sexuels en série a sévi le plus longtemps avant d'être arrêté ?",
+      "item_a": "Dino Scala (Nord-Pas-de-Calais)",
+      "item_b": "Guy Georges (Paris)",
+      "bonne_reponse": "a",
+      "explication": "Dino Scala a sévi pendant 30 ans (1988-2018) avant d'être arrêté. Guy Georges, le 'tueur de l'Est parisien', a commis ses crimes entre 1991 et 1997, soit environ 6 ans avant son arrestation en 1998. Dino Scala détient le record de longévité criminelle parmi les prédateurs sexuels en série identifiés en France.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1988-2018",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Dino_Scala",
+        "https://fr.wikipedia.org/wiki/Guy_Georges"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

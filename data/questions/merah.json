@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "id": "merah_qcm_001",
+      "affaire_id": "merah",
+      "module": "qcm",
+      "question": "Combien de personnes Mohamed Merah a-t-il assassinées lors de ses attaques de mars 2012 ?",
+      "propositions": ["7", "3", "5", "12"],
+      "bonne_reponse": "7",
+      "explication": "Mohamed Merah a tué 7 personnes en 11 jours : 2 militaires à Toulouse le 11 mars, 1 militaire à Montauban le 15 mars, puis le 19 mars 4 personnes à l'école juive Ozar Hatorah de Toulouse — le professeur Jonathan Sandler, ses deux fils Gabriel (3 ans) et Arieh (6 ans), et l'élève Myriam Monsonégo (8 ans).",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://www.lemonde.fr/societe/article/2012/03/22/merah-abattu"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_qcm_002",
+      "affaire_id": "merah",
+      "module": "qcm",
+      "question": "Dans quelle ville se trouvait l'école juive où Mohamed Merah a commis son attaque la plus meurtrière ?",
+      "propositions": ["Toulouse", "Montauban", "Marseille", "Lyon"],
+      "bonne_reponse": "Toulouse",
+      "explication": "L'école juive Ozar Hatorah où Merah tua 4 personnes (dont 3 enfants) le 19 mars 2012 était située à Toulouse. Ses attaques précédentes contre des militaires avaient eu lieu à Toulouse (11 mars) et à Montauban (15 mars). Merah lui-même habitait Toulouse et y a été abattu le 22 mars lors du siège de son appartement.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://fr.wikipedia.org/wiki/%C3%89cole_Ozar_Hatorah_de_Toulouse"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_qcm_003",
+      "affaire_id": "merah",
+      "module": "qcm",
+      "question": "Combien de temps a duré le siège de l'appartement de Mohamed Merah avant qu'il soit abattu par le RAID ?",
+      "propositions": ["32 heures", "6 heures", "3 jours", "12 heures"],
+      "bonne_reponse": "32 heures",
+      "explication": "Le siège de l'appartement de Mohamed Merah dans le quartier Côte Pavée à Toulouse a duré 32 heures, du 21 mars au 22 mars 2012. Merah négociait avec le RAID, diffusait des vidéos de ses meurtres et tirait sur les forces de l'ordre. Il a finalement été abattu en tentant de s'échapper par une fenêtre.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://www.lefigaro.fr/actualite-france/2012/03/22/siege-merah-toulouse"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_vf_001",
+      "affaire_id": "merah",
+      "module": "vrai_faux",
+      "affirmation": "Le frère de Mohamed Merah, Abdelkader, a été acquitté lors de son procès pour complicité.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Abdelkader Merah a été condamné en 2017 à 30 ans de réclusion criminelle pour complicité d'assassinats terroristes. La justice a établi qu'il avait participé à la radicalisation de son frère et l'avait soutenu dans ses projets. Son procès en appel en 2019 a confirmé cette condamnation.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2017",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Abdelkader_Merah",
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_vf_002",
+      "affaire_id": "merah",
+      "module": "vrai_faux",
+      "affirmation": "Mohamed Merah avait filmé certains de ses meurtres à l'aide d'une caméra GoPro fixée à son casque.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Mohamed Merah avait filmé plusieurs de ses meurtres avec une caméra GoPro fixée sur son casque de moto, notamment l'attaque de l'école Ozar Hatorah. Il avait envoyé des vidéos à la chaîne Al-Jazeera. Ce détail macabre a profondément choqué l'opinion et les familles des victimes. Ces images ont été versées au dossier judiciaire.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://www.liberation.fr/societe/2012/03/22/merah-filmait-ses-meurtres_804484/"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_qsj_001",
+      "affaire_id": "merah",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je suis né à Toulouse en 1988 et j'ai grandi dans la ville où j'allais commettre mes crimes.",
+        "En 11 jours, j'ai ciblé successivement des militaires français puis des enfants dans une école confessionnelle.",
+        "Je filmais mes meurtres avec une caméra GoPro fixée à mon casque de moto.",
+        "J'ai été abattu par le RAID après un siège de 32 heures lors duquel je négociais depuis mon appartement."
+      ],
+      "propositions": ["Mohamed Merah", "Abdelhamid Abaaoud", "Lahouaiej-Bouhlel", "Brahim Aouissaoui"],
+      "bonne_reponse": "Mohamed Merah",
+      "explication": "Mohamed Merah, 23 ans, Toulousain d'origine algérienne, se réclamait d'Al-Qaïda. Il a tué 7 personnes en mars 2012 lors de 3 attaques. Abattu le 22 mars 2012 lors du siège de son appartement, ses crimes ont profondément traumatisé la France et ouvert une ère de terrorisme islamiste sur le sol national.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Mohamed_Merah",
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_chron_001",
+      "affaire_id": "merah",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique les quatre attaques et événements de l'affaire Merah.",
+      "evenements": [
+        {
+          "label": "Première attaque : 2 militaires tués à Toulouse (Imasse Commandant Rolland)",
+          "date_iso": "2012-03-11"
+        },
+        {
+          "label": "Deuxième attaque : 1 militaire tué à Montauban devant une caserne",
+          "date_iso": "2012-03-15"
+        },
+        {
+          "label": "Troisième attaque : 4 morts à l'école juive Ozar Hatorah de Toulouse (3 enfants)",
+          "date_iso": "2012-03-19"
+        },
+        {
+          "label": "Mohamed Merah abattu par le RAID lors du siège de son appartement à Toulouse",
+          "date_iso": "2012-03-22"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "11 mars : 2 militaires tués à Toulouse. 15 mars : 1 militaire tué à Montauban. 19 mars : 4 victimes à l'école Ozar Hatorah dont 3 enfants. 22 mars : mort de Merah lors du siège. En 11 jours, la France a vécu l'horreur d'un terroriste islamiste ciblant militaires et Juifs.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://www.lemonde.fr/societe/article/2012/03/22/merah-abattu"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "merah_duel_001",
+      "affaire_id": "merah",
+      "module": "duel",
+      "question": "Lequel de ces deux terroristes français a agi en premier sur le sol national ?",
+      "item_a": "Mohamed Merah (Toulouse, 2012)",
+      "item_b": "Les auteurs des attentats du 13 novembre 2015",
+      "bonne_reponse": "a",
+      "explication": "Mohamed Merah a agi en mars 2012, soit plus de 3 ans avant les attentats du 13 novembre 2015. Ses crimes marquent le début de la vague d'attentats islamistes de la décennie 2010 en France. Contrairement au 13-Novembre (commando de 9 personnes), Merah était un 'loup solitaire'.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Mohamed_Merah",
+        "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

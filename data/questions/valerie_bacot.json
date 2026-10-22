@@ -1,0 +1,157 @@
+{
+  "questions": [
+    {
+      "id": "valerie_bacot_qcm_001",
+      "affaire_id": "valerie_bacot",
+      "module": "qcm",
+      "question": "À quel âge Valérie Bacot a-t-elle commencé à subir les abus sexuels de son beau-père Daniel Polette ?",
+      "propositions": ["12 ans", "15 ans", "8 ans", "17 ans"],
+      "bonne_reponse": "12 ans",
+      "explication": "Daniel Polette a commencé à abuser sexuellement de Valérie Bacot lorsqu'elle avait 12 ans. Il a ensuite épousé sa mère, devenant officiellement son beau-père, tout en continuant les violences. Il l'a également contrainte à se prostituer. Cette emprise totale, établie dès l'enfance, a été au cœur des débats lors du procès de 2021.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1990s-2012",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://www.lemonde.fr/societe/article/2021/06/25/valerie-bacot-condamnee-4-ans-sursis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_qcm_002",
+      "affaire_id": "valerie_bacot",
+      "module": "qcm",
+      "question": "Quelle peine Valérie Bacot a-t-elle reçue lors de son procès en juin 2021 ?",
+      "propositions": [
+        "4 ans de prison avec sursis — libérée sur le champ",
+        "10 ans de réclusion criminelle",
+        "Acquittement total",
+        "20 ans de réclusion criminelle"
+      ],
+      "bonne_reponse": "4 ans de prison avec sursis — libérée sur le champ",
+      "explication": "La cour d'assises de Chalon-sur-Saône a condamné Valérie Bacot à 4 ans de prison avec sursis en juin 2021. Comme elle avait déjà effectué plus de 4 ans en détention provisoire, elle a été libérée immédiatement à l'issue du verdict, sous les applaudissements de ses soutiens réunis devant le palais de justice.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://www.liberation.fr/societe/2021/06/25/valerie-bacot-condamnee-4-ans-sursis"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_qcm_003",
+      "affaire_id": "valerie_bacot",
+      "module": "qcm",
+      "question": "Combien d'années Valérie Bacot a-t-elle attendu avant que le corps de Daniel Polette soit découvert ?",
+      "propositions": ["9 ans", "3 ans", "15 ans", "1 an"],
+      "bonne_reponse": "9 ans",
+      "explication": "Valérie Bacot a tué Daniel Polette le 13 mars 2012 et enterré son corps avec l'aide de ses enfants dans la Saône-et-Loire. Le corps n'a été découvert qu'en 2020, lors d'une enquête portant sur autre chose. Pendant 9 ans, Valérie avait continué à vivre normalement, ses enfants portant ce secret avec elle.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2012-2020",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://www.lemonde.fr/societe/article/2021/06/21/valerie-bacot-proces"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_vf_001",
+      "affaire_id": "valerie_bacot",
+      "module": "vrai_faux",
+      "affirmation": "Une pétition réunissant plus de 600 000 signatures avait demandé la clémence pour Valérie Bacot avant son procès.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Une pétition de soutien à Valérie Bacot a recueilli plus de 600 000 signatures avant son procès de juin 2021. Des personnalités féministes, des associations de défense des femmes victimes de violences et de nombreux élus se sont mobilisés. Son affaire est devenue un symbole des limites du droit pénal face aux situations de violences conjugales prolongées.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://www.lemonde.fr/societe/article/2021/06/21/petition-valerie-bacot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_qsj_001",
+      "affaire_id": "valerie_bacot",
+      "module": "qui_suis_je",
+      "indices": [
+        "Victime de viols répétés depuis l'âge de 12 ans par l'homme qui deviendra mon beau-père et mari.",
+        "J'ai tué cet homme d'une balle dans la nuque en mars 2012, après des années de prostitution forcée.",
+        "J'ai caché son corps pendant 9 ans, aidée par mes propres enfants.",
+        "Mon procès en 2021 a déclenché une mobilisation nationale pour les femmes victimes de violences conjugales."
+      ],
+      "propositions": ["Valérie Bacot", "Jacqueline Sauvage", "Christine Malèvre", "Véronique Courjault"],
+      "bonne_reponse": "Valérie Bacot",
+      "explication": "Valérie Bacot, originaire de Saône-et-Loire, a tué son beau-père et mari Daniel Polette en 2012 après une vie entière de violence et d'emprise. Condamnée à 4 ans avec sursis en 2021, elle a été libérée immédiatement. Son affaire a alimenté les débats sur la notion de 'légitime défense différée' pour les victimes de violences conjugales.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2012-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Bacot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_chron_001",
+      "affaire_id": "valerie_bacot",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire Valérie Bacot.",
+      "evenements": [
+        {
+          "label": "Daniel Polette commence à abuser sexuellement de Valérie, alors âgée de 12 ans",
+          "date_iso": "1992-01-01"
+        },
+        {
+          "label": "Valérie Bacot tue Daniel Polette d'une balle dans la nuque et enterre son corps",
+          "date_iso": "2012-03-13"
+        },
+        {
+          "label": "Découverte du corps de Polette, Valérie est mise en examen",
+          "date_iso": "2020-01-01"
+        },
+        {
+          "label": "Procès à Chalon-sur-Saône : condamnée à 4 ans avec sursis, libérée immédiatement",
+          "date_iso": "2021-06-25"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "Début des abus vers 1992 (12 ans). 13 mars 2012 : meurtre de Polette. 2020 : découverte du corps lors d'une enquête sans rapport. 25 juin 2021 : verdict — 4 ans avec sursis, libération immédiate sous les applaudissements.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "1992-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot",
+        "https://www.liberation.fr/societe/2021/06/25/valerie-bacot-verdict"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "valerie_bacot_duel_001",
+      "affaire_id": "valerie_bacot",
+      "module": "duel",
+      "question": "Laquelle de ces deux femmes a reçu la peine la plus lourde pour le meurtre de son mari violent ?",
+      "item_a": "Jacqueline Sauvage (condamnée en 2012 et 2014)",
+      "item_b": "Valérie Bacot (condamnée en 2021)",
+      "bonne_reponse": "a",
+      "explication": "Jacqueline Sauvage a été condamnée à 10 ans de réclusion criminelle (en 2012, confirmé en 2014) pour le meurtre de son mari violent. Valérie Bacot n'a reçu que 4 ans avec sursis en 2021, reflétant l'évolution de la jurisprudence et du regard sociétal sur les femmes victimes de violences conjugales. Jacqueline Sauvage avait obtenu la grâce présidentielle de François Hollande en 2016.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2012-2021",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Jacqueline_Sauvage",
+        "https://fr.wikipedia.org/wiki/Affaire_Val%C3%A9rie_Bacot"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

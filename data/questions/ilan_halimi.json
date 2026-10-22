@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "id": "ilan_halimi_qcm_001",
+      "affaire_id": "ilan_halimi",
+      "module": "qcm",
+      "question": "Combien de jours Ilan Halimi a-t-il été séquestré et torturé avant d'être retrouvé mourant ?",
+      "propositions": ["24 jours", "3 jours", "10 jours", "48 jours"],
+      "bonne_reponse": "24 jours",
+      "explication": "Ilan Halimi, 23 ans, a été kidnappé le 20 janvier 2006 et retrouvé agonisant près d'une voie ferrée à Sainte-Geneviève-des-Bois le 13 février 2006, soit 24 jours de captivité. Il avait été séquestré dans un appartement de Bagneux (Hauts-de-Seine) où il subissait des tortures quotidiennes. Il décède le soir même de sa découverte.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://www.lemonde.fr/societe/article/2009/07/10/youssouf-fofana-condamne"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_qcm_002",
+      "affaire_id": "ilan_halimi",
+      "module": "qcm",
+      "question": "Quel surnom les médias ont-ils donné au groupe qui a kidnappé et assassiné Ilan Halimi ?",
+      "propositions": ["La Bande des Barbares", "Le Gang des Cités", "Le Réseau Fofana", "La Cellule de Bagneux"],
+      "bonne_reponse": "La Bande des Barbares",
+      "explication": "Le groupe dirigé par Youssouf Fofana a été surnommé la 'Bande des Barbares' par les médias, en référence à la barbarie de leurs actes. La bande ciblait des jeunes hommes juifs, estimant que leurs familles seraient capables de payer des rançons. Des jeunes femmes servaient d'appât pour attirer les victimes.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://fr.wikipedia.org/wiki/Youssouf_Fofana"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_qcm_003",
+      "affaire_id": "ilan_halimi",
+      "module": "qcm",
+      "question": "Quelle était la profession d'Ilan Halimi, ce qui avait poussé ses ravisseurs à croire qu'il venait d'une famille fortunée ?",
+      "propositions": ["Vendeur de téléphones mobiles", "Médecin", "Agent immobilier", "Banquier"],
+      "bonne_reponse": "Vendeur de téléphones mobiles",
+      "explication": "Ilan Halimi était vendeur dans une boutique de téléphones mobiles à Paris. Ses ravisseurs pensaient à tort que les Juifs étaient tous riches et que sa famille pourrait payer une rançon. La rançon demandée était de 450 000 euros. La famille, modeste, n'a pas pu réunir cette somme.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://fr.wikipedia.org/wiki/Youssouf_Fofana"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_vf_001",
+      "affaire_id": "ilan_halimi",
+      "module": "vrai_faux",
+      "affirmation": "Youssouf Fofana, chef de la Bande des Barbares, a été condamné à la réclusion criminelle à perpétuité.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Youssouf Fofana a été condamné à la réclusion criminelle à perpétuité assortie d'une période de sûreté de 22 ans par la cour d'assises de Paris en juillet 2009. Pendant le procès, il a adopté un comportement provocateur, se définissant comme 'ennemi de l'État français'.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Youssouf_Fofana",
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_vf_002",
+      "affaire_id": "ilan_halimi",
+      "module": "vrai_faux",
+      "affirmation": "La police française avait refusé de qualifier l'enlèvement d'Ilan Halimi de crime antisémite lors des premières semaines d'enquête.",
+      "bonne_reponse": true,
+      "explication": "VRAI. Durant les 24 jours de séquestration, les autorités policières ont mis du temps à reconnaître officiellement la dimension antisémite du crime, préférant d'abord parler d'un kidnapping à but crapuleux. Cette réticence a été vivement critiquée a posteriori, notamment par la famille et des associations juives. La dimension antisémite est pourtant établie dès l'origine : la victime a été choisie en raison de sa religion.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://www.lemonde.fr/societe/article/2006/02/23/affaire-ilan-halimi"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_qsj_001",
+      "affaire_id": "ilan_halimi",
+      "module": "qui_suis_je",
+      "indices": [
+        "Je dirigeais un groupe qui ciblait spécifiquement des jeunes hommes juifs pour les kidnapper et exiger des rançons.",
+        "Ma bande utilisait de jeunes femmes comme appâts pour attirer nos victimes.",
+        "J'ai été arrêté en Côte d'Ivoire et extradé en France après le meurtre de ma dernière victime.",
+        "Lors de mon procès en 2009, j'ai adopté un comportement provocateur et me suis défini comme 'ennemi de l'État français'."
+      ],
+      "propositions": ["Youssouf Fofana", "Rédoine Faïd", "Jacques Mesrine", "Patrice Alègre"],
+      "bonne_reponse": "Youssouf Fofana",
+      "explication": "Youssouf Fofana, chef de la Bande des Barbares, avait déjà commis plusieurs enlèvements avant de cibler Ilan Halimi. Après le meurtre, il avait fui en Côte d'Ivoire où il fut arrêté. Condamné à perpétuité en 2009, il a multiplié les provocations lors du procès. L'affaire a conduit à la loi de 2014 renforçant les peines pour crimes à caractère antisémite.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Youssouf_Fofana",
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_chron_001",
+      "affaire_id": "ilan_halimi",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire Ilan Halimi.",
+      "evenements": [
+        {
+          "label": "Ilan Halimi kidnappé à Paris par la Bande des Barbares, séquestré à Bagneux",
+          "date_iso": "2006-01-20"
+        },
+        {
+          "label": "Ilan Halimi retrouvé agonisant près d'une voie ferrée à Sainte-Geneviève-des-Bois, décède le même soir",
+          "date_iso": "2006-02-13"
+        },
+        {
+          "label": "Arrestation de Youssouf Fofana en Côte d'Ivoire, extradé en France",
+          "date_iso": "2006-02-23"
+        },
+        {
+          "label": "Youssouf Fofana condamné à la réclusion criminelle à perpétuité",
+          "date_iso": "2009-07-10"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "20 janvier 2006 : enlèvement d'Ilan Halimi. 13 février 2006 : retrouvé mourant, décédé le soir. 23 février 2006 : arrestation de Fofana en Côte d'Ivoire. Juillet 2009 : condamnation à perpétuité. L'affaire a bouleversé la France et relancé le débat sur l'antisémitisme dans les banlieues.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "2006-2009",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://fr.wikipedia.org/wiki/Youssouf_Fofana"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    },
+    {
+      "id": "ilan_halimi_duel_001",
+      "affaire_id": "ilan_halimi",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires a conduit à l'adoption d'une loi française spécifique ?",
+      "item_a": "Affaire Ilan Halimi (2006)",
+      "item_b": "Affaire Guy Georges (2001)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire Ilan Halimi a directement inspiré la loi du 27 janvier 2014 (dite loi Fofana), qui a aggravé les peines encourues pour les crimes et délits à caractère antisémite ou raciste. L'affaire Guy Georges, bien que très médiatisée, n'a pas donné lieu à une loi spécifique.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "2006",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_Ilan_Halimi",
+        "https://fr.wikipedia.org/wiki/Loi_du_27_janvier_2014"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "condamnation_definitive"
+    }
+  ]
+}

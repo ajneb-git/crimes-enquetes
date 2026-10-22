@@ -1,0 +1,146 @@
+{
+  "questions": [
+    {
+      "id": "chanal_qcm_001",
+      "affaire_id": "chanal",
+      "module": "qcm",
+      "question": "Dans quelle ville se trouve le camp militaire autour duquel des jeunes soldats ont mystérieusement disparu dans les années 1980 ?",
+      "propositions": ["Mourmelon-le-Grand", "Versailles", "Saint-Cyr-l'École", "Châlons-en-Champagne"],
+      "bonne_reponse": "Mourmelon-le-Grand",
+      "explication": "Le camp militaire de Mourmelon-le-Grand, situé dans la Marne, est au cœur de l'affaire. Entre 1980 et 1988, 7 jeunes appelés du contingent ont disparu dans les environs de ce camp sans que leurs corps soient retrouvés. Pierre Chanal, adjudant-chef en poste à Mourmelon, était le principal suspect.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon",
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_qcm_002",
+      "affaire_id": "chanal",
+      "module": "qcm",
+      "question": "Combien de jeunes soldats ont-ils disparu autour du camp militaire de Mourmelon entre 1980 et 1988 ?",
+      "propositions": ["7", "3", "12", "5"],
+      "bonne_reponse": "7",
+      "explication": "Sept jeunes appelés du contingent ont disparu dans les environs du camp de Mourmelon entre 1980 et 1988 : Pascal Sergent (1980), Christian Hennequin (1982), Patrick Gache (1984), Thierry Bissonnier (1985), Manuel Carvalho (1987), Patrice Denis (1987) et François Zurbach (1988). Leurs corps n'ont jamais été retrouvés.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon",
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_qcm_003",
+      "affaire_id": "chanal",
+      "module": "qcm",
+      "question": "Dans quel pays Pierre Chanal a-t-il été arrêté pour la première fois en 1988, pour une agression sexuelle ?",
+      "propositions": ["Hongrie", "Allemagne", "Autriche", "Pologne"],
+      "bonne_reponse": "Hongrie",
+      "explication": "Pierre Chanal a été arrêté en Hongrie en 1988 pour l'agression sexuelle d'un auto-stoppeur hongrois, Rácz István. Condamné à 4 ans de prison en Hongrie, puis jugé en France pour les mêmes faits en 1994, il a écopé de 10 ans de réclusion. Cette condamnation est la seule qu'il ait reçue, les crimes de Mourmelon n'ayant jamais pu lui être formellement imputés de son vivant.",
+      "difficulte": 3,
+      "pays": "FR",
+      "epoque": "1988",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal",
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_vf_001",
+      "affaire_id": "chanal",
+      "module": "vrai_faux",
+      "affirmation": "Pierre Chanal a été condamné pour les disparitions de Mourmelon avant sa mort.",
+      "bonne_reponse": false,
+      "explication": "FAUX. Pierre Chanal n'a jamais été jugé ni condamné pour les disparitions de Mourmelon. Faute de corps et de preuves suffisantes, les poursuites pour ces crimes ont traîné pendant des années. Il s'est tranché la gorge le 16 octobre 2003, à la veille de l'ouverture de son procès pour les meurtres, décédant peu après. L'affaire est officiellement non résolue.",
+      "difficulte": 1,
+      "pays": "FR",
+      "epoque": "2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal",
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_vf_002",
+      "affaire_id": "chanal",
+      "module": "vrai_faux",
+      "affirmation": "Les corps des sept soldats disparus de Mourmelon ont tous été retrouvés après la mort de Pierre Chanal.",
+      "bonne_reponse": false,
+      "explication": "FAUX. À ce jour, aucun des corps des sept soldats disparus de Mourmelon n'a été retrouvé. Les investigations menées après la mort de Chanal en 2003 n'ont pas permis de localiser les victimes. L'affaire des Disparus de Mourmelon reste donc formellement non résolue, un dossier douloureux pour les familles qui attendent toujours.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon",
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_chron_001",
+      "affaire_id": "chanal",
+      "module": "chronologie",
+      "question": "Remettez dans l'ordre chronologique ces événements de l'affaire des Disparus de Mourmelon.",
+      "evenements": [
+        {
+          "label": "Première disparition d'un soldat autour du camp de Mourmelon-le-Grand",
+          "date_iso": "1980-01-01"
+        },
+        {
+          "label": "Arrestation de Pierre Chanal en Hongrie pour agression sexuelle",
+          "date_iso": "1988-07-01"
+        },
+        {
+          "label": "Condamnation de Pierre Chanal à 10 ans pour l'agression de Hongrie (procès en France)",
+          "date_iso": "1994-01-01"
+        },
+        {
+          "label": "Chanal se tranche la gorge en salle d'audience, à la veille de son procès pour les meurtres — décède peu après",
+          "date_iso": "2003-10-16"
+        }
+      ],
+      "bonne_reponse": null,
+      "explication": "1980 : première disparition. 1988 : arrestation de Chanal en Hongrie. 1994 : condamnation à 10 ans pour l'agression hongroise. 16 octobre 2003 : Chanal met fin à ses jours avant son procès pour les meurtres. L'affaire des Disparus de Mourmelon reste officiellement non résolue.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Pierre_Chanal",
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    },
+    {
+      "id": "chanal_duel_001",
+      "affaire_id": "chanal",
+      "module": "duel",
+      "question": "Laquelle de ces deux affaires impliquant des militaires français est officiellement non résolue ?",
+      "item_a": "Les Disparus de Mourmelon (affaire Chanal)",
+      "item_b": "Les crimes d'Alain Lamare (gendarme tueur de l'Oise)",
+      "bonne_reponse": "a",
+      "explication": "L'affaire des Disparus de Mourmelon est officiellement non résolue : Pierre Chanal est mort avant son procès, aucun corps n'a été retrouvé, et les crimes ne lui ont jamais été formellement imputés par la justice. L'affaire Lamare, elle, est résolue : Alain Lamare a été arrêté, jugé et condamné à perpétuité en 1984.",
+      "difficulte": 2,
+      "pays": "FR",
+      "epoque": "1980-2003",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon",
+        "https://fr.wikipedia.org/wiki/Alain_Lamare"
+      ],
+      "statut": "a_verifier",
+      "statut_judiciaire": "non_resolue"
+    }
+  ]
+}
